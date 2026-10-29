@@ -1,0 +1,1001 @@
+student_id,student_name,subject,department,semester,attendance_pct,internal_marks,assignment_completion_pct,quiz_score,study_hours,course_completion_pct,grade,pass_status,date
+STU-1001,Student #1001,Artificial Intelligence,Computer Science,Sem 2,96.2,76,94.4,74,31.3,55.6,B,Pass,2026-06-14
+STU-1002,Student #1002,Cybersecurity,Computer Science,Sem 5,58.7,48,51.0,57,18.0,90.0,D,Fail,2026-02-13
+STU-1003,Student #1003,Python,Electronics & Comm,Sem 2,53.8,30,61.1,25,4.0,68.9,F,Fail,2026-03-21
+STU-1004,Student #1004,Python,Electronics & Comm,Sem 3,82.5,78,78.4,87,31.0,46.1,B,Pass,2026-06-17
+STU-1005,Student #1005,Data Structures,Information Technology,Sem 5,79.1,68,78.5,63,20.5,73.6,C,Pass,2026-04-23
+STU-1006,Student #1006,Python,Computer Science,Sem 4,85.3,64,86.5,67,14.6,58.5,C,Pass,2026-06-18
+STU-1007,Student #1007,Python,AI & ML,Sem 3,54.9,47,56.9,51,11.2,41.4,D,Fail,2026-08-01
+STU-1008,Student #1008,Python,Data Science,Sem 2,89.4,73,85.5,81,26.8,77.2,B,Pass,2026-05-16
+STU-1009,Student #1009,Java,Information Technology,Sem 5,81.2,60,86.5,49,12.9,55.2,C,Pass,2026-05-25
+STU-1010,Student #1010,Cloud Computing,Computer Science,Sem 3,50.9,42,41.5,37,16.8,58.8,D,Fail,2026-05-28
+STU-1011,Student #1011,Artificial Intelligence,Electronics & Comm,Sem 2,55.8,64,48.9,71,27.6,87.6,C,Fail,2026-06-01
+STU-1012,Student #1012,Data Structures,Computer Science,Sem 4,97.4,83,100.0,88,20.6,87.9,A,Pass,2026-01-02
+STU-1013,Student #1013,Cloud Computing,AI & ML,Sem 1,92.0,66,83.0,72,10.1,59.5,C,Pass,2026-06-25
+STU-1014,Student #1014,Artificial Intelligence,Electronics & Comm,Sem 6,78.7,70,86.8,65,22.7,57.9,B,Pass,2026-02-01
+STU-1015,Student #1015,Cybersecurity,AI & ML,Sem 1,78.3,50,85.8,38,10.6,94.5,C,Pass,2026-05-30
+STU-1016,Student #1016,Artificial Intelligence,Electronics & Comm,Sem 1,78.5,61,72.3,69,14.3,79.2,C,Pass,2026-01-17
+STU-1017,Student #1017,Database Management Systems,Computer Science,Sem 2,54.3,60,44.8,66,31.0,90.9,C,Fail,2026-03-08
+STU-1018,Student #1018,Cloud Computing,Computer Science,Sem 3,66.3,33,73.7,25,8.6,91.9,F,Fail,2026-04-04
+STU-1019,Student #1019,Artificial Intelligence,Electronics & Comm,Sem 5,84.9,61,90.6,67,21.1,41.1,C,Pass,2026-01-22
+STU-1020,Student #1020,Cloud Computing,Data Science,Sem 6,54.7,30,47.3,31,3.4,72.4,F,Fail,2026-05-21
+STU-1021,Student #1021,Data Structures,Computer Science,Sem 5,69.8,80,78.1,73,28.5,76.4,A,Pass,2026-01-13
+STU-1022,Student #1022,Web Development,Computer Science,Sem 6,85.7,69,93.1,61,16.8,47.3,C,Pass,2026-02-02
+STU-1023,Student #1023,Java,AI & ML,Sem 1,89.1,36,89.2,39,3.0,76.8,F,Fail,2026-03-04
+STU-1024,Student #1024,Database Management Systems,AI & ML,Sem 2,96.1,56,92.1,59,8.0,65.9,C,Pass,2026-03-03
+STU-1025,Student #1025,Java,Information Technology,Sem 5,86.5,50,82.2,39,14.9,48.9,C,Pass,2026-03-17
+STU-1026,Student #1026,Cloud Computing,AI & ML,Sem 1,79.0,81,75.6,78,24.6,61.4,A,Pass,2026-01-01
+STU-1027,Student #1027,Artificial Intelligence,AI & ML,Sem 4,89.9,48,94.4,55,8.8,51.9,D,Pass,2026-02-03
+STU-1028,Student #1028,Database Management Systems,Data Science,Sem 5,76.3,57,84.3,50,21.5,56.6,C,Pass,2026-07-20
+STU-1029,Student #1029,Web Development,AI & ML,Sem 5,69.2,57,60.1,64,19.8,56.5,C,Pass,2026-03-05
+STU-1030,Student #1030,Web Development,Computer Science,Sem 6,83.5,71,83.1,78,25.7,92.9,B,Pass,2026-05-18
+STU-1031,Student #1031,Java,Electronics & Comm,Sem 1,71.5,52,68.5,40,11.9,46.1,C,Pass,2026-01-06
+STU-1032,Student #1032,Data Structures,Electronics & Comm,Sem 5,51.3,61,51.9,50,28.6,76.8,C,Fail,2026-04-30
+STU-1033,Student #1033,Database Management Systems,AI & ML,Sem 1,83.0,73,92.7,66,19.3,80.3,B,Pass,2026-03-01
+STU-1034,Student #1034,Data Structures,Information Technology,Sem 4,59.4,61,63.4,56,20.3,66.3,C,Fail,2026-02-14
+STU-1035,Student #1035,Data Structures,Computer Science,Sem 1,57.5,60,51.1,64,25.8,44.2,C,Fail,2026-08-02
+STU-1036,Student #1036,Web Development,Data Science,Sem 2,62.9,66,54.3,56,22.8,64.2,C,Pass,2026-07-12
+STU-1037,Student #1037,Cloud Computing,AI & ML,Sem 4,57.4,56,58.1,58,18.9,80.7,C,Fail,2026-06-28
+STU-1038,Student #1038,Cloud Computing,Computer Science,Sem 6,88.3,90,93.1,85,33.5,40.9,A+,Pass,2026-02-05
+STU-1039,Student #1039,Artificial Intelligence,Computer Science,Sem 3,51.7,38,61.5,46,10.4,52.6,F,Fail,2026-03-17
+STU-1040,Student #1040,Python,Information Technology,Sem 2,66.2,42,60.0,42,8.0,80.2,D,Pass,2026-01-04
+STU-1041,Student #1041,Web Development,AI & ML,Sem 5,76.4,48,84.9,37,14.3,54.1,D,Pass,2026-03-21
+STU-1042,Student #1042,Artificial Intelligence,Electronics & Comm,Sem 2,77.7,80,68.9,68,24.8,70.5,A,Pass,2026-05-08
+STU-1043,Student #1043,Python,Computer Science,Sem 1,78.6,43,72.0,44,6.0,88.7,D,Pass,2026-01-07
+STU-1044,Student #1044,Artificial Intelligence,AI & ML,Sem 1,78.5,75,88.1,77,29.4,41.6,B,Pass,2026-08-05
+STU-1045,Student #1045,Artificial Intelligence,Information Technology,Sem 3,95.0,93,100.0,85,34.3,68.8,A+,Pass,2026-05-26
+STU-1046,Student #1046,Java,Data Science,Sem 3,90.6,61,99.1,59,19.4,68.6,C,Pass,2026-05-09
+STU-1047,Student #1047,Artificial Intelligence,AI & ML,Sem 3,65.7,68,58.9,56,31.9,81.1,C,Pass,2026-03-09
+STU-1048,Student #1048,Java,Electronics & Comm,Sem 6,94.9,90,93.0,100,29.1,51.4,A+,Pass,2026-01-31
+STU-1049,Student #1049,Java,Information Technology,Sem 5,78.9,74,69.5,67,33.6,77.9,B,Pass,2026-01-25
+STU-1050,Student #1050,Artificial Intelligence,Computer Science,Sem 5,84.0,84,82.2,92,28.2,81.2,A,Pass,2026-08-13
+STU-1051,Student #1051,Cloud Computing,Electronics & Comm,Sem 5,71.7,55,73.0,43,16.5,50.2,C,Pass,2026-07-09
+STU-1052,Student #1052,Cybersecurity,Electronics & Comm,Sem 6,51.3,30,60.3,25,8.3,72.7,F,Fail,2026-01-04
+STU-1053,Student #1053,Web Development,Computer Science,Sem 3,72.3,66,82.2,70,19.4,97.1,C,Pass,2026-03-05
+STU-1054,Student #1054,Data Structures,AI & ML,Sem 5,51.1,47,59.5,38,24.6,97.2,D,Fail,2026-07-01
+STU-1055,Student #1055,Cloud Computing,Data Science,Sem 5,71.2,49,76.9,56,11.3,44.5,D,Pass,2026-06-20
+STU-1056,Student #1056,Web Development,Computer Science,Sem 1,51.9,30,44.5,25,3.6,65.2,F,Fail,2026-02-27
+STU-1057,Student #1057,Cybersecurity,AI & ML,Sem 5,94.9,71,100.0,73,17.3,86.0,B,Pass,2026-08-12
+STU-1058,Student #1058,Cloud Computing,Information Technology,Sem 6,76.0,65,80.2,57,23.6,86.3,C,Pass,2026-05-10
+STU-1059,Student #1059,Web Development,AI & ML,Sem 1,91.1,44,82.5,39,10.3,79.7,D,Pass,2026-07-05
+STU-1060,Student #1060,Database Management Systems,Electronics & Comm,Sem 1,73.5,49,79.1,43,19.3,76.7,D,Pass,2026-04-13
+STU-1061,Student #1061,Artificial Intelligence,AI & ML,Sem 6,76.8,47,73.7,36,16.0,44.2,D,Pass,2026-04-28
+STU-1062,Student #1062,Cybersecurity,Data Science,Sem 5,66.3,30,72.4,25,3.7,84.8,F,Fail,2026-03-15
+STU-1063,Student #1063,Web Development,AI & ML,Sem 5,90.4,83,82.1,88,29.9,72.9,A,Pass,2026-06-21
+STU-1064,Student #1064,Cybersecurity,Computer Science,Sem 6,68.7,50,72.4,39,5.9,97.1,C,Pass,2026-04-03
+STU-1065,Student #1065,Web Development,Data Science,Sem 2,66.9,75,67.1,68,26.9,65.3,B,Pass,2026-01-03
+STU-1066,Student #1066,Cybersecurity,AI & ML,Sem 3,85.2,59,84.2,57,16.4,40.8,C,Pass,2026-05-01
+STU-1067,Student #1067,Artificial Intelligence,Computer Science,Sem 4,67.0,39,76.2,28,12.5,68.6,F,Fail,2026-01-13
+STU-1068,Student #1068,Artificial Intelligence,AI & ML,Sem 3,68.2,77,77.8,76,33.8,53.6,B,Pass,2026-06-03
+STU-1069,Student #1069,Cloud Computing,Information Technology,Sem 5,50.9,57,41.8,46,19.5,89.3,C,Fail,2026-06-27
+STU-1070,Student #1070,Python,Information Technology,Sem 1,98.5,80,93.5,73,32.2,79.5,A,Pass,2026-02-09
+STU-1071,Student #1071,Database Management Systems,Electronics & Comm,Sem 3,74.5,77,80.2,77,30.1,80.1,B,Pass,2026-02-19
+STU-1072,Student #1072,Cybersecurity,Electronics & Comm,Sem 6,89.6,73,90.5,61,19.0,50.7,B,Pass,2026-06-12
+STU-1073,Student #1073,Python,AI & ML,Sem 5,90.1,75,80.7,73,23.2,71.4,B,Pass,2026-04-27
+STU-1074,Student #1074,Web Development,Electronics & Comm,Sem 2,90.9,69,92.2,57,18.3,59.7,C,Pass,2026-05-28
+STU-1075,Student #1075,Database Management Systems,Computer Science,Sem 3,89.0,53,87.2,60,7.3,94.7,C,Pass,2026-06-02
+STU-1076,Student #1076,Python,Information Technology,Sem 2,51.7,30,44.6,33,2.3,48.3,F,Fail,2026-03-23
+STU-1077,Student #1077,Java,Computer Science,Sem 3,60.0,50,67.7,58,13.3,68.7,C,Pass,2026-01-27
+STU-1078,Student #1078,Database Management Systems,Data Science,Sem 3,57.8,86,52.4,80,32.9,56.9,A,Fail,2026-03-27
+STU-1079,Student #1079,Data Structures,Computer Science,Sem 1,85.7,61,92.2,65,13.2,94.6,C,Pass,2026-03-22
+STU-1080,Student #1080,Python,AI & ML,Sem 5,72.9,30,74.0,41,5.1,61.0,F,Fail,2026-05-03
+STU-1081,Student #1081,Web Development,Data Science,Sem 6,53.4,30,55.4,33,2.1,46.6,F,Fail,2026-01-05
+STU-1082,Student #1082,Artificial Intelligence,Computer Science,Sem 5,97.0,54,99.5,46,10.6,46.1,C,Pass,2026-01-16
+STU-1083,Student #1083,Cybersecurity,AI & ML,Sem 1,73.8,61,76.5,54,21.2,47.2,C,Pass,2026-04-14
+STU-1084,Student #1084,Python,Electronics & Comm,Sem 6,84.0,72,93.4,80,17.4,83.9,B,Pass,2026-07-24
+STU-1085,Student #1085,Data Structures,Information Technology,Sem 5,61.7,70,57.6,79,27.5,56.1,B,Pass,2026-02-02
+STU-1086,Student #1086,Web Development,AI & ML,Sem 2,95.6,67,90.9,66,25.7,43.9,C,Pass,2026-08-09
+STU-1087,Student #1087,Database Management Systems,Computer Science,Sem 5,80.2,45,82.0,43,2.7,99.4,D,Pass,2026-02-08
+STU-1088,Student #1088,Artificial Intelligence,AI & ML,Sem 4,59.0,65,61.4,58,20.6,61.7,C,Fail,2026-05-02
+STU-1089,Student #1089,Cloud Computing,Data Science,Sem 5,68.0,42,58.7,53,4.5,68.0,D,Pass,2026-05-27
+STU-1090,Student #1090,Database Management Systems,Information Technology,Sem 1,83.5,65,79.9,59,27.8,50.8,C,Pass,2026-04-16
+STU-1091,Student #1091,Web Development,Computer Science,Sem 3,62.1,82,59.5,71,28.4,58.1,A,Pass,2026-05-29
+STU-1092,Student #1092,Cybersecurity,Information Technology,Sem 3,60.5,47,56.6,37,21.9,70.5,D,Pass,2026-04-05
+STU-1093,Student #1093,Artificial Intelligence,AI & ML,Sem 2,60.8,33,69.0,40,3.9,79.4,F,Fail,2026-03-24
+STU-1094,Student #1094,Cybersecurity,AI & ML,Sem 4,88.5,52,82.3,54,10.4,77.5,C,Pass,2026-01-26
+STU-1095,Student #1095,Java,Information Technology,Sem 2,61.0,54,67.8,44,12.9,44.0,C,Pass,2026-03-10
+STU-1096,Student #1096,Database Management Systems,Data Science,Sem 3,53.2,72,58.9,74,28.9,81.7,B,Fail,2026-05-23
+STU-1097,Student #1097,Cloud Computing,Information Technology,Sem 1,54.6,30,62.0,25,4.3,64.1,F,Fail,2026-01-08
+STU-1098,Student #1098,Java,Computer Science,Sem 1,83.3,74,77.7,68,19.5,41.0,B,Pass,2026-05-12
+STU-1099,Student #1099,Web Development,Computer Science,Sem 5,85.7,48,94.5,52,6.5,62.3,D,Pass,2026-03-16
+STU-1100,Student #1100,Python,Data Science,Sem 5,57.3,52,51.4,61,22.8,60.7,C,Fail,2026-06-01
+STU-1101,Student #1101,Python,Data Science,Sem 3,65.7,49,61.1,49,16.4,56.3,D,Pass,2026-08-04
+STU-1102,Student #1102,Web Development,Electronics & Comm,Sem 3,98.2,71,88.5,80,25.8,80.6,B,Pass,2026-07-10
+STU-1103,Student #1103,Data Structures,Electronics & Comm,Sem 6,64.9,30,69.0,25,4.0,93.1,F,Fail,2026-05-24
+STU-1104,Student #1104,Database Management Systems,Electronics & Comm,Sem 5,77.7,53,87.6,49,20.5,50.7,C,Pass,2026-08-07
+STU-1105,Student #1105,Python,Electronics & Comm,Sem 6,56.1,36,49.2,25,13.2,62.6,F,Fail,2026-04-13
+STU-1106,Student #1106,Cloud Computing,AI & ML,Sem 6,96.8,63,93.8,64,19.0,50.3,C,Pass,2026-07-19
+STU-1107,Student #1107,Cloud Computing,Data Science,Sem 6,77.2,80,70.4,77,24.4,46.7,A,Pass,2026-04-03
+STU-1108,Student #1108,Cybersecurity,Data Science,Sem 3,53.6,62,46.6,64,18.8,56.6,C,Fail,2026-01-28
+STU-1109,Student #1109,Java,Information Technology,Sem 3,67.0,38,75.0,33,5.3,71.1,F,Fail,2026-04-06
+STU-1110,Student #1110,Artificial Intelligence,Data Science,Sem 2,87.1,65,88.6,69,17.0,47.7,C,Pass,2026-02-02
+STU-1111,Student #1111,Web Development,Information Technology,Sem 3,86.4,73,90.3,74,31.7,68.5,B,Pass,2026-08-10
+STU-1112,Student #1112,Data Structures,Information Technology,Sem 1,74.4,79,70.0,72,24.2,88.4,B,Pass,2026-03-05
+STU-1113,Student #1113,Data Structures,Electronics & Comm,Sem 4,61.9,67,66.2,57,19.7,41.1,C,Pass,2026-06-25
+STU-1114,Student #1114,Database Management Systems,Electronics & Comm,Sem 2,75.3,62,82.1,72,18.8,42.9,C,Pass,2026-07-18
+STU-1115,Student #1115,Java,AI & ML,Sem 3,59.3,37,59.6,38,10.8,85.1,F,Fail,2026-05-23
+STU-1116,Student #1116,Cloud Computing,Electronics & Comm,Sem 2,91.9,57,89.0,65,4.3,86.3,C,Pass,2026-02-06
+STU-1117,Student #1117,Web Development,Computer Science,Sem 2,87.9,69,94.2,78,17.2,58.0,C,Pass,2026-01-22
+STU-1118,Student #1118,Cybersecurity,Electronics & Comm,Sem 5,61.9,88,57.7,89,32.7,71.9,A,Pass,2026-04-03
+STU-1119,Student #1119,Data Structures,Computer Science,Sem 6,85.9,49,91.7,46,14.4,77.2,D,Pass,2026-05-02
+STU-1120,Student #1120,Web Development,Computer Science,Sem 1,65.3,65,73.9,58,17.0,50.9,C,Pass,2026-03-23
+STU-1001,Student #1001,Database Management Systems,AI & ML,Sem 1,98.3,65,100.0,54,19.8,85.2,C,Pass,2026-03-21
+STU-1002,Student #1002,Python,Data Science,Sem 1,92.0,53,100.0,45,16.3,50.9,C,Pass,2026-06-04
+STU-1003,Student #1003,Database Management Systems,Data Science,Sem 2,79.7,41,80.8,45,11.8,55.0,D,Pass,2026-07-19
+STU-1004,Student #1004,Python,AI & ML,Sem 3,56.6,65,55.6,75,23.2,62.1,C,Fail,2026-05-12
+STU-1005,Student #1005,Database Management Systems,Information Technology,Sem 5,55.2,69,63.5,57,25.0,85.5,C,Fail,2026-08-06
+STU-1006,Student #1006,Database Management Systems,Data Science,Sem 3,82.3,37,82.3,39,6.3,85.4,F,Fail,2026-07-05
+STU-1007,Student #1007,Python,AI & ML,Sem 5,92.6,81,89.5,77,23.9,72.5,A,Pass,2026-01-05
+STU-1008,Student #1008,Artificial Intelligence,Data Science,Sem 2,98.3,63,96.6,65,21.7,85.0,C,Pass,2026-03-31
+STU-1009,Student #1009,Artificial Intelligence,Electronics & Comm,Sem 1,95.0,79,98.5,83,28.7,41.5,B,Pass,2026-05-08
+STU-1010,Student #1010,Artificial Intelligence,Electronics & Comm,Sem 5,70.6,61,72.1,60,12.4,72.6,C,Pass,2026-05-13
+STU-1011,Student #1011,Cybersecurity,Information Technology,Sem 5,93.9,65,88.8,55,10.7,48.3,C,Pass,2026-05-26
+STU-1012,Student #1012,Database Management Systems,Electronics & Comm,Sem 4,90.2,42,96.6,39,3.3,97.1,D,Pass,2026-05-14
+STU-1013,Student #1013,Artificial Intelligence,Computer Science,Sem 6,66.6,50,58.2,56,14.1,44.4,C,Pass,2026-01-13
+STU-1014,Student #1014,Python,Computer Science,Sem 1,55.6,68,65.3,60,29.4,84.9,C,Fail,2026-08-05
+STU-1015,Student #1015,Java,Data Science,Sem 2,91.7,56,98.0,49,7.9,75.2,C,Pass,2026-05-27
+STU-1016,Student #1016,Web Development,Information Technology,Sem 3,53.7,61,58.9,63,24.3,44.7,C,Fail,2026-05-22
+STU-1017,Student #1017,Java,Information Technology,Sem 6,85.3,69,80.9,64,21.0,60.7,C,Pass,2026-03-16
+STU-1018,Student #1018,Artificial Intelligence,Information Technology,Sem 5,96.4,59,95.1,64,11.8,41.7,C,Pass,2026-03-06
+STU-1019,Student #1019,Cybersecurity,Data Science,Sem 1,83.8,85,77.0,94,28.7,64.4,A,Pass,2026-02-05
+STU-1020,Student #1020,Web Development,Data Science,Sem 1,62.2,74,52.4,62,26.5,44.1,B,Pass,2026-02-27
+STU-1021,Student #1021,Cybersecurity,Computer Science,Sem 5,93.6,49,90.9,53,2.5,76.1,D,Pass,2026-02-26
+STU-1022,Student #1022,Cloud Computing,Computer Science,Sem 6,93.3,81,100.0,78,27.8,99.8,A,Pass,2026-04-04
+STU-1023,Student #1023,Java,AI & ML,Sem 6,76.1,92,75.5,87,32.7,55.4,A+,Pass,2026-06-06
+STU-1024,Student #1024,Cloud Computing,Electronics & Comm,Sem 5,93.5,73,100.0,80,21.0,94.5,B,Pass,2026-02-22
+STU-1025,Student #1025,Web Development,Data Science,Sem 3,51.9,30,55.0,37,10.8,84.6,F,Fail,2026-08-05
+STU-1026,Student #1026,Data Structures,Data Science,Sem 5,69.4,83,72.7,81,30.2,64.3,A,Pass,2026-01-05
+STU-1027,Student #1027,Python,Information Technology,Sem 6,65.4,66,64.5,69,31.1,76.0,C,Pass,2026-06-16
+STU-1028,Student #1028,Web Development,Data Science,Sem 2,98.8,83,89.4,92,30.1,97.7,A,Pass,2026-01-17
+STU-1029,Student #1029,Web Development,AI & ML,Sem 4,64.8,61,57.3,70,21.0,77.6,C,Pass,2026-03-30
+STU-1030,Student #1030,Web Development,AI & ML,Sem 3,96.7,99,97.4,91,31.8,73.8,A+,Pass,2026-03-09
+STU-1031,Student #1031,Artificial Intelligence,Data Science,Sem 3,63.0,30,64.7,27,2.0,85.8,F,Fail,2026-05-14
+STU-1032,Student #1032,Cloud Computing,Data Science,Sem 4,72.3,58,72.5,57,13.7,80.1,C,Pass,2026-02-28
+STU-1033,Student #1033,Cybersecurity,AI & ML,Sem 2,60.3,48,58.2,38,19.6,60.3,D,Pass,2026-05-12
+STU-1034,Student #1034,Web Development,Computer Science,Sem 2,64.6,67,58.8,62,31.1,98.6,C,Pass,2026-06-29
+STU-1035,Student #1035,Java,Electronics & Comm,Sem 4,52.8,73,48.5,66,29.7,63.1,B,Fail,2026-04-20
+STU-1036,Student #1036,Database Management Systems,AI & ML,Sem 2,95.2,82,85.6,76,28.2,61.3,A,Pass,2026-07-08
+STU-1037,Student #1037,Artificial Intelligence,Computer Science,Sem 1,62.9,30,65.1,31,6.1,55.8,F,Fail,2026-05-04
+STU-1038,Student #1038,Java,Electronics & Comm,Sem 5,62.0,40,69.9,35,16.9,75.1,D,Pass,2026-06-27
+STU-1039,Student #1039,Web Development,Electronics & Comm,Sem 3,60.3,52,64.9,62,16.4,92.4,C,Pass,2026-01-17
+STU-1040,Student #1040,Cloud Computing,Computer Science,Sem 4,68.1,63,64.3,65,24.8,65.1,C,Pass,2026-06-03
+STU-1041,Student #1041,Web Development,Data Science,Sem 1,63.9,62,71.3,61,24.9,71.1,C,Pass,2026-02-02
+STU-1042,Student #1042,Cybersecurity,AI & ML,Sem 5,51.3,30,51.9,40,3.7,41.8,F,Fail,2026-01-04
+STU-1043,Student #1043,Artificial Intelligence,Electronics & Comm,Sem 4,87.0,73,91.5,78,24.4,83.5,B,Pass,2026-04-20
+STU-1044,Student #1044,Java,Electronics & Comm,Sem 6,53.4,35,56.0,34,15.8,41.0,F,Fail,2026-05-08
+STU-1045,Student #1045,Python,Data Science,Sem 1,83.4,78,85.7,87,21.2,41.2,B,Pass,2026-03-14
+STU-1046,Student #1046,Artificial Intelligence,Data Science,Sem 2,52.8,30,56.4,37,5.9,79.3,F,Fail,2026-04-03
+STU-1047,Student #1047,Python,Computer Science,Sem 3,94.1,48,92.2,56,8.5,70.4,D,Pass,2026-04-21
+STU-1048,Student #1048,Cloud Computing,Computer Science,Sem 5,66.1,30,56.8,25,6.2,78.5,F,Fail,2026-02-07
+STU-1049,Student #1049,Cybersecurity,Data Science,Sem 6,86.2,86,82.0,76,25.0,80.5,A,Pass,2026-06-22
+STU-1050,Student #1050,Web Development,Information Technology,Sem 2,51.3,30,48.4,25,2.5,87.7,F,Fail,2026-07-24
+STU-1051,Student #1051,Database Management Systems,Electronics & Comm,Sem 3,55.7,36,46.9,38,4.1,70.7,F,Fail,2026-01-19
+STU-1052,Student #1052,Data Structures,Information Technology,Sem 3,75.8,39,81.5,29,7.1,48.8,F,Fail,2026-02-13
+STU-1053,Student #1053,Web Development,Computer Science,Sem 4,87.8,52,87.5,48,7.7,47.2,C,Pass,2026-03-14
+STU-1054,Student #1054,Artificial Intelligence,Information Technology,Sem 4,57.8,58,58.9,56,16.4,83.8,C,Fail,2026-01-16
+STU-1055,Student #1055,Python,Information Technology,Sem 1,58.6,54,53.0,43,24.8,48.7,C,Fail,2026-01-29
+STU-1056,Student #1056,Cloud Computing,Information Technology,Sem 5,76.1,55,86.0,57,12.3,40.7,C,Pass,2026-04-28
+STU-1057,Student #1057,Artificial Intelligence,Information Technology,Sem 5,83.4,72,85.5,73,25.4,84.0,B,Pass,2026-07-31
+STU-1058,Student #1058,Data Structures,Data Science,Sem 2,76.7,68,71.4,75,22.2,46.8,C,Pass,2026-02-06
+STU-1059,Student #1059,Database Management Systems,Electronics & Comm,Sem 6,89.7,62,81.6,56,9.3,76.8,C,Pass,2026-02-11
+STU-1060,Student #1060,Web Development,Computer Science,Sem 5,71.9,40,67.0,49,10.2,80.4,D,Pass,2026-05-02
+STU-1061,Student #1061,Cloud Computing,AI & ML,Sem 1,90.3,61,83.0,65,17.2,46.2,C,Pass,2026-03-15
+STU-1062,Student #1062,Database Management Systems,AI & ML,Sem 4,97.2,66,93.2,71,16.8,98.4,C,Pass,2026-02-23
+STU-1063,Student #1063,Data Structures,Information Technology,Sem 2,95.7,63,90.6,55,18.8,82.3,C,Pass,2026-05-08
+STU-1064,Student #1064,Artificial Intelligence,Computer Science,Sem 5,56.3,49,53.1,56,17.9,86.9,D,Fail,2026-05-18
+STU-1065,Student #1065,Web Development,Information Technology,Sem 2,74.6,62,71.7,67,23.6,86.3,C,Pass,2026-06-02
+STU-1066,Student #1066,Database Management Systems,Computer Science,Sem 6,58.7,45,52.2,52,10.9,87.3,D,Fail,2026-03-06
+STU-1067,Student #1067,Cloud Computing,Data Science,Sem 2,95.1,54,85.7,61,9.0,71.8,C,Pass,2026-01-31
+STU-1068,Student #1068,Cloud Computing,Information Technology,Sem 1,80.8,53,82.0,61,18.1,88.2,C,Pass,2026-02-22
+STU-1069,Student #1069,Java,AI & ML,Sem 4,54.3,30,51.9,32,3.0,47.6,F,Fail,2026-02-01
+STU-1070,Student #1070,Cloud Computing,Electronics & Comm,Sem 5,62.4,33,65.0,32,11.6,51.4,F,Fail,2026-03-10
+STU-1071,Student #1071,Cloud Computing,Information Technology,Sem 2,79.4,76,86.2,83,25.5,61.7,B,Pass,2026-04-06
+STU-1072,Student #1072,Data Structures,AI & ML,Sem 1,74.6,64,73.1,61,14.2,65.6,C,Pass,2026-04-01
+STU-1073,Student #1073,Java,Computer Science,Sem 4,67.7,33,66.0,35,4.4,84.2,F,Fail,2026-02-23
+STU-1074,Student #1074,Cloud Computing,Information Technology,Sem 4,63.4,63,71.7,54,21.1,40.9,C,Pass,2026-03-07
+STU-1075,Student #1075,Cybersecurity,Electronics & Comm,Sem 1,91.0,87,95.0,98,32.2,64.2,A,Pass,2026-06-26
+STU-1076,Student #1076,Artificial Intelligence,Information Technology,Sem 6,54.8,36,55.2,37,12.2,68.7,F,Fail,2026-03-13
+STU-1077,Student #1077,Cybersecurity,Electronics & Comm,Sem 4,77.8,46,86.7,46,7.6,90.1,D,Pass,2026-05-05
+STU-1078,Student #1078,Python,AI & ML,Sem 3,94.7,63,94.0,56,15.7,44.0,C,Pass,2026-05-06
+STU-1079,Student #1079,Web Development,Computer Science,Sem 5,56.4,45,51.8,53,18.0,98.7,D,Fail,2026-03-29
+STU-1080,Student #1080,Cybersecurity,Data Science,Sem 1,64.7,47,65.5,54,17.5,99.7,D,Pass,2026-01-07
+STU-1081,Student #1081,Artificial Intelligence,AI & ML,Sem 4,79.3,55,85.2,59,14.5,92.5,C,Pass,2026-03-27
+STU-1082,Student #1082,Data Structures,Computer Science,Sem 3,74.8,58,78.1,50,22.1,75.1,C,Pass,2026-02-20
+STU-1083,Student #1083,Cybersecurity,Data Science,Sem 4,81.9,71,73.4,69,23.0,84.8,B,Pass,2026-07-25
+STU-1084,Student #1084,Artificial Intelligence,Information Technology,Sem 4,53.4,37,49.3,28,10.9,79.9,F,Fail,2026-01-31
+STU-1085,Student #1085,Web Development,AI & ML,Sem 3,94.3,56,93.6,64,18.8,94.1,C,Pass,2026-08-05
+STU-1086,Student #1086,Cybersecurity,Electronics & Comm,Sem 1,98.8,76,91.9,64,31.2,48.5,B,Pass,2026-03-28
+STU-1087,Student #1087,Java,Information Technology,Sem 6,68.2,76,64.5,86,29.9,99.3,B,Pass,2026-05-25
+STU-1088,Student #1088,Web Development,AI & ML,Sem 5,80.9,65,84.0,69,23.6,46.7,C,Pass,2026-06-24
+STU-1089,Student #1089,Cloud Computing,AI & ML,Sem 1,54.8,50,48.8,53,21.7,55.3,C,Fail,2026-03-04
+STU-1090,Student #1090,Web Development,Computer Science,Sem 5,90.3,78,91.9,69,23.4,58.8,B,Pass,2026-02-14
+STU-1091,Student #1091,Database Management Systems,Information Technology,Sem 5,94.3,73,92.9,80,15.6,43.7,B,Pass,2026-06-25
+STU-1092,Student #1092,Database Management Systems,AI & ML,Sem 4,64.3,36,70.8,31,7.8,66.5,F,Fail,2026-06-19
+STU-1093,Student #1093,Cloud Computing,Information Technology,Sem 6,52.7,41,59.1,29,18.2,93.5,D,Fail,2026-04-08
+STU-1094,Student #1094,Database Management Systems,Data Science,Sem 3,73.5,66,78.7,55,22.0,66.6,C,Pass,2026-03-10
+STU-1095,Student #1095,Python,Computer Science,Sem 4,51.3,69,43.9,70,24.4,64.2,C,Fail,2026-08-04
+STU-1096,Student #1096,Database Management Systems,Computer Science,Sem 1,94.2,44,98.1,41,5.9,54.8,D,Pass,2026-02-10
+STU-1097,Student #1097,Python,Information Technology,Sem 6,82.2,48,84.4,58,11.3,52.7,D,Pass,2026-07-04
+STU-1098,Student #1098,Artificial Intelligence,Information Technology,Sem 1,56.4,35,47.2,26,10.0,88.4,F,Fail,2026-06-21
+STU-1099,Student #1099,Cloud Computing,Information Technology,Sem 4,60.6,50,68.1,58,23.4,96.5,C,Pass,2026-07-21
+STU-1100,Student #1100,Cybersecurity,Data Science,Sem 5,86.1,53,87.9,41,5.1,94.0,C,Pass,2026-07-17
+STU-1101,Student #1101,Data Structures,Data Science,Sem 2,73.8,73,80.4,81,32.1,70.8,B,Pass,2026-03-14
+STU-1102,Student #1102,Cloud Computing,AI & ML,Sem 2,79.5,75,85.0,77,20.7,60.8,B,Pass,2026-03-24
+STU-1103,Student #1103,Java,Computer Science,Sem 3,68.7,82,70.0,80,31.7,85.0,A,Pass,2026-05-31
+STU-1104,Student #1104,Database Management Systems,AI & ML,Sem 4,64.8,51,70.7,53,12.1,46.7,C,Pass,2026-06-08
+STU-1105,Student #1105,Artificial Intelligence,Computer Science,Sem 4,75.2,39,80.8,31,6.8,43.4,F,Fail,2026-08-08
+STU-1106,Student #1106,Database Management Systems,AI & ML,Sem 5,79.1,65,85.4,73,14.0,40.4,C,Pass,2026-05-18
+STU-1107,Student #1107,Database Management Systems,Electronics & Comm,Sem 5,89.4,63,87.7,73,12.2,45.2,C,Pass,2026-01-06
+STU-1108,Student #1108,Data Structures,Data Science,Sem 6,61.6,79,71.3,67,33.3,76.6,B,Pass,2026-01-23
+STU-1109,Student #1109,Database Management Systems,Data Science,Sem 4,81.3,51,76.8,42,10.4,62.2,C,Pass,2026-01-25
+STU-1110,Student #1110,Java,Electronics & Comm,Sem 4,60.1,37,57.1,41,15.1,82.8,F,Fail,2026-04-04
+STU-1111,Student #1111,Web Development,AI & ML,Sem 1,51.8,69,50.1,65,34.0,97.2,C,Fail,2026-04-10
+STU-1112,Student #1112,Data Structures,Computer Science,Sem 1,61.6,70,57.2,64,34.9,93.3,B,Pass,2026-06-06
+STU-1113,Student #1113,Database Management Systems,Computer Science,Sem 2,73.4,33,70.8,34,8.9,82.0,F,Fail,2026-08-07
+STU-1114,Student #1114,Data Structures,Data Science,Sem 6,52.1,33,42.9,31,9.7,59.9,F,Fail,2026-05-21
+STU-1115,Student #1115,Java,AI & ML,Sem 4,52.6,47,58.2,36,11.2,59.1,D,Fail,2026-06-18
+STU-1116,Student #1116,Python,Data Science,Sem 3,65.8,35,63.9,41,6.0,55.0,F,Fail,2026-02-03
+STU-1117,Student #1117,Cloud Computing,Data Science,Sem 1,83.6,57,73.8,49,21.1,44.2,C,Pass,2026-06-26
+STU-1118,Student #1118,Database Management Systems,Computer Science,Sem 3,64.5,71,70.2,70,25.9,50.7,B,Pass,2026-06-30
+STU-1119,Student #1119,Cybersecurity,Electronics & Comm,Sem 2,66.9,72,64.4,78,23.9,51.4,B,Pass,2026-05-26
+STU-1120,Student #1120,Data Structures,Data Science,Sem 5,97.7,88,94.2,86,34.4,60.7,A,Pass,2026-07-30
+STU-1001,Student #1001,Cybersecurity,Computer Science,Sem 6,92.6,77,91.9,75,19.9,52.5,B,Pass,2026-04-22
+STU-1002,Student #1002,Data Structures,Electronics & Comm,Sem 3,76.1,64,85.2,57,20.7,73.9,C,Pass,2026-05-23
+STU-1003,Student #1003,Cloud Computing,AI & ML,Sem 2,88.8,69,85.2,57,15.7,59.0,C,Pass,2026-08-07
+STU-1004,Student #1004,Data Structures,Computer Science,Sem 4,89.5,40,95.9,31,9.5,58.4,D,Pass,2026-06-26
+STU-1005,Student #1005,Web Development,Information Technology,Sem 1,62.1,30,68.8,38,4.2,77.5,F,Fail,2026-06-13
+STU-1006,Student #1006,Artificial Intelligence,Computer Science,Sem 4,57.2,40,49.1,38,6.3,68.1,D,Fail,2026-02-04
+STU-1007,Student #1007,Cloud Computing,Computer Science,Sem 5,61.0,68,56.5,72,21.8,72.7,C,Pass,2026-05-01
+STU-1008,Student #1008,Python,Computer Science,Sem 4,78.4,61,70.7,52,20.3,94.7,C,Pass,2026-04-21
+STU-1009,Student #1009,Database Management Systems,AI & ML,Sem 6,83.4,49,93.3,48,15.4,86.3,D,Pass,2026-08-09
+STU-1010,Student #1010,Java,Electronics & Comm,Sem 3,89.6,43,90.2,37,3.4,96.8,D,Pass,2026-04-24
+STU-1011,Student #1011,Data Structures,Data Science,Sem 1,82.2,39,81.4,46,7.2,60.1,F,Fail,2026-07-08
+STU-1012,Student #1012,Data Structures,Electronics & Comm,Sem 3,57.4,49,59.0,58,9.7,98.0,D,Fail,2026-01-02
+STU-1013,Student #1013,Web Development,AI & ML,Sem 5,90.8,53,90.9,64,8.7,47.7,C,Pass,2026-08-13
+STU-1014,Student #1014,Java,Information Technology,Sem 5,74.0,40,67.1,50,11.3,76.1,D,Pass,2026-05-13
+STU-1015,Student #1015,Data Structures,Information Technology,Sem 6,85.7,70,77.1,80,17.5,67.9,B,Pass,2026-02-10
+STU-1016,Student #1016,Artificial Intelligence,Computer Science,Sem 5,95.8,96,93.2,90,30.9,45.7,A+,Pass,2026-06-22
+STU-1017,Student #1017,Cloud Computing,Data Science,Sem 4,78.2,73,76.7,65,23.6,92.1,B,Pass,2026-02-06
+STU-1018,Student #1018,Cybersecurity,AI & ML,Sem 4,90.5,80,82.7,68,23.6,68.8,A,Pass,2026-06-25
+STU-1019,Student #1019,Python,AI & ML,Sem 4,72.8,86,82.3,79,31.7,62.4,A,Pass,2026-04-03
+STU-1020,Student #1020,Java,Computer Science,Sem 5,85.2,70,85.2,68,27.7,79.8,B,Pass,2026-03-09
+STU-1021,Student #1021,Database Management Systems,Computer Science,Sem 6,92.0,46,100.0,37,10.5,62.1,D,Pass,2026-07-10
+STU-1022,Student #1022,Cloud Computing,AI & ML,Sem 6,89.8,63,95.8,68,22.1,87.5,C,Pass,2026-03-12
+STU-1023,Student #1023,Java,Information Technology,Sem 1,50.4,38,52.9,35,17.4,83.3,F,Fail,2026-02-11
+STU-1024,Student #1024,Java,AI & ML,Sem 6,82.7,80,85.4,90,27.5,68.8,A,Pass,2026-07-01
+STU-1025,Student #1025,Java,Data Science,Sem 4,51.3,61,42.4,72,28.3,60.8,C,Fail,2026-01-24
+STU-1026,Student #1026,Data Structures,AI & ML,Sem 2,87.5,78,79.0,86,29.0,82.8,B,Pass,2026-05-26
+STU-1027,Student #1027,Artificial Intelligence,Electronics & Comm,Sem 5,98.2,80,96.0,88,32.2,61.4,A,Pass,2026-04-26
+STU-1028,Student #1028,Cybersecurity,AI & ML,Sem 5,76.6,75,78.1,76,30.5,78.7,B,Pass,2026-05-06
+STU-1029,Student #1029,Artificial Intelligence,Computer Science,Sem 3,72.3,58,81.9,67,11.3,97.8,C,Pass,2026-04-14
+STU-1030,Student #1030,Python,AI & ML,Sem 3,98.0,57,94.6,54,14.1,41.8,C,Pass,2026-07-10
+STU-1031,Student #1031,Cloud Computing,Data Science,Sem 4,65.9,45,56.6,41,16.2,84.8,D,Pass,2026-07-01
+STU-1032,Student #1032,Cloud Computing,AI & ML,Sem 6,74.5,30,73.0,36,3.7,62.5,F,Fail,2026-07-02
+STU-1033,Student #1033,Artificial Intelligence,AI & ML,Sem 2,64.5,37,70.0,32,5.2,94.0,F,Fail,2026-05-15
+STU-1034,Student #1034,Java,Electronics & Comm,Sem 2,80.1,52,87.8,56,5.5,99.9,C,Pass,2026-07-04
+STU-1035,Student #1035,Python,Data Science,Sem 4,62.6,54,56.9,63,11.4,50.7,C,Pass,2026-07-18
+STU-1036,Student #1036,Database Management Systems,Information Technology,Sem 3,54.2,48,54.3,57,8.8,69.4,D,Fail,2026-04-26
+STU-1037,Student #1037,Cloud Computing,Computer Science,Sem 6,59.0,51,55.3,62,21.7,65.5,C,Fail,2026-07-06
+STU-1038,Student #1038,Data Structures,Electronics & Comm,Sem 6,72.3,61,79.3,67,13.3,54.8,C,Pass,2026-07-23
+STU-1039,Student #1039,Artificial Intelligence,Data Science,Sem 3,90.7,52,90.5,56,12.8,44.8,C,Pass,2026-07-03
+STU-1040,Student #1040,Database Management Systems,AI & ML,Sem 1,70.0,63,77.5,69,14.1,42.2,C,Pass,2026-07-31
+STU-1041,Student #1041,Data Structures,Information Technology,Sem 6,71.9,42,64.9,30,13.9,61.8,D,Pass,2026-05-21
+STU-1042,Student #1042,Artificial Intelligence,Information Technology,Sem 6,94.3,45,87.7,49,7.4,92.5,D,Pass,2026-04-16
+STU-1043,Student #1043,Cybersecurity,Computer Science,Sem 6,99.5,89,97.2,81,24.4,70.4,A,Pass,2026-07-28
+STU-1044,Student #1044,Java,Computer Science,Sem 4,57.4,61,59.4,58,31.4,80.5,C,Fail,2026-06-14
+STU-1045,Student #1045,Cybersecurity,Computer Science,Sem 2,66.9,75,62.3,63,29.2,85.4,B,Pass,2026-06-02
+STU-1046,Student #1046,Artificial Intelligence,Electronics & Comm,Sem 5,85.4,66,89.9,67,25.5,61.8,C,Pass,2026-08-03
+STU-1047,Student #1047,Artificial Intelligence,Information Technology,Sem 4,65.7,30,64.3,37,2.9,42.5,F,Fail,2026-05-01
+STU-1048,Student #1048,Java,Electronics & Comm,Sem 3,84.3,70,74.7,77,27.4,54.7,B,Pass,2026-07-26
+STU-1049,Student #1049,Python,AI & ML,Sem 6,74.2,57,69.0,64,18.9,44.2,C,Pass,2026-05-07
+STU-1050,Student #1050,Cloud Computing,AI & ML,Sem 1,59.0,60,68.4,57,27.6,96.9,C,Fail,2026-04-01
+STU-1051,Student #1051,Data Structures,Data Science,Sem 3,74.8,57,78.8,68,22.3,95.1,C,Pass,2026-07-18
+STU-1052,Student #1052,Data Structures,Data Science,Sem 3,53.7,48,52.5,47,16.9,54.4,D,Fail,2026-01-08
+STU-1053,Student #1053,Cybersecurity,Computer Science,Sem 2,73.2,50,66.8,60,6.3,50.4,C,Pass,2026-07-26
+STU-1054,Student #1054,Database Management Systems,Information Technology,Sem 5,76.2,83,72.5,91,25.9,82.1,A,Pass,2026-08-09
+STU-1055,Student #1055,Python,AI & ML,Sem 3,84.6,66,79.7,59,23.4,78.4,C,Pass,2026-04-03
+STU-1056,Student #1056,Data Structures,Information Technology,Sem 3,67.6,58,64.6,56,11.2,97.1,C,Pass,2026-06-04
+STU-1057,Student #1057,Artificial Intelligence,Information Technology,Sem 2,96.4,73,94.3,62,19.6,59.6,B,Pass,2026-08-04
+STU-1058,Student #1058,Database Management Systems,Information Technology,Sem 5,64.4,65,65.8,66,20.6,74.1,C,Pass,2026-06-14
+STU-1059,Student #1059,Java,Data Science,Sem 6,78.0,40,83.0,50,9.9,65.1,D,Pass,2026-03-25
+STU-1060,Student #1060,Artificial Intelligence,Data Science,Sem 6,67.3,48,66.8,41,6.7,71.2,D,Pass,2026-04-11
+STU-1061,Student #1061,Java,AI & ML,Sem 5,73.4,83,63.5,72,28.5,84.0,A,Pass,2026-05-09
+STU-1062,Student #1062,Cybersecurity,Computer Science,Sem 5,89.1,59,99.0,47,19.4,46.4,C,Pass,2026-01-28
+STU-1063,Student #1063,Database Management Systems,Data Science,Sem 4,54.7,53,56.7,52,20.0,47.8,C,Fail,2026-07-03
+STU-1064,Student #1064,Python,Information Technology,Sem 2,77.7,40,84.1,37,9.5,95.8,D,Pass,2026-07-09
+STU-1065,Student #1065,Python,Computer Science,Sem 5,76.2,55,71.0,48,8.0,54.1,C,Pass,2026-04-25
+STU-1066,Student #1066,Database Management Systems,AI & ML,Sem 6,81.9,58,77.9,67,11.8,84.7,C,Pass,2026-01-23
+STU-1067,Student #1067,Database Management Systems,AI & ML,Sem 3,77.5,48,84.8,57,8.2,56.5,D,Pass,2026-06-18
+STU-1068,Student #1068,Python,AI & ML,Sem 4,97.3,70,95.9,62,22.3,40.7,B,Pass,2026-01-10
+STU-1069,Student #1069,Data Structures,AI & ML,Sem 4,64.3,30,63.7,38,3.0,75.2,F,Fail,2026-04-02
+STU-1070,Student #1070,Data Structures,Electronics & Comm,Sem 2,98.9,83,100.0,89,19.4,79.5,A,Pass,2026-08-06
+STU-1071,Student #1071,Python,AI & ML,Sem 5,50.1,60,47.0,61,31.8,64.1,C,Fail,2026-03-13
+STU-1072,Student #1072,Data Structures,Electronics & Comm,Sem 1,64.8,44,72.9,39,3.0,88.2,D,Pass,2026-01-28
+STU-1073,Student #1073,Java,AI & ML,Sem 2,85.6,66,88.0,58,21.7,54.8,C,Pass,2026-03-01
+STU-1074,Student #1074,Python,Electronics & Comm,Sem 5,79.9,35,89.3,41,2.4,47.7,F,Fail,2026-08-03
+STU-1075,Student #1075,Database Management Systems,Computer Science,Sem 1,67.1,69,71.9,77,33.8,78.7,C,Pass,2026-02-18
+STU-1076,Student #1076,Cybersecurity,Computer Science,Sem 3,62.8,64,67.4,52,20.9,85.1,C,Pass,2026-05-16
+STU-1077,Student #1077,Database Management Systems,AI & ML,Sem 2,84.8,37,91.4,33,5.8,54.1,F,Fail,2026-06-08
+STU-1078,Student #1078,Cloud Computing,Data Science,Sem 5,50.6,48,59.4,53,15.7,72.2,D,Fail,2026-05-12
+STU-1079,Student #1079,Cybersecurity,Data Science,Sem 4,94.6,87,95.7,92,29.2,66.6,A,Pass,2026-07-17
+STU-1080,Student #1080,Database Management Systems,Information Technology,Sem 5,84.6,41,77.8,31,2.5,96.1,D,Pass,2026-03-11
+STU-1081,Student #1081,Java,Electronics & Comm,Sem 1,74.5,67,83.0,60,29.9,40.4,C,Pass,2026-01-01
+STU-1082,Student #1082,Artificial Intelligence,Electronics & Comm,Sem 2,64.8,45,65.7,47,11.1,45.9,D,Pass,2026-05-23
+STU-1083,Student #1083,Java,Information Technology,Sem 4,90.8,75,88.5,79,25.0,67.3,B,Pass,2026-05-25
+STU-1084,Student #1084,Database Management Systems,AI & ML,Sem 2,98.3,73,100.0,74,22.1,65.8,B,Pass,2026-02-09
+STU-1085,Student #1085,Database Management Systems,Data Science,Sem 6,74.5,66,74.6,65,29.7,74.5,C,Pass,2026-02-26
+STU-1086,Student #1086,Database Management Systems,Computer Science,Sem 2,53.2,85,51.3,77,34.2,87.0,A,Fail,2026-01-01
+STU-1087,Student #1087,Java,AI & ML,Sem 3,95.7,55,95.0,65,7.0,67.6,C,Pass,2026-02-16
+STU-1088,Student #1088,Python,Electronics & Comm,Sem 5,58.6,34,50.6,41,13.1,71.6,F,Fail,2026-02-10
+STU-1089,Student #1089,Web Development,AI & ML,Sem 1,70.9,34,78.5,32,5.9,78.7,F,Fail,2026-07-23
+STU-1090,Student #1090,Cloud Computing,Computer Science,Sem 6,67.4,82,72.2,87,28.5,63.7,A,Pass,2026-07-06
+STU-1091,Student #1091,Java,Information Technology,Sem 6,52.7,50,59.6,47,17.9,71.9,C,Fail,2026-03-14
+STU-1092,Student #1092,Artificial Intelligence,AI & ML,Sem 4,62.2,61,71.6,63,25.2,58.0,C,Pass,2026-04-05
+STU-1093,Student #1093,Web Development,Electronics & Comm,Sem 2,60.6,70,59.1,77,28.9,88.1,B,Pass,2026-02-04
+STU-1094,Student #1094,Data Structures,Computer Science,Sem 4,72.4,69,80.8,64,32.3,98.8,C,Pass,2026-07-17
+STU-1095,Student #1095,Java,Electronics & Comm,Sem 4,77.8,70,70.7,73,21.7,98.0,B,Pass,2026-04-27
+STU-1096,Student #1096,Database Management Systems,Information Technology,Sem 4,72.1,39,70.9,32,7.1,65.8,F,Fail,2026-04-01
+STU-1097,Student #1097,Web Development,AI & ML,Sem 5,95.2,49,89.7,54,13.8,48.1,D,Pass,2026-05-13
+STU-1098,Student #1098,Python,Data Science,Sem 2,74.7,88,71.6,93,29.4,57.5,A,Pass,2026-07-05
+STU-1099,Student #1099,Artificial Intelligence,AI & ML,Sem 6,99.0,73,100.0,65,13.7,90.3,B,Pass,2026-06-04
+STU-1100,Student #1100,Artificial Intelligence,Data Science,Sem 2,55.3,43,54.3,42,18.1,61.9,D,Fail,2026-03-05
+STU-1101,Student #1101,Database Management Systems,Data Science,Sem 4,54.3,66,54.1,56,25.0,45.2,C,Fail,2026-02-06
+STU-1102,Student #1102,Artificial Intelligence,Computer Science,Sem 2,50.1,63,44.4,66,20.1,73.6,C,Fail,2026-07-28
+STU-1103,Student #1103,Cybersecurity,AI & ML,Sem 1,83.8,40,77.3,51,11.0,88.3,D,Pass,2026-07-30
+STU-1104,Student #1104,Java,AI & ML,Sem 6,73.8,49,79.1,56,16.1,57.7,D,Pass,2026-08-01
+STU-1105,Student #1105,Database Management Systems,Electronics & Comm,Sem 1,81.9,44,82.1,36,7.7,81.6,D,Pass,2026-03-27
+STU-1106,Student #1106,Java,AI & ML,Sem 5,61.2,41,54.4,33,5.5,43.9,D,Pass,2026-07-30
+STU-1107,Student #1107,Java,Information Technology,Sem 3,65.7,67,69.3,56,26.5,75.3,C,Pass,2026-01-22
+STU-1108,Student #1108,Database Management Systems,Data Science,Sem 3,57.1,61,62.7,59,25.9,46.4,C,Fail,2026-05-14
+STU-1109,Student #1109,Cybersecurity,Data Science,Sem 4,94.1,55,100.0,47,15.7,91.7,C,Pass,2026-02-28
+STU-1110,Student #1110,Cybersecurity,Electronics & Comm,Sem 6,59.0,66,63.7,67,24.8,71.5,C,Fail,2026-06-28
+STU-1111,Student #1111,Cloud Computing,Computer Science,Sem 1,81.2,55,86.2,66,15.5,46.2,C,Pass,2026-03-01
+STU-1112,Student #1112,Java,AI & ML,Sem 1,84.6,62,74.6,66,24.4,76.9,C,Pass,2026-01-28
+STU-1113,Student #1113,Python,Electronics & Comm,Sem 1,55.2,55,56.3,55,14.1,97.9,C,Fail,2026-06-29
+STU-1114,Student #1114,Cloud Computing,Electronics & Comm,Sem 5,97.1,54,91.1,63,12.6,56.9,C,Pass,2026-02-07
+STU-1115,Student #1115,Python,Electronics & Comm,Sem 1,71.0,61,75.8,70,28.0,81.7,C,Pass,2026-08-08
+STU-1116,Student #1116,Cybersecurity,Electronics & Comm,Sem 3,79.4,51,86.3,56,18.1,40.8,C,Pass,2026-06-23
+STU-1117,Student #1117,Database Management Systems,AI & ML,Sem 4,83.4,63,89.1,72,10.5,85.9,C,Pass,2026-05-16
+STU-1118,Student #1118,Data Structures,Electronics & Comm,Sem 6,68.2,85,71.7,81,34.3,75.5,A,Pass,2026-05-10
+STU-1119,Student #1119,Java,Electronics & Comm,Sem 1,84.5,55,77.1,62,10.6,68.2,C,Pass,2026-05-17
+STU-1120,Student #1120,Cloud Computing,Electronics & Comm,Sem 4,90.7,49,90.5,43,6.7,75.3,D,Pass,2026-07-31
+STU-1001,Student #1001,Web Development,Data Science,Sem 5,80.6,39,79.6,44,10.3,75.6,F,Fail,2026-02-25
+STU-1002,Student #1002,Java,Information Technology,Sem 6,60.4,70,50.7,69,22.7,69.4,B,Pass,2026-07-18
+STU-1003,Student #1003,Cloud Computing,AI & ML,Sem 3,54.2,59,63.7,69,17.7,97.8,C,Fail,2026-08-11
+STU-1004,Student #1004,Artificial Intelligence,Computer Science,Sem 5,56.6,53,52.8,47,23.0,58.7,C,Fail,2026-01-02
+STU-1005,Student #1005,Database Management Systems,Data Science,Sem 3,57.7,30,48.6,26,7.2,79.4,F,Fail,2026-01-09
+STU-1006,Student #1006,Data Structures,Electronics & Comm,Sem 6,56.7,46,60.1,54,16.8,49.5,D,Fail,2026-06-07
+STU-1007,Student #1007,Python,Electronics & Comm,Sem 2,61.7,63,70.2,56,19.6,45.7,C,Pass,2026-03-04
+STU-1008,Student #1008,Python,Data Science,Sem 5,80.7,46,74.0,43,6.1,91.2,D,Pass,2026-05-18
+STU-1009,Student #1009,Cloud Computing,Computer Science,Sem 1,81.8,44,86.7,41,3.4,86.8,D,Pass,2026-05-25
+STU-1010,Student #1010,Artificial Intelligence,Computer Science,Sem 2,73.8,67,71.6,59,18.7,79.4,C,Pass,2026-05-07
+STU-1011,Student #1011,Artificial Intelligence,Data Science,Sem 1,92.3,83,97.4,89,32.1,78.4,A,Pass,2026-04-15
+STU-1012,Student #1012,Java,Information Technology,Sem 1,52.2,69,44.6,62,32.6,55.9,C,Fail,2026-07-01
+STU-1013,Student #1013,Python,Information Technology,Sem 2,93.3,86,86.4,94,34.4,57.6,A,Pass,2026-07-24
+STU-1014,Student #1014,Data Structures,AI & ML,Sem 6,69.4,63,65.3,53,14.1,62.5,C,Pass,2026-05-30
+STU-1015,Student #1015,Data Structures,AI & ML,Sem 5,57.9,39,64.9,39,13.7,47.5,F,Fail,2026-06-30
+STU-1016,Student #1016,Cloud Computing,Electronics & Comm,Sem 3,87.1,94,89.0,100,34.8,88.5,A+,Pass,2026-06-09
+STU-1017,Student #1017,Cybersecurity,Data Science,Sem 2,51.1,34,55.3,25,8.5,92.2,F,Fail,2026-04-11
+STU-1018,Student #1018,Artificial Intelligence,Electronics & Comm,Sem 5,70.6,64,74.9,58,29.5,55.2,C,Pass,2026-07-06
+STU-1019,Student #1019,Python,Information Technology,Sem 5,90.6,96,95.9,97,34.1,49.2,A+,Pass,2026-01-06
+STU-1020,Student #1020,Artificial Intelligence,AI & ML,Sem 1,68.8,39,59.1,32,10.3,50.0,F,Fail,2026-07-20
+STU-1021,Student #1021,Data Structures,Data Science,Sem 6,87.7,77,78.8,70,32.4,47.2,B,Pass,2026-03-01
+STU-1022,Student #1022,Data Structures,Data Science,Sem 3,91.3,33,99.7,42,2.7,90.6,F,Fail,2026-03-17
+STU-1023,Student #1023,Java,Electronics & Comm,Sem 5,87.4,79,90.6,89,22.4,56.6,B,Pass,2026-05-10
+STU-1024,Student #1024,Cybersecurity,Electronics & Comm,Sem 6,82.7,74,87.8,62,28.4,62.0,B,Pass,2026-07-01
+STU-1025,Student #1025,Cybersecurity,Electronics & Comm,Sem 1,80.4,54,72.4,61,15.2,51.3,C,Pass,2026-06-18
+STU-1026,Student #1026,Java,Data Science,Sem 2,59.1,61,62.6,51,31.1,94.7,C,Fail,2026-06-06
+STU-1027,Student #1027,Cybersecurity,AI & ML,Sem 1,96.0,55,99.4,64,4.8,78.4,C,Pass,2026-07-14
+STU-1028,Student #1028,Cloud Computing,Electronics & Comm,Sem 5,58.3,61,62.6,55,16.4,67.2,C,Fail,2026-07-30
+STU-1029,Student #1029,Python,Information Technology,Sem 3,61.5,43,64.3,42,10.7,99.2,D,Pass,2026-02-08
+STU-1030,Student #1030,Java,Electronics & Comm,Sem 2,57.9,57,51.6,63,25.5,79.7,C,Fail,2026-07-12
+STU-1031,Student #1031,Python,Information Technology,Sem 2,73.4,51,64.0,47,11.0,83.6,C,Pass,2026-04-20
+STU-1032,Student #1032,Cybersecurity,Computer Science,Sem 1,64.5,67,63.6,56,25.9,88.2,C,Pass,2026-05-01
+STU-1033,Student #1033,Web Development,Data Science,Sem 1,98.1,70,92.1,58,17.6,44.6,B,Pass,2026-07-27
+STU-1034,Student #1034,Data Structures,Data Science,Sem 3,60.1,75,63.5,72,26.6,83.0,B,Pass,2026-03-11
+STU-1035,Student #1035,Cybersecurity,Electronics & Comm,Sem 2,54.8,85,57.7,95,33.8,64.1,A,Fail,2026-06-22
+STU-1036,Student #1036,Cybersecurity,Data Science,Sem 4,93.6,76,97.1,68,27.3,94.1,B,Pass,2026-07-14
+STU-1037,Student #1037,Web Development,Information Technology,Sem 3,64.4,50,63.0,52,11.7,90.4,C,Pass,2026-05-25
+STU-1038,Student #1038,Database Management Systems,AI & ML,Sem 1,79.4,58,69.9,59,16.4,96.7,C,Pass,2026-01-06
+STU-1039,Student #1039,Java,Data Science,Sem 2,81.5,71,86.0,61,18.3,59.2,B,Pass,2026-07-10
+STU-1040,Student #1040,Database Management Systems,Data Science,Sem 1,89.4,49,81.1,59,13.7,96.8,D,Pass,2026-08-03
+STU-1041,Student #1041,Web Development,Computer Science,Sem 4,87.3,67,92.0,74,14.4,47.4,C,Pass,2026-05-23
+STU-1042,Student #1042,Web Development,Computer Science,Sem 6,65.9,56,64.8,44,21.0,95.2,C,Pass,2026-05-21
+STU-1043,Student #1043,Artificial Intelligence,Information Technology,Sem 2,89.7,89,80.8,85,32.1,50.2,A,Pass,2026-01-02
+STU-1044,Student #1044,Data Structures,Computer Science,Sem 2,67.2,85,62.3,88,29.9,99.7,A,Pass,2026-01-10
+STU-1045,Student #1045,Cloud Computing,Computer Science,Sem 4,68.0,80,68.5,80,27.5,50.2,A,Pass,2026-05-16
+STU-1046,Student #1046,Java,Electronics & Comm,Sem 1,88.3,79,85.6,69,22.0,43.2,B,Pass,2026-06-13
+STU-1047,Student #1047,Java,Electronics & Comm,Sem 2,56.3,36,48.8,47,5.7,53.1,F,Fail,2026-02-05
+STU-1048,Student #1048,Cybersecurity,Information Technology,Sem 1,82.0,40,76.8,36,11.2,90.7,D,Pass,2026-03-14
+STU-1049,Student #1049,Cybersecurity,Computer Science,Sem 4,77.1,59,82.2,56,25.7,90.5,C,Pass,2026-04-14
+STU-1050,Student #1050,Web Development,Data Science,Sem 4,90.7,61,95.5,61,10.3,49.4,C,Pass,2026-02-13
+STU-1051,Student #1051,Python,Computer Science,Sem 5,80.6,54,78.3,55,10.3,89.9,C,Pass,2026-01-17
+STU-1052,Student #1052,Artificial Intelligence,AI & ML,Sem 1,78.8,43,69.5,32,11.6,64.3,D,Pass,2026-02-28
+STU-1053,Student #1053,Java,Electronics & Comm,Sem 2,86.2,50,81.8,60,6.9,55.7,C,Pass,2026-03-29
+STU-1054,Student #1054,Database Management Systems,AI & ML,Sem 4,82.0,69,72.3,80,31.3,69.3,C,Pass,2026-01-14
+STU-1055,Student #1055,Cloud Computing,AI & ML,Sem 2,58.7,58,49.2,62,13.2,85.9,C,Fail,2026-01-15
+STU-1056,Student #1056,Cybersecurity,Electronics & Comm,Sem 2,97.4,69,88.4,69,21.9,60.6,C,Pass,2026-06-13
+STU-1057,Student #1057,Web Development,Data Science,Sem 5,78.9,77,87.7,70,31.5,61.7,B,Pass,2026-04-21
+STU-1058,Student #1058,Python,Computer Science,Sem 6,74.3,75,65.9,69,25.7,65.9,B,Pass,2026-07-16
+STU-1059,Student #1059,Database Management Systems,Computer Science,Sem 6,76.5,48,86.1,57,18.2,49.9,D,Pass,2026-02-17
+STU-1060,Student #1060,Python,Data Science,Sem 4,56.7,71,65.4,66,25.1,65.0,B,Fail,2026-07-14
+STU-1061,Student #1061,Cybersecurity,Information Technology,Sem 5,61.1,50,60.2,43,19.1,52.2,C,Pass,2026-01-12
+STU-1062,Student #1062,Java,AI & ML,Sem 6,84.8,37,94.5,46,2.3,88.1,F,Fail,2026-06-09
+STU-1063,Student #1063,Python,Information Technology,Sem 1,79.3,41,88.7,49,9.4,58.3,D,Pass,2026-02-01
+STU-1064,Student #1064,Database Management Systems,Information Technology,Sem 3,89.6,42,85.7,41,10.3,66.7,D,Pass,2026-06-20
+STU-1065,Student #1065,Database Management Systems,Data Science,Sem 4,60.9,47,51.2,58,7.5,54.8,D,Pass,2026-03-30
+STU-1066,Student #1066,Cybersecurity,AI & ML,Sem 6,99.2,42,100.0,43,5.6,75.7,D,Pass,2026-03-01
+STU-1067,Student #1067,Java,AI & ML,Sem 5,60.2,56,59.2,56,12.7,42.3,C,Pass,2026-01-31
+STU-1068,Student #1068,Database Management Systems,Information Technology,Sem 3,60.2,68,58.0,60,34.7,69.3,C,Pass,2026-08-05
+STU-1069,Student #1069,Python,Information Technology,Sem 3,78.4,68,83.2,75,25.8,93.0,C,Pass,2026-05-30
+STU-1070,Student #1070,Database Management Systems,Information Technology,Sem 3,82.2,33,81.2,28,2.0,57.4,F,Fail,2026-02-01
+STU-1071,Student #1071,Artificial Intelligence,Computer Science,Sem 1,79.0,69,84.4,57,23.0,47.6,C,Pass,2026-02-20
+STU-1072,Student #1072,Artificial Intelligence,Data Science,Sem 5,76.7,79,76.3,85,34.9,88.6,B,Pass,2026-04-10
+STU-1073,Student #1073,Java,Data Science,Sem 3,89.3,45,92.7,49,9.8,68.3,D,Pass,2026-06-23
+STU-1074,Student #1074,Cybersecurity,Data Science,Sem 4,96.4,78,88.3,73,24.4,76.3,B,Pass,2026-02-15
+STU-1075,Student #1075,Artificial Intelligence,Data Science,Sem 6,79.0,67,75.0,68,25.3,98.2,C,Pass,2026-03-18
+STU-1076,Student #1076,Cloud Computing,Data Science,Sem 1,64.1,71,71.4,76,26.1,45.9,B,Pass,2026-08-07
+STU-1077,Student #1077,Database Management Systems,Data Science,Sem 4,99.1,54,100.0,43,4.3,44.5,C,Pass,2026-05-25
+STU-1078,Student #1078,Cloud Computing,Computer Science,Sem 6,86.4,77,89.5,65,34.1,55.6,B,Pass,2026-02-17
+STU-1079,Student #1079,Cybersecurity,AI & ML,Sem 1,65.3,57,60.0,51,23.4,55.8,C,Pass,2026-05-01
+STU-1080,Student #1080,Artificial Intelligence,Data Science,Sem 6,74.6,38,81.7,28,3.9,81.2,F,Fail,2026-08-15
+STU-1081,Student #1081,Data Structures,Information Technology,Sem 3,95.0,81,99.8,76,31.4,43.7,A,Pass,2026-05-25
+STU-1082,Student #1082,Cybersecurity,AI & ML,Sem 1,88.0,76,87.0,84,20.1,61.5,B,Pass,2026-03-13
+STU-1083,Student #1083,Database Management Systems,Data Science,Sem 4,98.6,90,98.8,83,31.2,43.1,A+,Pass,2026-02-05
+STU-1084,Student #1084,Database Management Systems,Computer Science,Sem 1,67.6,34,69.1,35,11.4,77.2,F,Fail,2026-02-13
+STU-1085,Student #1085,Database Management Systems,Information Technology,Sem 2,90.0,71,89.8,74,19.8,46.8,B,Pass,2026-06-07
+STU-1086,Student #1086,Database Management Systems,Information Technology,Sem 1,77.3,46,86.5,51,15.8,65.3,D,Pass,2026-01-09
+STU-1087,Student #1087,Java,Electronics & Comm,Sem 4,84.5,70,94.3,79,26.8,88.2,B,Pass,2026-05-18
+STU-1088,Student #1088,Cloud Computing,Electronics & Comm,Sem 2,84.9,55,87.0,56,15.0,64.6,C,Pass,2026-01-17
+STU-1089,Student #1089,Java,Electronics & Comm,Sem 4,85.1,54,85.4,65,11.9,76.2,C,Pass,2026-06-19
+STU-1090,Student #1090,Cloud Computing,Electronics & Comm,Sem 6,90.1,59,92.3,61,13.0,42.5,C,Pass,2026-06-17
+STU-1091,Student #1091,Database Management Systems,Information Technology,Sem 3,54.7,75,59.2,76,28.9,96.1,B,Fail,2026-04-20
+STU-1092,Student #1092,Web Development,Computer Science,Sem 3,82.2,66,92.1,65,26.9,96.8,C,Pass,2026-06-10
+STU-1093,Student #1093,Cloud Computing,Electronics & Comm,Sem 6,78.2,51,68.5,52,16.7,53.5,C,Pass,2026-06-01
+STU-1094,Student #1094,Java,Information Technology,Sem 3,94.7,79,87.2,78,21.6,52.0,B,Pass,2026-06-07
+STU-1095,Student #1095,Web Development,Information Technology,Sem 2,75.9,80,69.0,85,34.5,41.8,A,Pass,2026-05-17
+STU-1096,Student #1096,Cybersecurity,Electronics & Comm,Sem 2,61.9,51,63.7,62,8.7,81.0,C,Pass,2026-02-09
+STU-1097,Student #1097,Database Management Systems,Data Science,Sem 6,70.2,65,66.5,60,19.6,65.2,C,Pass,2026-03-22
+STU-1098,Student #1098,Java,Data Science,Sem 5,88.5,80,93.3,81,27.6,89.7,A,Pass,2026-07-20
+STU-1099,Student #1099,Cybersecurity,Data Science,Sem 5,60.6,75,58.1,73,31.0,64.0,B,Pass,2026-03-05
+STU-1100,Student #1100,Cloud Computing,Information Technology,Sem 1,51.4,77,48.6,80,30.1,63.9,B,Fail,2026-01-25
+STU-1101,Student #1101,Java,AI & ML,Sem 3,93.2,55,98.6,50,10.8,66.8,C,Pass,2026-08-05
+STU-1102,Student #1102,Python,Electronics & Comm,Sem 4,81.3,53,76.2,48,9.2,59.7,C,Pass,2026-05-20
+STU-1103,Student #1103,Cloud Computing,Data Science,Sem 4,60.1,73,60.5,82,25.1,61.4,B,Pass,2026-02-01
+STU-1104,Student #1104,Data Structures,Information Technology,Sem 3,78.5,43,72.3,36,14.7,87.1,D,Pass,2026-06-16
+STU-1105,Student #1105,Database Management Systems,Electronics & Comm,Sem 6,68.8,76,77.4,79,25.7,65.7,B,Pass,2026-01-13
+STU-1106,Student #1106,Java,Electronics & Comm,Sem 6,69.5,74,64.7,82,26.3,40.4,B,Pass,2026-04-12
+STU-1107,Student #1107,Web Development,Computer Science,Sem 3,65.1,75,61.7,76,25.9,49.5,B,Pass,2026-04-30
+STU-1108,Student #1108,Database Management Systems,Information Technology,Sem 4,52.4,33,55.1,39,14.7,90.4,F,Fail,2026-06-20
+STU-1109,Student #1109,Java,Data Science,Sem 4,69.7,70,61.7,71,27.7,55.7,B,Pass,2026-06-08
+STU-1110,Student #1110,Python,AI & ML,Sem 6,69.4,45,69.0,47,17.7,82.9,D,Pass,2026-05-25
+STU-1111,Student #1111,Data Structures,Information Technology,Sem 3,75.4,69,71.7,63,26.0,44.8,C,Pass,2026-08-12
+STU-1112,Student #1112,Artificial Intelligence,AI & ML,Sem 6,71.7,38,64.1,34,6.6,94.5,F,Fail,2026-06-01
+STU-1113,Student #1113,Artificial Intelligence,AI & ML,Sem 5,84.7,85,91.9,81,30.7,95.0,A,Pass,2026-03-24
+STU-1114,Student #1114,Cybersecurity,Information Technology,Sem 4,86.3,67,87.1,69,17.1,44.0,C,Pass,2026-03-09
+STU-1115,Student #1115,Cybersecurity,Data Science,Sem 1,52.2,30,47.5,25,11.6,89.6,F,Fail,2026-03-14
+STU-1116,Student #1116,Database Management Systems,Data Science,Sem 6,84.1,61,88.2,65,17.9,68.6,C,Pass,2026-05-09
+STU-1117,Student #1117,Java,Computer Science,Sem 2,96.6,100,100.0,97,33.7,84.4,A+,Pass,2026-05-28
+STU-1118,Student #1118,Artificial Intelligence,AI & ML,Sem 5,54.9,52,57.3,47,17.0,65.9,C,Fail,2026-05-18
+STU-1119,Student #1119,Python,Electronics & Comm,Sem 2,89.3,44,94.4,41,10.9,75.8,D,Pass,2026-03-26
+STU-1120,Student #1120,Artificial Intelligence,Data Science,Sem 5,75.5,80,83.3,86,23.6,79.8,A,Pass,2026-04-03
+STU-1001,Student #1001,Java,Computer Science,Sem 6,71.2,34,71.2,30,7.1,90.9,F,Fail,2026-07-27
+STU-1002,Student #1002,Cloud Computing,Electronics & Comm,Sem 1,63.6,30,54.0,25,5.3,52.0,F,Fail,2026-08-06
+STU-1003,Student #1003,Cybersecurity,AI & ML,Sem 6,70.8,70,79.1,70,29.7,64.5,B,Pass,2026-07-21
+STU-1004,Student #1004,Cybersecurity,Information Technology,Sem 4,72.1,58,68.5,59,17.0,54.5,C,Pass,2026-06-08
+STU-1005,Student #1005,Web Development,AI & ML,Sem 3,98.7,70,89.9,58,17.6,84.2,B,Pass,2026-07-26
+STU-1006,Student #1006,Python,Electronics & Comm,Sem 1,69.9,76,78.7,78,28.3,46.5,B,Pass,2026-08-11
+STU-1007,Student #1007,Database Management Systems,AI & ML,Sem 4,90.7,54,96.1,52,15.1,71.7,C,Pass,2026-04-26
+STU-1008,Student #1008,Data Structures,Information Technology,Sem 6,94.7,74,93.7,70,16.3,69.1,B,Pass,2026-06-23
+STU-1009,Student #1009,Cybersecurity,AI & ML,Sem 4,98.9,44,100.0,53,3.8,64.9,D,Pass,2026-05-14
+STU-1010,Student #1010,Data Structures,Electronics & Comm,Sem 3,64.3,32,64.0,40,7.2,92.7,F,Fail,2026-07-27
+STU-1011,Student #1011,Python,Data Science,Sem 5,70.2,82,77.8,82,26.5,85.3,A,Pass,2026-06-07
+STU-1012,Student #1012,Cloud Computing,AI & ML,Sem 1,76.7,61,86.5,71,18.3,40.8,C,Pass,2026-07-16
+STU-1013,Student #1013,Artificial Intelligence,Information Technology,Sem 3,98.7,55,92.3,44,14.1,64.3,C,Pass,2026-02-27
+STU-1014,Student #1014,Web Development,Computer Science,Sem 4,60.7,30,50.7,31,3.3,74.0,F,Fail,2026-02-17
+STU-1015,Student #1015,Cybersecurity,AI & ML,Sem 1,91.9,56,84.2,59,14.3,93.5,C,Pass,2026-04-26
+STU-1016,Student #1016,Python,Data Science,Sem 6,62.1,41,70.9,32,7.0,68.2,D,Pass,2026-08-12
+STU-1017,Student #1017,Web Development,Information Technology,Sem 4,56.9,60,58.4,67,31.7,48.1,C,Fail,2026-04-14
+STU-1018,Student #1018,Python,Data Science,Sem 5,76.8,51,75.9,48,19.1,97.7,C,Pass,2026-05-01
+STU-1019,Student #1019,Python,AI & ML,Sem 1,51.3,54,56.3,49,14.9,48.3,C,Fail,2026-07-16
+STU-1020,Student #1020,Python,Electronics & Comm,Sem 6,79.5,55,83.9,49,9.3,40.8,C,Pass,2026-06-01
+STU-1021,Student #1021,Database Management Systems,Electronics & Comm,Sem 2,95.6,87,94.9,92,24.9,77.2,A,Pass,2026-07-26
+STU-1022,Student #1022,Artificial Intelligence,Information Technology,Sem 3,89.4,87,79.6,86,32.2,79.0,A,Pass,2026-06-13
+STU-1023,Student #1023,Cloud Computing,Electronics & Comm,Sem 2,66.8,78,62.8,72,26.6,73.2,B,Pass,2026-01-28
+STU-1024,Student #1024,Cybersecurity,Information Technology,Sem 1,85.4,60,90.0,56,23.2,68.5,C,Pass,2026-01-14
+STU-1025,Student #1025,Python,Data Science,Sem 4,86.4,65,91.1,55,12.8,61.1,C,Pass,2026-05-28
+STU-1026,Student #1026,Data Structures,Electronics & Comm,Sem 4,66.9,56,76.5,53,25.3,69.7,C,Pass,2026-01-15
+STU-1027,Student #1027,Python,Computer Science,Sem 2,81.0,74,79.6,84,30.1,81.2,B,Pass,2026-01-18
+STU-1028,Student #1028,Cloud Computing,Data Science,Sem 3,77.0,65,85.0,75,14.6,97.2,C,Pass,2026-01-12
+STU-1029,Student #1029,Web Development,Electronics & Comm,Sem 3,71.0,52,75.7,45,16.8,74.6,C,Pass,2026-05-07
+STU-1030,Student #1030,Artificial Intelligence,Information Technology,Sem 6,89.3,44,86.7,45,11.9,97.7,D,Pass,2026-02-23
+STU-1031,Student #1031,Artificial Intelligence,Electronics & Comm,Sem 5,88.9,70,90.3,65,16.1,71.0,B,Pass,2026-01-06
+STU-1032,Student #1032,Database Management Systems,Electronics & Comm,Sem 6,83.2,65,79.0,65,15.8,44.5,C,Pass,2026-01-27
+STU-1033,Student #1033,Cybersecurity,Electronics & Comm,Sem 4,52.9,49,47.3,46,21.0,81.5,D,Fail,2026-06-04
+STU-1034,Student #1034,Artificial Intelligence,Data Science,Sem 4,50.8,55,44.5,52,22.9,87.5,C,Fail,2026-03-03
+STU-1035,Student #1035,Cybersecurity,Electronics & Comm,Sem 3,57.0,68,54.2,69,26.7,80.3,C,Fail,2026-04-28
+STU-1036,Student #1036,Python,Electronics & Comm,Sem 2,63.6,45,59.9,37,3.6,41.0,D,Pass,2026-07-13
+STU-1037,Student #1037,Database Management Systems,Computer Science,Sem 3,58.9,38,58.1,33,3.6,53.0,F,Fail,2026-01-10
+STU-1038,Student #1038,Data Structures,Electronics & Comm,Sem 6,50.7,81,56.9,69,30.8,64.1,A,Fail,2026-07-04
+STU-1039,Student #1039,Java,Electronics & Comm,Sem 3,93.8,78,93.8,78,27.4,91.6,B,Pass,2026-01-12
+STU-1040,Student #1040,Python,Information Technology,Sem 6,77.7,45,85.1,44,11.4,85.2,D,Pass,2026-08-07
+STU-1041,Student #1041,Data Structures,Electronics & Comm,Sem 4,73.7,42,66.4,39,4.9,73.7,D,Pass,2026-03-02
+STU-1042,Student #1042,Cloud Computing,Computer Science,Sem 5,55.5,56,52.8,50,27.2,94.9,C,Fail,2026-05-30
+STU-1043,Student #1043,Database Management Systems,Data Science,Sem 3,81.2,64,72.8,67,18.6,47.1,C,Pass,2026-03-30
+STU-1044,Student #1044,Web Development,Information Technology,Sem 5,89.6,57,91.2,67,19.7,80.8,C,Pass,2026-01-29
+STU-1045,Student #1045,Cloud Computing,AI & ML,Sem 5,73.5,30,80.5,26,2.3,56.8,F,Fail,2026-04-28
+STU-1046,Student #1046,Artificial Intelligence,Information Technology,Sem 3,63.2,61,72.0,50,27.8,58.1,C,Pass,2026-02-07
+STU-1047,Student #1047,Java,Computer Science,Sem 5,52.3,49,45.3,50,14.4,69.5,D,Fail,2026-05-12
+STU-1048,Student #1048,Java,Electronics & Comm,Sem 1,75.1,39,79.2,34,11.6,66.6,F,Fail,2026-04-13
+STU-1049,Student #1049,Cybersecurity,Information Technology,Sem 5,53.1,73,53.3,69,27.8,51.3,B,Fail,2026-01-05
+STU-1050,Student #1050,Cloud Computing,Information Technology,Sem 1,63.2,45,65.9,50,6.1,47.6,D,Pass,2026-02-24
+STU-1051,Student #1051,Web Development,AI & ML,Sem 3,71.4,79,80.5,75,32.2,43.6,B,Pass,2026-01-20
+STU-1052,Student #1052,Web Development,Computer Science,Sem 1,61.1,76,70.0,70,30.8,86.2,B,Pass,2026-04-13
+STU-1053,Student #1053,Python,Computer Science,Sem 1,53.5,69,57.1,80,28.7,93.1,C,Fail,2026-01-21
+STU-1054,Student #1054,Database Management Systems,AI & ML,Sem 2,77.3,53,68.5,50,11.8,70.5,C,Pass,2026-02-25
+STU-1055,Student #1055,Cybersecurity,Electronics & Comm,Sem 3,90.4,37,81.1,39,7.5,88.5,F,Fail,2026-03-11
+STU-1056,Student #1056,Cloud Computing,Electronics & Comm,Sem 4,95.6,76,91.5,85,24.0,53.0,B,Pass,2026-07-12
+STU-1057,Student #1057,Artificial Intelligence,Data Science,Sem 4,66.8,71,67.9,65,22.2,45.6,B,Pass,2026-02-02
+STU-1058,Student #1058,Cybersecurity,Data Science,Sem 5,73.7,65,75.7,57,14.4,44.8,C,Pass,2026-01-09
+STU-1059,Student #1059,Database Management Systems,AI & ML,Sem 6,62.5,62,64.5,50,23.1,55.7,C,Pass,2026-03-18
+STU-1060,Student #1060,Web Development,Electronics & Comm,Sem 3,95.9,100,89.5,90,34.3,82.4,A+,Pass,2026-01-24
+STU-1061,Student #1061,Database Management Systems,Information Technology,Sem 1,84.0,59,76.8,69,18.4,76.6,C,Pass,2026-04-21
+STU-1062,Student #1062,Cloud Computing,Data Science,Sem 3,56.7,31,62.7,36,8.9,74.5,F,Fail,2026-03-11
+STU-1063,Student #1063,Cloud Computing,Computer Science,Sem 2,75.0,73,83.9,78,27.0,54.5,B,Pass,2026-02-26
+STU-1064,Student #1064,Java,Information Technology,Sem 6,76.1,39,66.1,37,11.3,93.5,F,Fail,2026-07-11
+STU-1065,Student #1065,Cybersecurity,Data Science,Sem 3,72.0,79,77.6,89,30.0,95.3,B,Pass,2026-07-05
+STU-1066,Student #1066,Cybersecurity,Electronics & Comm,Sem 5,59.7,51,51.2,43,11.5,69.7,C,Fail,2026-01-10
+STU-1067,Student #1067,Database Management Systems,AI & ML,Sem 6,70.0,61,65.1,61,21.2,56.3,C,Pass,2026-01-07
+STU-1068,Student #1068,Data Structures,AI & ML,Sem 3,87.7,80,78.9,86,27.7,61.6,A,Pass,2026-03-07
+STU-1069,Student #1069,Artificial Intelligence,Computer Science,Sem 5,58.5,57,64.9,58,15.0,43.8,C,Fail,2026-02-17
+STU-1070,Student #1070,Cloud Computing,Computer Science,Sem 2,93.5,71,87.2,79,20.9,46.6,B,Pass,2026-04-14
+STU-1071,Student #1071,Artificial Intelligence,Computer Science,Sem 3,87.8,71,85.6,65,19.0,52.6,B,Pass,2026-04-06
+STU-1072,Student #1072,Web Development,AI & ML,Sem 5,67.6,68,62.0,58,32.3,94.2,C,Pass,2026-02-07
+STU-1073,Student #1073,Web Development,Computer Science,Sem 2,83.9,91,78.7,89,29.2,49.5,A+,Pass,2026-01-10
+STU-1074,Student #1074,Artificial Intelligence,Information Technology,Sem 4,69.5,64,60.9,62,17.4,44.7,C,Pass,2026-06-22
+STU-1075,Student #1075,Python,Electronics & Comm,Sem 1,92.0,66,87.1,60,11.9,88.0,C,Pass,2026-07-31
+STU-1076,Student #1076,Python,Computer Science,Sem 1,84.3,84,86.6,82,31.2,91.6,A,Pass,2026-06-01
+STU-1077,Student #1077,Data Structures,Data Science,Sem 6,65.4,40,56.0,34,8.4,61.3,D,Pass,2026-03-26
+STU-1078,Student #1078,Cybersecurity,Data Science,Sem 5,82.1,77,72.2,79,31.8,58.0,B,Pass,2026-06-10
+STU-1079,Student #1079,Web Development,AI & ML,Sem 1,70.4,58,69.4,53,16.2,94.8,C,Pass,2026-01-07
+STU-1080,Student #1080,Cybersecurity,Data Science,Sem 2,56.4,65,49.8,69,29.3,57.1,C,Fail,2026-05-17
+STU-1081,Student #1081,Web Development,Information Technology,Sem 1,79.2,64,73.8,68,23.0,67.5,C,Pass,2026-05-22
+STU-1082,Student #1082,Data Structures,Information Technology,Sem 5,54.8,78,61.9,84,29.4,93.0,B,Fail,2026-07-12
+STU-1083,Student #1083,Web Development,Computer Science,Sem 1,78.2,59,85.0,69,15.8,97.7,C,Pass,2026-03-20
+STU-1084,Student #1084,Java,AI & ML,Sem 6,70.9,58,67.5,53,14.8,46.8,C,Pass,2026-01-14
+STU-1085,Student #1085,Cloud Computing,Computer Science,Sem 6,70.9,67,77.6,77,31.2,62.5,C,Pass,2026-01-07
+STU-1086,Student #1086,Python,Computer Science,Sem 1,67.1,81,64.3,83,32.4,55.5,A,Pass,2026-05-26
+STU-1087,Student #1087,Artificial Intelligence,AI & ML,Sem 1,60.5,79,59.0,73,30.6,87.6,B,Pass,2026-04-20
+STU-1088,Student #1088,Web Development,Electronics & Comm,Sem 1,67.0,44,62.8,49,14.3,87.5,D,Pass,2026-08-15
+STU-1089,Student #1089,Cybersecurity,Information Technology,Sem 3,55.7,64,61.9,70,29.3,77.5,C,Fail,2026-07-08
+STU-1090,Student #1090,Python,Information Technology,Sem 1,85.4,51,86.3,42,3.2,80.9,C,Pass,2026-06-10
+STU-1091,Student #1091,Artificial Intelligence,Information Technology,Sem 4,85.2,50,87.2,42,8.9,58.8,C,Pass,2026-04-14
+STU-1092,Student #1092,Web Development,AI & ML,Sem 1,56.6,32,56.5,28,12.2,66.7,F,Fail,2026-05-05
+STU-1093,Student #1093,Artificial Intelligence,AI & ML,Sem 2,64.2,56,56.7,51,25.0,87.5,C,Pass,2026-04-24
+STU-1094,Student #1094,Java,Computer Science,Sem 4,51.1,46,42.3,55,14.9,93.3,D,Fail,2026-04-13
+STU-1095,Student #1095,Java,AI & ML,Sem 6,63.8,90,64.9,80,33.9,71.1,A+,Pass,2026-05-19
+STU-1096,Student #1096,Java,Electronics & Comm,Sem 6,55.7,54,52.9,60,11.7,84.9,C,Fail,2026-06-14
+STU-1097,Student #1097,Python,Electronics & Comm,Sem 5,73.5,81,75.3,83,27.1,47.3,A,Pass,2026-03-11
+STU-1098,Student #1098,Web Development,Data Science,Sem 6,96.3,36,93.4,34,3.4,67.0,F,Fail,2026-04-14
+STU-1099,Student #1099,Python,Data Science,Sem 2,82.2,47,87.5,49,13.7,83.9,D,Pass,2026-07-18
+STU-1100,Student #1100,Data Structures,Electronics & Comm,Sem 1,90.4,82,92.4,75,31.8,90.2,A,Pass,2026-05-28
+STU-1101,Student #1101,Cybersecurity,Data Science,Sem 6,64.7,61,69.5,69,29.7,94.7,C,Pass,2026-03-13
+STU-1102,Student #1102,Java,Data Science,Sem 5,80.9,31,76.8,25,3.9,89.9,F,Fail,2026-07-31
+STU-1103,Student #1103,Java,Electronics & Comm,Sem 5,60.4,86,62.6,80,35.0,95.9,A,Pass,2026-04-21
+STU-1104,Student #1104,Cybersecurity,Computer Science,Sem 3,75.1,76,80.8,68,32.5,94.9,B,Pass,2026-05-29
+STU-1105,Student #1105,Web Development,AI & ML,Sem 5,62.5,51,52.8,57,23.7,45.9,C,Pass,2026-02-26
+STU-1106,Student #1106,Python,Computer Science,Sem 3,68.3,57,76.2,56,10.0,78.7,C,Pass,2026-06-26
+STU-1107,Student #1107,Artificial Intelligence,Computer Science,Sem 5,89.6,98,95.2,88,32.8,71.4,A+,Pass,2026-01-17
+STU-1108,Student #1108,Data Structures,AI & ML,Sem 5,78.9,67,76.0,62,26.3,80.8,C,Pass,2026-04-20
+STU-1109,Student #1109,Cybersecurity,Information Technology,Sem 2,80.6,57,84.3,47,20.3,90.7,C,Pass,2026-03-30
+STU-1110,Student #1110,Cybersecurity,Information Technology,Sem 6,75.8,38,77.4,28,9.3,49.7,F,Fail,2026-02-18
+STU-1111,Student #1111,Cloud Computing,Electronics & Comm,Sem 3,65.5,73,66.3,61,29.7,74.1,B,Pass,2026-02-15
+STU-1112,Student #1112,Java,Computer Science,Sem 2,73.3,85,73.8,92,30.0,98.7,A,Pass,2026-05-01
+STU-1113,Student #1113,Python,Computer Science,Sem 2,55.3,46,60.9,48,21.6,66.2,D,Fail,2026-04-30
+STU-1114,Student #1114,Python,Electronics & Comm,Sem 1,52.1,46,56.0,43,11.9,70.8,D,Fail,2026-01-05
+STU-1115,Student #1115,Web Development,Data Science,Sem 3,97.2,60,93.3,58,15.7,69.9,C,Pass,2026-01-05
+STU-1116,Student #1116,Data Structures,Electronics & Comm,Sem 5,69.7,63,74.1,64,23.9,73.5,C,Pass,2026-01-09
+STU-1117,Student #1117,Python,Computer Science,Sem 5,60.0,32,69.2,36,7.5,89.8,F,Fail,2026-04-07
+STU-1118,Student #1118,Artificial Intelligence,Electronics & Comm,Sem 2,97.4,73,89.3,81,18.1,63.5,B,Pass,2026-08-04
+STU-1119,Student #1119,Cybersecurity,Electronics & Comm,Sem 4,75.0,36,79.6,29,9.5,59.0,F,Fail,2026-07-28
+STU-1120,Student #1120,Data Structures,AI & ML,Sem 6,69.7,66,72.2,63,20.9,80.7,C,Pass,2026-04-19
+STU-1001,Student #1001,Java,Electronics & Comm,Sem 1,85.6,70,92.3,81,25.5,51.0,B,Pass,2026-05-29
+STU-1002,Student #1002,Data Structures,Electronics & Comm,Sem 2,66.1,46,74.8,42,19.0,44.3,D,Pass,2026-04-28
+STU-1003,Student #1003,Database Management Systems,Data Science,Sem 4,76.7,69,82.7,69,29.1,77.1,C,Pass,2026-04-04
+STU-1004,Student #1004,Artificial Intelligence,AI & ML,Sem 5,56.0,53,54.7,64,23.8,70.0,C,Fail,2026-02-12
+STU-1005,Student #1005,Artificial Intelligence,Data Science,Sem 6,97.2,72,96.5,82,25.0,78.3,B,Pass,2026-01-14
+STU-1006,Student #1006,Web Development,Information Technology,Sem 4,84.8,69,79.4,75,16.2,48.6,C,Pass,2026-04-16
+STU-1007,Student #1007,Data Structures,Data Science,Sem 1,50.4,42,48.8,40,17.2,98.6,D,Fail,2026-07-25
+STU-1008,Student #1008,Data Structures,Electronics & Comm,Sem 5,67.3,61,76.2,51,28.5,62.1,C,Pass,2026-07-26
+STU-1009,Student #1009,Data Structures,Computer Science,Sem 2,62.6,60,55.5,71,23.4,71.9,C,Pass,2026-05-22
+STU-1010,Student #1010,Java,Computer Science,Sem 6,67.7,83,61.7,88,28.3,82.7,A,Pass,2026-04-24
+STU-1011,Student #1011,Java,Electronics & Comm,Sem 1,80.9,79,89.0,68,28.5,42.9,B,Pass,2026-01-20
+STU-1012,Student #1012,Cybersecurity,Computer Science,Sem 5,68.4,58,77.4,67,16.3,79.1,C,Pass,2026-01-24
+STU-1013,Student #1013,Python,AI & ML,Sem 1,50.3,36,48.1,43,7.1,87.0,F,Fail,2026-08-04
+STU-1014,Student #1014,Artificial Intelligence,Data Science,Sem 4,86.4,31,84.3,30,2.7,81.9,F,Fail,2026-05-07
+STU-1015,Student #1015,Web Development,Data Science,Sem 4,53.2,49,59.2,59,11.1,73.0,D,Fail,2026-06-18
+STU-1016,Student #1016,Python,AI & ML,Sem 5,56.2,60,56.5,63,20.2,55.9,C,Fail,2026-06-20
+STU-1017,Student #1017,Java,Electronics & Comm,Sem 5,76.8,76,85.7,87,30.3,74.1,B,Pass,2026-08-05
+STU-1018,Student #1018,Database Management Systems,Data Science,Sem 3,50.3,38,48.1,30,5.2,80.9,F,Fail,2026-08-06
+STU-1019,Student #1019,Cloud Computing,Electronics & Comm,Sem 3,95.5,79,92.4,84,27.2,74.5,B,Pass,2026-07-13
+STU-1020,Student #1020,Java,Data Science,Sem 6,79.7,89,79.8,95,34.6,57.9,A,Pass,2026-03-05
+STU-1021,Student #1021,Database Management Systems,Computer Science,Sem 4,99.4,64,100.0,64,17.4,83.0,C,Pass,2026-02-04
+STU-1022,Student #1022,Database Management Systems,Electronics & Comm,Sem 2,77.0,41,83.4,33,3.6,56.2,D,Pass,2026-03-27
+STU-1023,Student #1023,Cloud Computing,Electronics & Comm,Sem 6,86.5,37,84.4,47,2.7,82.5,F,Fail,2026-02-26
+STU-1024,Student #1024,Artificial Intelligence,Information Technology,Sem 5,78.8,45,76.2,48,13.6,77.1,D,Pass,2026-01-01
+STU-1025,Student #1025,Data Structures,Electronics & Comm,Sem 6,54.9,56,56.3,62,27.2,99.9,C,Fail,2026-04-17
+STU-1026,Student #1026,Data Structures,Information Technology,Sem 3,86.4,92,93.4,99,33.0,48.7,A+,Pass,2026-07-28
+STU-1027,Student #1027,Database Management Systems,AI & ML,Sem 1,54.1,30,59.8,25,2.4,45.1,F,Fail,2026-01-28
+STU-1028,Student #1028,Database Management Systems,Data Science,Sem 2,71.8,30,76.9,25,4.5,88.9,F,Fail,2026-02-24
+STU-1029,Student #1029,Database Management Systems,Information Technology,Sem 4,73.5,50,68.1,55,15.3,45.3,C,Pass,2026-01-28
+STU-1030,Student #1030,Cybersecurity,Electronics & Comm,Sem 2,72.8,67,75.4,55,27.0,48.0,C,Pass,2026-02-01
+STU-1031,Student #1031,Data Structures,Electronics & Comm,Sem 1,61.8,54,71.4,45,24.5,61.0,C,Pass,2026-05-18
+STU-1032,Student #1032,Data Structures,Information Technology,Sem 3,52.7,62,60.4,65,31.6,41.8,C,Fail,2026-06-11
+STU-1033,Student #1033,Artificial Intelligence,Data Science,Sem 6,86.2,62,76.3,71,14.1,85.0,C,Pass,2026-02-05
+STU-1034,Student #1034,Database Management Systems,Computer Science,Sem 5,74.7,37,68.6,33,5.2,61.1,F,Fail,2026-01-09
+STU-1035,Student #1035,Artificial Intelligence,Computer Science,Sem 1,71.4,41,80.2,52,15.1,58.3,D,Pass,2026-07-12
+STU-1036,Student #1036,Python,AI & ML,Sem 3,78.7,84,72.9,86,33.8,43.1,A,Pass,2026-03-06
+STU-1037,Student #1037,Java,Data Science,Sem 6,93.5,45,100.0,50,7.2,80.2,D,Pass,2026-05-13
+STU-1038,Student #1038,Python,AI & ML,Sem 1,75.9,59,67.7,60,23.5,95.7,C,Pass,2026-05-11
+STU-1039,Student #1039,Artificial Intelligence,Information Technology,Sem 5,69.9,64,67.6,65,26.2,72.5,C,Pass,2026-02-07
+STU-1040,Student #1040,Artificial Intelligence,Data Science,Sem 2,58.9,80,51.2,76,32.8,56.1,A,Fail,2026-07-03
+STU-1041,Student #1041,Python,Data Science,Sem 3,80.4,88,73.1,95,29.8,55.3,A,Pass,2026-02-10
+STU-1042,Student #1042,Cloud Computing,Electronics & Comm,Sem 2,58.1,44,63.9,45,10.3,78.6,D,Fail,2026-03-15
+STU-1043,Student #1043,Cybersecurity,Electronics & Comm,Sem 3,50.9,53,54.5,52,12.7,44.5,C,Fail,2026-05-07
+STU-1044,Student #1044,Artificial Intelligence,Information Technology,Sem 2,54.0,37,45.9,45,16.8,66.7,F,Fail,2026-07-29
+STU-1045,Student #1045,Web Development,Electronics & Comm,Sem 6,63.6,42,61.6,53,11.8,62.1,D,Pass,2026-05-03
+STU-1046,Student #1046,Web Development,Electronics & Comm,Sem 5,94.6,64,97.6,69,15.8,42.6,C,Pass,2026-02-20
+STU-1047,Student #1047,Artificial Intelligence,Information Technology,Sem 6,68.5,54,59.7,65,14.9,99.0,C,Pass,2026-07-15
+STU-1048,Student #1048,Artificial Intelligence,Electronics & Comm,Sem 5,93.3,93,84.5,98,29.6,51.7,A+,Pass,2026-08-10
+STU-1049,Student #1049,Web Development,Information Technology,Sem 5,53.9,34,44.1,41,11.9,71.9,F,Fail,2026-05-24
+STU-1050,Student #1050,Web Development,AI & ML,Sem 6,98.3,54,99.7,62,6.2,92.5,C,Pass,2026-03-11
+STU-1051,Student #1051,Data Structures,Computer Science,Sem 6,90.0,77,98.0,71,24.0,91.2,B,Pass,2026-08-07
+STU-1052,Student #1052,Java,Data Science,Sem 1,70.1,40,61.5,45,8.5,74.3,D,Pass,2026-06-02
+STU-1053,Student #1053,Web Development,AI & ML,Sem 5,70.5,66,70.3,67,17.7,43.7,C,Pass,2026-02-27
+STU-1054,Student #1054,Python,Information Technology,Sem 2,58.9,59,53.1,65,17.6,67.3,C,Fail,2026-06-29
+STU-1055,Student #1055,Artificial Intelligence,Electronics & Comm,Sem 6,60.3,62,63.8,52,17.9,82.1,C,Pass,2026-04-13
+STU-1056,Student #1056,Data Structures,Electronics & Comm,Sem 6,83.1,49,85.4,53,4.4,97.2,D,Pass,2026-04-14
+STU-1057,Student #1057,Database Management Systems,Information Technology,Sem 5,78.9,58,75.2,68,17.5,78.7,C,Pass,2026-06-26
+STU-1058,Student #1058,Artificial Intelligence,Information Technology,Sem 1,65.3,32,56.5,35,2.4,50.7,F,Fail,2026-05-28
+STU-1059,Student #1059,Cybersecurity,Electronics & Comm,Sem 2,85.5,36,95.1,42,2.3,52.6,F,Fail,2026-04-30
+STU-1060,Student #1060,Java,Electronics & Comm,Sem 3,78.8,61,79.8,70,14.5,96.8,C,Pass,2026-06-20
+STU-1061,Student #1061,Data Structures,Electronics & Comm,Sem 2,59.5,88,61.7,96,33.9,74.4,A,Fail,2026-02-07
+STU-1062,Student #1062,Web Development,Electronics & Comm,Sem 5,50.2,44,55.8,42,19.9,44.5,D,Fail,2026-04-26
+STU-1063,Student #1063,Python,AI & ML,Sem 1,55.7,51,62.8,49,22.0,64.1,C,Fail,2026-05-29
+STU-1064,Student #1064,Database Management Systems,Computer Science,Sem 1,94.6,59,93.2,69,19.1,54.1,C,Pass,2026-07-19
+STU-1065,Student #1065,Java,AI & ML,Sem 1,60.2,54,62.3,51,17.6,86.3,C,Pass,2026-07-14
+STU-1066,Student #1066,Web Development,Computer Science,Sem 6,64.5,49,61.2,54,17.9,59.2,D,Pass,2026-07-20
+STU-1067,Student #1067,Web Development,Data Science,Sem 3,92.4,77,87.0,67,29.7,76.1,B,Pass,2026-05-02
+STU-1068,Student #1068,Database Management Systems,Electronics & Comm,Sem 4,80.1,60,74.4,48,13.5,88.9,C,Pass,2026-08-07
+STU-1069,Student #1069,Java,Data Science,Sem 1,93.1,70,88.8,69,25.0,52.8,B,Pass,2026-03-20
+STU-1070,Student #1070,Cloud Computing,AI & ML,Sem 3,59.8,30,60.0,30,7.3,63.7,F,Fail,2026-07-26
+STU-1071,Student #1071,Artificial Intelligence,Electronics & Comm,Sem 3,66.3,69,73.4,80,25.5,47.1,C,Pass,2026-07-09
+STU-1072,Student #1072,Java,Data Science,Sem 2,98.1,59,94.1,49,18.3,47.3,C,Pass,2026-01-05
+STU-1073,Student #1073,Data Structures,Computer Science,Sem 2,64.9,43,74.1,44,4.2,42.0,D,Pass,2026-04-13
+STU-1074,Student #1074,Cybersecurity,Data Science,Sem 6,58.8,38,65.4,34,2.8,80.6,F,Fail,2026-04-29
+STU-1075,Student #1075,Cybersecurity,Computer Science,Sem 6,98.3,57,94.0,58,15.8,49.1,C,Pass,2026-01-10
+STU-1076,Student #1076,Artificial Intelligence,Information Technology,Sem 6,70.2,45,76.8,51,5.5,71.1,D,Pass,2026-05-14
+STU-1077,Student #1077,Web Development,Information Technology,Sem 3,69.5,62,68.3,73,24.0,82.7,C,Pass,2026-06-24
+STU-1078,Student #1078,Python,Computer Science,Sem 6,74.2,52,76.1,45,20.7,45.9,C,Pass,2026-02-23
+STU-1079,Student #1079,Database Management Systems,Data Science,Sem 5,63.2,77,71.9,71,29.5,50.1,B,Pass,2026-06-19
+STU-1080,Student #1080,Artificial Intelligence,Information Technology,Sem 6,94.6,39,100.0,33,5.9,94.1,F,Fail,2026-03-09
+STU-1081,Student #1081,Data Structures,AI & ML,Sem 1,82.7,43,82.3,35,6.3,83.3,D,Pass,2026-01-22
+STU-1082,Student #1082,Database Management Systems,Data Science,Sem 3,67.9,77,75.6,68,25.1,72.8,B,Pass,2026-02-12
+STU-1083,Student #1083,Database Management Systems,Data Science,Sem 3,78.9,73,82.1,70,32.4,61.1,B,Pass,2026-05-11
+STU-1084,Student #1084,Python,Computer Science,Sem 1,57.4,41,49.7,36,16.6,75.2,D,Fail,2026-05-13
+STU-1085,Student #1085,Python,AI & ML,Sem 6,77.4,64,76.0,52,27.9,63.8,C,Pass,2026-02-27
+STU-1086,Student #1086,Data Structures,Information Technology,Sem 1,95.2,83,87.2,89,27.2,98.1,A,Pass,2026-06-12
+STU-1087,Student #1087,Cloud Computing,Electronics & Comm,Sem 2,97.5,80,97.2,73,28.9,51.5,A,Pass,2026-01-04
+STU-1088,Student #1088,Artificial Intelligence,Information Technology,Sem 3,78.5,57,78.0,57,9.0,90.5,C,Pass,2026-07-10
+STU-1089,Student #1089,Web Development,Electronics & Comm,Sem 2,86.3,85,82.3,80,28.2,65.6,A,Pass,2026-05-18
+STU-1090,Student #1090,Java,Information Technology,Sem 3,54.0,55,52.9,55,16.2,42.7,C,Fail,2026-03-19
+STU-1091,Student #1091,Java,Information Technology,Sem 5,92.2,79,98.0,79,19.9,77.9,B,Pass,2026-03-16
+STU-1092,Student #1092,Artificial Intelligence,AI & ML,Sem 3,56.4,81,48.9,73,32.4,72.9,A,Fail,2026-08-14
+STU-1093,Student #1093,Java,AI & ML,Sem 3,95.1,44,95.4,43,8.4,61.9,D,Pass,2026-08-05
+STU-1094,Student #1094,Artificial Intelligence,Computer Science,Sem 1,81.2,68,86.7,76,24.3,50.0,C,Pass,2026-02-27
+STU-1095,Student #1095,Cybersecurity,Data Science,Sem 4,50.9,71,47.8,80,34.2,81.4,B,Fail,2026-03-27
+STU-1096,Student #1096,Java,Data Science,Sem 1,69.7,48,65.5,53,20.0,77.1,D,Pass,2026-05-24
+STU-1097,Student #1097,Python,Electronics & Comm,Sem 3,97.6,91,92.4,88,28.1,77.0,A+,Pass,2026-08-07
+STU-1098,Student #1098,Data Structures,AI & ML,Sem 4,80.6,91,73.3,90,31.7,82.4,A+,Pass,2026-02-14
+STU-1099,Student #1099,Java,AI & ML,Sem 4,93.6,42,93.3,42,8.1,68.7,D,Pass,2026-05-20
+STU-1100,Student #1100,Cloud Computing,Electronics & Comm,Sem 2,76.6,47,79.9,40,9.1,73.9,D,Pass,2026-05-12
+STU-1101,Student #1101,Java,Computer Science,Sem 5,94.3,80,97.8,68,19.5,72.3,A,Pass,2026-03-19
+STU-1102,Student #1102,Database Management Systems,Information Technology,Sem 4,94.5,79,97.8,80,25.6,40.8,B,Pass,2026-03-12
+STU-1103,Student #1103,Java,Computer Science,Sem 6,91.9,67,94.5,56,18.1,90.0,C,Pass,2026-04-18
+STU-1104,Student #1104,Web Development,Data Science,Sem 2,79.5,63,80.4,74,12.3,76.7,C,Pass,2026-08-01
+STU-1105,Student #1105,Database Management Systems,Data Science,Sem 5,60.6,70,53.0,59,33.2,78.8,B,Pass,2026-02-13
+STU-1106,Student #1106,Python,Electronics & Comm,Sem 5,84.3,54,91.9,56,4.2,52.5,C,Pass,2026-03-25
+STU-1107,Student #1107,Web Development,Electronics & Comm,Sem 6,74.6,70,66.8,79,29.5,58.3,B,Pass,2026-02-10
+STU-1108,Student #1108,Web Development,Information Technology,Sem 4,92.0,91,85.9,84,31.9,63.7,A+,Pass,2026-03-30
+STU-1109,Student #1109,Artificial Intelligence,Information Technology,Sem 4,75.1,76,80.4,73,22.3,57.2,B,Pass,2026-06-21
+STU-1110,Student #1110,Java,Information Technology,Sem 3,62.2,46,62.8,54,5.2,56.8,D,Pass,2026-06-28
+STU-1111,Student #1111,Data Structures,AI & ML,Sem 3,52.6,37,58.2,38,3.4,41.8,F,Fail,2026-06-30
+STU-1112,Student #1112,Java,Information Technology,Sem 6,54.5,49,45.0,46,15.1,92.1,D,Fail,2026-06-12
+STU-1113,Student #1113,Python,Data Science,Sem 5,99.1,73,100.0,80,26.3,40.2,B,Pass,2026-03-16
+STU-1114,Student #1114,Web Development,Information Technology,Sem 6,75.9,81,74.6,80,34.9,56.0,A,Pass,2026-03-24
+STU-1115,Student #1115,Python,AI & ML,Sem 1,92.2,68,89.4,61,23.8,65.7,C,Pass,2026-07-23
+STU-1116,Student #1116,Web Development,Information Technology,Sem 2,81.4,39,80.5,29,9.0,62.0,F,Fail,2026-03-12
+STU-1117,Student #1117,Cybersecurity,Information Technology,Sem 6,76.6,39,85.5,36,7.8,70.2,F,Fail,2026-05-18
+STU-1118,Student #1118,Web Development,AI & ML,Sem 1,64.7,75,65.8,75,34.4,49.6,B,Pass,2026-02-14
+STU-1119,Student #1119,Database Management Systems,Data Science,Sem 1,58.7,57,49.4,61,24.2,44.3,C,Fail,2026-08-02
+STU-1120,Student #1120,Web Development,Computer Science,Sem 4,69.6,47,61.2,41,14.6,96.2,D,Pass,2026-08-01
+STU-1001,Student #1001,Java,Electronics & Comm,Sem 2,75.4,37,84.1,34,9.9,69.4,F,Fail,2026-05-26
+STU-1002,Student #1002,Cybersecurity,Computer Science,Sem 5,88.9,87,81.4,93,30.6,49.2,A,Pass,2026-08-04
+STU-1003,Student #1003,Cloud Computing,Information Technology,Sem 6,98.6,55,93.5,57,16.0,87.2,C,Pass,2026-05-05
+STU-1004,Student #1004,Python,Data Science,Sem 5,96.8,50,96.8,60,12.1,71.8,C,Pass,2026-06-26
+STU-1005,Student #1005,Cybersecurity,Electronics & Comm,Sem 4,63.7,78,72.5,72,32.7,76.7,B,Pass,2026-05-01
+STU-1006,Student #1006,Python,Data Science,Sem 1,67.9,57,59.6,47,14.5,76.0,C,Pass,2026-03-15
+STU-1007,Student #1007,Cybersecurity,Computer Science,Sem 1,76.6,39,79.9,44,9.8,51.8,F,Fail,2026-08-11
+STU-1008,Student #1008,Database Management Systems,Electronics & Comm,Sem 5,84.5,94,83.1,88,32.9,76.1,A+,Pass,2026-06-16
+STU-1009,Student #1009,Java,AI & ML,Sem 5,93.3,79,99.0,84,18.6,88.0,B,Pass,2026-04-29
+STU-1010,Student #1010,Java,Electronics & Comm,Sem 4,94.9,75,94.1,73,18.4,75.2,B,Pass,2026-05-16
+STU-1011,Student #1011,Artificial Intelligence,Electronics & Comm,Sem 4,78.2,47,86.0,54,10.0,99.2,D,Pass,2026-05-05
+STU-1012,Student #1012,Cloud Computing,AI & ML,Sem 3,72.9,55,71.9,53,23.4,79.4,C,Pass,2026-06-03
+STU-1013,Student #1013,Artificial Intelligence,AI & ML,Sem 5,86.2,89,84.5,88,28.6,40.8,A,Pass,2026-05-29
+STU-1014,Student #1014,Data Structures,Information Technology,Sem 3,98.4,98,99.8,99,29.3,57.6,A+,Pass,2026-05-25
+STU-1015,Student #1015,Web Development,AI & ML,Sem 3,94.6,45,97.9,43,10.7,95.8,D,Pass,2026-06-04
+STU-1016,Student #1016,Artificial Intelligence,Electronics & Comm,Sem 2,60.8,54,56.4,56,20.9,92.5,C,Pass,2026-03-10
+STU-1017,Student #1017,Database Management Systems,Computer Science,Sem 3,65.8,48,55.8,50,15.6,47.7,D,Pass,2026-01-15
+STU-1018,Student #1018,Java,Computer Science,Sem 5,83.6,94,88.4,84,32.4,77.8,A+,Pass,2026-07-02
+STU-1019,Student #1019,Data Structures,Information Technology,Sem 5,66.7,46,64.6,35,16.1,53.1,D,Pass,2026-04-17
+STU-1020,Student #1020,Cybersecurity,AI & ML,Sem 6,80.4,55,78.2,62,19.4,81.2,C,Pass,2026-03-30
+STU-1021,Student #1021,Database Management Systems,Information Technology,Sem 2,95.1,83,94.6,94,22.0,56.5,A,Pass,2026-01-02
+STU-1022,Student #1022,Cloud Computing,Data Science,Sem 2,83.0,65,86.3,73,12.8,73.5,C,Pass,2026-07-15
+STU-1023,Student #1023,Java,Electronics & Comm,Sem 1,87.2,63,96.5,62,13.8,53.2,C,Pass,2026-03-21
+STU-1024,Student #1024,Artificial Intelligence,AI & ML,Sem 2,54.2,63,52.5,62,28.7,42.5,C,Fail,2026-03-06
+STU-1025,Student #1025,Artificial Intelligence,Information Technology,Sem 6,67.2,57,70.0,65,20.2,84.3,C,Pass,2026-04-23
+STU-1026,Student #1026,Data Structures,AI & ML,Sem 6,68.3,64,59.1,60,30.9,74.7,C,Pass,2026-03-11
+STU-1027,Student #1027,Web Development,Information Technology,Sem 3,58.0,66,57.2,55,22.3,82.6,C,Fail,2026-07-09
+STU-1028,Student #1028,Database Management Systems,Electronics & Comm,Sem 3,70.5,50,79.6,43,15.6,47.7,C,Pass,2026-02-08
+STU-1029,Student #1029,Cloud Computing,Computer Science,Sem 1,52.3,44,44.4,38,18.3,57.0,D,Fail,2026-02-21
+STU-1030,Student #1030,Web Development,Data Science,Sem 2,60.2,44,58.5,34,8.5,40.8,D,Pass,2026-01-01
+STU-1031,Student #1031,Artificial Intelligence,Computer Science,Sem 2,78.1,50,85.6,43,3.5,76.0,C,Pass,2026-06-30
+STU-1032,Student #1032,Web Development,Information Technology,Sem 5,51.7,61,46.1,72,28.0,99.2,C,Fail,2026-02-09
+STU-1033,Student #1033,Data Structures,Computer Science,Sem 5,79.9,50,77.5,39,12.3,90.6,C,Pass,2026-06-15
+STU-1034,Student #1034,Artificial Intelligence,Electronics & Comm,Sem 1,86.4,35,85.0,29,3.7,56.0,F,Fail,2026-05-27
+STU-1035,Student #1035,Cloud Computing,AI & ML,Sem 4,85.5,81,90.1,83,28.7,70.5,A,Pass,2026-03-06
+STU-1036,Student #1036,Database Management Systems,Computer Science,Sem 4,85.0,67,75.1,61,18.9,52.6,C,Pass,2026-06-30
+STU-1037,Student #1037,Data Structures,Electronics & Comm,Sem 3,51.4,45,49.4,55,7.6,85.3,D,Fail,2026-03-29
+STU-1038,Student #1038,Cybersecurity,Electronics & Comm,Sem 2,63.6,43,62.2,42,8.5,90.4,D,Pass,2026-06-16
+STU-1039,Student #1039,Cybersecurity,Computer Science,Sem 3,65.6,69,69.1,65,26.4,60.3,C,Pass,2026-04-23
+STU-1040,Student #1040,Cloud Computing,Computer Science,Sem 6,90.0,43,87.4,51,6.8,70.7,D,Pass,2026-01-19
+STU-1041,Student #1041,Data Structures,Computer Science,Sem 4,75.6,70,66.9,70,22.3,43.4,B,Pass,2026-03-27
+STU-1042,Student #1042,Java,AI & ML,Sem 4,77.1,60,75.6,56,17.2,53.2,C,Pass,2026-02-08
+STU-1043,Student #1043,Data Structures,AI & ML,Sem 4,50.4,63,44.1,73,26.3,62.7,C,Fail,2026-04-22
+STU-1044,Student #1044,Database Management Systems,AI & ML,Sem 4,84.8,71,93.4,62,17.7,54.8,B,Pass,2026-04-09
+STU-1045,Student #1045,Cloud Computing,Computer Science,Sem 1,81.6,73,84.6,80,23.3,79.8,B,Pass,2026-05-18
+STU-1046,Student #1046,Artificial Intelligence,Data Science,Sem 3,54.0,48,44.8,42,21.6,53.4,D,Fail,2026-02-03
+STU-1047,Student #1047,Data Structures,Data Science,Sem 6,77.1,48,76.9,57,3.3,48.9,D,Pass,2026-01-04
+STU-1048,Student #1048,Cloud Computing,Information Technology,Sem 5,93.0,51,100.0,44,14.4,54.7,C,Pass,2026-08-01
+STU-1049,Student #1049,Python,Data Science,Sem 1,74.2,87,81.6,88,31.9,43.5,A,Pass,2026-05-19
+STU-1050,Student #1050,Cloud Computing,AI & ML,Sem 6,84.9,64,76.0,58,18.0,62.2,C,Pass,2026-04-18
+STU-1051,Student #1051,Data Structures,AI & ML,Sem 4,57.7,51,62.2,47,18.5,40.9,C,Fail,2026-08-08
+STU-1052,Student #1052,Cybersecurity,Computer Science,Sem 6,72.9,53,77.3,58,13.2,89.4,C,Pass,2026-02-04
+STU-1053,Student #1053,Artificial Intelligence,Data Science,Sem 3,72.3,42,81.3,51,13.9,49.1,D,Pass,2026-07-07
+STU-1054,Student #1054,Python,Information Technology,Sem 4,76.2,75,73.3,82,28.8,48.6,B,Pass,2026-05-07
+STU-1055,Student #1055,Artificial Intelligence,AI & ML,Sem 6,69.4,61,69.8,72,18.7,62.1,C,Pass,2026-07-30
+STU-1056,Student #1056,Cybersecurity,Information Technology,Sem 5,64.1,39,63.1,32,3.9,98.1,F,Fail,2026-03-18
+STU-1057,Student #1057,Cybersecurity,Data Science,Sem 3,56.9,53,48.7,64,18.5,52.5,C,Fail,2026-02-28
+STU-1058,Student #1058,Artificial Intelligence,Data Science,Sem 2,86.0,42,78.9,47,9.6,85.9,D,Pass,2026-04-13
+STU-1059,Student #1059,Data Structures,Information Technology,Sem 6,70.4,49,75.3,50,14.6,89.8,D,Pass,2026-05-02
+STU-1060,Student #1060,Cybersecurity,AI & ML,Sem 5,96.9,69,96.8,76,12.1,60.3,C,Pass,2026-01-26
+STU-1061,Student #1061,Cybersecurity,Data Science,Sem 1,82.6,52,73.7,46,5.1,73.8,C,Pass,2026-07-01
+STU-1062,Student #1062,Database Management Systems,Computer Science,Sem 3,77.4,40,78.7,35,3.2,57.4,D,Pass,2026-04-19
+STU-1063,Student #1063,Cybersecurity,Electronics & Comm,Sem 2,76.9,35,82.0,29,5.5,89.9,F,Fail,2026-04-04
+STU-1064,Student #1064,Artificial Intelligence,Computer Science,Sem 2,63.0,79,71.8,74,31.8,69.0,B,Pass,2026-06-01
+STU-1065,Student #1065,Web Development,Computer Science,Sem 6,57.4,30,66.1,41,4.1,48.5,F,Fail,2026-06-16
+STU-1066,Student #1066,Cloud Computing,Data Science,Sem 3,59.4,56,49.5,66,15.2,82.4,C,Fail,2026-03-26
+STU-1067,Student #1067,Artificial Intelligence,Information Technology,Sem 5,51.2,60,47.5,55,23.3,92.4,C,Fail,2026-07-11
+STU-1068,Student #1068,Cybersecurity,Electronics & Comm,Sem 1,84.6,95,75.8,100,34.5,41.1,A+,Pass,2026-05-31
+STU-1069,Student #1069,Database Management Systems,Data Science,Sem 6,58.9,82,52.8,83,31.6,68.9,A,Fail,2026-03-16
+STU-1070,Student #1070,Database Management Systems,Data Science,Sem 2,74.5,64,72.9,64,17.2,51.4,C,Pass,2026-07-17
+STU-1071,Student #1071,Cybersecurity,AI & ML,Sem 5,98.7,77,90.7,69,27.8,98.7,B,Pass,2026-01-31
+STU-1072,Student #1072,Cybersecurity,Electronics & Comm,Sem 1,77.7,70,85.2,68,23.5,96.1,B,Pass,2026-08-04
+STU-1073,Student #1073,Java,AI & ML,Sem 1,81.3,91,90.5,100,31.1,88.2,A+,Pass,2026-01-16
+STU-1074,Student #1074,Java,Computer Science,Sem 2,84.5,93,82.2,93,32.1,45.5,A+,Pass,2026-05-11
+STU-1075,Student #1075,Cloud Computing,Data Science,Sem 6,51.0,30,46.1,39,11.1,40.1,F,Fail,2026-04-20
+STU-1076,Student #1076,Database Management Systems,Data Science,Sem 2,84.8,30,89.6,39,2.5,56.9,F,Fail,2026-07-28
+STU-1077,Student #1077,Artificial Intelligence,Electronics & Comm,Sem 4,58.1,59,67.4,54,22.1,76.7,C,Fail,2026-07-23
+STU-1078,Student #1078,Python,AI & ML,Sem 1,55.0,36,49.6,40,7.0,68.1,F,Fail,2026-02-21
+STU-1079,Student #1079,Web Development,AI & ML,Sem 2,65.9,68,74.4,64,18.7,75.7,C,Pass,2026-06-19
+STU-1080,Student #1080,Data Structures,AI & ML,Sem 1,77.9,44,87.8,50,13.1,90.1,D,Pass,2026-05-14
+STU-1081,Student #1081,Cybersecurity,Computer Science,Sem 2,52.3,35,52.8,25,10.0,62.2,F,Fail,2026-04-08
+STU-1082,Student #1082,Java,AI & ML,Sem 3,50.8,48,59.9,56,22.1,43.7,D,Fail,2026-07-23
+STU-1083,Student #1083,Java,AI & ML,Sem 1,70.4,35,74.4,32,7.5,87.4,F,Fail,2026-06-14
+STU-1084,Student #1084,Cybersecurity,Data Science,Sem 1,55.9,33,55.7,43,2.9,62.0,F,Fail,2026-07-08
+STU-1085,Student #1085,Cloud Computing,Electronics & Comm,Sem 6,64.3,38,62.4,42,15.2,81.8,F,Fail,2026-08-15
+STU-1086,Student #1086,Database Management Systems,Data Science,Sem 2,58.9,68,52.5,72,34.9,53.9,C,Fail,2026-04-23
+STU-1087,Student #1087,Web Development,Electronics & Comm,Sem 2,87.5,45,90.3,47,4.3,60.9,D,Pass,2026-05-01
+STU-1088,Student #1088,Database Management Systems,Electronics & Comm,Sem 2,53.1,79,46.6,71,30.4,84.7,B,Fail,2026-03-17
+STU-1089,Student #1089,Web Development,AI & ML,Sem 3,62.8,44,63.0,35,17.6,88.1,D,Pass,2026-01-17
+STU-1090,Student #1090,Java,Computer Science,Sem 2,88.0,50,84.4,45,10.8,72.0,C,Pass,2026-07-03
+STU-1091,Student #1091,Data Structures,Electronics & Comm,Sem 1,70.0,58,67.9,59,10.4,73.2,C,Pass,2026-03-06
+STU-1092,Student #1092,Cloud Computing,Information Technology,Sem 2,85.0,97,88.4,92,34.1,40.8,A+,Pass,2026-07-17
+STU-1093,Student #1093,Python,Electronics & Comm,Sem 5,82.1,69,74.5,71,29.4,75.6,C,Pass,2026-03-27
+STU-1094,Student #1094,Web Development,Information Technology,Sem 4,95.9,72,98.6,80,15.5,65.2,B,Pass,2026-06-28
+STU-1095,Student #1095,Java,Information Technology,Sem 2,67.2,64,66.6,58,26.2,88.0,C,Pass,2026-01-02
+STU-1096,Student #1096,Java,AI & ML,Sem 4,54.2,50,57.0,55,26.0,96.2,C,Fail,2026-04-14
+STU-1097,Student #1097,Database Management Systems,Data Science,Sem 2,96.4,64,100.0,58,20.9,48.2,C,Pass,2026-07-05
+STU-1098,Student #1098,Web Development,Electronics & Comm,Sem 4,57.2,30,56.3,32,4.3,82.6,F,Fail,2026-01-16
+STU-1099,Student #1099,Artificial Intelligence,Data Science,Sem 4,84.3,66,80.9,66,17.9,75.7,C,Pass,2026-03-31
+STU-1100,Student #1100,Web Development,Information Technology,Sem 4,98.8,50,94.0,49,4.8,91.4,C,Pass,2026-05-05
+STU-1101,Student #1101,Cloud Computing,Data Science,Sem 5,73.1,58,82.5,49,16.6,97.2,C,Pass,2026-06-22
+STU-1102,Student #1102,Web Development,Data Science,Sem 4,92.5,87,94.1,86,33.9,76.8,A,Pass,2026-06-01
+STU-1103,Student #1103,Python,AI & ML,Sem 4,54.0,50,62.2,59,13.7,75.4,C,Fail,2026-02-03
+STU-1104,Student #1104,Python,Information Technology,Sem 6,56.1,49,51.1,48,13.3,67.3,D,Fail,2026-02-07
+STU-1105,Student #1105,Web Development,AI & ML,Sem 6,86.6,97,76.7,85,34.2,59.3,A+,Pass,2026-02-14
+STU-1106,Student #1106,Artificial Intelligence,Electronics & Comm,Sem 4,93.6,80,93.2,79,25.7,82.4,A,Pass,2026-05-11
+STU-1107,Student #1107,Database Management Systems,AI & ML,Sem 1,62.7,43,61.0,51,10.9,71.1,D,Pass,2026-06-17
+STU-1108,Student #1108,Java,Information Technology,Sem 1,60.0,37,53.8,31,13.0,85.1,F,Fail,2026-03-02
+STU-1109,Student #1109,Cybersecurity,Information Technology,Sem 6,59.8,30,58.4,25,5.7,98.8,F,Fail,2026-04-26
+STU-1110,Student #1110,Cloud Computing,Electronics & Comm,Sem 5,88.9,92,88.4,88,32.4,96.5,A+,Pass,2026-08-01
+STU-1111,Student #1111,Python,Computer Science,Sem 1,60.7,42,54.4,37,18.3,93.1,D,Pass,2026-05-21
+STU-1112,Student #1112,Data Structures,AI & ML,Sem 6,94.4,76,93.5,65,20.0,66.5,B,Pass,2026-07-04
+STU-1113,Student #1113,Cloud Computing,Computer Science,Sem 5,86.0,72,84.4,68,28.3,99.2,B,Pass,2026-05-04
+STU-1114,Student #1114,Web Development,Data Science,Sem 5,64.8,72,64.1,76,25.9,82.6,B,Pass,2026-05-17
+STU-1115,Student #1115,Database Management Systems,Data Science,Sem 2,77.6,59,77.4,48,25.9,53.2,C,Pass,2026-03-19
+STU-1116,Student #1116,Python,AI & ML,Sem 6,81.7,58,91.4,58,16.7,71.2,C,Pass,2026-08-12
+STU-1117,Student #1117,Database Management Systems,Electronics & Comm,Sem 4,75.4,34,82.7,27,2.8,54.5,F,Fail,2026-07-12
+STU-1118,Student #1118,Python,Computer Science,Sem 3,83.2,80,87.4,78,28.2,59.7,A,Pass,2026-07-01
+STU-1119,Student #1119,Web Development,Information Technology,Sem 1,64.3,50,67.6,50,23.2,69.7,C,Pass,2026-03-01
+STU-1120,Student #1120,Artificial Intelligence,Data Science,Sem 6,93.6,71,93.3,79,28.8,73.2,B,Pass,2026-06-08
+STU-1001,Student #1001,Cloud Computing,Computer Science,Sem 5,87.6,46,87.3,53,13.2,41.2,D,Pass,2026-03-12
+STU-1002,Student #1002,Artificial Intelligence,AI & ML,Sem 6,74.4,38,84.2,42,2.6,48.6,F,Fail,2026-04-25
+STU-1003,Student #1003,Web Development,Electronics & Comm,Sem 1,68.7,77,60.4,78,28.3,68.4,B,Pass,2026-08-07
+STU-1004,Student #1004,Cybersecurity,Data Science,Sem 2,55.4,69,53.6,80,25.8,89.9,C,Fail,2026-06-14
+STU-1005,Student #1005,Web Development,Data Science,Sem 1,69.8,38,79.5,46,10.5,91.8,F,Fail,2026-02-23
+STU-1006,Student #1006,Database Management Systems,AI & ML,Sem 5,79.0,66,83.2,71,20.8,74.5,C,Pass,2026-03-15
+STU-1007,Student #1007,Cybersecurity,Computer Science,Sem 1,98.4,55,90.7,48,6.3,94.3,C,Pass,2026-01-13
+STU-1008,Student #1008,Data Structures,Computer Science,Sem 3,51.6,30,55.4,25,5.4,94.3,F,Fail,2026-05-15
+STU-1009,Student #1009,Database Management Systems,Information Technology,Sem 6,87.0,46,84.5,36,2.9,42.8,D,Pass,2026-03-19
+STU-1010,Student #1010,Cloud Computing,Information Technology,Sem 3,84.3,71,79.7,79,25.0,64.8,B,Pass,2026-02-15
+STU-1011,Student #1011,Database Management Systems,Information Technology,Sem 3,57.2,30,55.1,39,6.2,87.1,F,Fail,2026-02-27
+STU-1012,Student #1012,Java,AI & ML,Sem 2,74.1,56,73.1,46,20.7,48.0,C,Pass,2026-08-09
+STU-1013,Student #1013,Data Structures,Electronics & Comm,Sem 1,87.3,72,96.7,81,17.1,91.4,B,Pass,2026-03-20
+STU-1014,Student #1014,Data Structures,Electronics & Comm,Sem 2,98.3,55,94.1,59,15.0,60.5,C,Pass,2026-07-24
+STU-1015,Student #1015,Cloud Computing,Computer Science,Sem 4,69.2,53,61.7,55,16.1,85.7,C,Pass,2026-02-27
+STU-1016,Student #1016,Python,Computer Science,Sem 5,59.6,86,63.2,77,33.6,58.9,A,Fail,2026-01-03
+STU-1017,Student #1017,Java,Data Science,Sem 1,70.0,46,70.9,34,11.2,58.4,D,Pass,2026-03-13
+STU-1018,Student #1018,Database Management Systems,Computer Science,Sem 1,84.5,86,87.1,75,32.3,98.0,A,Pass,2026-06-11
+STU-1019,Student #1019,Cybersecurity,Computer Science,Sem 2,86.8,85,88.9,76,25.7,43.7,A,Pass,2026-03-28
+STU-1020,Student #1020,Database Management Systems,Electronics & Comm,Sem 1,52.7,54,52.1,47,13.1,64.2,C,Fail,2026-01-12
+STU-1021,Student #1021,Artificial Intelligence,Data Science,Sem 1,61.1,66,60.8,66,18.4,85.0,C,Pass,2026-07-24
+STU-1022,Student #1022,Data Structures,Electronics & Comm,Sem 5,76.6,30,70.7,38,2.7,94.2,F,Fail,2026-07-06
+STU-1023,Student #1023,Java,Data Science,Sem 3,51.1,41,45.2,31,14.3,71.3,D,Fail,2026-05-03
+STU-1024,Student #1024,Java,Information Technology,Sem 1,95.9,66,92.2,74,16.1,90.4,C,Pass,2026-03-05
+STU-1025,Student #1025,Python,AI & ML,Sem 6,95.2,43,87.1,44,6.1,66.0,D,Pass,2026-02-25
+STU-1026,Student #1026,Cloud Computing,Data Science,Sem 5,90.7,76,82.4,78,23.6,58.3,B,Pass,2026-01-05
+STU-1027,Student #1027,Database Management Systems,Electronics & Comm,Sem 5,53.0,60,52.7,61,18.5,75.8,C,Fail,2026-02-27
+STU-1028,Student #1028,Cybersecurity,AI & ML,Sem 2,57.0,30,56.1,34,11.2,76.7,F,Fail,2026-07-15
+STU-1029,Student #1029,Web Development,Information Technology,Sem 2,72.8,52,70.0,45,13.9,46.5,C,Pass,2026-04-08
+STU-1030,Student #1030,Java,Computer Science,Sem 3,87.1,52,89.6,46,10.3,95.7,C,Pass,2026-08-05
+STU-1031,Student #1031,Python,AI & ML,Sem 6,68.4,58,76.1,59,17.0,91.4,C,Pass,2026-04-22
+STU-1032,Student #1032,Java,Computer Science,Sem 3,80.2,59,82.5,54,19.0,52.6,C,Pass,2026-06-18
+STU-1033,Student #1033,Python,Information Technology,Sem 6,53.0,32,59.1,25,3.6,50.8,F,Fail,2026-07-07
+STU-1034,Student #1034,Data Structures,Data Science,Sem 4,60.0,57,63.5,59,22.4,47.5,C,Pass,2026-04-01
+STU-1035,Student #1035,Cloud Computing,Computer Science,Sem 4,70.1,80,64.4,76,25.7,66.4,A,Pass,2026-04-14
+STU-1036,Student #1036,Data Structures,Data Science,Sem 3,93.8,56,90.6,47,15.1,53.2,C,Pass,2026-01-02
+STU-1037,Student #1037,Cloud Computing,AI & ML,Sem 6,71.6,41,76.3,34,13.0,42.3,D,Pass,2026-08-06
+STU-1038,Student #1038,Cloud Computing,Electronics & Comm,Sem 4,53.5,70,61.7,64,22.8,52.3,B,Fail,2026-04-04
+STU-1039,Student #1039,Database Management Systems,Electronics & Comm,Sem 6,88.0,62,90.2,72,8.7,79.5,C,Pass,2026-02-25
+STU-1040,Student #1040,Cloud Computing,Computer Science,Sem 1,56.8,43,57.8,38,10.8,40.0,D,Fail,2026-05-10
+STU-1041,Student #1041,Database Management Systems,Computer Science,Sem 6,67.0,32,65.3,34,7.2,76.6,F,Fail,2026-06-21
+STU-1042,Student #1042,Artificial Intelligence,Computer Science,Sem 3,50.1,70,55.6,77,32.9,49.0,B,Fail,2026-05-09
+STU-1043,Student #1043,Artificial Intelligence,Computer Science,Sem 5,50.5,57,51.3,67,28.6,86.7,C,Fail,2026-02-17
+STU-1044,Student #1044,Cloud Computing,Data Science,Sem 2,79.5,56,71.7,59,22.3,82.4,C,Pass,2026-05-08
+STU-1045,Student #1045,Java,Data Science,Sem 4,74.4,49,64.8,48,9.4,52.1,D,Pass,2026-03-05
+STU-1046,Student #1046,Artificial Intelligence,Data Science,Sem 6,69.4,52,77.7,60,20.2,93.2,C,Pass,2026-02-03
+STU-1047,Student #1047,Cybersecurity,AI & ML,Sem 2,60.9,49,65.0,51,18.7,43.2,D,Pass,2026-07-24
+STU-1048,Student #1048,Cybersecurity,Electronics & Comm,Sem 5,88.6,75,79.4,66,30.0,56.2,B,Pass,2026-01-08
+STU-1049,Student #1049,Data Structures,Information Technology,Sem 2,58.3,60,65.9,60,28.2,78.1,C,Fail,2026-08-13
+STU-1050,Student #1050,Java,AI & ML,Sem 2,51.7,40,61.2,33,17.2,71.1,D,Fail,2026-03-23
+STU-1051,Student #1051,Cloud Computing,Computer Science,Sem 3,70.1,36,67.2,39,5.6,99.1,F,Fail,2026-03-09
+STU-1052,Student #1052,Database Management Systems,Computer Science,Sem 1,82.6,46,90.6,46,7.7,52.2,D,Pass,2026-08-02
+STU-1053,Student #1053,Artificial Intelligence,Electronics & Comm,Sem 6,51.1,35,55.5,44,14.0,75.5,F,Fail,2026-04-26
+STU-1054,Student #1054,Cloud Computing,Data Science,Sem 1,98.8,52,99.4,62,6.3,78.4,C,Pass,2026-05-08
+STU-1055,Student #1055,Web Development,Electronics & Comm,Sem 5,78.2,64,82.3,67,12.9,81.2,C,Pass,2026-08-08
+STU-1056,Student #1056,Web Development,Computer Science,Sem 4,99.2,85,100.0,95,30.3,96.3,A,Pass,2026-02-09
+STU-1057,Student #1057,Data Structures,Information Technology,Sem 5,60.5,39,67.7,31,4.5,45.2,F,Fail,2026-07-21
+STU-1058,Student #1058,Cloud Computing,AI & ML,Sem 2,90.8,84,81.0,76,23.3,88.2,A,Pass,2026-04-18
+STU-1059,Student #1059,Web Development,Electronics & Comm,Sem 1,90.1,71,87.7,70,24.1,92.5,B,Pass,2026-07-21
+STU-1060,Student #1060,Cloud Computing,Computer Science,Sem 5,93.3,48,88.3,41,12.1,66.4,D,Pass,2026-01-25
+STU-1061,Student #1061,Cloud Computing,Computer Science,Sem 4,68.9,45,62.5,33,9.1,96.1,D,Pass,2026-01-23
+STU-1062,Student #1062,Database Management Systems,Electronics & Comm,Sem 3,85.4,92,87.2,80,34.7,94.7,A+,Pass,2026-03-09
+STU-1063,Student #1063,Cybersecurity,Computer Science,Sem 2,94.7,77,100.0,76,17.3,88.9,B,Pass,2026-05-20
+STU-1064,Student #1064,Java,Computer Science,Sem 4,96.7,74,100.0,67,22.1,78.2,B,Pass,2026-07-28
+STU-1065,Student #1065,Python,Information Technology,Sem 1,77.8,45,79.1,54,5.3,52.0,D,Pass,2026-02-18
+STU-1066,Student #1066,Java,Data Science,Sem 2,50.5,30,49.9,25,5.5,77.6,F,Fail,2026-04-19
+STU-1067,Student #1067,Artificial Intelligence,Information Technology,Sem 3,58.7,48,60.5,56,15.3,55.0,D,Fail,2026-02-11
+STU-1068,Student #1068,Database Management Systems,Information Technology,Sem 5,67.7,62,62.4,73,18.2,71.3,C,Pass,2026-07-04
+STU-1069,Student #1069,Database Management Systems,AI & ML,Sem 1,73.2,43,82.4,53,15.0,87.7,D,Pass,2026-08-02
+STU-1070,Student #1070,Java,Data Science,Sem 2,59.2,74,65.2,76,28.9,69.4,B,Fail,2026-01-22
+STU-1071,Student #1071,Java,Information Technology,Sem 3,69.7,80,63.0,68,32.5,92.4,A,Pass,2026-06-02
+STU-1072,Student #1072,Cybersecurity,Information Technology,Sem 4,54.5,66,58.6,66,23.2,78.5,C,Fail,2026-05-18
+STU-1073,Student #1073,Data Structures,Computer Science,Sem 4,57.2,55,52.9,55,19.2,56.9,C,Fail,2026-06-06
+STU-1074,Student #1074,Java,Electronics & Comm,Sem 6,90.7,88,90.7,77,25.7,50.8,A,Pass,2026-08-06
+STU-1075,Student #1075,Cloud Computing,Electronics & Comm,Sem 6,71.0,43,61.7,35,15.6,84.5,D,Pass,2026-04-22
+STU-1076,Student #1076,Artificial Intelligence,Information Technology,Sem 4,51.9,48,52.0,57,23.6,81.7,D,Fail,2026-07-07
+STU-1077,Student #1077,Java,AI & ML,Sem 3,69.0,34,60.9,25,8.6,55.8,F,Fail,2026-07-10
+STU-1078,Student #1078,Java,Electronics & Comm,Sem 3,98.8,91,93.4,99,33.1,74.3,A+,Pass,2026-08-11
+STU-1079,Student #1079,Web Development,Computer Science,Sem 4,96.4,93,92.0,99,31.7,45.8,A+,Pass,2026-06-22
+STU-1080,Student #1080,Python,Information Technology,Sem 2,76.7,68,67.9,63,23.0,45.9,C,Pass,2026-07-01
+STU-1081,Student #1081,Database Management Systems,AI & ML,Sem 3,88.3,45,85.3,37,6.8,70.4,D,Pass,2026-06-20
+STU-1082,Student #1082,Python,Data Science,Sem 5,66.4,60,74.6,69,13.3,90.2,C,Pass,2026-07-27
+STU-1083,Student #1083,Web Development,Electronics & Comm,Sem 3,88.0,52,83.2,43,4.2,93.1,C,Pass,2026-07-13
+STU-1084,Student #1084,Python,Computer Science,Sem 1,74.3,36,81.3,25,4.6,79.2,F,Fail,2026-06-20
+STU-1085,Student #1085,Java,Data Science,Sem 4,94.3,63,99.3,70,15.5,99.7,C,Pass,2026-07-23
+STU-1086,Student #1086,Data Structures,Information Technology,Sem 4,71.6,34,73.7,26,4.9,81.1,F,Fail,2026-05-25
+STU-1087,Student #1087,Python,AI & ML,Sem 2,62.4,78,62.1,68,30.0,78.6,B,Pass,2026-04-29
+STU-1088,Student #1088,Artificial Intelligence,Electronics & Comm,Sem 1,79.2,69,85.8,57,31.1,67.4,C,Pass,2026-05-07
+STU-1089,Student #1089,Java,AI & ML,Sem 2,98.4,47,94.5,51,5.9,58.3,D,Pass,2026-08-15
+STU-1090,Student #1090,Artificial Intelligence,Electronics & Comm,Sem 6,68.5,30,78.1,39,2.1,62.3,F,Fail,2026-01-31
+STU-1091,Student #1091,Data Structures,Data Science,Sem 6,97.3,58,99.8,57,11.6,66.6,C,Pass,2026-02-21
+STU-1092,Student #1092,Data Structures,AI & ML,Sem 6,95.1,50,100.0,40,12.2,91.8,C,Pass,2026-01-23
+STU-1093,Student #1093,Python,AI & ML,Sem 3,73.3,85,64.4,78,33.0,98.4,A,Pass,2026-05-03
+STU-1094,Student #1094,Cybersecurity,AI & ML,Sem 2,52.4,50,44.0,52,10.2,78.0,C,Fail,2026-03-09
+STU-1095,Student #1095,Python,Information Technology,Sem 2,57.1,58,56.0,46,28.1,63.9,C,Fail,2026-07-15
+STU-1096,Student #1096,Java,Electronics & Comm,Sem 3,54.0,40,44.1,49,14.2,73.2,D,Fail,2026-08-10
+STU-1097,Student #1097,Web Development,Information Technology,Sem 3,75.1,67,65.2,63,23.4,81.7,C,Pass,2026-04-24
+STU-1098,Student #1098,Web Development,Computer Science,Sem 6,83.1,67,83.1,78,15.5,93.3,C,Pass,2026-01-20
+STU-1099,Student #1099,Database Management Systems,Information Technology,Sem 3,81.0,50,88.6,55,10.7,56.7,C,Pass,2026-01-09
+STU-1100,Student #1100,Database Management Systems,AI & ML,Sem 1,50.4,35,51.3,26,16.4,77.9,F,Fail,2026-01-01
+STU-1101,Student #1101,Web Development,Computer Science,Sem 2,56.0,43,64.4,52,11.6,92.0,D,Fail,2026-02-09
+STU-1102,Student #1102,Data Structures,Computer Science,Sem 3,88.9,86,80.6,85,28.3,42.0,A,Pass,2026-07-18
+STU-1103,Student #1103,Java,Electronics & Comm,Sem 5,85.1,90,94.7,97,28.2,59.3,A+,Pass,2026-02-05
+STU-1104,Student #1104,Java,Data Science,Sem 5,76.3,39,71.6,32,6.3,79.1,F,Fail,2026-07-30
+STU-1105,Student #1105,Web Development,Information Technology,Sem 6,56.1,43,65.5,53,16.3,55.6,D,Fail,2026-01-20
+STU-1106,Student #1106,Python,Electronics & Comm,Sem 6,66.0,83,60.5,73,33.6,85.2,A,Pass,2026-06-18
+STU-1107,Student #1107,Data Structures,AI & ML,Sem 1,89.3,48,92.7,46,6.2,41.0,D,Pass,2026-05-09
+STU-1108,Student #1108,Data Structures,Information Technology,Sem 6,94.7,91,98.9,83,33.8,83.6,A+,Pass,2026-01-16
+STU-1109,Student #1109,Data Structures,Data Science,Sem 3,88.9,44,91.2,55,9.2,76.3,D,Pass,2026-03-16
+STU-1110,Student #1110,Web Development,Computer Science,Sem 1,88.5,65,82.5,54,18.4,87.7,C,Pass,2026-05-07
+STU-1111,Student #1111,Artificial Intelligence,Data Science,Sem 3,58.3,67,64.0,68,27.8,57.9,C,Fail,2026-08-15
+STU-1112,Student #1112,Cloud Computing,Information Technology,Sem 4,58.2,67,52.6,76,19.8,67.9,C,Fail,2026-02-15
+STU-1113,Student #1113,Cybersecurity,Electronics & Comm,Sem 6,87.7,44,86.1,47,8.8,84.5,D,Pass,2026-01-19
+STU-1114,Student #1114,Python,Computer Science,Sem 5,81.6,81,82.4,78,24.9,47.7,A,Pass,2026-02-27
+STU-1115,Student #1115,Database Management Systems,Computer Science,Sem 5,78.8,43,70.3,41,5.9,80.2,D,Pass,2026-02-27
+STU-1116,Student #1116,Artificial Intelligence,Electronics & Comm,Sem 5,76.6,36,81.4,47,2.0,81.2,F,Fail,2026-02-25
+STU-1117,Student #1117,Web Development,AI & ML,Sem 6,83.9,95,88.4,100,34.3,63.4,A+,Pass,2026-05-04
+STU-1118,Student #1118,Database Management Systems,Computer Science,Sem 6,62.4,50,55.1,61,20.2,56.2,C,Pass,2026-02-01
+STU-1119,Student #1119,Database Management Systems,Data Science,Sem 6,76.5,72,66.5,62,28.3,64.6,B,Pass,2026-07-18
+STU-1120,Student #1120,Python,Data Science,Sem 1,85.2,46,90.2,44,13.8,79.1,D,Pass,2026-07-08
+STU-1001,Student #1001,Python,Electronics & Comm,Sem 4,57.8,32,57.2,34,6.3,91.0,F,Fail,2026-02-02
+STU-1002,Student #1002,Artificial Intelligence,Electronics & Comm,Sem 2,84.4,80,90.9,70,34.1,66.3,A,Pass,2026-07-12
+STU-1003,Student #1003,Python,Electronics & Comm,Sem 5,54.9,30,63.3,33,6.0,59.1,F,Fail,2026-05-08
+STU-1004,Student #1004,Cloud Computing,Data Science,Sem 6,54.1,62,54.0,65,33.0,91.5,C,Fail,2026-06-02
+STU-1005,Student #1005,Cybersecurity,Computer Science,Sem 3,56.6,75,52.5,64,32.7,81.7,B,Fail,2026-05-03
+STU-1006,Student #1006,Cybersecurity,AI & ML,Sem 1,72.9,62,64.0,71,21.2,79.5,C,Pass,2026-05-23
+STU-1007,Student #1007,Cloud Computing,Information Technology,Sem 6,59.5,35,67.1,34,2.3,70.6,F,Fail,2026-05-10
+STU-1008,Student #1008,Cybersecurity,Information Technology,Sem 6,53.9,67,47.1,63,23.0,72.7,C,Fail,2026-01-04
+STU-1009,Student #1009,Java,Information Technology,Sem 2,96.0,67,100.0,71,13.6,78.6,C,Pass,2026-01-09
+STU-1010,Student #1010,Artificial Intelligence,Electronics & Comm,Sem 2,93.5,53,89.0,43,10.5,78.9,C,Pass,2026-01-02
+STU-1011,Student #1011,Database Management Systems,Data Science,Sem 1,71.3,36,61.6,43,11.3,76.6,F,Fail,2026-02-27
+STU-1012,Student #1012,Cloud Computing,Computer Science,Sem 2,84.3,84,83.9,90,32.3,68.1,A,Pass,2026-05-09
+STU-1013,Student #1013,Data Structures,Information Technology,Sem 4,79.1,83,86.6,88,31.5,45.3,A,Pass,2026-07-11
+STU-1014,Student #1014,Artificial Intelligence,AI & ML,Sem 4,87.1,56,81.2,47,10.8,67.7,C,Pass,2026-07-12
+STU-1015,Student #1015,Database Management Systems,Information Technology,Sem 1,50.3,49,56.3,60,26.2,62.0,D,Fail,2026-03-05
+STU-1016,Student #1016,Python,AI & ML,Sem 1,54.3,61,45.6,72,23.0,97.8,C,Fail,2026-01-21
+STU-1017,Student #1017,Data Structures,Electronics & Comm,Sem 4,79.0,78,70.5,81,32.6,65.9,B,Pass,2026-01-20
+STU-1018,Student #1018,Python,Information Technology,Sem 4,84.1,61,77.4,68,16.6,82.2,C,Pass,2026-04-24
+STU-1019,Student #1019,Java,Computer Science,Sem 4,92.2,53,83.9,47,7.6,52.4,C,Pass,2026-05-25
+STU-1020,Student #1020,Cybersecurity,Information Technology,Sem 4,94.4,75,97.0,83,26.9,84.6,B,Pass,2026-04-01
+STU-1021,Student #1021,Data Structures,AI & ML,Sem 3,83.9,61,80.3,67,10.0,97.8,C,Pass,2026-01-02
+STU-1022,Student #1022,Python,Electronics & Comm,Sem 6,89.1,36,95.1,36,3.3,58.3,F,Fail,2026-01-07
+STU-1023,Student #1023,Database Management Systems,Information Technology,Sem 1,69.9,68,65.1,62,21.0,99.7,C,Pass,2026-07-06
+STU-1024,Student #1024,Java,AI & ML,Sem 6,76.7,72,73.1,83,34.5,87.4,B,Pass,2026-07-10
+STU-1025,Student #1025,Cybersecurity,AI & ML,Sem 6,55.0,80,57.3,85,33.2,95.4,A,Fail,2026-03-15
+STU-1026,Student #1026,Python,Data Science,Sem 2,62.2,36,60.1,26,5.2,47.8,F,Fail,2026-03-22
+STU-1027,Student #1027,Database Management Systems,AI & ML,Sem 6,78.0,75,74.4,70,30.0,77.5,B,Pass,2026-03-10
+STU-1028,Student #1028,Java,Information Technology,Sem 5,87.0,71,90.4,72,21.8,83.3,B,Pass,2026-04-07
+STU-1029,Student #1029,Data Structures,Information Technology,Sem 4,91.6,50,90.4,49,15.5,82.8,C,Pass,2026-06-08
+STU-1030,Student #1030,Python,Computer Science,Sem 5,56.5,40,46.9,33,6.5,63.7,D,Fail,2026-01-26
+STU-1031,Student #1031,Cloud Computing,Computer Science,Sem 4,52.8,60,57.6,67,19.2,74.5,C,Fail,2026-05-17
+STU-1032,Student #1032,Database Management Systems,Data Science,Sem 2,50.6,30,50.5,35,10.7,66.0,F,Fail,2026-06-27
+STU-1033,Student #1033,Database Management Systems,Electronics & Comm,Sem 1,92.9,72,100.0,81,30.0,96.8,B,Pass,2026-06-06
+STU-1034,Student #1034,Artificial Intelligence,Computer Science,Sem 2,73.0,81,77.3,70,25.1,52.9,A,Pass,2026-01-31
+STU-1035,Student #1035,Java,Computer Science,Sem 5,54.5,71,56.2,60,27.2,54.4,B,Fail,2026-02-20
+STU-1036,Student #1036,Artificial Intelligence,Data Science,Sem 2,54.1,59,63.7,55,28.4,42.8,C,Fail,2026-05-16
+STU-1037,Student #1037,Database Management Systems,Information Technology,Sem 1,65.1,88,65.4,86,34.1,85.3,A,Pass,2026-06-24
+STU-1038,Student #1038,Web Development,Computer Science,Sem 3,54.0,35,60.3,30,12.5,55.0,F,Fail,2026-03-03
+STU-1039,Student #1039,Java,Computer Science,Sem 4,59.9,49,61.7,39,11.8,99.2,D,Fail,2026-05-03
+STU-1040,Student #1040,Java,Data Science,Sem 6,92.5,73,88.6,71,16.8,42.7,B,Pass,2026-06-19

@@ -1,0 +1,1001 @@
+product_id,product_name,category,brand,payment_method,views,clicks,add_to_cart,purchases,price,discount_pct,revenue,rating,region,date
+PRD-4001,Adidas Electronics Item #1,Books,Nike,PayPal,78632,43213,15639,11217,574.97,15,6449438.49,4.1,Latin America,2026-06-14
+PRD-4002,Samsung Clothing Item #2,Books,L'Oreal,Cash on Delivery,61445,23211,4443,1344,426.06,50,572624.64,4.1,Europe,2026-02-13
+PRD-4003,Apple Sports Gear Item #3,Books,Adidas,Net Banking,77674,39945,10740,5201,1000.04,0,5201208.04,4.4,Europe,2026-03-21
+PRD-4004,Samsung Beauty & Care Item #4,Beauty & Care,Puma,Credit Card,8835,3577,1250,543,315.07,30,171083.01,4.3,Middle East,2026-06-17
+PRD-4005,L'Oreal Sports Gear Item #5,Beauty & Care,Sony,Cash on Delivery,60641,17029,4281,2309,846.15,50,1953760.35,4.1,Latin America,2026-04-23
+PRD-4006,Adidas Beauty & Care Item #6,Clothing,Puma,Credit Card,70458,41418,15495,10541,287.44,20,3029905.04,4.7,Latin America,2026-06-18
+PRD-4007,Sony Clothing Item #7,Beauty & Care,Samsung,Cash on Delivery,48338,23607,10330,7562,781.58,50,5910307.96,4.9,Middle East,2026-08-01
+PRD-4008,Samsung Sports Gear Item #8,Sports Gear,Samsung,Credit Card,23350,9489,3035,1239,947.18,5,1173556.02,3.7,North America,2026-05-16
+PRD-4009,Sony Electronics Item #9,Sports Gear,Nike,Net Banking,59533,14936,6218,4360,1193.14,15,5202090.4,3.5,Latin America,2026-05-25
+PRD-4010,Puma Home & Kitchen Item #10,Beauty & Care,Logitech,UPI Instant,19090,11197,4469,2656,1116.62,10,2965742.72,4.7,Asia Pacific,2026-05-28
+PRD-4011,Samsung Beauty & Care Item #11,Beauty & Care,Nike,Credit Card,71077,25136,10244,7234,58.1,10,420295.4,3.5,North America,2026-06-01
+PRD-4012,Logitech Electronics Item #12,Home & Kitchen,Samsung,Credit Card,24765,5113,2195,850,869.83,5,739355.5,4.4,Asia Pacific,2026-01-02
+PRD-4013,Puma Home & Kitchen Item #13,Electronics,Logitech,Credit Card,74524,23403,8912,5601,796.48,20,4461084.48,3.9,North America,2026-06-25
+PRD-4014,Apple Electronics Item #14,Clothing,Sony,Cash on Delivery,63387,18713,3027,2005,617.08,15,1237245.4,4.4,Latin America,2026-02-01
+PRD-4015,Puma Beauty & Care Item #15,Electronics,L'Oreal,Credit Card,43479,12259,4710,1441,817.11,30,1177455.51,4.0,Latin America,2026-05-30
+PRD-4016,Puma Sports Gear Item #16,Clothing,Nike,Net Banking,61585,21565,6599,2694,1012.34,30,2727243.96,3.6,Europe,2026-01-17
+PRD-4017,Adidas Electronics Item #17,Books,Apple,PayPal,9059,3560,565,273,499.68,15,136412.64,4.5,Middle East,2026-03-08
+PRD-4018,Apple Electronics Item #18,Beauty & Care,Apple,UPI Instant,40673,14561,2531,1010,64.94,50,65589.4,3.9,Asia Pacific,2026-04-04
+PRD-4019,L'Oreal Beauty & Care Item #19,Beauty & Care,L'Oreal,UPI Instant,18957,9302,2230,1082,792.69,30,857690.58,3.4,Latin America,2026-01-22
+PRD-4020,Adidas Clothing Item #20,Clothing,Nike,UPI Instant,65744,29655,4483,2353,82.57,30,194287.21,4.2,Middle East,2026-05-21
+PRD-4021,Logitech Clothing Item #21,Electronics,Samsung,Cash on Delivery,70393,16332,7237,4478,57.7,5,258380.6,4.3,North America,2026-01-13
+PRD-4022,Samsung Clothing Item #22,Books,Samsung,Net Banking,72935,14885,4398,1999,605.35,30,1210094.65,3.4,Asia Pacific,2026-02-02
+PRD-4023,Adidas Sports Gear Item #23,Sports Gear,Sony,PayPal,16902,4840,1912,923,141.75,30,130835.25,3.5,North America,2026-03-04
+PRD-4024,Apple Home & Kitchen Item #24,Electronics,Apple,Cash on Delivery,76840,38869,14591,4986,503.73,15,2511597.78,4.2,Latin America,2026-03-03
+PRD-4025,Puma Home & Kitchen Item #25,Sports Gear,Apple,Net Banking,60758,26949,5881,3191,707.35,0,2257153.85,3.3,Middle East,2026-03-17
+PRD-4026,Logitech Electronics Item #26,Clothing,Apple,PayPal,16305,5104,1367,968,300.49,20,290874.32,3.9,Middle East,2026-01-01
+PRD-4027,Logitech Electronics Item #27,Books,Nike,Credit Card,39373,19041,2898,2003,872.89,0,1748398.67,4.0,Latin America,2026-02-03
+PRD-4028,L'Oreal Beauty & Care Item #28,Home & Kitchen,Nike,PayPal,75810,35114,11821,8458,835.05,5,7062852.9,4.0,Latin America,2026-07-20
+PRD-4029,Nike Electronics Item #29,Sports Gear,Puma,Net Banking,2550,998,153,85,355.8,5,30243.0,3.9,Middle East,2026-03-05
+PRD-4030,Adidas Books Item #30,Books,L'Oreal,UPI Instant,64897,36882,7063,4708,280.86,50,1322288.88,4.7,Asia Pacific,2026-05-18
+PRD-4031,Sony Clothing Item #31,Electronics,Nike,Net Banking,54978,18757,5346,3883,707.97,5,2749047.51,4.6,Latin America,2026-01-06
+PRD-4032,Nike Home & Kitchen Item #32,Electronics,Adidas,Credit Card,70067,27999,12414,9253,154.9,30,1433289.7,3.9,North America,2026-04-30
+PRD-4033,L'Oreal Books Item #33,Books,Apple,Cash on Delivery,47795,11745,3551,1810,460.35,30,833233.5,4.1,Europe,2026-03-01
+PRD-4034,Logitech Home & Kitchen Item #34,Sports Gear,Apple,PayPal,31911,8109,3244,1154,126.36,20,145819.44,3.5,North America,2026-02-14
+PRD-4035,L'Oreal Sports Gear Item #35,Clothing,Nike,UPI Instant,68924,32787,5745,3222,742.66,20,2392850.52,3.9,Middle East,2026-08-02
+PRD-4036,L'Oreal Beauty & Care Item #36,Books,Apple,Credit Card,55549,22648,8054,4369,1126.7,0,4922552.3,4.3,Asia Pacific,2026-07-12
+PRD-4037,Nike Beauty & Care Item #37,Sports Gear,Puma,Cash on Delivery,53529,20307,5504,2794,546.45,0,1526781.3,3.3,Europe,2026-06-28
+PRD-4038,Puma Home & Kitchen Item #38,Home & Kitchen,Logitech,Credit Card,13804,8067,2464,911,537.31,10,489489.41,3.7,Europe,2026-02-05
+PRD-4039,Nike Home & Kitchen Item #39,Home & Kitchen,Logitech,Net Banking,29314,14526,4995,2353,585.49,10,1377657.97,3.7,Latin America,2026-03-17
+PRD-4040,Logitech Sports Gear Item #40,Sports Gear,Sony,Credit Card,50479,13993,2742,1192,989.38,15,1179340.96,4.0,Middle East,2026-01-04
+PRD-4041,Adidas Books Item #41,Electronics,Adidas,UPI Instant,65879,15971,6668,2341,834.28,20,1953049.48,4.3,Middle East,2026-03-21
+PRD-4042,Adidas Books Item #42,Beauty & Care,Sony,PayPal,57881,18817,8295,4500,836.45,10,3764025.0,4.8,North America,2026-05-08
+PRD-4043,Nike Books Item #43,Beauty & Care,Apple,Net Banking,29310,14413,5008,2401,1180.68,50,2834812.68,3.5,Asia Pacific,2026-01-07
+PRD-4044,Adidas Sports Gear Item #44,Home & Kitchen,Samsung,PayPal,57974,11628,2334,1304,907.76,0,1183719.04,3.7,Asia Pacific,2026-08-05
+PRD-4045,L'Oreal Sports Gear Item #45,Beauty & Care,L'Oreal,Credit Card,33511,17730,7892,3784,553.33,5,2093800.72,4.9,Middle East,2026-05-26
+PRD-4046,Samsung Electronics Item #46,Beauty & Care,Nike,PayPal,30272,7846,1204,830,265.92,10,220713.6,4.5,Europe,2026-05-09
+PRD-4047,L'Oreal Beauty & Care Item #47,Clothing,Nike,Credit Card,72819,29162,8573,4704,775.76,10,3649175.04,4.5,Asia Pacific,2026-03-09
+PRD-4048,Nike Sports Gear Item #48,Beauty & Care,Apple,Cash on Delivery,30598,8375,2754,1454,424.84,50,617717.36,3.3,Latin America,2026-01-31
+PRD-4049,Adidas Beauty & Care Item #49,Clothing,Logitech,Cash on Delivery,11737,7013,2941,1046,265.03,0,277221.38,3.8,Asia Pacific,2026-01-25
+PRD-4050,Logitech Sports Gear Item #50,Sports Gear,Sony,Net Banking,17038,9311,1627,1170,169.68,15,198525.6,4.1,North America,2026-08-13
+PRD-4051,Sony Beauty & Care Item #51,Beauty & Care,Logitech,Net Banking,6155,3427,1452,644,881.87,30,567924.28,4.9,Latin America,2026-07-09
+PRD-4052,Apple Beauty & Care Item #52,Beauty & Care,Nike,Net Banking,32415,10179,2874,1175,296.88,20,348834.0,3.3,North America,2026-01-04
+PRD-4053,Samsung Electronics Item #53,Electronics,Adidas,Credit Card,10003,2103,933,578,1032.7,50,596900.6,4.4,Middle East,2026-03-05
+PRD-4054,Nike Sports Gear Item #54,Clothing,Puma,PayPal,41698,10775,3007,1938,583.76,30,1131326.88,3.4,Asia Pacific,2026-07-01
+PRD-4055,Apple Home & Kitchen Item #55,Clothing,Puma,Net Banking,72696,18783,7671,2769,516.94,30,1431406.86,4.5,Middle East,2026-06-20
+PRD-4056,L'Oreal Home & Kitchen Item #56,Beauty & Care,Sony,Net Banking,13677,3193,687,430,511.86,0,220099.8,4.1,Europe,2026-02-27
+PRD-4057,Samsung Home & Kitchen Item #57,Sports Gear,Logitech,Net Banking,22511,7024,1310,721,473.1,15,341105.1,4.6,Asia Pacific,2026-08-12
+PRD-4058,Puma Sports Gear Item #58,Books,Puma,PayPal,32122,6915,2723,1876,958.82,30,1798746.32,4.7,North America,2026-05-10
+PRD-4059,Samsung Beauty & Care Item #59,Electronics,Samsung,Cash on Delivery,15470,5753,1058,510,380.19,30,193896.9,3.7,North America,2026-07-05
+PRD-4060,L'Oreal Electronics Item #60,Electronics,Apple,UPI Instant,37655,10482,3927,2699,86.21,0,232680.79,4.1,North America,2026-04-13
+PRD-4061,Apple Home & Kitchen Item #61,Home & Kitchen,Sony,Credit Card,24285,12862,2222,976,1146.04,0,1118535.04,4.6,Europe,2026-04-28
+PRD-4062,Sony Electronics Item #62,Books,Logitech,PayPal,6275,2300,409,168,296.88,5,49875.84,3.3,Europe,2026-03-15
+PRD-4063,Samsung Books Item #63,Electronics,Sony,Credit Card,26154,13855,2622,1886,275.95,50,520441.7,3.2,Middle East,2026-06-21
+PRD-4064,L'Oreal Beauty & Care Item #64,Home & Kitchen,Apple,Credit Card,37080,15028,3474,2193,343.79,20,753931.47,4.3,Middle East,2026-04-03
+PRD-4065,Sony Beauty & Care Item #65,Books,Puma,Net Banking,33035,7514,2679,1557,882.48,30,1374021.36,4.1,North America,2026-01-03
+PRD-4066,Samsung Books Item #66,Electronics,Adidas,UPI Instant,60662,35488,8176,6033,460.82,5,2780127.06,3.2,Europe,2026-05-01
+PRD-4067,Puma Books Item #67,Electronics,Logitech,UPI Instant,24271,9098,2596,1151,755.27,30,869315.77,4.8,Asia Pacific,2026-01-13
+PRD-4068,Nike Beauty & Care Item #68,Home & Kitchen,L'Oreal,Net Banking,25934,12029,4237,1360,273.58,10,372068.8,3.9,North America,2026-06-03
+PRD-4069,L'Oreal Sports Gear Item #69,Books,Puma,Credit Card,51036,26938,11819,3835,978.6,30,3752931.0,3.6,Latin America,2026-06-27
+PRD-4070,Adidas Electronics Item #70,Beauty & Care,L'Oreal,PayPal,57717,32651,13462,5601,455.81,20,2552991.81,4.3,North America,2026-02-09
+PRD-4071,Nike Clothing Item #71,Clothing,L'Oreal,UPI Instant,11290,4393,1432,737,917.11,0,675910.07,4.4,Middle East,2026-02-19
+PRD-4072,Adidas Electronics Item #72,Beauty & Care,Puma,PayPal,23892,11351,3132,1855,114.78,0,212916.9,4.0,North America,2026-06-12
+PRD-4073,Nike Home & Kitchen Item #73,Home & Kitchen,Logitech,UPI Instant,69586,25481,4026,2066,919.27,20,1899211.82,4.1,Europe,2026-04-27
+PRD-4074,Nike Clothing Item #74,Sports Gear,Nike,UPI Instant,74709,43411,11518,8461,472.46,0,3997484.06,4.0,Latin America,2026-05-28
+PRD-4075,Nike Home & Kitchen Item #75,Beauty & Care,Samsung,PayPal,76904,30406,9584,3925,362.74,15,1423754.5,4.2,Europe,2026-06-02
+PRD-4076,Apple Sports Gear Item #76,Sports Gear,Logitech,Cash on Delivery,8937,2551,797,291,216.48,5,62995.68,3.3,Middle East,2026-03-23
+PRD-4077,L'Oreal Books Item #77,Electronics,Apple,PayPal,64356,15806,6770,4340,982.1,20,4262314.0,4.5,Asia Pacific,2026-01-27
+PRD-4078,Sony Clothing Item #78,Sports Gear,Logitech,UPI Instant,9823,2022,363,221,574.1,50,126876.1,4.4,North America,2026-03-27
+PRD-4079,Logitech Beauty & Care Item #79,Clothing,Logitech,Net Banking,53145,27526,5895,3320,571.88,10,1898641.6,4.2,Asia Pacific,2026-03-22
+PRD-4080,Nike Electronics Item #80,Home & Kitchen,Adidas,PayPal,60608,34477,13800,8595,1055.37,5,9070905.15,4.3,Middle East,2026-05-03
+PRD-4081,Logitech Books Item #81,Sports Gear,Nike,Cash on Delivery,68389,40792,9010,2839,780.63,15,2216208.57,3.6,Middle East,2026-01-05
+PRD-4082,Samsung Clothing Item #82,Clothing,Puma,Credit Card,11990,4196,714,367,346.27,0,127081.09,3.7,North America,2026-01-16
+PRD-4083,Nike Clothing Item #83,Home & Kitchen,Puma,Credit Card,57710,31206,10068,4898,956.47,5,4684790.06,3.5,North America,2026-04-14
+PRD-4084,Adidas Sports Gear Item #84,Home & Kitchen,Samsung,Net Banking,8930,3782,1246,795,510.54,30,405879.3,4.3,Latin America,2026-07-24
+PRD-4085,L'Oreal Books Item #85,Clothing,L'Oreal,UPI Instant,20005,6529,2810,925,97.49,50,90178.25,4.0,North America,2026-02-02
+PRD-4086,Apple Books Item #86,Sports Gear,Logitech,Cash on Delivery,78143,37166,15233,7108,53.91,10,383192.28,3.3,North America,2026-08-09
+PRD-4087,Nike Sports Gear Item #87,Electronics,Samsung,Net Banking,6778,2335,726,278,829.5,10,230601.0,4.2,Latin America,2026-02-08
+PRD-4088,Samsung Sports Gear Item #88,Beauty & Care,Nike,PayPal,14517,4890,1503,626,1088.98,30,681701.48,3.5,Middle East,2026-05-02
+PRD-4089,Adidas Home & Kitchen Item #89,Electronics,L'Oreal,Cash on Delivery,39528,17494,4658,1585,1094.09,0,1734132.65,4.2,Middle East,2026-05-27
+PRD-4090,Puma Clothing Item #90,Books,L'Oreal,UPI Instant,27467,11939,1960,924,161.53,50,149253.72,4.7,Latin America,2026-04-16
+PRD-4091,Logitech Beauty & Care Item #91,Electronics,Puma,Net Banking,75976,44506,7459,2280,1104.49,50,2518237.2,4.8,Asia Pacific,2026-05-29
+PRD-4092,Apple Books Item #92,Electronics,Adidas,Net Banking,59354,29571,11236,7905,188.87,30,1493017.35,3.9,Asia Pacific,2026-04-05
+PRD-4093,Adidas Electronics Item #93,Books,Sony,UPI Instant,53327,22125,6321,2316,959.06,10,2221182.96,3.6,Europe,2026-03-24
+PRD-4094,Samsung Books Item #94,Clothing,Logitech,PayPal,53640,20765,7579,5510,675.48,30,3721894.8,4.2,Middle East,2026-01-26
+PRD-4095,Nike Sports Gear Item #95,Electronics,Puma,UPI Instant,79423,22360,4497,2420,1031.6,5,2496472.0,4.3,North America,2026-03-10
+PRD-4096,Nike Books Item #96,Home & Kitchen,L'Oreal,Net Banking,28227,11483,3887,2074,956.0,30,1982744.0,3.5,Middle East,2026-05-23
+PRD-4097,Apple Clothing Item #97,Beauty & Care,Logitech,Credit Card,52700,10759,2131,1257,1164.1,20,1463273.7,3.8,Latin America,2026-01-08
+PRD-4098,Logitech Electronics Item #98,Sports Gear,Apple,Cash on Delivery,50676,27312,9792,5808,1111.2,0,6453849.6,4.5,Europe,2026-05-12
+PRD-4099,Puma Electronics Item #99,Beauty & Care,Samsung,Credit Card,27840,10645,3974,2759,123.24,20,340019.16,3.2,Europe,2026-03-16
+PRD-4100,Sony Clothing Item #100,Books,Logitech,Cash on Delivery,56602,22851,9932,4048,256.28,50,1037421.44,4.4,Asia Pacific,2026-06-01
+PRD-4101,Nike Electronics Item #101,Electronics,Sony,PayPal,9034,5010,1599,507,1004.68,0,509372.76,3.9,Middle East,2026-08-04
+PRD-4102,Logitech Home & Kitchen Item #102,Sports Gear,Samsung,Credit Card,33666,15065,3211,1004,1155.41,0,1160031.64,4.5,North America,2026-07-10
+PRD-4103,Logitech Clothing Item #103,Home & Kitchen,Sony,PayPal,56482,18512,5427,3014,404.06,50,1217836.84,4.6,Asia Pacific,2026-05-24
+PRD-4104,Apple Books Item #104,Sports Gear,Apple,PayPal,26125,5410,993,574,1031.46,5,592058.04,3.4,Asia Pacific,2026-08-07
+PRD-4105,Nike Clothing Item #105,Home & Kitchen,L'Oreal,UPI Instant,24214,10617,2206,1249,369.67,15,461717.83,4.1,Europe,2026-04-13
+PRD-4106,Puma Electronics Item #106,Sports Gear,Puma,Credit Card,16825,8720,1362,468,737.04,20,344934.72,4.3,Latin America,2026-07-19
+PRD-4107,Sony Home & Kitchen Item #107,Clothing,Puma,Net Banking,58334,34368,11612,7305,1169.14,5,8540567.7,3.4,Middle East,2026-04-03
+PRD-4108,Adidas Electronics Item #108,Beauty & Care,L'Oreal,Credit Card,48436,17764,4802,3121,707.26,30,2207358.46,4.2,Middle East,2026-01-28
+PRD-4109,Sony Clothing Item #109,Electronics,L'Oreal,Net Banking,62819,36642,12493,7286,1110.48,0,8090957.28,4.3,Latin America,2026-04-06
+PRD-4110,Puma Home & Kitchen Item #110,Clothing,Apple,Cash on Delivery,72262,24862,5337,3736,93.09,0,347784.24,3.3,North America,2026-02-02
+PRD-4111,Samsung Home & Kitchen Item #111,Electronics,Samsung,UPI Instant,77631,33327,9881,3530,554.88,20,1958726.4,3.4,Middle East,2026-08-10
+PRD-4112,Adidas Home & Kitchen Item #112,Books,Nike,UPI Instant,7931,3051,1019,668,419.22,15,280038.96,4.3,Middle East,2026-03-05
+PRD-4113,L'Oreal Books Item #113,Beauty & Care,Sony,Net Banking,61302,17903,5810,3890,670.54,20,2608400.6,4.0,North America,2026-06-25
+PRD-4114,Nike Beauty & Care Item #114,Clothing,Sony,Credit Card,75167,23749,6371,3658,402.3,0,1471613.4,4.4,Europe,2026-07-18
+PRD-4115,Apple Sports Gear Item #115,Books,Samsung,Credit Card,30162,9608,2220,1457,983.07,30,1432332.99,4.6,Asia Pacific,2026-05-23
+PRD-4116,Nike Books Item #116,Books,Sony,Cash on Delivery,33473,16906,5384,4006,214.98,30,861209.88,4.8,Asia Pacific,2026-02-06
+PRD-4117,Apple Electronics Item #117,Clothing,Samsung,Cash on Delivery,52187,24229,6037,4041,485.11,5,1960329.51,4.9,Europe,2026-01-22
+PRD-4118,Sony Beauty & Care Item #118,Beauty & Care,Puma,Credit Card,50165,28261,11416,8553,1155.17,0,9880169.01,3.3,Middle East,2026-04-03
+PRD-4119,L'Oreal Clothing Item #119,Clothing,Puma,UPI Instant,53670,10965,4285,2072,1121.59,10,2323934.48,3.6,North America,2026-05-02
+PRD-4120,Nike Sports Gear Item #120,Sports Gear,Adidas,Credit Card,2986,1688,659,295,875.1,30,258154.5,3.8,North America,2026-03-23
+PRD-4121,Samsung Electronics Item #121,Electronics,Logitech,Net Banking,49769,13040,2840,2120,97.39,5,206466.8,3.7,Latin America,2026-03-21
+PRD-4122,Sony Electronics Item #122,Beauty & Care,Apple,Credit Card,41927,20010,7042,3291,1180.56,30,3885222.96,3.6,Europe,2026-06-04
+PRD-4123,L'Oreal Clothing Item #123,Clothing,L'Oreal,Net Banking,47863,9705,2598,1359,994.89,15,1352055.51,3.7,Europe,2026-07-19
+PRD-4124,Adidas Electronics Item #124,Clothing,Logitech,Cash on Delivery,60050,24715,9048,3480,991.63,0,3450872.4,3.2,North America,2026-05-12
+PRD-4125,Puma Electronics Item #125,Sports Gear,Adidas,UPI Instant,12635,5257,2365,1667,1193.03,5,1988781.01,4.0,Asia Pacific,2026-08-06
+PRD-4126,Logitech Sports Gear Item #126,Home & Kitchen,Logitech,Net Banking,35987,20367,6855,3548,1188.89,0,4218181.72,3.8,Europe,2026-07-05
+PRD-4127,Samsung Home & Kitchen Item #127,Beauty & Care,Nike,PayPal,7914,3443,1046,702,872.04,15,612172.08,4.0,Asia Pacific,2026-01-05
+PRD-4128,Sony Beauty & Care Item #128,Clothing,Puma,Cash on Delivery,58304,30885,6651,2717,1079.54,0,2933110.18,3.4,Middle East,2026-03-31
+PRD-4129,L'Oreal Books Item #129,Home & Kitchen,Nike,PayPal,63262,18202,2989,1755,556.93,5,977412.15,3.8,Latin America,2026-05-08
+PRD-4130,Nike Beauty & Care Item #130,Clothing,Puma,UPI Instant,76478,25036,7809,3672,527.3,15,1936245.6,4.7,North America,2026-05-13
+PRD-4131,Apple Home & Kitchen Item #131,Clothing,Puma,Credit Card,71846,38800,16933,11836,843.6,30,9984849.6,3.6,Latin America,2026-05-26
+PRD-4132,Adidas Beauty & Care Item #132,Electronics,Nike,Net Banking,22574,10291,3694,1196,577.38,20,690546.48,3.8,North America,2026-05-14
+PRD-4133,Samsung Sports Gear Item #133,Home & Kitchen,Adidas,UPI Instant,46269,14942,5991,4235,368.26,10,1559581.1,3.5,Latin America,2026-01-13
+PRD-4134,Logitech Books Item #134,Home & Kitchen,Nike,PayPal,40035,15357,6183,4443,321.81,15,1429801.83,4.0,Latin America,2026-08-05
+PRD-4135,Logitech Clothing Item #135,Home & Kitchen,Apple,Cash on Delivery,22743,13587,3167,2287,1031.62,20,2359314.94,4.3,Asia Pacific,2026-05-27
+PRD-4136,L'Oreal Electronics Item #136,Beauty & Care,Puma,Credit Card,35493,10387,2517,1835,50.73,15,93089.55,3.3,Europe,2026-05-22
+PRD-4137,L'Oreal Books Item #137,Electronics,Apple,UPI Instant,45530,16329,6430,1986,1190.53,5,2364392.58,3.3,Latin America,2026-03-16
+PRD-4138,L'Oreal Home & Kitchen Item #138,Books,Puma,Credit Card,11094,5997,2675,887,895.03,5,793891.61,4.7,Europe,2026-03-06
+PRD-4139,Adidas Beauty & Care Item #139,Beauty & Care,Adidas,PayPal,73828,15773,3533,2636,338.46,50,892180.56,4.0,Europe,2026-02-05
+PRD-4140,Sony Sports Gear Item #140,Home & Kitchen,Adidas,Net Banking,66642,21592,8642,4895,165.66,5,810905.7,3.7,Europe,2026-02-27
+PRD-4141,Adidas Clothing Item #141,Sports Gear,Adidas,PayPal,40700,18674,8350,2718,1099.65,0,2988848.7,4.4,Latin America,2026-02-26
+PRD-4142,Samsung Beauty & Care Item #142,Sports Gear,Logitech,Cash on Delivery,36499,17782,3696,1141,962.12,15,1097778.92,3.7,Europe,2026-04-04
+PRD-4143,Apple Books Item #143,Beauty & Care,Logitech,Credit Card,41579,23831,5514,3375,958.33,5,3234363.75,4.6,Latin America,2026-06-06
+PRD-4144,Sony Books Item #144,Beauty & Care,Logitech,PayPal,21683,12303,4594,2671,298.92,20,798415.32,4.3,Middle East,2026-02-22
+PRD-4145,L'Oreal Electronics Item #145,Sports Gear,Sony,Credit Card,46934,25819,5720,3079,772.82,5,2379512.78,3.8,Europe,2026-08-05
+PRD-4146,Logitech Beauty & Care Item #146,Electronics,Puma,Cash on Delivery,57797,25708,8391,2746,757.79,50,2080891.34,4.3,Asia Pacific,2026-01-05
+PRD-4147,Puma Home & Kitchen Item #147,Beauty & Care,Puma,Credit Card,48047,16442,3256,1709,114.14,30,195065.26,3.4,Latin America,2026-06-16
+PRD-4148,Adidas Electronics Item #148,Clothing,Logitech,UPI Instant,42027,11625,4908,1581,252.17,10,398680.77,4.3,North America,2026-01-17
+PRD-4149,Samsung Electronics Item #149,Books,Puma,PayPal,55120,21584,4773,3297,1008.34,5,3324496.98,4.8,Europe,2026-03-30
+PRD-4150,L'Oreal Home & Kitchen Item #150,Beauty & Care,Samsung,PayPal,49576,12504,3140,2286,51.13,50,116883.18,4.5,Asia Pacific,2026-03-09
+PRD-4151,L'Oreal Beauty & Care Item #151,Books,Logitech,PayPal,58693,12419,5449,3085,793.77,20,2448780.45,4.0,Europe,2026-05-14
+PRD-4152,Samsung Home & Kitchen Item #152,Beauty & Care,Nike,PayPal,66019,35214,15788,5057,390.17,10,1973089.69,4.6,Latin America,2026-02-28
+PRD-4153,Nike Clothing Item #153,Home & Kitchen,Samsung,Cash on Delivery,15094,5555,1350,726,919.09,30,667259.34,3.5,North America,2026-05-12
+PRD-4154,Sony Books Item #154,Clothing,Samsung,Credit Card,73097,41203,12452,5481,252.65,0,1384774.65,3.5,Latin America,2026-06-29
+PRD-4155,Nike Beauty & Care Item #155,Home & Kitchen,Apple,Net Banking,64215,13121,5462,2534,1120.36,50,2838992.24,4.2,Latin America,2026-04-20
+PRD-4156,Adidas Electronics Item #156,Electronics,Adidas,PayPal,21615,9596,3777,1997,297.96,15,595026.12,3.8,North America,2026-07-08
+PRD-4157,Sony Books Item #157,Clothing,Logitech,Credit Card,70113,36006,14745,8686,398.17,5,3458504.62,3.8,Asia Pacific,2026-05-04
+PRD-4158,Nike Clothing Item #158,Sports Gear,Samsung,PayPal,48281,23119,6235,3274,978.73,30,3204362.02,3.5,Latin America,2026-06-27
+PRD-4159,L'Oreal Beauty & Care Item #159,Sports Gear,Puma,Cash on Delivery,4330,2463,1078,668,330.91,5,221047.88,3.6,Asia Pacific,2026-01-17
+PRD-4160,Adidas Books Item #160,Clothing,Logitech,Net Banking,63994,37387,14191,8350,1151.85,10,9617947.5,3.5,North America,2026-06-03
+PRD-4161,Sony Sports Gear Item #161,Clothing,Sony,Cash on Delivery,78795,26990,11408,7779,533.6,15,4150874.4,4.0,Latin America,2026-02-02
+PRD-4162,Sony Beauty & Care Item #162,Sports Gear,Logitech,Credit Card,30157,15183,3103,1414,935.04,5,1322146.56,3.7,North America,2026-01-04
+PRD-4163,Logitech Home & Kitchen Item #163,Books,Apple,Cash on Delivery,14319,7876,1646,574,120.89,15,69390.86,4.2,Middle East,2026-04-20
+PRD-4164,Adidas Beauty & Care Item #164,Home & Kitchen,L'Oreal,PayPal,19881,11913,2465,1802,210.81,0,379879.62,3.6,North America,2026-05-08
+PRD-4165,Puma Sports Gear Item #165,Electronics,Adidas,PayPal,2728,1206,407,167,471.67,5,78768.89,3.5,North America,2026-03-14
+PRD-4166,Logitech Sports Gear Item #166,Clothing,Sony,Cash on Delivery,2692,1261,257,101,468.43,20,47311.43,4.9,Europe,2026-04-03
+PRD-4167,Apple Clothing Item #167,Electronics,Puma,PayPal,69336,29275,11954,7274,266.05,5,1935247.7,4.2,Europe,2026-04-21
+PRD-4168,Adidas Electronics Item #168,Clothing,Sony,Net Banking,16608,8597,2495,846,798.03,5,675133.38,3.6,Europe,2026-02-07
+PRD-4169,Apple Clothing Item #169,Sports Gear,Logitech,UPI Instant,14629,8275,3580,1744,449.73,30,784329.12,4.5,Asia Pacific,2026-06-22
+PRD-4170,Puma Books Item #170,Electronics,L'Oreal,Net Banking,47422,26119,10651,7809,171.22,10,1337056.98,3.7,Latin America,2026-07-24
+PRD-4171,L'Oreal Electronics Item #171,Sports Gear,Samsung,UPI Instant,76796,36274,13209,6724,1190.29,20,8003509.96,4.7,Middle East,2026-01-19
+PRD-4172,Nike Books Item #172,Sports Gear,L'Oreal,Cash on Delivery,24878,8391,1614,1203,216.92,5,260954.76,3.7,Latin America,2026-02-13
+PRD-4173,Logitech Books Item #173,Home & Kitchen,Apple,Cash on Delivery,2497,1147,389,167,940.25,10,157021.75,3.9,Middle East,2026-03-14
+PRD-4174,Samsung Clothing Item #174,Clothing,Puma,PayPal,32819,18359,6894,3748,1119.68,30,4196560.64,3.9,Europe,2026-01-16
+PRD-4175,Nike Books Item #175,Electronics,Adidas,Credit Card,44144,23922,6677,4929,690.37,50,3402833.73,3.4,Latin America,2026-01-29
+PRD-4176,Sony Beauty & Care Item #176,Clothing,Adidas,PayPal,52948,15834,3855,2776,1164.8,30,3233484.8,3.4,North America,2026-04-28
+PRD-4177,Adidas Books Item #177,Books,Logitech,Net Banking,14418,8493,1478,1001,990.04,30,991030.04,4.4,Asia Pacific,2026-07-31
+PRD-4178,Nike Electronics Item #178,Beauty & Care,Adidas,Net Banking,30598,7398,1348,733,536.05,10,392924.65,4.6,Middle East,2026-02-06
+PRD-4179,L'Oreal Books Item #179,Clothing,Logitech,PayPal,64759,14465,6111,3066,1083.77,30,3322838.82,3.4,Middle East,2026-02-11
+PRD-4180,Nike Clothing Item #180,Electronics,Nike,UPI Instant,75913,44378,7057,3470,550.45,30,1910061.5,4.3,Asia Pacific,2026-05-02
+PRD-4181,Samsung Sports Gear Item #181,Beauty & Care,Sony,Net Banking,6264,1449,638,433,765.23,30,331344.59,3.5,Europe,2026-03-15
+PRD-4182,Apple Electronics Item #182,Electronics,Adidas,PayPal,19569,4739,1847,831,624.66,30,519092.46,4.1,Asia Pacific,2026-02-23
+PRD-4183,Puma Books Item #183,Clothing,Adidas,Credit Card,19995,7659,1569,639,524.9,0,335411.1,3.2,Middle East,2026-05-08
+PRD-4184,Apple Sports Gear Item #184,Sports Gear,Logitech,Cash on Delivery,40041,11891,2258,881,740.56,15,652433.36,3.4,North America,2026-05-18
+PRD-4185,Nike Clothing Item #185,Books,Logitech,UPI Instant,24048,8453,2050,1395,914.47,15,1275685.65,4.2,Middle East,2026-06-02
+PRD-4186,Nike Beauty & Care Item #186,Beauty & Care,Puma,Cash on Delivery,9698,3499,808,560,393.83,50,220544.8,4.6,Middle East,2026-03-06
+PRD-4187,Logitech Books Item #187,Sports Gear,Samsung,PayPal,35045,19512,3065,1799,984.57,50,1771241.43,4.7,Latin America,2026-01-31
+PRD-4188,Puma Beauty & Care Item #188,Electronics,Samsung,Cash on Delivery,75438,36006,7629,5060,691.66,10,3499799.6,3.4,North America,2026-02-22
+PRD-4189,Adidas Books Item #189,Sports Gear,Nike,Credit Card,1201,688,110,48,670.58,20,32187.84,4.6,Asia Pacific,2026-02-01
+PRD-4190,Nike Clothing Item #190,Beauty & Care,Samsung,PayPal,78316,26954,11088,7657,398.88,15,3054224.16,4.9,Asia Pacific,2026-03-10
+PRD-4191,Puma Beauty & Care Item #191,Beauty & Care,L'Oreal,UPI Instant,65823,28599,6992,3913,672.11,15,2629966.43,4.1,Asia Pacific,2026-04-06
+PRD-4192,Logitech Electronics Item #192,Home & Kitchen,Adidas,Net Banking,69457,32990,5864,3470,537.72,50,1865888.4,3.9,Europe,2026-04-01
+PRD-4193,Nike Electronics Item #193,Home & Kitchen,Samsung,PayPal,59186,11898,2445,1001,814.99,15,815804.99,3.2,Latin America,2026-02-23
+PRD-4194,Puma Electronics Item #194,Beauty & Care,Nike,Cash on Delivery,3339,1305,202,131,1065.21,10,139542.51,4.4,Middle East,2026-03-07
+PRD-4195,Apple Beauty & Care Item #195,Electronics,Adidas,Credit Card,73538,43089,8989,4031,556.29,5,2242404.99,4.3,Europe,2026-06-26
+PRD-4196,Puma Sports Gear Item #196,Sports Gear,Sony,UPI Instant,57943,34761,14882,7497,735.95,20,5517417.15,3.9,North America,2026-03-13
+PRD-4197,Sony Beauty & Care Item #197,Home & Kitchen,Adidas,Cash on Delivery,12358,2567,715,311,900.78,20,280142.58,4.5,Latin America,2026-05-05
+PRD-4198,Puma Home & Kitchen Item #198,Books,Sony,Net Banking,17817,6269,2005,823,162.89,20,134058.47,4.6,North America,2026-05-06
+PRD-4199,Samsung Clothing Item #199,Clothing,Puma,PayPal,73536,18303,6749,4458,173.3,0,772571.4,3.4,North America,2026-03-29
+PRD-4200,Sony Electronics Item #200,Clothing,Adidas,Cash on Delivery,21354,10352,3215,2326,850.45,10,1978146.7,3.8,Latin America,2026-01-07
+PRD-4201,Nike Beauty & Care Item #201,Electronics,Puma,Credit Card,60451,12387,4449,2341,201.74,50,472273.34,3.6,Middle East,2026-03-27
+PRD-4202,L'Oreal Home & Kitchen Item #202,Sports Gear,Logitech,Cash on Delivery,51390,12397,4330,2761,499.19,5,1378263.59,3.6,North America,2026-02-20
+PRD-4203,Samsung Clothing Item #203,Beauty & Care,Sony,Cash on Delivery,13337,6452,1030,402,335.98,50,135063.96,4.1,Asia Pacific,2026-07-25
+PRD-4204,Samsung Electronics Item #204,Sports Gear,Sony,PayPal,34441,19466,8222,2607,895.1,30,2333525.7,3.9,North America,2026-01-31
+PRD-4205,L'Oreal Home & Kitchen Item #205,Books,Sony,PayPal,74157,24266,10521,5484,1027.3,30,5633713.2,3.5,Asia Pacific,2026-08-05
+PRD-4206,Adidas Clothing Item #206,Electronics,Logitech,PayPal,31511,15018,3226,2270,382.45,10,868161.5,3.8,Asia Pacific,2026-03-28
+PRD-4207,Apple Beauty & Care Item #207,Clothing,L'Oreal,PayPal,77336,23964,5495,4051,1152.2,15,4667562.2,4.8,Asia Pacific,2026-05-25
+PRD-4208,Nike Electronics Item #208,Beauty & Care,Adidas,Cash on Delivery,15752,4675,1608,860,1133.4,20,974724.0,4.2,Middle East,2026-06-24
+PRD-4209,Nike Sports Gear Item #209,Beauty & Care,Adidas,Net Banking,10285,5520,1220,714,747.99,5,534064.86,3.4,North America,2026-03-04
+PRD-4210,L'Oreal Home & Kitchen Item #210,Clothing,Samsung,Cash on Delivery,52678,30590,11457,6702,71.6,15,479863.2,3.4,Middle East,2026-02-14
+PRD-4211,Logitech Electronics Item #211,Home & Kitchen,L'Oreal,Net Banking,50359,27523,9299,3978,973.59,0,3872941.02,3.8,Latin America,2026-06-25
+PRD-4212,Adidas Home & Kitchen Item #212,Sports Gear,L'Oreal,PayPal,68961,16189,5698,3093,1115.59,10,3450519.87,4.7,Europe,2026-06-19
+PRD-4213,Logitech Books Item #213,Beauty & Care,Puma,PayPal,43157,24723,4504,1551,615.52,10,954671.52,3.6,Asia Pacific,2026-04-08
+PRD-4214,Samsung Books Item #214,Books,Nike,Credit Card,74822,36423,9925,5614,1028.23,50,5772483.22,4.2,North America,2026-03-10
+PRD-4215,Sony Clothing Item #215,Books,Apple,Net Banking,15256,4072,1227,796,126.68,20,100837.28,4.7,Asia Pacific,2026-08-04
+PRD-4216,Adidas Books Item #216,Electronics,Samsung,Cash on Delivery,59881,17604,6220,3352,395.62,30,1326118.24,4.2,Asia Pacific,2026-02-10
+PRD-4217,Samsung Books Item #217,Clothing,Sony,PayPal,32063,12621,4816,2636,1064.12,5,2805020.32,4.9,Latin America,2026-07-04
+PRD-4218,Apple Electronics Item #218,Books,Sony,UPI Instant,36333,21439,3986,1769,107.07,30,189406.83,3.5,Middle East,2026-06-21
+PRD-4219,Sony Electronics Item #219,Clothing,Puma,PayPal,35574,14553,5578,2696,750.15,30,2022404.4,4.8,Latin America,2026-07-21
+PRD-4220,Logitech Home & Kitchen Item #220,Electronics,Sony,Net Banking,68947,17731,2964,1425,770.47,30,1097919.75,4.9,Europe,2026-07-17
+PRD-4221,Adidas Clothing Item #221,Home & Kitchen,Puma,Credit Card,62013,27495,8086,5302,495.09,10,2624967.18,3.9,Europe,2026-03-14
+PRD-4222,Sony Beauty & Care Item #222,Sports Gear,Apple,Cash on Delivery,73114,32583,14036,8355,330.16,50,2758486.8,4.4,Middle East,2026-03-24
+PRD-4223,Samsung Sports Gear Item #223,Books,L'Oreal,UPI Instant,68599,19125,7638,3302,831.35,50,2745117.7,3.7,Middle East,2026-05-31
+PRD-4224,Apple Sports Gear Item #224,Home & Kitchen,Adidas,Credit Card,58951,31586,14059,5935,984.55,10,5843304.25,4.0,Latin America,2026-06-08
+PRD-4225,L'Oreal Clothing Item #225,Books,Nike,Net Banking,67881,22907,7691,5171,1132.11,20,5854140.81,3.4,Europe,2026-08-08
+PRD-4226,Logitech Beauty & Care Item #226,Sports Gear,Sony,UPI Instant,6864,2850,1257,692,1097.39,30,759393.88,3.9,Latin America,2026-05-18
+PRD-4227,Samsung Sports Gear Item #227,Sports Gear,Logitech,Cash on Delivery,18289,7970,2774,1196,615.85,20,736556.6,3.9,Middle East,2026-01-06
+PRD-4228,Puma Books Item #228,Books,Logitech,Net Banking,23397,5228,1081,557,117.6,50,65503.2,4.4,North America,2026-01-23
+PRD-4229,Samsung Clothing Item #229,Books,Adidas,PayPal,72372,18739,6117,2088,773.56,20,1615193.28,4.4,Europe,2026-01-25
+PRD-4230,Adidas Books Item #230,Books,Apple,UPI Instant,50075,21742,9328,3080,823.43,0,2536164.4,3.6,Latin America,2026-04-04
+PRD-4231,Logitech Home & Kitchen Item #231,Books,Logitech,PayPal,35262,11552,4134,2790,506.92,30,1414306.8,4.4,Latin America,2026-04-10
+PRD-4232,Sony Beauty & Care Item #232,Electronics,Logitech,Net Banking,76892,39182,7722,3530,352.87,15,1245631.1,3.9,Latin America,2026-06-06
+PRD-4233,L'Oreal Electronics Item #233,Beauty & Care,Samsung,PayPal,42047,22841,7578,4798,299.15,10,1435321.7,4.0,Latin America,2026-08-07
+PRD-4234,Samsung Books Item #234,Home & Kitchen,Logitech,Cash on Delivery,6009,1469,612,285,382.36,15,108972.6,3.6,Middle East,2026-05-21
+PRD-4235,L'Oreal Books Item #235,Electronics,Logitech,Credit Card,1706,665,164,54,413.65,30,22337.1,4.6,Europe,2026-06-18
+PRD-4236,Apple Clothing Item #236,Electronics,Nike,PayPal,22467,6300,2574,1797,940.87,5,1690743.39,4.4,Europe,2026-02-03
+PRD-4237,Samsung Clothing Item #237,Electronics,L'Oreal,UPI Instant,19867,6805,2942,961,759.31,0,729696.91,4.6,Asia Pacific,2026-06-26
+PRD-4238,Nike Books Item #238,Electronics,Adidas,Credit Card,31334,7863,3463,2087,230.3,10,480636.1,3.3,Latin America,2026-06-30
+PRD-4239,Samsung Beauty & Care Item #239,Books,L'Oreal,Credit Card,63063,18525,8290,5961,58.57,20,349135.77,4.3,Middle East,2026-05-26
+PRD-4240,Puma Books Item #240,Home & Kitchen,Adidas,UPI Instant,48336,25111,8672,2983,279.24,0,832972.92,3.8,Latin America,2026-07-30
+PRD-4241,Nike Clothing Item #241,Sports Gear,Nike,Cash on Delivery,4544,1885,367,160,1049.29,50,167886.4,3.8,North America,2026-04-22
+PRD-4242,Adidas Beauty & Care Item #242,Beauty & Care,Puma,Cash on Delivery,46129,17596,4476,3062,262.75,20,804540.5,3.2,North America,2026-05-23
+PRD-4243,Sony Electronics Item #243,Electronics,Sony,UPI Instant,36360,11705,3370,2476,1016.68,50,2517299.68,4.0,Europe,2026-08-07
+PRD-4244,Samsung Clothing Item #244,Home & Kitchen,Nike,Cash on Delivery,57840,13871,2981,1252,1044.46,10,1307663.92,3.8,Latin America,2026-06-26
+PRD-4245,Adidas Clothing Item #245,Home & Kitchen,Puma,Net Banking,8080,3546,1283,561,77.49,5,43471.89,3.7,North America,2026-06-13
+PRD-4246,Samsung Beauty & Care Item #246,Clothing,Nike,Net Banking,31936,12658,3471,1814,483.29,15,876688.06,4.0,Middle East,2026-02-04
+PRD-4247,Puma Books Item #247,Clothing,Logitech,PayPal,44478,23856,9299,5365,746.93,30,4007279.45,3.4,Europe,2026-05-01
+PRD-4248,Samsung Beauty & Care Item #248,Books,Sony,PayPal,60312,33548,14219,6163,890.56,15,5488521.28,3.4,Asia Pacific,2026-04-21
+PRD-4249,Nike Sports Gear Item #249,Electronics,Logitech,UPI Instant,62726,17619,4081,2924,189.98,10,555501.52,4.6,North America,2026-08-09
+PRD-4250,Logitech Beauty & Care Item #250,Sports Gear,Logitech,PayPal,45387,26123,4685,2592,450.12,20,1166711.04,3.3,Asia Pacific,2026-04-24
+PRD-4251,Apple Clothing Item #251,Clothing,Logitech,Cash on Delivery,49648,24956,10085,6298,271.69,10,1711103.62,3.9,Europe,2026-07-08
+PRD-4252,L'Oreal Sports Gear Item #252,Beauty & Care,L'Oreal,Cash on Delivery,76926,27361,10622,5305,255.35,20,1354631.75,4.9,Middle East,2026-01-02
+PRD-4253,Apple Beauty & Care Item #253,Clothing,Samsung,Net Banking,20477,9901,3625,1801,974.14,10,1754426.14,4.5,Asia Pacific,2026-08-13
+PRD-4254,Adidas Beauty & Care Item #254,Home & Kitchen,Apple,Cash on Delivery,71778,20304,6058,2222,809.35,5,1798375.7,4.0,Asia Pacific,2026-05-13
+PRD-4255,L'Oreal Beauty & Care Item #255,Electronics,Logitech,Credit Card,65462,39218,7764,2982,128.4,10,382888.8,3.6,Europe,2026-02-10
+PRD-4256,Apple Beauty & Care Item #256,Home & Kitchen,Apple,Credit Card,45951,10247,3819,1611,1183.18,15,1906102.98,4.9,North America,2026-06-22
+PRD-4257,Puma Home & Kitchen Item #257,Books,Samsung,Credit Card,73749,28406,5822,2272,956.94,50,2174167.68,3.5,Middle East,2026-02-06
+PRD-4258,Samsung Clothing Item #258,Sports Gear,L'Oreal,UPI Instant,45032,25879,11367,6223,597.79,5,3720047.17,4.4,North America,2026-06-25
+PRD-4259,Samsung Beauty & Care Item #259,Sports Gear,Puma,Credit Card,78861,25685,11422,3764,15.43,15,58078.52,3.2,Asia Pacific,2026-04-03
+PRD-4260,Logitech Beauty & Care Item #260,Home & Kitchen,Adidas,PayPal,23863,8486,3262,2429,1008.36,50,2449306.44,4.9,Latin America,2026-03-09
+PRD-4261,Apple Books Item #261,Home & Kitchen,Puma,Cash on Delivery,23814,13860,3769,1356,1097.7,10,1488481.2,4.0,Asia Pacific,2026-07-10
+PRD-4262,Adidas Sports Gear Item #262,Beauty & Care,L'Oreal,UPI Instant,46650,12550,1914,806,301.96,5,243379.76,3.7,Asia Pacific,2026-03-12
+PRD-4263,Nike Books Item #263,Electronics,L'Oreal,Net Banking,48666,24589,10308,5809,955.78,50,5552126.02,4.1,Europe,2026-02-11
+PRD-4264,Apple Electronics Item #264,Electronics,L'Oreal,UPI Instant,77501,19430,4778,2260,159.44,15,360334.4,3.5,Middle East,2026-07-01
+PRD-4265,Logitech Home & Kitchen Item #265,Beauty & Care,L'Oreal,Cash on Delivery,5226,2392,867,546,409.19,30,223417.74,3.6,Asia Pacific,2026-01-24
+PRD-4266,Apple Books Item #266,Clothing,Samsung,PayPal,48623,11812,3088,1314,452.59,0,594703.26,4.4,North America,2026-05-26
+PRD-4267,Puma Books Item #267,Beauty & Care,Nike,Credit Card,47031,10540,4217,2410,424.13,20,1022153.3,4.6,Middle East,2026-04-26
+PRD-4268,Nike Sports Gear Item #268,Home & Kitchen,Samsung,Net Banking,48145,27143,6454,3515,1167.43,5,4103516.45,3.6,Latin America,2026-05-06
+PRD-4269,Puma Electronics Item #269,Books,L'Oreal,PayPal,48506,12241,2319,1695,285.35,15,483668.25,3.6,Europe,2026-04-14
+PRD-4270,L'Oreal Beauty & Care Item #270,Home & Kitchen,Puma,Net Banking,8564,2554,705,318,275.23,15,87523.14,4.6,North America,2026-07-10
+PRD-4271,L'Oreal Electronics Item #271,Books,Logitech,Credit Card,66569,21045,6095,3930,467.32,5,1836567.6,3.3,Europe,2026-07-01
+PRD-4272,Adidas Electronics Item #272,Sports Gear,Puma,Net Banking,33421,8073,1549,1054,881.3,10,928890.2,4.6,North America,2026-07-02
+PRD-4273,Samsung Clothing Item #273,Home & Kitchen,Samsung,UPI Instant,29855,6159,1388,789,660.91,50,521457.99,4.5,North America,2026-05-15
+PRD-4274,Logitech Books Item #274,Sports Gear,Sony,PayPal,30542,10627,4563,2558,309.43,50,791521.94,4.4,Europe,2026-07-04
+PRD-4275,L'Oreal Electronics Item #275,Sports Gear,Puma,Credit Card,41628,16075,6779,2255,116.58,0,262887.9,4.4,North America,2026-07-18
+PRD-4276,Samsung Books Item #276,Electronics,Apple,Credit Card,69852,41734,16061,6723,1015.83,15,6829425.09,4.1,Middle East,2026-04-26
+PRD-4277,Logitech Clothing Item #277,Electronics,Samsung,PayPal,77346,27224,10106,3239,241.69,10,782833.91,4.3,Europe,2026-07-06
+PRD-4278,Adidas Electronics Item #278,Books,Puma,UPI Instant,69767,38421,13467,7239,640.74,0,4638316.86,4.2,Latin America,2026-07-23
+PRD-4279,L'Oreal Beauty & Care Item #279,Electronics,Sony,UPI Instant,26930,9720,2031,666,433.98,30,289030.68,4.4,Asia Pacific,2026-07-03
+PRD-4280,L'Oreal Sports Gear Item #280,Clothing,L'Oreal,UPI Instant,26944,10974,3956,2130,444.83,0,947487.9,3.8,Europe,2026-07-31
+PRD-4281,Samsung Books Item #281,Sports Gear,L'Oreal,UPI Instant,57658,24901,8885,4313,31.25,15,134781.25,4.8,Europe,2026-05-21
+PRD-4282,Logitech Sports Gear Item #282,Clothing,L'Oreal,UPI Instant,66800,13724,3687,1637,866.22,15,1418002.14,4.3,North America,2026-04-16
+PRD-4283,L'Oreal Home & Kitchen Item #283,Clothing,L'Oreal,PayPal,19776,11491,3219,2021,793.8,10,1604269.8,3.8,Latin America,2026-07-28
+PRD-4284,Samsung Sports Gear Item #284,Clothing,Sony,Credit Card,30950,14971,3715,2130,907.78,50,1933571.4,4.4,Europe,2026-06-14
+PRD-4285,Nike Home & Kitchen Item #285,Electronics,Samsung,UPI Instant,39148,9817,4075,1514,95.66,10,144829.24,3.9,Middle East,2026-06-02
+PRD-4286,Apple Home & Kitchen Item #286,Beauty & Care,Nike,Credit Card,73600,43635,8661,5057,598.42,30,3026209.94,4.4,Middle East,2026-08-03
+PRD-4287,Logitech Books Item #287,Sports Gear,Apple,UPI Instant,7915,3965,1132,652,31.22,15,20355.44,4.0,Europe,2026-05-01
+PRD-4288,Samsung Home & Kitchen Item #288,Sports Gear,Sony,PayPal,6479,2552,1111,630,890.39,0,560945.7,4.0,Asia Pacific,2026-07-26
+PRD-4289,Sony Electronics Item #289,Clothing,Apple,Net Banking,72048,23669,6887,2261,1176.61,0,2660315.21,4.9,Europe,2026-05-07
+PRD-4290,Nike Clothing Item #290,Books,Sony,Credit Card,10328,2663,605,351,135.15,15,47437.65,4.2,Middle East,2026-04-01
+PRD-4291,Logitech Electronics Item #291,Electronics,Nike,Cash on Delivery,27060,14919,2284,1354,397.39,30,538066.06,4.7,North America,2026-07-18
+PRD-4292,Puma Electronics Item #292,Sports Gear,Puma,PayPal,14003,5528,1046,589,828.43,5,487945.27,3.7,Asia Pacific,2026-01-08
+PRD-4293,Sony Sports Gear Item #293,Home & Kitchen,Samsung,Net Banking,2921,1584,439,292,1173.37,30,342624.04,4.1,North America,2026-07-26
+PRD-4294,Samsung Sports Gear Item #294,Clothing,Logitech,PayPal,33560,16949,3020,1965,859.23,15,1688386.95,3.3,Asia Pacific,2026-08-09
+PRD-4295,Nike Beauty & Care Item #295,Books,Adidas,UPI Instant,3295,1355,540,312,779.46,5,243191.52,3.7,Latin America,2026-04-03
+PRD-4296,Adidas Home & Kitchen Item #296,Beauty & Care,Puma,Credit Card,59353,16728,5849,4259,839.62,20,3575941.58,4.3,Middle East,2026-06-04
+PRD-4297,L'Oreal Books Item #297,Electronics,Puma,Net Banking,69893,34168,12732,8722,1056.19,50,9212089.18,4.8,Asia Pacific,2026-08-04
+PRD-4298,Sony Sports Gear Item #298,Home & Kitchen,Sony,Cash on Delivery,29184,14802,3533,2591,567.24,5,1469718.84,3.2,North America,2026-06-14
+PRD-4299,Samsung Electronics Item #299,Sports Gear,Adidas,Cash on Delivery,31016,13348,4217,1445,585.73,20,846379.85,4.4,Middle East,2026-03-25
+PRD-4300,L'Oreal Beauty & Care Item #300,Home & Kitchen,Nike,Cash on Delivery,75154,22941,8904,6033,784.8,10,4734698.4,3.5,Latin America,2026-04-11
+PRD-4301,Apple Electronics Item #301,Beauty & Care,Puma,PayPal,24597,11121,2773,1093,538.85,15,588963.05,3.8,Latin America,2026-05-09
+PRD-4302,Logitech Books Item #302,Electronics,Puma,UPI Instant,27662,7886,1525,821,423.18,5,347430.78,3.4,Asia Pacific,2026-01-28
+PRD-4303,Apple Clothing Item #303,Sports Gear,Sony,Cash on Delivery,35489,9980,3841,1233,652.29,0,804273.57,4.2,Europe,2026-07-03
+PRD-4304,Puma Home & Kitchen Item #304,Clothing,Nike,PayPal,79484,36872,15585,9887,529.59,50,5236056.33,4.2,Asia Pacific,2026-07-09
+PRD-4305,Samsung Books Item #305,Beauty & Care,Sony,Cash on Delivery,40603,9911,2408,1636,491.65,0,804339.4,4.1,North America,2026-04-25
+PRD-4306,Apple Clothing Item #306,Clothing,Apple,PayPal,33989,10910,1875,1215,167.49,50,203500.35,3.8,Asia Pacific,2026-01-23
+PRD-4307,Samsung Home & Kitchen Item #307,Sports Gear,Apple,Net Banking,13605,3864,1247,530,427.35,0,226495.5,4.2,Middle East,2026-06-18
+PRD-4308,Nike Sports Gear Item #308,Beauty & Care,Puma,Credit Card,66817,36481,9219,3834,267.47,5,1025479.98,3.6,Europe,2026-01-10
+PRD-4309,Nike Home & Kitchen Item #309,Sports Gear,Adidas,Credit Card,35207,12603,1981,1014,1129.0,0,1144806.0,4.3,Europe,2026-04-02
+PRD-4310,Sony Clothing Item #310,Sports Gear,Puma,UPI Instant,48910,19686,4457,2349,1158.42,50,2721128.58,4.3,North America,2026-08-06
+PRD-4311,L'Oreal Books Item #311,Sports Gear,L'Oreal,Credit Card,67253,20666,7958,2426,368.41,5,893762.66,4.6,Latin America,2026-03-13
+PRD-4312,Adidas Home & Kitchen Item #312,Clothing,Sony,PayPal,60829,20224,8247,3836,797.64,20,3059747.04,4.6,Latin America,2026-01-28
+PRD-4313,Apple Electronics Item #313,Home & Kitchen,Sony,PayPal,69547,18856,3083,2104,878.5,5,1848364.0,3.4,North America,2026-03-01
+PRD-4314,Samsung Beauty & Care Item #314,Books,Adidas,UPI Instant,25422,10589,2577,1503,306.69,5,460955.07,4.6,Latin America,2026-08-03
+PRD-4315,Samsung Books Item #315,Sports Gear,L'Oreal,Net Banking,22980,12530,2660,1738,595.94,50,1035743.72,4.7,Middle East,2026-02-18
+PRD-4316,Samsung Beauty & Care Item #316,Clothing,Apple,UPI Instant,24622,11495,2980,996,298.17,50,296977.32,3.3,North America,2026-05-16
+PRD-4317,Logitech Home & Kitchen Item #317,Home & Kitchen,Sony,Credit Card,59605,35733,13676,8895,936.98,0,8334437.1,3.6,Middle East,2026-06-08
+PRD-4318,Sony Beauty & Care Item #318,Books,Samsung,Net Banking,28334,15077,3811,1362,1170.75,15,1594561.5,3.9,Latin America,2026-05-12
+PRD-4319,Samsung Sports Gear Item #319,Books,Nike,UPI Instant,62012,23149,10125,6201,147.54,20,914895.54,3.8,Asia Pacific,2026-07-17
+PRD-4320,Apple Electronics Item #320,Books,L'Oreal,Cash on Delivery,40622,19261,8351,4149,908.31,30,3768578.19,4.6,Latin America,2026-03-11
+PRD-4321,Puma Electronics Item #321,Beauty & Care,Sony,Cash on Delivery,42373,20739,8980,3419,782.19,10,2674307.61,4.7,Europe,2026-01-01
+PRD-4322,Samsung Sports Gear Item #322,Clothing,Sony,Net Banking,16740,6838,3047,1135,1045.12,15,1186211.2,3.2,Europe,2026-05-23
+PRD-4323,Sony Books Item #323,Books,Nike,Net Banking,48243,18862,8382,5837,672.02,15,3922580.74,4.1,North America,2026-05-25
+PRD-4324,Logitech Sports Gear Item #324,Books,Sony,PayPal,21573,8109,1519,1133,377.64,20,427866.12,4.8,Asia Pacific,2026-02-09
+PRD-4325,Samsung Beauty & Care Item #325,Clothing,Logitech,UPI Instant,16561,8080,1896,1310,318.27,20,416933.7,3.5,North America,2026-02-26
+PRD-4326,Puma Clothing Item #326,Clothing,L'Oreal,Net Banking,11312,4757,1190,508,639.37,5,324799.96,4.9,Middle East,2026-01-01
+PRD-4327,Puma Home & Kitchen Item #327,Books,Adidas,UPI Instant,8336,1874,640,297,376.01,20,111674.97,4.0,North America,2026-02-16
+PRD-4328,Sony Books Item #328,Books,Apple,PayPal,48944,19529,5146,3278,475.3,0,1558033.4,3.3,Middle East,2026-02-10
+PRD-4329,Sony Clothing Item #329,Clothing,Sony,PayPal,64513,24628,6817,3742,717.75,20,2685820.5,3.9,North America,2026-07-23
+PRD-4330,Puma Clothing Item #330,Sports Gear,Nike,Net Banking,36009,14162,3199,1795,1167.17,10,2095070.15,4.0,North America,2026-07-06
+PRD-4331,Logitech Beauty & Care Item #331,Books,Samsung,Net Banking,74052,29170,6177,2333,279.59,30,652283.47,4.7,Europe,2026-03-14
+PRD-4332,Nike Home & Kitchen Item #332,Sports Gear,Logitech,Net Banking,78481,20909,3642,1492,1135.37,20,1693972.04,4.7,Asia Pacific,2026-04-05
+PRD-4333,Logitech Clothing Item #333,Sports Gear,Sony,UPI Instant,56024,14957,6032,2486,833.17,20,2071260.62,4.9,North America,2026-02-04
+PRD-4334,Samsung Sports Gear Item #334,Sports Gear,L'Oreal,Credit Card,6246,2368,652,410,994.09,50,407576.9,3.5,North America,2026-07-17
+PRD-4335,Adidas Home & Kitchen Item #335,Clothing,Adidas,PayPal,19737,7546,2380,1372,550.17,5,754833.24,3.9,Asia Pacific,2026-04-27
+PRD-4336,Samsung Beauty & Care Item #336,Home & Kitchen,Puma,Net Banking,43233,21641,9621,5827,253.28,0,1475862.56,4.5,Europe,2026-04-01
+PRD-4337,Adidas Home & Kitchen Item #337,Sports Gear,Logitech,UPI Instant,10229,3856,638,241,531.87,50,128180.67,4.9,Europe,2026-05-13
+PRD-4338,Samsung Beauty & Care Item #338,Sports Gear,L'Oreal,Net Banking,45172,24048,10570,3602,1035.06,0,3728286.12,4.0,Middle East,2026-07-05
+PRD-4339,Logitech Beauty & Care Item #339,Sports Gear,Apple,UPI Instant,57365,29344,9297,6027,244.98,20,1476494.46,3.4,Asia Pacific,2026-06-04
+PRD-4340,L'Oreal Clothing Item #340,Sports Gear,Apple,Cash on Delivery,54508,12104,4056,2116,205.19,20,434182.04,3.5,Middle East,2026-03-05
+PRD-4341,Puma Sports Gear Item #341,Clothing,Logitech,Net Banking,8932,5266,1894,935,99.43,10,92967.05,3.7,Asia Pacific,2026-02-06
+PRD-4342,Puma Clothing Item #342,Home & Kitchen,Apple,Cash on Delivery,26305,12001,5189,3558,278.15,20,989657.7,3.6,Asia Pacific,2026-07-28
+PRD-4343,Adidas Home & Kitchen Item #343,Books,Samsung,Net Banking,76188,25517,11148,6825,224.75,15,1533918.75,4.5,Middle East,2026-07-30
+PRD-4344,L'Oreal Books Item #344,Electronics,Sony,UPI Instant,66110,32237,12865,5023,567.35,20,2849799.05,3.5,Europe,2026-08-01
+PRD-4345,Nike Sports Gear Item #345,Electronics,Sony,Net Banking,65279,32586,13697,4221,106.92,20,451309.32,3.6,Europe,2026-03-27
+PRD-4346,L'Oreal Books Item #346,Home & Kitchen,Samsung,Credit Card,65925,14735,5903,2626,669.94,50,1759262.44,3.4,Europe,2026-07-30
+PRD-4347,Nike Clothing Item #347,Beauty & Care,Nike,PayPal,10212,2487,469,247,61.11,50,15094.17,4.8,Latin America,2026-01-22
+PRD-4348,Logitech Books Item #348,Electronics,Sony,UPI Instant,18541,5802,1662,513,444.83,30,228197.79,4.7,Latin America,2026-05-14
+PRD-4349,Nike Home & Kitchen Item #349,Sports Gear,Sony,Cash on Delivery,77588,17434,5291,2485,692.14,15,1719967.9,3.6,Latin America,2026-02-28
+PRD-4350,Logitech Sports Gear Item #350,Books,Adidas,Credit Card,7630,3235,615,286,590.31,10,168828.66,4.1,Latin America,2026-06-28
+PRD-4351,Nike Beauty & Care Item #351,Books,Samsung,Cash on Delivery,39856,12907,4583,1797,550.62,15,989464.14,3.8,Middle East,2026-03-01
+PRD-4352,Nike Electronics Item #352,Clothing,Logitech,Cash on Delivery,7739,2257,772,458,1184.69,20,542588.02,4.8,Asia Pacific,2026-01-28
+PRD-4353,Logitech Electronics Item #353,Sports Gear,Nike,UPI Instant,79054,28580,7305,4864,523.66,30,2547082.24,3.4,Asia Pacific,2026-06-29
+PRD-4354,Puma Sports Gear Item #354,Electronics,Apple,Cash on Delivery,72936,37128,9844,4512,1109.92,15,5007959.04,4.6,Asia Pacific,2026-02-07
+PRD-4355,Apple Home & Kitchen Item #355,Sports Gear,Puma,Cash on Delivery,66512,31257,9273,3602,476.26,0,1715488.52,3.3,Latin America,2026-08-08
+PRD-4356,Samsung Electronics Item #356,Beauty & Care,L'Oreal,Net Banking,16802,5323,2312,712,224.82,0,160071.84,3.2,Europe,2026-06-23
+PRD-4357,Adidas Clothing Item #357,Books,Puma,Net Banking,4828,1998,308,95,1030.43,0,97890.85,4.1,Latin America,2026-05-16
+PRD-4358,Puma Beauty & Care Item #358,Books,L'Oreal,Net Banking,37768,11611,2379,1064,470.1,0,500186.4,4.1,Latin America,2026-05-10
+PRD-4359,L'Oreal Home & Kitchen Item #359,Books,Puma,PayPal,45999,19965,3351,1321,275.75,5,364265.75,4.5,Latin America,2026-05-17
+PRD-4360,Samsung Books Item #360,Sports Gear,L'Oreal,Cash on Delivery,22879,10654,1816,977,483.43,30,472311.11,3.3,Europe,2026-07-31
+PRD-4361,Puma Sports Gear Item #361,Clothing,Nike,UPI Instant,45384,14871,3787,1700,900.96,10,1531632.0,4.2,Middle East,2026-02-25
+PRD-4362,Adidas Electronics Item #362,Home & Kitchen,Puma,Cash on Delivery,47608,21595,6759,3595,370.78,10,1332954.1,4.5,Europe,2026-07-18
+PRD-4363,Sony Beauty & Care Item #363,Home & Kitchen,Logitech,Cash on Delivery,24359,9959,3927,1856,380.97,0,707080.32,3.8,Asia Pacific,2026-08-11
+PRD-4364,Apple Beauty & Care Item #364,Electronics,Sony,Net Banking,3142,1826,334,188,679.12,20,127674.56,3.3,Asia Pacific,2026-01-02
+PRD-4365,Puma Electronics Item #365,Beauty & Care,L'Oreal,PayPal,71696,15425,4187,2519,47.83,15,120483.77,4.9,North America,2026-01-09
+PRD-4366,Nike Beauty & Care Item #366,Home & Kitchen,Adidas,Credit Card,28059,13885,3086,1391,25.61,50,35623.51,4.8,North America,2026-06-07
+PRD-4367,Sony Beauty & Care Item #367,Clothing,Samsung,PayPal,2936,1663,738,500,141.14,30,70570.0,4.7,North America,2026-03-04
+PRD-4368,Apple Clothing Item #368,Clothing,Logitech,Credit Card,14300,6821,1919,1132,102.79,5,116358.28,4.1,Middle East,2026-05-18
+PRD-4369,L'Oreal Books Item #369,Sports Gear,Puma,Cash on Delivery,75365,23202,5381,3824,1076.52,0,4116612.48,3.7,Middle East,2026-05-25
+PRD-4370,Logitech Beauty & Care Item #370,Home & Kitchen,Logitech,Net Banking,18121,10573,3193,1477,261.91,50,386841.07,3.8,Europe,2026-05-07
+PRD-4371,Sony Beauty & Care Item #371,Books,Logitech,PayPal,74646,34631,5440,3860,1103.53,50,4259625.8,4.2,Asia Pacific,2026-04-15
+PRD-4372,L'Oreal Electronics Item #372,Beauty & Care,Logitech,Credit Card,12845,4130,1049,457,119.41,15,54570.37,4.3,Middle East,2026-07-01
+PRD-4373,Logitech Home & Kitchen Item #373,Beauty & Care,Adidas,Cash on Delivery,48885,17853,7767,2949,157.18,20,463523.82,4.2,Middle East,2026-07-24
+PRD-4374,Sony Home & Kitchen Item #374,Sports Gear,Adidas,UPI Instant,41587,10159,3926,1869,49.01,5,91599.69,4.7,Latin America,2026-05-30
+PRD-4375,Puma Beauty & Care Item #375,Beauty & Care,Samsung,Cash on Delivery,24796,6175,1165,507,526.37,30,266869.59,4.2,Asia Pacific,2026-06-30
+PRD-4376,L'Oreal Electronics Item #376,Beauty & Care,Adidas,Net Banking,31261,10741,4567,1765,587.27,20,1036531.55,4.0,North America,2026-06-09
+PRD-4377,Apple Home & Kitchen Item #377,Home & Kitchen,Adidas,Net Banking,26286,10017,2803,1438,655.48,5,942580.24,3.5,Latin America,2026-04-11
+PRD-4378,Sony Sports Gear Item #378,Books,Apple,UPI Instant,54364,22262,9247,4940,506.2,0,2500628.0,3.8,North America,2026-07-06
+PRD-4379,L'Oreal Books Item #379,Clothing,Puma,PayPal,8198,3262,1185,459,1142.48,10,524398.32,3.7,Latin America,2026-01-06
+PRD-4380,Puma Beauty & Care Item #380,Clothing,Samsung,UPI Instant,37685,7970,3492,1137,924.21,20,1050826.77,3.5,Middle East,2026-07-20
+PRD-4381,Nike Home & Kitchen Item #381,Books,Logitech,Cash on Delivery,67622,33598,5703,3686,786.97,20,2900771.42,4.6,Latin America,2026-03-01
+PRD-4382,Apple Electronics Item #382,Electronics,Puma,Net Banking,34070,9006,2293,780,770.51,10,600997.8,4.4,Asia Pacific,2026-03-17
+PRD-4383,Nike Electronics Item #383,Beauty & Care,Sony,Credit Card,37344,9637,3556,2087,43.86,0,91535.82,3.4,Asia Pacific,2026-05-10
+PRD-4384,Adidas Electronics Item #384,Sports Gear,Sony,PayPal,30661,17548,5335,3920,313.57,5,1229194.4,4.2,Middle East,2026-07-01
+PRD-4385,Puma Sports Gear Item #385,Sports Gear,Sony,Cash on Delivery,70560,25258,4278,1374,962.74,10,1322804.76,3.9,North America,2026-06-18
+PRD-4386,Apple Sports Gear Item #386,Clothing,Nike,Cash on Delivery,47154,23672,10042,4644,163.2,50,757900.8,4.6,Europe,2026-06-06
+PRD-4387,Puma Home & Kitchen Item #387,Home & Kitchen,Apple,PayPal,60650,18054,4612,2438,772.55,20,1883476.9,3.7,Asia Pacific,2026-07-14
+PRD-4388,Sony Books Item #388,Books,Samsung,Cash on Delivery,22394,9431,3544,2136,550.73,50,1176359.28,4.0,Asia Pacific,2026-07-30
+PRD-4389,Nike Sports Gear Item #389,Home & Kitchen,Logitech,PayPal,34420,11602,1816,907,523.39,10,474714.73,4.9,Asia Pacific,2026-02-08
+PRD-4390,L'Oreal Electronics Item #390,Sports Gear,Nike,PayPal,37507,16199,5387,1847,753.7,10,1392083.9,4.7,Europe,2026-07-12
+PRD-4391,Nike Sports Gear Item #391,Sports Gear,L'Oreal,Net Banking,76196,45041,12058,7299,100.58,15,734133.42,4.8,North America,2026-04-20
+PRD-4392,Apple Home & Kitchen Item #392,Electronics,Apple,PayPal,36563,11010,1942,1284,871.2,30,1118620.8,4.6,Europe,2026-05-01
+PRD-4393,Puma Electronics Item #393,Beauty & Care,L'Oreal,Net Banking,74165,31184,10080,7057,1007.43,10,7109433.51,4.6,Latin America,2026-07-27
+PRD-4394,Adidas Sports Gear Item #394,Clothing,Nike,Credit Card,74959,43273,14017,9380,605.94,10,5683717.2,3.2,Asia Pacific,2026-03-11
+PRD-4395,Logitech Home & Kitchen Item #395,Beauty & Care,Puma,UPI Instant,23198,6005,984,527,937.15,0,493878.05,3.5,Europe,2026-06-22
+PRD-4396,Adidas Sports Gear Item #396,Clothing,Samsung,Credit Card,52250,18985,7314,2591,1099.38,20,2848493.58,4.1,North America,2026-07-14
+PRD-4397,Apple Beauty & Care Item #397,Books,Nike,PayPal,58781,20488,5071,2763,1097.23,0,3031646.49,4.6,Latin America,2026-05-25
+PRD-4398,Sony Books Item #398,Home & Kitchen,Adidas,Credit Card,20091,4347,1503,475,830.15,5,394321.25,4.1,Middle East,2026-01-06
+PRD-4399,Nike Sports Gear Item #399,Clothing,Nike,Cash on Delivery,3230,1284,496,203,182.16,30,36978.48,3.8,Europe,2026-07-10
+PRD-4400,Nike Electronics Item #400,Sports Gear,Sony,Credit Card,29884,6463,2044,1398,392.78,30,549106.44,3.4,Middle East,2026-08-03
+PRD-4401,Logitech Home & Kitchen Item #401,Books,Logitech,UPI Instant,43085,13592,5804,3434,201.8,20,692981.2,3.9,Europe,2026-05-23
+PRD-4402,Sony Sports Gear Item #402,Sports Gear,Logitech,PayPal,63747,21228,4370,2705,335.09,15,906418.45,4.2,Latin America,2026-05-21
+PRD-4403,Puma Books Item #403,Electronics,Samsung,Net Banking,65005,16246,3293,1716,1021.11,5,1752224.76,3.2,Latin America,2026-01-02
+PRD-4404,Puma Books Item #404,Beauty & Care,Nike,Cash on Delivery,54938,21581,4534,2965,745.21,10,2209547.65,3.6,Europe,2026-01-10
+PRD-4405,L'Oreal Books Item #405,Clothing,Sony,Credit Card,36334,15073,3482,1144,133.86,0,153135.84,3.8,North America,2026-05-16
+PRD-4406,Nike Sports Gear Item #406,Home & Kitchen,Samsung,Credit Card,27350,13691,2522,1621,1129.49,10,1830903.29,3.3,Europe,2026-06-13
+PRD-4407,Logitech Electronics Item #407,Electronics,Adidas,UPI Instant,48013,16798,7362,4233,678.58,15,2872429.14,4.7,Europe,2026-02-05
+PRD-4408,L'Oreal Clothing Item #408,Clothing,Adidas,Net Banking,49871,23686,10188,3107,674.0,0,2094118.0,3.4,North America,2026-03-14
+PRD-4409,Logitech Books Item #409,Electronics,Samsung,PayPal,47035,15901,6120,3118,627.85,0,1957636.3,3.6,Latin America,2026-04-14
+PRD-4410,Apple Clothing Item #410,Clothing,Nike,Cash on Delivery,70508,39421,7981,5929,525.86,0,3117823.94,4.5,Latin America,2026-02-13
+PRD-4411,Puma Beauty & Care Item #411,Home & Kitchen,L'Oreal,UPI Instant,63841,22424,8923,3888,237.07,0,921728.16,4.9,Latin America,2026-01-17
+PRD-4412,Adidas Electronics Item #412,Beauty & Care,Sony,UPI Instant,4934,1546,406,252,366.48,50,92352.96,4.0,Asia Pacific,2026-02-28
+PRD-4413,Adidas Sports Gear Item #413,Beauty & Care,Apple,Cash on Delivery,59943,31809,11791,7774,681.24,50,5295959.76,4.1,Asia Pacific,2026-03-29
+PRD-4414,Logitech Sports Gear Item #414,Beauty & Care,Adidas,Credit Card,26082,14257,3349,1018,552.9,30,562852.2,4.9,North America,2026-01-14
+PRD-4415,Sony Books Item #415,Books,Puma,PayPal,64965,14887,3067,1184,899.25,10,1064712.0,3.6,North America,2026-01-15
+PRD-4416,Samsung Clothing Item #416,Home & Kitchen,Sony,Credit Card,29478,9846,3584,1910,1026.76,5,1961111.6,3.9,Europe,2026-06-13
+PRD-4417,Apple Electronics Item #417,Beauty & Care,Adidas,Net Banking,47792,22765,7203,3813,155.78,15,593989.14,4.8,Asia Pacific,2026-04-21
+PRD-4418,Sony Electronics Item #418,Beauty & Care,Nike,PayPal,60394,28862,8201,6063,1021.66,20,6194324.58,4.1,Latin America,2026-07-16
+PRD-4419,L'Oreal Sports Gear Item #419,Books,Logitech,Net Banking,40242,9219,4112,2699,413.85,20,1116981.15,3.7,Europe,2026-02-17
+PRD-4420,Puma Books Item #420,Sports Gear,Sony,Credit Card,52454,20036,5187,2342,575.56,5,1347961.52,3.9,Latin America,2026-07-14
+PRD-4421,Adidas Clothing Item #421,Beauty & Care,Sony,Cash on Delivery,51513,28062,9909,4428,749.63,50,3319361.64,4.6,North America,2026-01-12
+PRD-4422,L'Oreal Beauty & Care Item #422,Books,Sony,Cash on Delivery,57223,15244,3996,1345,105.24,15,141547.8,4.5,North America,2026-06-09
+PRD-4423,Samsung Books Item #423,Books,Apple,Credit Card,21305,10674,4766,2342,707.09,30,1656004.78,4.1,Europe,2026-02-01
+PRD-4424,Sony Beauty & Care Item #424,Clothing,Apple,Credit Card,74855,37284,13264,8855,593.22,15,5252963.1,4.0,Europe,2026-06-20
+PRD-4425,Adidas Home & Kitchen Item #425,Electronics,Puma,Credit Card,3793,2236,863,278,511.5,30,142197.0,4.3,Middle East,2026-03-30
+PRD-4426,Logitech Clothing Item #426,Sports Gear,Sony,Cash on Delivery,40123,13571,5176,3247,1091.4,15,3543775.8,4.0,Middle East,2026-03-01
+PRD-4427,L'Oreal Sports Gear Item #427,Beauty & Care,Nike,UPI Instant,47301,22529,7242,2992,886.0,5,2650912.0,4.4,North America,2026-01-31
+PRD-4428,Adidas Clothing Item #428,Beauty & Care,Samsung,PayPal,4656,2215,693,242,854.72,10,206842.24,4.4,Latin America,2026-08-05
+PRD-4429,Apple Clothing Item #429,Home & Kitchen,L'Oreal,Cash on Delivery,2272,976,419,300,1131.1,50,339330.0,3.9,Asia Pacific,2026-05-30
+PRD-4430,Adidas Electronics Item #430,Books,Sony,Credit Card,13314,6789,2605,927,734.56,5,680937.12,4.3,North America,2026-02-01
+PRD-4431,Apple Electronics Item #431,Books,Puma,UPI Instant,8415,2819,762,529,872.06,5,461319.74,4.5,Europe,2026-02-20
+PRD-4432,Nike Beauty & Care Item #432,Sports Gear,Adidas,UPI Instant,11513,5549,1540,814,927.19,10,754732.66,4.6,Middle East,2026-04-10
+PRD-4433,L'Oreal Electronics Item #433,Home & Kitchen,Samsung,Net Banking,43359,24835,4781,2980,307.46,30,916230.8,4.9,North America,2026-06-23
+PRD-4434,Apple Beauty & Care Item #434,Sports Gear,Adidas,Net Banking,27729,11484,4486,1780,1045.41,10,1860829.8,3.7,Middle East,2026-02-15
+PRD-4435,Adidas Books Item #435,Home & Kitchen,Logitech,Credit Card,19785,6336,1864,1262,182.7,10,230567.4,3.8,North America,2026-03-18
+PRD-4436,Adidas Home & Kitchen Item #436,Books,Adidas,PayPal,77255,32927,11246,6359,581.54,0,3698012.86,4.3,Europe,2026-08-07
+PRD-4437,Adidas Beauty & Care Item #437,Beauty & Care,Adidas,Credit Card,5357,2390,656,321,1158.93,10,372016.53,3.2,Europe,2026-05-25
+PRD-4438,Puma Beauty & Care Item #438,Sports Gear,Adidas,UPI Instant,50373,28571,7050,4620,898.48,50,4150977.6,4.3,North America,2026-02-17
+PRD-4439,L'Oreal Beauty & Care Item #439,Books,Nike,PayPal,61224,28845,6336,2507,517.17,10,1296545.19,3.6,Middle East,2026-05-01
+PRD-4440,Nike Books Item #440,Sports Gear,Apple,UPI Instant,73946,28219,6303,2785,1179.77,10,3285659.45,3.6,North America,2026-08-15
+PRD-4441,Puma Electronics Item #441,Electronics,Sony,Net Banking,23668,6465,1204,711,613.74,5,436369.14,3.3,Asia Pacific,2026-05-25
+PRD-4442,Adidas Electronics Item #442,Beauty & Care,Apple,UPI Instant,47153,12424,3777,1637,681.48,5,1115582.76,3.7,Asia Pacific,2026-03-13
+PRD-4443,Puma Electronics Item #443,Sports Gear,Adidas,Cash on Delivery,14615,3614,926,408,937.49,5,382495.92,4.1,Middle East,2026-02-05
+PRD-4444,Nike Clothing Item #444,Beauty & Care,Nike,PayPal,1079,245,85,32,326.11,20,10435.52,3.9,Asia Pacific,2026-02-13
+PRD-4445,L'Oreal Clothing Item #445,Clothing,Adidas,PayPal,17226,8720,2441,1813,980.18,0,1777066.34,3.3,Middle East,2026-06-07
+PRD-4446,Puma Electronics Item #446,Home & Kitchen,Sony,Credit Card,23961,13363,3895,2341,828.85,30,1940337.85,3.8,Europe,2026-01-09
+PRD-4447,Puma Clothing Item #447,Home & Kitchen,Nike,Cash on Delivery,25954,11336,3922,2311,978.99,5,2262445.89,4.4,Latin America,2026-05-18
+PRD-4448,Nike Beauty & Care Item #448,Clothing,Adidas,PayPal,5083,2012,804,304,1055.9,50,320993.6,4.3,Latin America,2026-01-17
+PRD-4449,Samsung Beauty & Care Item #449,Sports Gear,Sony,UPI Instant,79612,34347,9362,6699,1118.12,10,7490285.88,4.2,North America,2026-06-19
+PRD-4450,Puma Sports Gear Item #450,Sports Gear,Adidas,PayPal,30874,8380,1263,556,785.28,10,436615.68,4.8,Latin America,2026-06-17
+PRD-4451,Nike Beauty & Care Item #451,Sports Gear,Adidas,Cash on Delivery,3131,747,265,143,528.54,20,75581.22,3.3,Latin America,2026-04-20
+PRD-4452,L'Oreal Home & Kitchen Item #452,Beauty & Care,Puma,Credit Card,33534,7975,1660,1067,1106.89,15,1181051.63,4.7,Asia Pacific,2026-06-10
+PRD-4453,L'Oreal Home & Kitchen Item #453,Books,L'Oreal,Credit Card,2377,725,318,110,592.2,20,65142.0,4.4,Asia Pacific,2026-06-01
+PRD-4454,Puma Clothing Item #454,Electronics,Puma,PayPal,74450,22081,5464,2063,1115.05,0,2300348.15,4.8,Latin America,2026-06-07
+PRD-4455,Sony Home & Kitchen Item #455,Sports Gear,Logitech,Net Banking,68637,25719,6008,3309,1189.58,30,3936320.22,3.3,Latin America,2026-05-17
+PRD-4456,Apple Books Item #456,Clothing,Samsung,PayPal,77178,19344,4055,2133,479.55,10,1022880.15,4.6,Europe,2026-02-09
+PRD-4457,Logitech Beauty & Care Item #457,Clothing,Apple,Net Banking,29848,14415,6407,2444,588.16,5,1437463.04,4.2,Middle East,2026-03-22
+PRD-4458,L'Oreal Home & Kitchen Item #458,Clothing,L'Oreal,UPI Instant,47514,23396,9402,6615,267.12,50,1766998.8,3.3,Middle East,2026-07-20
+PRD-4459,Samsung Beauty & Care Item #459,Home & Kitchen,L'Oreal,Net Banking,44607,22561,4576,1884,154.58,0,291228.72,4.8,Middle East,2026-03-05
+PRD-4460,Logitech Electronics Item #460,Beauty & Care,Sony,Net Banking,36825,10230,3817,2248,1012.34,50,2275740.32,4.5,Middle East,2026-01-25
+PRD-4461,Samsung Home & Kitchen Item #461,Beauty & Care,Adidas,UPI Instant,62514,29385,12945,9148,57.7,30,527839.6,3.6,North America,2026-08-05
+PRD-4462,Sony Beauty & Care Item #462,Electronics,Samsung,Credit Card,22536,11562,4931,2833,413.38,0,1171105.54,4.8,North America,2026-05-20
+PRD-4463,Nike Electronics Item #463,Sports Gear,Puma,Net Banking,49451,23115,7921,3783,505.13,5,1910906.79,3.4,Middle East,2026-02-01
+PRD-4464,L'Oreal Electronics Item #464,Home & Kitchen,Puma,Cash on Delivery,64023,24347,6229,2334,491.01,5,1146017.34,4.7,Middle East,2026-06-16
+PRD-4465,Apple Home & Kitchen Item #465,Books,Sony,Net Banking,19257,4937,856,634,265.03,20,168029.02,3.5,North America,2026-01-13
+PRD-4466,Apple Beauty & Care Item #466,Sports Gear,Sony,Cash on Delivery,29430,5989,1176,699,582.55,0,407202.45,4.2,Asia Pacific,2026-04-12
+PRD-4467,Nike Beauty & Care Item #467,Electronics,Apple,Net Banking,33844,13173,3422,2226,876.33,10,1950710.58,4.7,Europe,2026-04-30
+PRD-4468,Puma Home & Kitchen Item #468,Books,Sony,UPI Instant,45799,20854,6040,2995,32.45,20,97187.75,4.2,Asia Pacific,2026-06-20
+PRD-4469,Samsung Sports Gear Item #469,Home & Kitchen,Samsung,Credit Card,77901,19828,5508,2038,375.7,0,765676.6,4.7,Latin America,2026-06-08
+PRD-4470,Sony Home & Kitchen Item #470,Sports Gear,Samsung,Credit Card,27573,7221,1095,548,171.75,15,94119.0,4.2,Asia Pacific,2026-05-25
+PRD-4471,Sony Home & Kitchen Item #471,Sports Gear,Puma,PayPal,22101,4588,2019,1176,935.4,10,1100030.4,3.3,Latin America,2026-08-12
+PRD-4472,Nike Electronics Item #472,Beauty & Care,Nike,Cash on Delivery,16937,8278,2220,1045,382.73,30,399952.85,4.3,Middle East,2026-06-01
+PRD-4473,Adidas Sports Gear Item #473,Books,L'Oreal,Net Banking,74036,34699,12597,4770,1123.83,0,5360669.1,3.8,North America,2026-03-24
+PRD-4474,Puma Sports Gear Item #474,Books,Nike,PayPal,76573,26988,11250,5966,269.76,10,1609388.16,4.4,Latin America,2026-03-09
+PRD-4475,Adidas Beauty & Care Item #475,Beauty & Care,L'Oreal,Credit Card,23040,8376,3012,1518,994.07,30,1508998.26,4.6,Asia Pacific,2026-03-14
+PRD-4476,Sony Books Item #476,Sports Gear,Sony,Cash on Delivery,53543,29515,4665,1807,623.53,30,1126718.71,4.2,North America,2026-05-09
+PRD-4477,Logitech Electronics Item #477,Home & Kitchen,Puma,PayPal,74751,15186,3909,1611,1071.51,15,1726202.61,4.2,Europe,2026-05-28
+PRD-4478,Samsung Home & Kitchen Item #478,Sports Gear,Sony,Credit Card,46488,9755,1896,976,190.59,15,186015.84,4.2,Middle East,2026-05-18
+PRD-4479,Puma Electronics Item #479,Beauty & Care,Samsung,PayPal,66297,22148,3952,2567,84.17,20,216064.39,3.3,Asia Pacific,2026-03-26
+PRD-4480,Logitech Clothing Item #480,Electronics,L'Oreal,Cash on Delivery,16283,8569,1629,1152,1117.26,5,1287083.52,3.7,Europe,2026-04-03
+PRD-4481,Nike Beauty & Care Item #481,Sports Gear,Adidas,UPI Instant,68388,25102,10243,3511,63.62,50,223369.82,4.3,Latin America,2026-07-27
+PRD-4482,Sony Clothing Item #482,Clothing,Adidas,Credit Card,68583,17028,6139,4157,1055.62,50,4388212.34,4.3,Latin America,2026-08-06
+PRD-4483,Nike Clothing Item #483,Clothing,Puma,Cash on Delivery,6590,1733,668,498,98.9,5,49252.2,3.5,North America,2026-07-21
+PRD-4484,Sony Electronics Item #484,Home & Kitchen,Nike,Net Banking,49453,10374,3835,2284,811.04,50,1852415.36,4.4,Europe,2026-06-08
+PRD-4485,Puma Electronics Item #485,Beauty & Care,Sony,Credit Card,78876,30309,5644,1728,52.86,15,91342.08,4.3,Asia Pacific,2026-07-26
+PRD-4486,Puma Home & Kitchen Item #486,Home & Kitchen,L'Oreal,PayPal,36992,11484,3810,1936,641.97,20,1242853.92,3.4,North America,2026-08-11
+PRD-4487,Adidas Electronics Item #487,Books,Nike,UPI Instant,22465,10850,2029,1078,54.79,30,59063.62,3.6,Latin America,2026-04-26
+PRD-4488,Puma Clothing Item #488,Home & Kitchen,Sony,PayPal,33450,19322,7477,5596,525.78,0,2942264.88,3.4,Europe,2026-06-23
+PRD-4489,Logitech Sports Gear Item #489,Clothing,Adidas,Net Banking,40975,15385,2846,1062,43.91,50,46632.42,3.5,Latin America,2026-05-14
+PRD-4490,Puma Sports Gear Item #490,Sports Gear,L'Oreal,Net Banking,52517,15443,5222,3142,783.13,5,2460594.46,4.2,Europe,2026-07-27
+PRD-4491,Sony Electronics Item #491,Clothing,Adidas,Cash on Delivery,24273,8820,1490,463,330.95,0,153229.85,4.3,Asia Pacific,2026-06-07
+PRD-4492,Logitech Clothing Item #492,Electronics,Nike,Net Banking,10181,5753,2314,1493,587.68,50,877406.24,4.3,Latin America,2026-07-16
+PRD-4493,Logitech Home & Kitchen Item #493,Clothing,Samsung,Net Banking,39903,21767,3954,1902,743.17,10,1413509.34,4.7,North America,2026-02-27
+PRD-4494,Nike Beauty & Care Item #494,Sports Gear,Logitech,PayPal,46824,16534,5584,2528,479.7,30,1212681.6,3.9,North America,2026-02-17
+PRD-4495,L'Oreal Clothing Item #495,Electronics,Apple,Net Banking,60818,29379,12292,6591,144.01,20,949169.91,4.3,Latin America,2026-04-26
+PRD-4496,Puma Beauty & Care Item #496,Home & Kitchen,Puma,PayPal,71472,31980,10255,6739,300.39,15,2024328.21,3.3,Middle East,2026-08-12
+PRD-4497,Adidas Home & Kitchen Item #497,Clothing,Apple,Credit Card,35558,15730,4038,2992,736.39,0,2203278.88,4.0,North America,2026-04-14
+PRD-4498,Puma Home & Kitchen Item #498,Home & Kitchen,Logitech,PayPal,22343,5804,1741,878,999.84,30,877859.52,4.4,Middle East,2026-05-01
+PRD-4499,Adidas Electronics Item #499,Beauty & Care,Logitech,Credit Card,50276,28180,11802,3945,584.86,10,2307272.7,4.4,Latin America,2026-07-16
+PRD-4500,Sony Books Item #500,Books,Puma,PayPal,74333,21719,4842,2034,445.79,15,906736.86,3.3,North America,2026-06-01
+PRD-4501,Samsung Clothing Item #501,Clothing,Logitech,Net Banking,65919,27783,6771,3240,602.96,50,1953590.4,3.8,Asia Pacific,2026-07-26
+PRD-4502,Adidas Clothing Item #502,Electronics,Apple,Cash on Delivery,19790,8399,1886,893,562.76,30,502544.68,3.6,Europe,2026-06-13
+PRD-4503,Apple Books Item #503,Clothing,Sony,Cash on Delivery,22523,7182,2845,2124,68.42,5,145324.08,3.6,Middle East,2026-01-28
+PRD-4504,Adidas Books Item #504,Beauty & Care,Nike,Credit Card,28132,12953,3356,1054,972.73,5,1025257.42,4.9,Latin America,2026-01-14
+PRD-4505,Adidas Clothing Item #505,Beauty & Care,Apple,Cash on Delivery,11004,5127,803,506,1049.09,30,530839.54,4.1,Asia Pacific,2026-05-28
+PRD-4506,Sony Books Item #506,Beauty & Care,Puma,Cash on Delivery,12582,3545,1162,692,256.85,50,177740.2,4.7,Europe,2026-01-15
+PRD-4507,Nike Beauty & Care Item #507,Books,Puma,Cash on Delivery,62103,36335,6052,2805,366.03,20,1026714.15,3.6,Latin America,2026-01-18
+PRD-4508,Puma Books Item #508,Home & Kitchen,Apple,Cash on Delivery,73452,30931,5385,3416,702.21,15,2398749.36,3.6,Europe,2026-01-12
+PRD-4509,Sony Books Item #509,Electronics,Adidas,Cash on Delivery,57796,28560,5424,3304,646.63,50,2136465.52,3.9,North America,2026-05-07
+PRD-4510,Logitech Sports Gear Item #510,Clothing,Samsung,Net Banking,2783,613,166,80,1030.19,0,82415.2,3.5,Asia Pacific,2026-02-23
+PRD-4511,Adidas Sports Gear Item #511,Electronics,Sony,Cash on Delivery,1804,699,270,132,726.51,0,95899.32,4.3,Asia Pacific,2026-01-06
+PRD-4512,Apple Beauty & Care Item #512,Home & Kitchen,Samsung,PayPal,46557,23521,7567,4298,238.34,30,1024385.32,4.2,North America,2026-01-27
+PRD-4513,Apple Beauty & Care Item #513,Home & Kitchen,Logitech,PayPal,37411,15022,3578,2607,44.94,20,117158.58,3.3,Middle East,2026-06-04
+PRD-4514,Puma Home & Kitchen Item #514,Beauty & Care,Puma,Net Banking,20091,9786,3724,1502,675.37,30,1014405.74,4.5,North America,2026-03-03
+PRD-4515,Adidas Beauty & Care Item #515,Sports Gear,Logitech,PayPal,18916,10242,1962,727,579.19,15,421071.13,3.8,North America,2026-04-28
+PRD-4516,L'Oreal Home & Kitchen Item #516,Home & Kitchen,Apple,Cash on Delivery,6323,2600,511,175,41.9,5,7332.5,4.6,North America,2026-07-13
+PRD-4517,Sony Sports Gear Item #517,Sports Gear,Logitech,PayPal,18908,7152,1541,575,890.91,30,512273.25,4.6,Asia Pacific,2026-01-10
+PRD-4518,Samsung Home & Kitchen Item #518,Sports Gear,L'Oreal,PayPal,55446,31114,9784,3854,362.66,5,1397691.64,3.2,Europe,2026-07-04
+PRD-4519,Nike Beauty & Care Item #519,Beauty & Care,Adidas,PayPal,79767,21953,6838,4363,683.66,0,2982808.58,4.5,Europe,2026-01-12
+PRD-4520,Adidas Beauty & Care Item #520,Sports Gear,Logitech,PayPal,38628,17220,7085,3424,1179.72,0,4039361.28,3.5,Middle East,2026-08-07
+PRD-4521,Adidas Books Item #521,Home & Kitchen,Apple,Net Banking,32610,8277,2384,1593,363.37,20,578848.41,3.3,North America,2026-03-02
+PRD-4522,Nike Sports Gear Item #522,Clothing,Apple,Credit Card,14701,8087,3053,1653,340.7,5,563177.1,4.4,Asia Pacific,2026-05-30
+PRD-4523,L'Oreal Books Item #523,Clothing,Puma,Credit Card,2038,728,289,178,535.77,10,95367.06,3.7,Latin America,2026-03-30
+PRD-4524,L'Oreal Home & Kitchen Item #524,Sports Gear,Puma,Net Banking,51149,21944,8350,5536,526.14,10,2912711.04,3.6,Middle East,2026-01-29
+PRD-4525,L'Oreal Clothing Item #525,Home & Kitchen,Apple,Cash on Delivery,58954,15164,5067,2054,100.43,20,206283.22,4.7,Latin America,2026-04-28
+PRD-4526,Apple Books Item #526,Clothing,Adidas,Cash on Delivery,37579,20051,3096,1038,591.61,0,614091.18,3.5,Europe,2026-02-07
+PRD-4527,Logitech Electronics Item #527,Sports Gear,Puma,Credit Card,38221,16770,2886,1019,804.89,15,820182.91,3.9,North America,2026-05-12
+PRD-4528,Apple Clothing Item #528,Home & Kitchen,Nike,Cash on Delivery,21381,8633,1700,641,1155.69,0,740797.29,3.7,Middle East,2026-04-13
+PRD-4529,Nike Home & Kitchen Item #529,Beauty & Care,Puma,Net Banking,32792,17919,6581,3030,475.85,30,1441825.5,4.9,Middle East,2026-01-05
+PRD-4530,Samsung Electronics Item #530,Clothing,Sony,Net Banking,35071,8197,1978,838,1036.53,30,868612.14,3.9,Latin America,2026-02-24
+PRD-4531,L'Oreal Beauty & Care Item #531,Home & Kitchen,Logitech,Cash on Delivery,53156,13549,2286,965,179.91,5,173613.15,3.7,Middle East,2026-01-20
+PRD-4532,Nike Clothing Item #532,Home & Kitchen,Samsung,Cash on Delivery,54747,24048,4620,1952,942.89,30,1840521.28,3.3,North America,2026-04-13
+PRD-4533,Samsung Books Item #533,Beauty & Care,Logitech,Credit Card,79326,21114,5355,2814,133.88,20,376738.32,4.7,Latin America,2026-01-21
+PRD-4534,Samsung Books Item #534,Electronics,Samsung,Net Banking,65137,14043,2139,746,307.49,10,229387.54,3.3,Asia Pacific,2026-02-25
+PRD-4535,Adidas Beauty & Care Item #535,Sports Gear,Adidas,Credit Card,74969,32141,11833,6459,570.9,20,3687443.1,3.9,Middle East,2026-03-11
+PRD-4536,Puma Beauty & Care Item #536,Books,Sony,Credit Card,68488,29227,8800,5071,300.98,50,1526269.58,3.2,Latin America,2026-07-12
+PRD-4537,Sony Beauty & Care Item #537,Home & Kitchen,L'Oreal,UPI Instant,73596,19415,4539,2201,1121.75,15,2468971.75,4.1,North America,2026-02-02
+PRD-4538,L'Oreal Clothing Item #538,Sports Gear,Puma,PayPal,23052,13436,2444,908,946.92,30,859803.36,3.5,Latin America,2026-01-09
+PRD-4539,Apple Electronics Item #539,Home & Kitchen,Adidas,UPI Instant,55075,18890,5699,3759,224.0,5,842016.0,3.5,Latin America,2026-03-18
+PRD-4540,Logitech Beauty & Care Item #540,Books,Sony,UPI Instant,55706,27875,11564,6432,1173.08,0,7545250.56,4.1,Latin America,2026-01-24
+PRD-4541,L'Oreal Beauty & Care Item #541,Electronics,Apple,Credit Card,19324,5940,2067,880,506.69,30,445887.2,4.3,Asia Pacific,2026-04-21
+PRD-4542,Nike Clothing Item #542,Books,Puma,Net Banking,39580,14397,6372,3068,160.49,20,492383.32,3.4,Middle East,2026-03-11
+PRD-4543,Adidas Home & Kitchen Item #543,Beauty & Care,Sony,Credit Card,71215,21733,7730,3016,383.99,15,1158113.84,3.2,Middle East,2026-02-26
+PRD-4544,Nike Books Item #544,Home & Kitchen,Logitech,Credit Card,45271,22812,10191,6671,1036.68,10,6915692.28,4.5,Europe,2026-07-11
+PRD-4545,L'Oreal Home & Kitchen Item #545,Sports Gear,L'Oreal,Net Banking,26899,13929,2289,754,15.3,5,11536.2,4.6,Europe,2026-07-05
+PRD-4546,Nike Sports Gear Item #546,Home & Kitchen,Puma,PayPal,61877,33347,14415,5871,571.21,10,3353573.91,4.2,Latin America,2026-01-10
+PRD-4547,Adidas Beauty & Care Item #547,Sports Gear,Adidas,PayPal,25434,7259,3260,2153,37.68,20,81125.04,3.4,Asia Pacific,2026-01-07
+PRD-4548,L'Oreal Books Item #548,Sports Gear,Adidas,PayPal,2362,523,112,53,771.48,20,40888.44,3.9,Europe,2026-03-07
+PRD-4549,Sony Beauty & Care Item #549,Beauty & Care,Apple,Cash on Delivery,17227,4043,1539,573,479.29,15,274633.17,4.6,Middle East,2026-02-17
+PRD-4550,Sony Beauty & Care Item #550,Books,L'Oreal,PayPal,12744,7305,2694,1039,282.17,5,293174.63,4.7,North America,2026-04-14
+PRD-4551,Puma Books Item #551,Home & Kitchen,L'Oreal,Cash on Delivery,47508,25404,10783,5571,627.54,5,3496025.34,4.4,Europe,2026-04-06
+PRD-4552,Adidas Home & Kitchen Item #552,Home & Kitchen,L'Oreal,PayPal,68721,22217,8503,4419,111.0,10,490509.0,4.5,North America,2026-02-07
+PRD-4553,Sony Electronics Item #553,Clothing,Nike,Net Banking,1323,295,89,64,801.97,20,51326.08,3.9,Europe,2026-01-10
+PRD-4554,L'Oreal Electronics Item #554,Electronics,Apple,UPI Instant,68594,35019,6781,4215,906.73,10,3821866.95,4.2,Middle East,2026-06-22
+PRD-4555,Samsung Home & Kitchen Item #555,Electronics,L'Oreal,PayPal,63166,30388,11345,4011,540.19,20,2166702.09,3.5,Europe,2026-07-31
+PRD-4556,Samsung Electronics Item #556,Sports Gear,Puma,Cash on Delivery,57029,29582,8698,3521,1061.82,5,3738668.22,3.4,North America,2026-06-01
+PRD-4557,Nike Sports Gear Item #557,Electronics,Adidas,PayPal,10332,2575,1058,723,1168.56,0,844868.88,4.5,Europe,2026-03-26
+PRD-4558,Sony Sports Gear Item #558,Electronics,Puma,UPI Instant,70268,40635,16240,7555,1074.05,20,8114447.75,3.4,Latin America,2026-06-10
+PRD-4559,Adidas Electronics Item #559,Beauty & Care,Sony,Net Banking,24481,12022,4322,2681,577.76,5,1548974.56,3.2,Asia Pacific,2026-01-07
+PRD-4560,Adidas Beauty & Care Item #560,Books,Logitech,Cash on Delivery,16031,4220,767,249,214.39,5,53383.11,3.3,Middle East,2026-05-17
+PRD-4561,Puma Home & Kitchen Item #561,Beauty & Care,Samsung,UPI Instant,16919,8325,3211,984,351.52,20,345895.68,4.7,North America,2026-05-22
+PRD-4562,Puma Home & Kitchen Item #562,Books,Sony,Cash on Delivery,8845,1949,665,477,469.07,50,223746.39,3.8,Asia Pacific,2026-07-12
+PRD-4563,Puma Books Item #563,Sports Gear,Samsung,Net Banking,61583,21058,5311,2595,1094.88,15,2841213.6,4.7,North America,2026-03-20
+PRD-4564,Samsung Electronics Item #564,Electronics,Sony,Net Banking,30214,8330,2868,962,290.68,5,279634.16,3.2,Latin America,2026-01-14
+PRD-4565,Sony Beauty & Care Item #565,Sports Gear,Logitech,Net Banking,2411,1371,375,220,489.21,50,107626.2,4.7,Europe,2026-01-07
+PRD-4566,Sony Electronics Item #566,Beauty & Care,Logitech,Credit Card,30727,8414,3409,1964,1005.45,20,1974703.8,4.3,Asia Pacific,2026-05-26
+PRD-4567,Apple Sports Gear Item #567,Books,Sony,Cash on Delivery,5466,2869,810,379,786.24,15,297984.96,4.8,Asia Pacific,2026-04-20
+PRD-4568,Logitech Electronics Item #568,Books,Adidas,UPI Instant,20805,4634,823,360,253.96,50,91425.6,3.4,Middle East,2026-08-15
+PRD-4569,Samsung Electronics Item #569,Home & Kitchen,Samsung,PayPal,11846,2551,977,694,357.8,50,248313.2,3.4,Middle East,2026-07-08
+PRD-4570,Apple Books Item #570,Books,Logitech,Cash on Delivery,29316,10702,4004,2436,586.35,15,1428348.6,4.0,Europe,2026-06-10
+PRD-4571,Logitech Sports Gear Item #571,Home & Kitchen,Samsung,Net Banking,58022,20224,7943,3615,484.0,0,1749660.0,3.5,Middle East,2026-04-14
+PRD-4572,Logitech Clothing Item #572,Home & Kitchen,Sony,PayPal,6275,2276,464,266,603.5,5,160531.0,4.6,Europe,2026-05-05
+PRD-4573,Sony Sports Gear Item #573,Sports Gear,Sony,Cash on Delivery,8828,3849,859,575,199.62,50,114781.5,4.1,Asia Pacific,2026-04-24
+PRD-4574,Puma Clothing Item #574,Clothing,Adidas,Net Banking,33027,6914,1229,407,541.63,15,220443.41,3.9,Asia Pacific,2026-04-13
+PRD-4575,Apple Clothing Item #575,Clothing,L'Oreal,Cash on Delivery,56036,32711,12464,4391,436.91,5,1918471.81,4.5,Latin America,2026-05-19
+PRD-4576,Samsung Sports Gear Item #576,Books,Puma,UPI Instant,53330,18388,8149,5638,400.62,5,2258695.56,4.5,Latin America,2026-06-14
+PRD-4577,Adidas Sports Gear Item #577,Home & Kitchen,L'Oreal,Net Banking,26782,13315,4295,3210,807.72,30,2592781.2,4.5,North America,2026-03-11
+PRD-4578,Apple Home & Kitchen Item #578,Books,Apple,Cash on Delivery,45282,27050,12113,8643,1079.07,10,9326402.01,4.8,Europe,2026-04-14
+PRD-4579,Logitech Beauty & Care Item #579,Clothing,Puma,Credit Card,41538,18973,6787,3511,973.07,20,3416448.77,4.3,Europe,2026-07-18
+PRD-4580,L'Oreal Clothing Item #580,Electronics,Nike,Cash on Delivery,27108,13878,4538,1995,471.98,20,941600.1,4.8,North America,2026-05-28
+PRD-4581,Samsung Home & Kitchen Item #581,Beauty & Care,Adidas,Credit Card,67789,16422,5540,4026,86.84,5,349617.84,3.7,Europe,2026-03-13
+PRD-4582,Samsung Electronics Item #582,Sports Gear,Apple,Net Banking,67630,13775,4563,3223,1109.97,15,3577433.31,4.9,North America,2026-07-31
+PRD-4583,Sony Sports Gear Item #583,Beauty & Care,Adidas,Net Banking,52663,30507,11762,4667,1197.63,0,5589339.21,3.9,Asia Pacific,2026-04-21
+PRD-4584,Puma Books Item #584,Home & Kitchen,Adidas,Credit Card,34854,17160,5931,2110,622.65,15,1313791.5,4.8,Latin America,2026-05-29
+PRD-4585,L'Oreal Sports Gear Item #585,Books,Logitech,UPI Instant,16712,9906,3855,1230,676.14,0,831652.2,4.1,Middle East,2026-02-26
+PRD-4586,L'Oreal Home & Kitchen Item #586,Home & Kitchen,L'Oreal,Net Banking,55830,19279,6456,3335,967.95,30,3228113.25,4.6,Latin America,2026-06-26
+PRD-4587,Nike Beauty & Care Item #587,Beauty & Care,L'Oreal,Net Banking,44849,24612,4531,1734,153.09,5,265458.06,3.4,Middle East,2026-01-17
+PRD-4588,Logitech Home & Kitchen Item #588,Home & Kitchen,Puma,UPI Instant,51182,20251,8614,5674,285.55,50,1620210.7,3.5,North America,2026-04-20
+PRD-4589,L'Oreal Sports Gear Item #589,Books,Logitech,Credit Card,53805,22356,4005,2457,249.27,5,612456.39,3.3,Middle East,2026-03-30
+PRD-4590,Logitech Sports Gear Item #590,Beauty & Care,L'Oreal,Net Banking,39575,11773,4265,1282,1126.94,30,1444737.08,3.7,Middle East,2026-02-18
+PRD-4591,Sony Sports Gear Item #591,Books,Puma,Net Banking,59496,30492,6125,3665,571.88,50,2095940.2,3.9,Europe,2026-02-15
+PRD-4592,Adidas Beauty & Care Item #592,Beauty & Care,Sony,Net Banking,75846,41472,12581,5080,259.76,15,1319580.8,4.4,Latin America,2026-05-01
+PRD-4593,Adidas Electronics Item #593,Electronics,Puma,Cash on Delivery,36109,9090,2241,1615,1180.39,5,1906329.85,4.4,Asia Pacific,2026-04-30
+PRD-4594,Nike Books Item #594,Electronics,Adidas,Credit Card,54697,17335,2676,865,588.8,5,509312.0,4.5,Middle East,2026-01-05
+PRD-4595,Adidas Electronics Item #595,Books,Logitech,Cash on Delivery,9840,5430,1323,744,497.84,5,370392.96,3.7,Europe,2026-01-05
+PRD-4596,Sony Books Item #596,Clothing,L'Oreal,PayPal,31593,17057,6337,3354,455.71,20,1528451.34,4.3,North America,2026-01-09
+PRD-4597,Logitech Sports Gear Item #597,Sports Gear,Apple,Net Banking,46349,15286,6030,3625,328.12,30,1189435.0,4.1,Middle East,2026-04-07
+PRD-4598,Nike Clothing Item #598,Clothing,Logitech,Cash on Delivery,49858,26138,9952,6602,28.39,15,187430.78,3.6,North America,2026-08-04
+PRD-4599,Apple Sports Gear Item #599,Electronics,Nike,Net Banking,26286,11796,3605,1391,1125.15,50,1565083.65,3.4,Latin America,2026-07-28
+PRD-4600,Logitech Home & Kitchen Item #600,Home & Kitchen,Apple,UPI Instant,76615,35821,10389,4786,319.02,5,1526829.72,3.4,Asia Pacific,2026-04-19
+PRD-4601,Samsung Sports Gear Item #601,Beauty & Care,Logitech,UPI Instant,47211,14971,4366,1468,15.52,10,22783.36,3.9,Europe,2026-05-29
+PRD-4602,Logitech Home & Kitchen Item #602,Sports Gear,L'Oreal,UPI Instant,3623,981,378,158,173.34,30,27387.72,4.7,Middle East,2026-04-28
+PRD-4603,Puma Sports Gear Item #603,Home & Kitchen,L'Oreal,Cash on Delivery,24332,11250,3109,2256,358.16,20,808008.96,4.6,Europe,2026-04-04
+PRD-4604,Logitech Clothing Item #604,Electronics,Nike,UPI Instant,48548,24931,8069,2933,317.48,20,931168.84,3.5,Middle East,2026-02-12
+PRD-4605,Samsung Books Item #605,Books,Puma,UPI Instant,48117,10326,1884,604,395.43,15,238839.72,4.8,Middle East,2026-01-14
+PRD-4606,Logitech Beauty & Care Item #606,Clothing,Adidas,UPI Instant,63745,34750,8204,3891,230.33,20,896214.03,3.5,Europe,2026-04-16
+PRD-4607,Sony Home & Kitchen Item #607,Home & Kitchen,Apple,PayPal,41067,18609,7508,4810,706.55,15,3398505.5,4.9,North America,2026-07-25
+PRD-4608,Adidas Clothing Item #608,Home & Kitchen,Logitech,Credit Card,75660,15757,6403,2055,489.53,5,1005984.15,4.8,North America,2026-07-26
+PRD-4609,Logitech Books Item #609,Books,Sony,Net Banking,64280,34229,12679,5912,250.27,5,1479596.24,4.9,Europe,2026-05-22
+PRD-4610,Apple Home & Kitchen Item #610,Books,Nike,Cash on Delivery,60864,31522,7786,5080,362.18,15,1839874.4,4.2,Latin America,2026-04-24
+PRD-4611,Nike Electronics Item #611,Electronics,Nike,Cash on Delivery,6839,4014,1161,748,1140.25,50,852907.0,4.8,Middle East,2026-01-20
+PRD-4612,Sony Books Item #612,Home & Kitchen,Apple,PayPal,70669,38635,10779,4251,827.79,10,3518935.29,3.9,Europe,2026-01-24
+PRD-4613,Apple Books Item #613,Home & Kitchen,Nike,PayPal,33704,19744,4641,2319,70.5,0,163489.5,3.3,Middle East,2026-08-04
+PRD-4614,Adidas Clothing Item #614,Clothing,Sony,Cash on Delivery,71622,28503,8666,4460,1042.79,0,4650843.4,3.5,Latin America,2026-05-07
+PRD-4615,Nike Home & Kitchen Item #615,Electronics,L'Oreal,Net Banking,39583,12943,2366,1085,335.13,15,363616.05,3.3,North America,2026-06-18
+PRD-4616,Logitech Electronics Item #616,Sports Gear,Samsung,PayPal,45107,24866,7730,4061,299.41,0,1215904.01,4.6,Europe,2026-06-20
+PRD-4617,Apple Electronics Item #617,Clothing,L'Oreal,Net Banking,66350,38886,8634,5098,789.97,20,4027267.06,4.8,Asia Pacific,2026-08-05
+PRD-4618,Puma Sports Gear Item #618,Sports Gear,L'Oreal,PayPal,28522,16779,3126,1461,113.79,15,166247.19,3.4,Asia Pacific,2026-08-06
+PRD-4619,Sony Books Item #619,Beauty & Care,Sony,Cash on Delivery,26766,11717,3597,2662,204.41,15,544139.42,4.7,Latin America,2026-07-13
+PRD-4620,Apple Clothing Item #620,Sports Gear,Samsung,Net Banking,56173,19287,6498,3353,1092.05,10,3661643.65,3.4,Middle East,2026-03-05
+PRD-4621,Sony Electronics Item #621,Clothing,Apple,Cash on Delivery,15542,7653,1996,670,303.87,5,203592.9,4.4,Latin America,2026-02-04
+PRD-4622,Puma Home & Kitchen Item #622,Beauty & Care,L'Oreal,UPI Instant,35197,15694,3565,1211,801.29,15,970362.19,4.7,Europe,2026-03-27
+PRD-4623,Logitech Beauty & Care Item #623,Electronics,Samsung,UPI Instant,65508,28761,10206,6163,102.53,10,631892.39,3.7,Asia Pacific,2026-02-26
+PRD-4624,Adidas Sports Gear Item #624,Clothing,Sony,Cash on Delivery,2897,1479,492,290,246.82,15,71577.8,4.0,Europe,2026-01-01
+PRD-4625,Sony Sports Gear Item #625,Sports Gear,Samsung,Credit Card,43428,18706,3732,2416,266.25,50,643260.0,3.3,North America,2026-04-17
+PRD-4626,Adidas Beauty & Care Item #626,Sports Gear,Puma,Cash on Delivery,49115,13945,5618,2545,649.96,10,1654148.2,3.8,Latin America,2026-07-28
+PRD-4627,Sony Home & Kitchen Item #627,Clothing,Puma,Credit Card,56489,24919,8780,3090,128.34,10,396570.6,3.8,North America,2026-01-28
+PRD-4628,Samsung Beauty & Care Item #628,Beauty & Care,Adidas,Cash on Delivery,34154,13684,5176,1841,1109.41,50,2042423.81,4.6,Europe,2026-02-24
+PRD-4629,Logitech Sports Gear Item #629,Home & Kitchen,Logitech,Cash on Delivery,34476,12967,3942,1390,242.41,50,336949.9,3.7,North America,2026-01-28
+PRD-4630,Puma Clothing Item #630,Books,Sony,UPI Instant,27337,8892,1522,650,1059.49,0,688668.5,4.3,Latin America,2026-02-01
+PRD-4631,Samsung Home & Kitchen Item #631,Clothing,Logitech,Credit Card,79975,32940,10241,5766,736.85,20,4248677.1,4.8,Asia Pacific,2026-05-18
+PRD-4632,Puma Sports Gear Item #632,Electronics,Adidas,UPI Instant,20493,10750,2020,1431,518.07,0,741358.17,3.7,Asia Pacific,2026-06-11
+PRD-4633,L'Oreal Clothing Item #633,Beauty & Care,Nike,Credit Card,11450,2382,663,329,785.9,0,258561.1,3.6,Middle East,2026-02-05
+PRD-4634,Apple Books Item #634,Clothing,Nike,Credit Card,79539,30562,7313,3555,139.94,0,497486.7,3.7,North America,2026-01-09
+PRD-4635,Sony Home & Kitchen Item #635,Sports Gear,Sony,Cash on Delivery,48821,14536,4996,3052,738.45,20,2253749.4,3.2,Asia Pacific,2026-07-12
+PRD-4636,Logitech Books Item #636,Electronics,Sony,UPI Instant,4226,2334,784,310,163.82,50,50784.2,4.0,North America,2026-03-06
+PRD-4637,Sony Electronics Item #637,Home & Kitchen,Logitech,Net Banking,18782,6123,2414,1491,27.45,20,40927.95,4.8,Middle East,2026-05-13
+PRD-4638,Adidas Electronics Item #638,Clothing,L'Oreal,Net Banking,32603,10421,3036,1408,242.01,10,340750.08,4.7,Middle East,2026-05-11
+PRD-4639,Sony Beauty & Care Item #639,Home & Kitchen,Apple,PayPal,11458,5055,1582,932,897.79,5,836740.28,3.2,Asia Pacific,2026-02-07
+PRD-4640,Nike Electronics Item #640,Books,Samsung,Net Banking,53705,22643,5594,3922,1022.77,5,4011303.94,4.4,Latin America,2026-07-03
+PRD-4641,Samsung Clothing Item #641,Books,L'Oreal,UPI Instant,68462,25698,7113,4599,757.94,5,3485766.06,3.5,Europe,2026-02-10
+PRD-4642,Adidas Beauty & Care Item #642,Electronics,Sony,PayPal,23137,11009,1857,1268,880.74,15,1116778.32,3.4,Europe,2026-03-15
+PRD-4643,Puma Beauty & Care Item #643,Beauty & Care,Puma,Credit Card,19884,8293,2408,881,1114.52,10,981892.12,4.6,Middle East,2026-05-07
+PRD-4644,Apple Sports Gear Item #644,Sports Gear,Adidas,Cash on Delivery,77186,30652,4964,3651,485.66,50,1773144.66,3.5,Middle East,2026-07-29
+PRD-4645,Samsung Sports Gear Item #645,Home & Kitchen,Logitech,Net Banking,30517,7756,1715,1039,496.38,15,515738.82,3.6,Latin America,2026-05-03
+PRD-4646,Puma Clothing Item #646,Electronics,Logitech,UPI Instant,19055,9342,1490,886,135.51,10,120061.86,4.8,Europe,2026-02-20
+PRD-4647,Apple Clothing Item #647,Clothing,Apple,Credit Card,22377,10144,2781,1076,102.2,0,109967.2,4.3,Latin America,2026-07-15
+PRD-4648,Adidas Beauty & Care Item #648,Books,Apple,Cash on Delivery,50642,13323,5692,2483,233.55,30,579904.65,3.6,North America,2026-08-10
+PRD-4649,L'Oreal Books Item #649,Beauty & Care,Samsung,UPI Instant,67447,24485,9066,5930,899.51,50,5334094.3,3.8,Latin America,2026-05-24
+PRD-4650,Apple Clothing Item #650,Books,Adidas,PayPal,65586,26184,5288,1878,779.43,5,1463769.54,4.1,Middle East,2026-03-11
+PRD-4651,Puma Beauty & Care Item #651,Clothing,Sony,Credit Card,58017,28019,9947,3263,496.78,10,1620993.14,3.4,North America,2026-08-07
+PRD-4652,L'Oreal Books Item #652,Home & Kitchen,Samsung,Cash on Delivery,22234,10188,3023,2259,114.75,50,259220.25,3.9,Europe,2026-06-02
+PRD-4653,Logitech Electronics Item #653,Beauty & Care,L'Oreal,Credit Card,28889,11072,3198,1332,764.91,10,1018860.12,4.8,Asia Pacific,2026-02-27
+PRD-4654,Nike Home & Kitchen Item #654,Clothing,Puma,Net Banking,20139,5149,1248,580,19.57,30,11350.6,4.0,Latin America,2026-06-29
+PRD-4655,Adidas Beauty & Care Item #655,Beauty & Care,Samsung,Credit Card,54308,20509,6113,3873,1012.39,5,3920986.47,4.4,Middle East,2026-04-13
+PRD-4656,Sony Sports Gear Item #656,Books,Samsung,Credit Card,55246,27059,12172,5912,823.13,10,4866344.56,3.5,Asia Pacific,2026-04-14
+PRD-4657,Nike Clothing Item #657,Electronics,L'Oreal,UPI Instant,47950,25195,11142,4981,173.04,50,861912.24,3.6,Asia Pacific,2026-06-26
+PRD-4658,Apple Beauty & Care Item #658,Home & Kitchen,Samsung,PayPal,39032,18091,6673,4682,937.29,0,4388391.78,3.7,Europe,2026-05-28
+PRD-4659,Nike Beauty & Care Item #659,Clothing,Puma,UPI Instant,62731,27829,7466,3202,155.75,50,498711.5,4.7,Latin America,2026-04-30
+PRD-4660,Sony Sports Gear Item #660,Beauty & Care,L'Oreal,UPI Instant,41274,24481,9984,4023,146.91,10,591018.93,4.5,Middle East,2026-06-20
+PRD-4661,Logitech Books Item #661,Electronics,Adidas,Credit Card,59979,18059,4964,2728,593.64,20,1619449.92,4.2,North America,2026-02-07
+PRD-4662,Sony Home & Kitchen Item #662,Beauty & Care,Adidas,PayPal,61574,14158,3000,2218,660.52,10,1465033.36,4.9,Middle East,2026-04-26
+PRD-4663,Nike Books Item #663,Sports Gear,Sony,UPI Instant,11464,5295,2056,705,970.96,15,684526.8,4.0,North America,2026-05-29
+PRD-4664,Adidas Clothing Item #664,Beauty & Care,Samsung,Cash on Delivery,74106,24034,5534,2481,569.26,30,1412334.06,4.5,Middle East,2026-07-19
+PRD-4665,Adidas Electronics Item #665,Electronics,Samsung,Net Banking,2678,1046,348,106,1084.11,20,114915.66,3.3,Europe,2026-07-14
+PRD-4666,Adidas Beauty & Care Item #666,Home & Kitchen,Nike,UPI Instant,76350,42260,15592,11184,622.17,10,6958349.28,3.9,Middle East,2026-07-20
+PRD-4667,L'Oreal Books Item #667,Electronics,Sony,Credit Card,71973,26807,7103,2623,1097.4,30,2878480.2,3.8,North America,2026-05-02
+PRD-4668,Nike Electronics Item #668,Beauty & Care,Apple,Net Banking,7567,1552,266,92,495.55,20,45590.6,3.7,Asia Pacific,2026-08-07
+PRD-4669,L'Oreal Electronics Item #669,Home & Kitchen,Puma,UPI Instant,43353,25427,4152,1773,195.21,5,346107.33,4.3,Asia Pacific,2026-03-20
+PRD-4670,Samsung Beauty & Care Item #670,Books,Puma,Net Banking,1493,309,110,50,144.09,0,7204.5,3.8,North America,2026-07-26
+PRD-4671,L'Oreal Electronics Item #671,Books,Logitech,Net Banking,63276,36623,8474,4973,980.1,15,4874037.3,3.2,Middle East,2026-07-09
+PRD-4672,Sony Home & Kitchen Item #672,Sports Gear,Sony,Credit Card,37257,15002,5484,3663,646.04,50,2366444.52,3.4,North America,2026-01-05
+PRD-4673,Samsung Home & Kitchen Item #673,Sports Gear,Logitech,Credit Card,63383,28495,11517,6480,203.21,50,1316800.8,4.6,Asia Pacific,2026-04-13
+PRD-4674,Apple Sports Gear Item #674,Home & Kitchen,Puma,PayPal,28113,11455,4183,2577,52.24,20,134622.48,4.9,Middle East,2026-04-29
+PRD-4675,Apple Clothing Item #675,Books,Puma,Cash on Delivery,50449,17114,7363,5005,270.83,10,1355504.15,4.4,North America,2026-01-10
+PRD-4676,Adidas Books Item #676,Home & Kitchen,Samsung,Credit Card,18309,4506,1573,898,22.75,10,20429.5,4.6,North America,2026-05-14
+PRD-4677,Sony Clothing Item #677,Beauty & Care,Apple,Net Banking,66805,22130,4384,2024,206.67,50,418300.08,3.4,Asia Pacific,2026-06-24
+PRD-4678,Sony Electronics Item #678,Electronics,Apple,Credit Card,67234,14409,3401,1936,277.0,15,536272.0,4.4,Middle East,2026-02-23
+PRD-4679,Samsung Books Item #679,Electronics,L'Oreal,UPI Instant,12209,5435,1807,931,860.96,0,801553.76,3.9,Middle East,2026-06-19
+PRD-4680,Puma Home & Kitchen Item #680,Electronics,Logitech,Credit Card,18463,11070,4453,1716,958.73,5,1645180.68,4.5,Latin America,2026-03-09
+PRD-4681,Adidas Beauty & Care Item #681,Sports Gear,L'Oreal,Net Banking,20392,7285,2775,1665,1035.39,50,1723924.35,4.4,Europe,2026-01-22
+PRD-4682,Puma Electronics Item #682,Home & Kitchen,Puma,Cash on Delivery,4370,1892,366,182,762.83,30,138835.06,4.9,Middle East,2026-02-12
+PRD-4683,Samsung Books Item #683,Books,Adidas,PayPal,39600,20350,5342,2073,154.12,5,319490.76,3.8,Asia Pacific,2026-05-11
+PRD-4684,Samsung Clothing Item #684,Clothing,Logitech,Credit Card,45916,13093,3307,1254,243.92,15,305875.68,4.1,Europe,2026-05-13
+PRD-4685,Samsung Books Item #685,Home & Kitchen,Sony,Net Banking,14286,5555,1392,992,958.47,30,950802.24,3.5,Latin America,2026-02-27
+PRD-4686,Apple Sports Gear Item #686,Home & Kitchen,Apple,UPI Instant,2973,1545,616,274,100.38,5,27504.12,3.7,Europe,2026-06-12
+PRD-4687,Puma Beauty & Care Item #687,Books,Adidas,PayPal,55520,22919,10277,5110,550.79,50,2814536.9,3.5,Latin America,2026-01-04
+PRD-4688,Apple Clothing Item #688,Home & Kitchen,Apple,Cash on Delivery,61815,15490,3989,1635,568.6,15,929661.0,3.3,Latin America,2026-07-10
+PRD-4689,Logitech Sports Gear Item #689,Books,Logitech,UPI Instant,30603,13249,5388,1951,808.97,5,1578300.47,3.6,North America,2026-05-18
+PRD-4690,Logitech Sports Gear Item #690,Sports Gear,Apple,Cash on Delivery,25546,6734,1436,871,291.03,10,253487.13,3.3,Europe,2026-03-19
+PRD-4691,Puma Electronics Item #691,Electronics,Logitech,Net Banking,65640,30711,9033,6253,309.72,15,1936679.16,4.7,North America,2026-03-16
+PRD-4692,Apple Electronics Item #692,Books,Nike,Cash on Delivery,8451,2703,829,377,1152.56,20,434515.12,4.4,Latin America,2026-08-14
+PRD-4693,Logitech Sports Gear Item #693,Books,Apple,PayPal,55700,21721,7748,3126,211.29,0,660492.54,3.4,Europe,2026-08-05
+PRD-4694,Sony Sports Gear Item #694,Beauty & Care,Nike,PayPal,33759,14021,5780,2463,453.44,30,1116822.72,4.7,Latin America,2026-02-27
+PRD-4695,Sony Books Item #695,Sports Gear,Samsung,UPI Instant,9911,3759,1003,475,596.89,0,283522.75,3.4,Asia Pacific,2026-03-27
+PRD-4696,Samsung Electronics Item #696,Beauty & Care,Samsung,PayPal,61298,20853,9289,2813,667.37,20,1877311.81,4.1,North America,2026-05-24
+PRD-4697,Sony Clothing Item #697,Sports Gear,Apple,PayPal,4842,2206,989,320,505.78,30,161849.6,4.9,Middle East,2026-08-07
+PRD-4698,Sony Beauty & Care Item #698,Home & Kitchen,Puma,UPI Instant,28062,7323,1535,551,860.14,30,473937.14,4.5,Latin America,2026-02-14
+PRD-4699,Samsung Home & Kitchen Item #699,Books,L'Oreal,PayPal,44642,9083,2992,1637,859.33,5,1406723.21,4.1,Latin America,2026-05-20
+PRD-4700,Puma Electronics Item #700,Beauty & Care,Logitech,UPI Instant,66764,32567,8900,5033,412.89,10,2078075.37,4.1,Middle East,2026-05-12
+PRD-4701,Logitech Home & Kitchen Item #701,Electronics,Puma,Credit Card,19041,6375,2523,1155,1174.52,0,1356570.6,3.9,Latin America,2026-03-19
+PRD-4702,Puma Clothing Item #702,Clothing,Apple,Net Banking,42581,10345,3585,2079,809.03,5,1681973.37,4.0,Asia Pacific,2026-03-12
+PRD-4703,Samsung Clothing Item #703,Electronics,Puma,UPI Instant,73054,43549,12761,6839,75.71,15,517780.69,4.3,Latin America,2026-04-18
+PRD-4704,Adidas Books Item #704,Beauty & Care,Nike,Credit Card,17936,10655,3526,1409,430.29,0,606278.61,4.9,Asia Pacific,2026-08-01
+PRD-4705,Logitech Beauty & Care Item #705,Home & Kitchen,Sony,Credit Card,54368,24921,6865,2891,655.61,10,1895368.51,4.6,Asia Pacific,2026-02-13
+PRD-4706,Puma Books Item #706,Clothing,Nike,Cash on Delivery,22762,12609,4830,2239,707.3,5,1583644.7,3.8,Europe,2026-03-25
+PRD-4707,Sony Home & Kitchen Item #707,Books,Adidas,PayPal,75110,36308,8940,4748,1042.38,50,4949220.24,3.8,Latin America,2026-02-10
+PRD-4708,Nike Sports Gear Item #708,Clothing,Sony,Cash on Delivery,40362,13191,4113,2475,120.1,30,297247.5,3.4,Europe,2026-03-30
+PRD-4709,Sony Clothing Item #709,Electronics,Adidas,PayPal,6179,1619,340,141,394.77,50,55662.57,4.7,Latin America,2026-06-21
+PRD-4710,Apple Sports Gear Item #710,Beauty & Care,Puma,Credit Card,41605,14519,6008,2566,41.54,0,106591.64,3.8,North America,2026-06-28
+PRD-4711,Sony Beauty & Care Item #711,Electronics,Apple,UPI Instant,74026,15533,5259,3549,732.41,5,2599323.09,3.8,Middle East,2026-06-30
+PRD-4712,Nike Sports Gear Item #712,Clothing,Logitech,Net Banking,12518,4752,2099,874,235.93,15,206202.82,4.0,North America,2026-06-12
+PRD-4713,Puma Books Item #713,Electronics,Samsung,PayPal,71188,15737,5445,3350,339.84,5,1138464.0,4.2,Europe,2026-03-16
+PRD-4714,Sony Clothing Item #714,Home & Kitchen,Logitech,Net Banking,6938,3732,1219,482,1125.88,5,542674.16,3.3,Europe,2026-03-24
+PRD-4715,L'Oreal Electronics Item #715,Sports Gear,Sony,Cash on Delivery,36552,15426,5317,3902,723.04,50,2821302.08,3.4,Latin America,2026-07-23
+PRD-4716,L'Oreal Electronics Item #716,Clothing,Samsung,Credit Card,39408,9886,2886,1010,973.43,5,983164.3,3.6,Middle East,2026-03-12
+PRD-4717,Puma Sports Gear Item #717,Electronics,Sony,PayPal,39010,12447,5591,2062,298.08,50,614640.96,4.7,Europe,2026-05-18
+PRD-4718,Puma Clothing Item #718,Electronics,Adidas,Cash on Delivery,34408,17570,3253,1650,505.24,0,833646.0,3.6,North America,2026-02-14
+PRD-4719,Nike Beauty & Care Item #719,Electronics,Nike,PayPal,1127,535,234,142,137.23,30,19486.66,4.0,Latin America,2026-08-02
+PRD-4720,Adidas Sports Gear Item #720,Sports Gear,Adidas,Cash on Delivery,58376,33176,14684,10213,741.64,30,7574369.32,4.9,North America,2026-08-01
+PRD-4721,Sony Sports Gear Item #721,Home & Kitchen,Logitech,UPI Instant,49196,19143,5070,3704,719.79,30,2666102.16,4.9,Europe,2026-05-26
+PRD-4722,Nike Books Item #722,Sports Gear,Sony,Cash on Delivery,64751,28563,5676,2291,1197.29,5,2742991.39,3.5,Latin America,2026-08-04
+PRD-4723,Samsung Sports Gear Item #723,Books,Nike,Net Banking,75557,16098,4554,3261,506.53,10,1651794.33,4.8,North America,2026-05-05
+PRD-4724,Puma Clothing Item #724,Books,Nike,Net Banking,20196,5853,2258,1492,248.72,0,371090.24,4.1,Latin America,2026-06-26
+PRD-4725,Sony Sports Gear Item #725,Clothing,Logitech,Credit Card,35883,20977,7502,4468,336.75,30,1504599.0,3.9,Europe,2026-05-01
+PRD-4726,Puma Home & Kitchen Item #726,Home & Kitchen,Adidas,UPI Instant,31528,10174,3664,1521,736.26,20,1119851.46,4.0,Latin America,2026-03-15
+PRD-4727,Sony Sports Gear Item #727,Books,Nike,UPI Instant,72924,16009,3002,1295,1103.85,15,1429485.75,4.7,Europe,2026-08-11
+PRD-4728,Logitech Clothing Item #728,Sports Gear,L'Oreal,Credit Card,29973,11535,3150,2116,236.72,5,500899.52,4.9,Asia Pacific,2026-06-16
+PRD-4729,Logitech Home & Kitchen Item #729,Beauty & Care,Adidas,Net Banking,13230,4483,855,262,852.88,20,223454.56,4.9,North America,2026-04-29
+PRD-4730,Adidas Clothing Item #730,Sports Gear,Apple,UPI Instant,76681,32151,5005,2107,1093.92,10,2304889.44,4.0,Asia Pacific,2026-05-16
+PRD-4731,Puma Sports Gear Item #731,Home & Kitchen,Sony,Credit Card,40251,18793,6779,2728,1064.16,5,2903028.48,4.2,North America,2026-05-05
+PRD-4732,Apple Sports Gear Item #732,Electronics,Nike,UPI Instant,52005,16410,5806,2143,150.87,10,323314.41,3.3,North America,2026-06-03
+PRD-4733,Logitech Clothing Item #733,Clothing,Samsung,Cash on Delivery,57958,18444,8061,5534,940.76,0,5206165.84,3.9,North America,2026-05-29
+PRD-4734,Adidas Beauty & Care Item #734,Clothing,Logitech,UPI Instant,25049,5776,1238,460,130.35,0,59961.0,3.9,North America,2026-05-25
+PRD-4735,Adidas Electronics Item #735,Sports Gear,Apple,PayPal,77599,36073,10874,4897,75.94,50,371878.18,3.6,Latin America,2026-06-04
+PRD-4736,Puma Sports Gear Item #736,Clothing,Sony,Cash on Delivery,50418,25004,7849,5179,575.27,30,2979323.33,3.6,Europe,2026-03-10
+PRD-4737,Samsung Beauty & Care Item #737,Books,Logitech,Net Banking,62122,17110,4165,1380,504.96,15,696844.8,4.4,Asia Pacific,2026-01-15
+PRD-4738,L'Oreal Home & Kitchen Item #738,Beauty & Care,Nike,Net Banking,52933,22434,3396,1421,294.29,10,418186.09,4.2,Latin America,2026-07-02
+PRD-4739,Apple Books Item #739,Sports Gear,Sony,UPI Instant,58148,14461,3294,2323,610.43,20,1418028.89,3.9,North America,2026-04-17
+PRD-4740,Samsung Sports Gear Item #740,Beauty & Care,Samsung,Credit Card,1294,558,132,83,502.35,0,41695.05,3.4,Latin America,2026-03-30
+PRD-4741,Samsung Clothing Item #741,Books,L'Oreal,UPI Instant,37774,10482,2678,1459,564.5,50,823605.5,3.6,Europe,2026-01-02
+PRD-4742,Puma Sports Gear Item #742,Electronics,Adidas,Credit Card,21594,11238,1884,1376,154.18,15,212151.68,3.6,Middle East,2026-07-15
+PRD-4743,Puma Electronics Item #743,Clothing,Logitech,Credit Card,71462,17834,4252,1852,486.45,50,900905.4,4.3,Latin America,2026-03-21
+PRD-4744,Puma Electronics Item #744,Beauty & Care,L'Oreal,Cash on Delivery,75797,31643,10648,3355,411.8,30,1381589.0,4.9,Europe,2026-03-06
+PRD-4745,Apple Home & Kitchen Item #745,Electronics,Puma,Credit Card,9342,4164,954,544,482.29,50,262365.76,4.4,Asia Pacific,2026-04-23
+PRD-4746,Logitech Beauty & Care Item #746,Beauty & Care,L'Oreal,Net Banking,55354,28525,7661,4876,979.15,30,4774335.4,3.8,Asia Pacific,2026-03-11
+PRD-4747,Puma Clothing Item #747,Clothing,Samsung,Credit Card,45692,24937,8201,3547,291.99,30,1035688.53,3.9,Middle East,2026-07-09
+PRD-4748,Sony Home & Kitchen Item #748,Home & Kitchen,Samsung,Cash on Delivery,68035,21334,4353,1574,955.12,10,1503358.88,3.7,Latin America,2026-02-08
+PRD-4749,Apple Sports Gear Item #749,Clothing,Sony,Credit Card,49517,14757,2853,1039,1053.14,15,1094212.46,3.9,Asia Pacific,2026-02-21
+PRD-4750,Logitech Beauty & Care Item #750,Beauty & Care,Samsung,Cash on Delivery,66536,21017,5287,2962,338.49,0,1002607.38,4.4,Latin America,2026-01-01
+PRD-4751,Apple Sports Gear Item #751,Electronics,Logitech,UPI Instant,30703,18184,7973,5891,33.28,0,196052.48,3.5,Latin America,2026-06-30
+PRD-4752,Logitech Electronics Item #752,Books,Sony,Credit Card,54431,19472,3488,2579,1037.62,50,2676021.98,4.2,Middle East,2026-02-09
+PRD-4753,L'Oreal Beauty & Care Item #753,Beauty & Care,Apple,Cash on Delivery,23747,9317,1770,730,927.12,30,676797.6,3.8,Middle East,2026-06-15
+PRD-4754,Nike Electronics Item #754,Sports Gear,Nike,UPI Instant,43718,15391,6264,2826,489.16,50,1382366.16,4.5,Middle East,2026-05-27
+PRD-4755,Apple Electronics Item #755,Home & Kitchen,Logitech,UPI Instant,21654,7899,3002,1067,59.8,30,63806.6,3.5,Europe,2026-03-06
+PRD-4756,Adidas Electronics Item #756,Home & Kitchen,Samsung,PayPal,39610,21192,3722,2184,253.43,0,553491.12,3.3,Europe,2026-06-30
+PRD-4757,Sony Beauty & Care Item #757,Sports Gear,Apple,PayPal,62473,19524,6800,2376,330.15,30,784436.4,3.7,North America,2026-03-29
+PRD-4758,Logitech Clothing Item #758,Clothing,Sony,Net Banking,28106,13744,2343,1402,575.86,30,807355.72,4.1,Middle East,2026-06-16
+PRD-4759,Puma Home & Kitchen Item #759,Clothing,Puma,Net Banking,62171,36734,11813,4193,327.45,15,1372997.85,4.7,Middle East,2026-04-23
+PRD-4760,Sony Books Item #760,Sports Gear,Nike,UPI Instant,37043,10036,2594,932,761.59,20,709801.88,3.4,North America,2026-01-19
+PRD-4761,Samsung Books Item #761,Clothing,Samsung,UPI Instant,38261,11381,3511,1755,1002.51,0,1759405.05,4.2,Europe,2026-03-27
+PRD-4762,Adidas Sports Gear Item #762,Home & Kitchen,L'Oreal,Cash on Delivery,59405,26027,3951,2050,152.44,15,312502.0,4.8,North America,2026-02-08
+PRD-4763,Samsung Sports Gear Item #763,Clothing,Sony,UPI Instant,18017,9244,3156,2144,263.3,10,564515.2,4.1,North America,2026-04-22
+PRD-4764,Adidas Sports Gear Item #764,Clothing,Logitech,PayPal,55941,11456,3599,2506,470.71,15,1179599.26,4.4,Asia Pacific,2026-04-09
+PRD-4765,Apple Clothing Item #765,Sports Gear,Nike,Net Banking,35835,11454,4053,1418,92.36,20,130966.48,3.7,Europe,2026-05-18
+PRD-4766,L'Oreal Clothing Item #766,Books,Nike,PayPal,20734,6648,2392,976,72.79,0,71043.04,4.2,Europe,2026-02-03
+PRD-4767,L'Oreal Sports Gear Item #767,Electronics,Apple,Net Banking,21760,11918,4122,2578,472.24,10,1217434.72,3.3,Latin America,2026-01-04
+PRD-4768,Logitech Clothing Item #768,Clothing,Logitech,Cash on Delivery,78675,43085,7291,3667,1159.98,30,4253646.66,4.1,Latin America,2026-08-01
+PRD-4769,Nike Home & Kitchen Item #769,Sports Gear,Puma,Cash on Delivery,9470,5066,1610,962,727.58,0,699931.96,4.8,Middle East,2026-05-19
+PRD-4770,Adidas Home & Kitchen Item #770,Electronics,L'Oreal,PayPal,15907,8792,2910,1454,758.79,10,1103280.66,4.5,Middle East,2026-04-18
+PRD-4771,Apple Books Item #771,Electronics,Apple,UPI Instant,56646,17836,4823,3541,204.08,10,722647.28,3.8,Asia Pacific,2026-08-08
+PRD-4772,Logitech Electronics Item #772,Books,Sony,Net Banking,58999,33273,7808,3116,967.79,10,3015633.64,4.8,Europe,2026-02-04
+PRD-4773,Logitech Beauty & Care Item #773,Clothing,Apple,PayPal,4566,2023,659,377,408.36,20,153951.72,4.5,Europe,2026-07-07
+PRD-4774,Samsung Clothing Item #774,Beauty & Care,Samsung,UPI Instant,47542,22425,9676,3686,51.51,15,189865.86,4.1,North America,2026-05-07
+PRD-4775,Samsung Clothing Item #775,Electronics,Puma,UPI Instant,73146,33494,10244,3766,85.97,10,323763.02,3.7,North America,2026-07-30
+PRD-4776,Logitech Electronics Item #776,Clothing,Logitech,Credit Card,34912,8380,2032,634,398.99,50,252959.66,4.0,Europe,2026-03-18
+PRD-4777,Sony Home & Kitchen Item #777,Books,Apple,Cash on Delivery,37881,11833,1882,1260,1131.85,50,1426131.0,3.3,Middle East,2026-02-28
+PRD-4778,Adidas Home & Kitchen Item #778,Home & Kitchen,L'Oreal,Net Banking,75763,18200,4546,1545,389.59,10,601916.55,4.1,Middle East,2026-04-13
+PRD-4779,Sony Electronics Item #779,Electronics,Nike,Net Banking,36996,17365,3970,2226,552.61,0,1230109.86,4.1,Asia Pacific,2026-05-02
+PRD-4780,Apple Books Item #780,Electronics,Samsung,UPI Instant,57953,27542,9949,4291,883.45,0,3790883.95,4.3,North America,2026-01-26
+PRD-4781,Apple Home & Kitchen Item #781,Beauty & Care,L'Oreal,Net Banking,13312,7249,1699,956,930.7,5,889749.2,3.8,Asia Pacific,2026-07-01
+PRD-4782,Logitech Sports Gear Item #782,Beauty & Care,Apple,PayPal,23963,8658,2170,1220,654.54,5,798538.8,3.5,Europe,2026-04-19
+PRD-4783,Nike Clothing Item #783,Home & Kitchen,Samsung,UPI Instant,40441,10748,2631,979,863.04,0,844916.16,4.5,Middle East,2026-04-04
+PRD-4784,Adidas Clothing Item #784,Beauty & Care,Sony,UPI Instant,7640,2451,933,293,119.57,20,35034.01,4.6,North America,2026-06-01
+PRD-4785,L'Oreal Beauty & Care Item #785,Beauty & Care,Sony,UPI Instant,69676,38112,11944,5394,909.33,5,4904926.02,4.1,Asia Pacific,2026-06-16
+PRD-4786,Nike Clothing Item #786,Sports Gear,Logitech,UPI Instant,39300,8340,2669,1608,128.64,50,206853.12,3.4,Europe,2026-03-26
+PRD-4787,Puma Sports Gear Item #787,Electronics,Samsung,Cash on Delivery,47538,14120,3799,2698,153.27,30,413522.46,4.4,Middle East,2026-07-11
+PRD-4788,L'Oreal Books Item #788,Sports Gear,Samsung,PayPal,48673,22526,9173,3050,899.5,30,2743475.0,4.6,Asia Pacific,2026-05-31
+PRD-4789,Apple Beauty & Care Item #789,Books,Adidas,PayPal,11144,2702,843,389,993.07,20,386304.23,4.8,North America,2026-03-16
+PRD-4790,Apple Sports Gear Item #790,Books,L'Oreal,Net Banking,54925,19782,4061,1321,1174.99,30,1552161.79,4.8,Latin America,2026-07-17
+PRD-4791,Sony Electronics Item #791,Beauty & Care,Sony,Cash on Delivery,57622,22962,4502,2029,301.57,10,611885.53,3.5,Asia Pacific,2026-01-31
+PRD-4792,Nike Electronics Item #792,Books,Adidas,Net Banking,40551,20916,7781,5833,669.67,10,3906185.11,4.7,Latin America,2026-08-04
+PRD-4793,Apple Beauty & Care Item #793,Clothing,Samsung,UPI Instant,72949,19798,6770,3768,834.41,50,3144056.88,3.4,Middle East,2026-01-16
+PRD-4794,Apple Books Item #794,Electronics,L'Oreal,Cash on Delivery,11715,6292,1269,732,341.4,15,249904.8,3.5,Europe,2026-05-11
+PRD-4795,Apple Home & Kitchen Item #795,Beauty & Care,Apple,PayPal,32502,13382,5114,3323,477.48,50,1586666.04,4.2,Europe,2026-04-20
+PRD-4796,Adidas Home & Kitchen Item #796,Clothing,Samsung,Cash on Delivery,72474,16936,5837,2625,724.02,20,1900552.5,4.3,Asia Pacific,2026-07-28
+PRD-4797,L'Oreal Home & Kitchen Item #797,Home & Kitchen,Logitech,Net Banking,39353,16363,7311,4820,601.68,5,2900097.6,3.9,Europe,2026-07-23
+PRD-4798,L'Oreal Clothing Item #798,Beauty & Care,L'Oreal,UPI Instant,28353,12234,2241,1255,1042.71,30,1308601.05,4.5,Latin America,2026-02-21
+PRD-4799,Puma Books Item #799,Clothing,Puma,PayPal,60995,29622,10352,3469,42.81,5,148507.89,4.6,Middle East,2026-06-19
+PRD-4800,Puma Beauty & Care Item #800,Books,Logitech,PayPal,66067,38467,10660,5544,359.76,0,1994509.44,3.8,Asia Pacific,2026-05-14
+PRD-4801,Adidas Beauty & Care Item #801,Books,Puma,UPI Instant,77313,18782,6210,2531,560.87,30,1419561.97,3.9,Middle East,2026-04-08
+PRD-4802,Nike Clothing Item #802,Beauty & Care,Adidas,Credit Card,21103,5557,1503,564,859.11,5,484538.04,4.8,Europe,2026-07-23
+PRD-4803,L'Oreal Clothing Item #803,Clothing,Nike,Credit Card,62542,32014,9538,5711,604.25,30,3450871.75,4.3,Middle East,2026-06-14
+PRD-4804,Apple Home & Kitchen Item #804,Beauty & Care,Logitech,PayPal,67067,34449,12361,4309,948.32,20,4086310.88,3.7,Asia Pacific,2026-07-08
+PRD-4805,Apple Electronics Item #805,Sports Gear,Puma,PayPal,63509,34508,6024,3153,997.46,20,3144991.38,3.4,North America,2026-08-15
+PRD-4806,Puma Sports Gear Item #806,Books,L'Oreal,Cash on Delivery,42361,11910,3391,1093,604.19,15,660379.67,3.7,North America,2026-04-23
+PRD-4807,Logitech Beauty & Care Item #807,Sports Gear,Logitech,Net Banking,46256,15666,3814,1746,59.0,15,103014.0,4.7,North America,2026-05-01
+PRD-4808,Puma Books Item #808,Clothing,Logitech,Credit Card,5226,1400,251,184,994.8,10,183043.2,4.4,North America,2026-03-17
+PRD-4809,Apple Books Item #809,Beauty & Care,Apple,PayPal,52055,29661,10079,3834,539.79,20,2069554.86,4.4,Asia Pacific,2026-01-17
+PRD-4810,Apple Clothing Item #810,Sports Gear,Samsung,Net Banking,63033,32460,13245,6850,1163.35,30,7968947.5,3.4,Europe,2026-07-03
+PRD-4811,Puma Home & Kitchen Item #811,Books,Adidas,Credit Card,76493,18242,5284,3607,448.26,5,1616873.82,4.3,Latin America,2026-03-06
+PRD-4812,Adidas Home & Kitchen Item #812,Clothing,Adidas,UPI Instant,17007,7999,2506,945,401.45,15,379370.25,3.6,Europe,2026-07-17
+PRD-4813,Adidas Home & Kitchen Item #813,Clothing,Samsung,Credit Card,32866,14669,2511,1703,425.72,5,725001.16,3.8,Middle East,2026-03-27
+PRD-4814,L'Oreal Home & Kitchen Item #814,Sports Gear,Adidas,Credit Card,66942,38332,7391,4222,46.12,30,194718.64,4.9,Asia Pacific,2026-06-28
+PRD-4815,Samsung Beauty & Care Item #815,Books,Logitech,UPI Instant,45195,9847,3675,1958,1079.67,15,2113993.86,4.0,North America,2026-01-02
+PRD-4816,Puma Electronics Item #816,Beauty & Care,Sony,Credit Card,63844,20301,5159,2500,47.59,50,118975.0,3.9,Latin America,2026-04-14
+PRD-4817,Logitech Beauty & Care Item #817,Clothing,Adidas,PayPal,75700,22095,7832,3806,1129.64,10,4299409.84,4.6,Latin America,2026-07-05
+PRD-4818,Nike Home & Kitchen Item #818,Books,Samsung,UPI Instant,45725,11502,5108,3226,456.02,10,1471120.52,4.4,Middle East,2026-01-16
+PRD-4819,L'Oreal Electronics Item #819,Beauty & Care,Logitech,Cash on Delivery,13187,3131,631,335,460.02,30,154106.7,4.4,Latin America,2026-03-31
+PRD-4820,Apple Sports Gear Item #820,Beauty & Care,Adidas,Credit Card,1597,611,126,49,299.11,15,14656.39,3.6,Middle East,2026-05-05
+PRD-4821,Logitech Electronics Item #821,Clothing,Logitech,PayPal,23657,9763,3112,1881,809.33,50,1522349.73,4.4,Europe,2026-06-22
+PRD-4822,Puma Books Item #822,Clothing,Apple,UPI Instant,41613,18717,7448,4166,86.12,20,358775.92,4.6,Latin America,2026-06-01
+PRD-4823,Sony Clothing Item #823,Books,Adidas,PayPal,69900,41111,17908,10846,1188.97,0,12895568.62,4.3,Europe,2026-02-03
+PRD-4824,Adidas Home & Kitchen Item #824,Beauty & Care,Puma,Net Banking,7778,3532,561,237,446.77,10,105884.49,4.9,North America,2026-02-07
+PRD-4825,Sony Clothing Item #825,Home & Kitchen,Nike,Cash on Delivery,65544,29281,8979,6068,279.57,50,1696430.76,3.6,North America,2026-02-14
+PRD-4826,Puma Sports Gear Item #826,Clothing,Apple,PayPal,63020,20055,7840,5081,515.61,5,2619814.41,4.6,Asia Pacific,2026-05-11
+PRD-4827,Nike Books Item #827,Sports Gear,Adidas,PayPal,55237,24369,4048,2473,287.39,50,710715.47,4.5,Middle East,2026-06-17
+PRD-4828,L'Oreal Electronics Item #828,Home & Kitchen,L'Oreal,PayPal,9252,3487,796,471,794.68,50,374294.28,3.7,North America,2026-03-02
+PRD-4829,Samsung Home & Kitchen Item #829,Home & Kitchen,Apple,Credit Card,51499,18351,8032,4748,679.56,50,3226550.88,3.5,Latin America,2026-04-26
+PRD-4830,Logitech Sports Gear Item #830,Sports Gear,Logitech,PayPal,52302,27412,4423,2803,198.32,30,555890.96,4.7,Asia Pacific,2026-08-01
+PRD-4831,Nike Beauty & Care Item #831,Home & Kitchen,Logitech,Net Banking,44945,13661,5668,2088,284.28,5,593576.64,3.5,North America,2026-05-21
+PRD-4832,Apple Beauty & Care Item #832,Clothing,Logitech,Net Banking,45459,24123,7458,3417,877.07,5,2996948.19,4.4,Europe,2026-07-04
+PRD-4833,Logitech Sports Gear Item #833,Beauty & Care,Adidas,UPI Instant,77432,46256,9177,4033,842.26,15,3396834.58,4.9,Latin America,2026-05-04
+PRD-4834,Apple Electronics Item #834,Clothing,Sony,Credit Card,34379,12937,4990,1624,382.53,30,621228.72,3.5,Latin America,2026-05-17
+PRD-4835,Adidas Electronics Item #835,Sports Gear,Sony,UPI Instant,24572,7498,3327,2380,835.79,5,1989180.2,4.0,Asia Pacific,2026-03-19
+PRD-4836,Puma Beauty & Care Item #836,Sports Gear,Adidas,Net Banking,37838,22241,7082,3241,76.23,30,247061.43,4.7,Europe,2026-08-12
+PRD-4837,Sony Sports Gear Item #837,Books,Nike,Net Banking,71600,40415,11212,5030,794.14,0,3994524.2,3.5,Europe,2026-07-12
+PRD-4838,Puma Home & Kitchen Item #838,Home & Kitchen,Samsung,Cash on Delivery,71945,21700,3805,1947,158.88,15,309339.36,3.8,Middle East,2026-07-01
+PRD-4839,Apple Electronics Item #839,Sports Gear,Apple,Cash on Delivery,59778,24924,4558,2625,1037.36,0,2723070.0,4.4,North America,2026-03-01
+PRD-4840,L'Oreal Clothing Item #840,Books,Nike,Cash on Delivery,6969,2427,653,437,485.4,0,212119.8,3.8,North America,2026-06-08
+PRD-4841,Apple Books Item #841,Beauty & Care,Sony,Net Banking,48129,23276,8819,3488,179.47,0,625991.36,4.8,North America,2026-03-12
+PRD-4842,Puma Clothing Item #842,Clothing,L'Oreal,PayPal,61277,35309,9968,3028,1189.29,5,3601170.12,4.4,Middle East,2026-04-25
+PRD-4843,Samsung Electronics Item #843,Electronics,Apple,Net Banking,55655,32900,14539,7861,369.37,50,2903617.57,4.7,Asia Pacific,2026-08-07
+PRD-4844,L'Oreal Electronics Item #844,Beauty & Care,Logitech,Net Banking,27872,8712,1755,572,188.75,20,107965.0,4.0,Middle East,2026-06-14
+PRD-4845,Adidas Home & Kitchen Item #845,Electronics,Puma,PayPal,47579,27840,11350,8481,1136.69,10,9640267.89,4.1,Middle East,2026-02-23
+PRD-4846,Adidas Books Item #846,Books,Adidas,Credit Card,67160,23290,4640,2118,986.07,30,2088496.26,4.3,Middle East,2026-03-15
+PRD-4847,Puma Clothing Item #847,Beauty & Care,Nike,UPI Instant,66287,13702,2280,1684,624.25,20,1051237.0,4.6,Middle East,2026-01-13
+PRD-4848,Apple Sports Gear Item #848,Home & Kitchen,Nike,UPI Instant,41487,20510,6653,3034,295.69,15,897123.46,3.4,North America,2026-05-15
+PRD-4849,Samsung Clothing Item #849,Beauty & Care,Apple,Credit Card,3185,1397,555,399,998.35,15,398341.65,4.2,Europe,2026-03-19
+PRD-4850,Samsung Books Item #850,Electronics,Puma,Cash on Delivery,56418,33008,7181,2204,760.3,15,1675701.2,3.4,Asia Pacific,2026-02-15
+PRD-4851,Adidas Electronics Item #851,Sports Gear,Puma,Net Banking,3383,978,198,76,1193.64,5,90716.64,3.4,Asia Pacific,2026-02-27
+PRD-4852,Adidas Home & Kitchen Item #852,Beauty & Care,Samsung,UPI Instant,61168,15862,6255,4259,304.15,20,1295374.85,4.5,Middle East,2026-08-09
+PRD-4853,Logitech Sports Gear Item #853,Home & Kitchen,Sony,Cash on Delivery,58335,14076,5452,3201,823.2,5,2635063.2,4.4,Asia Pacific,2026-03-20
+PRD-4854,L'Oreal Sports Gear Item #854,Sports Gear,Logitech,Cash on Delivery,16699,5335,1115,628,481.38,10,302306.64,4.6,Asia Pacific,2026-07-24
+PRD-4855,Logitech Home & Kitchen Item #855,Home & Kitchen,Logitech,Credit Card,15720,4719,1253,642,102.11,15,65554.62,3.3,North America,2026-02-27
+PRD-4856,Apple Home & Kitchen Item #856,Sports Gear,Puma,UPI Instant,31912,6624,1213,674,1188.18,30,800833.32,3.4,North America,2026-01-03
+PRD-4857,Logitech Books Item #857,Beauty & Care,Adidas,Cash on Delivery,26267,7368,3306,1126,1048.58,5,1180701.08,3.9,Asia Pacific,2026-03-13
+PRD-4858,Puma Beauty & Care Item #858,Beauty & Care,Apple,PayPal,76765,38768,9260,5427,23.66,50,128402.82,4.8,Middle East,2026-06-11
+PRD-4859,Sony Home & Kitchen Item #859,Electronics,Sony,UPI Instant,44856,11053,3245,2235,1000.68,30,2236519.8,3.6,Europe,2026-03-28
+PRD-4860,L'Oreal Sports Gear Item #860,Sports Gear,L'Oreal,Net Banking,53160,12137,4495,2417,397.44,30,960612.48,4.2,Latin America,2026-01-12
+PRD-4861,Nike Sports Gear Item #861,Clothing,Samsung,Cash on Delivery,46754,17980,7502,3188,1127.21,30,3593545.48,4.3,Latin America,2026-07-24
+PRD-4862,Sony Clothing Item #862,Beauty & Care,Puma,Credit Card,22389,6398,2692,1551,1039.58,20,1612388.58,3.4,Middle East,2026-07-06
+PRD-4863,Sony Books Item #863,Clothing,Adidas,Net Banking,75964,41487,14001,8400,621.67,10,5222028.0,4.7,Latin America,2026-05-03
+PRD-4864,Logitech Sports Gear Item #864,Clothing,Adidas,UPI Instant,62334,14029,4374,3230,1134.71,20,3665113.3,4.2,Latin America,2026-03-05
+PRD-4865,Sony Electronics Item #865,Beauty & Care,Nike,PayPal,52716,10923,1827,1245,232.74,50,289761.3,3.9,North America,2026-02-25
+PRD-4866,Samsung Books Item #866,Home & Kitchen,L'Oreal,Credit Card,52876,16520,5649,2759,148.08,10,408552.72,3.3,Europe,2026-01-05
+PRD-4867,Nike Home & Kitchen Item #867,Home & Kitchen,Logitech,Net Banking,60595,21879,4533,2263,22.22,15,50283.86,4.4,Asia Pacific,2026-02-27
+PRD-4868,Puma Clothing Item #868,Beauty & Care,Puma,Credit Card,50212,21718,3577,2438,569.52,0,1388489.76,4.3,Latin America,2026-07-15
+PRD-4869,Apple Beauty & Care Item #869,Books,Puma,Net Banking,5597,1900,816,499,146.39,50,73048.61,4.6,Middle East,2026-04-08
+PRD-4870,Logitech Books Item #870,Beauty & Care,Adidas,Credit Card,48744,11609,3270,2237,1063.1,20,2378154.7,3.7,Europe,2026-08-05
+PRD-4871,Apple Electronics Item #871,Home & Kitchen,Adidas,PayPal,26361,10326,4569,2270,795.78,30,1806420.6,4.8,Middle East,2026-04-22
+PRD-4872,Sony Beauty & Care Item #872,Electronics,Adidas,UPI Instant,76014,21944,7636,2825,1157.55,50,3270078.75,3.7,Middle East,2026-06-18
+PRD-4873,L'Oreal Home & Kitchen Item #873,Clothing,Sony,PayPal,34800,14591,5373,2610,151.18,15,394579.8,4.6,Europe,2026-07-07
+PRD-4874,Adidas Sports Gear Item #874,Electronics,Puma,Credit Card,61012,34099,9492,3549,810.52,50,2876535.48,3.9,Middle East,2026-04-01
+PRD-4875,Samsung Sports Gear Item #875,Electronics,L'Oreal,PayPal,79819,40022,6473,2280,268.04,20,611131.2,3.5,Middle East,2026-04-14
+PRD-4876,Puma Beauty & Care Item #876,Electronics,L'Oreal,PayPal,5431,1483,398,209,651.86,15,136238.74,4.1,Asia Pacific,2026-01-02
+PRD-4877,Sony Electronics Item #877,Electronics,Logitech,Credit Card,77111,29668,7628,4751,461.94,30,2194676.94,3.7,Asia Pacific,2026-08-06
+PRD-4878,Logitech Clothing Item #878,Home & Kitchen,Sony,Credit Card,73639,33548,11991,8838,901.12,30,7964098.56,4.5,Latin America,2026-04-04
+PRD-4879,Logitech Sports Gear Item #879,Sports Gear,Sony,Credit Card,54847,23347,6197,3552,874.78,15,3107218.56,4.3,Latin America,2026-02-25
+PRD-4880,Apple Electronics Item #880,Sports Gear,Adidas,PayPal,39350,13900,4918,2542,944.77,15,2401605.34,4.3,Latin America,2026-05-10
+PRD-4881,Logitech Sports Gear Item #881,Home & Kitchen,Adidas,PayPal,13118,6204,1174,711,556.52,30,395685.72,3.7,Latin America,2026-06-21
+PRD-4882,Logitech Beauty & Care Item #882,Beauty & Care,Sony,UPI Instant,47169,20686,7328,3952,1158.33,15,4577720.16,3.5,Asia Pacific,2026-05-09
+PRD-4883,Adidas Electronics Item #883,Books,Samsung,PayPal,65677,28073,12084,6486,839.95,30,5447915.7,4.8,Asia Pacific,2026-02-17
+PRD-4884,Sony Beauty & Care Item #884,Beauty & Care,Logitech,Cash on Delivery,2075,497,184,87,531.25,10,46218.75,3.9,Latin America,2026-05-08
+PRD-4885,Adidas Home & Kitchen Item #885,Clothing,Logitech,PayPal,37498,18985,6643,4348,793.41,30,3449746.68,4.8,Middle East,2026-03-05
+PRD-4886,Logitech Beauty & Care Item #886,Beauty & Care,Puma,Net Banking,50518,19174,8611,5021,444.93,50,2233993.53,4.6,Europe,2026-02-03
+PRD-4887,Nike Electronics Item #887,Books,Logitech,UPI Instant,52065,16403,6915,4928,786.16,15,3874196.48,4.7,Asia Pacific,2026-07-24
+PRD-4888,Samsung Clothing Item #888,Electronics,Apple,Net Banking,71138,20565,4903,3521,1123.79,15,3956864.59,4.0,Middle East,2026-01-08
+PRD-4889,Sony Beauty & Care Item #889,Electronics,Logitech,PayPal,68369,17314,6410,3701,613.0,10,2268713.0,4.1,Latin America,2026-08-13
+PRD-4890,Apple Beauty & Care Item #890,Beauty & Care,Logitech,PayPal,31354,9374,1557,1045,837.26,20,874936.7,4.5,Middle East,2026-03-23
+PRD-4891,Sony Books Item #891,Books,Adidas,Net Banking,13482,7220,1645,640,340.98,10,218227.2,3.7,Latin America,2026-03-09
+PRD-4892,L'Oreal Electronics Item #892,Books,Adidas,PayPal,9176,2929,566,379,83.9,0,31798.1,3.8,Latin America,2026-08-02
+PRD-4893,Samsung Sports Gear Item #893,Home & Kitchen,Puma,Cash on Delivery,59079,15961,6843,5020,344.94,30,1731598.8,3.9,Middle East,2026-04-26
+PRD-4894,L'Oreal Beauty & Care Item #894,Electronics,Logitech,PayPal,37491,19005,7902,2459,222.09,5,546119.31,3.7,Latin America,2026-05-08
+PRD-4895,Puma Beauty & Care Item #895,Sports Gear,Sony,Credit Card,67753,31379,12748,9350,1195.29,0,11175961.5,3.4,Latin America,2026-08-08
+PRD-4896,Apple Sports Gear Item #896,Home & Kitchen,Apple,UPI Instant,36462,11611,3401,1956,382.44,15,748052.64,3.2,Middle East,2026-02-09
+PRD-4897,Sony Beauty & Care Item #897,Books,Apple,UPI Instant,23576,11026,4148,1986,890.58,15,1768691.88,4.0,Asia Pacific,2026-07-21
+PRD-4898,Adidas Home & Kitchen Item #898,Clothing,L'Oreal,Net Banking,46175,14411,2550,1652,378.57,30,625397.64,3.6,Europe,2026-04-18
+PRD-4899,Adidas Sports Gear Item #899,Home & Kitchen,L'Oreal,UPI Instant,73365,34820,8463,4007,23.47,50,94044.29,4.3,Europe,2026-07-21
+PRD-4900,L'Oreal Sports Gear Item #900,Sports Gear,Nike,Cash on Delivery,29519,8717,2221,1300,420.26,10,546338.0,3.6,North America,2026-01-25
+PRD-4901,Samsung Electronics Item #901,Beauty & Care,Logitech,Cash on Delivery,29253,7409,3069,1234,1179.46,50,1455453.64,4.5,Middle East,2026-01-23
+PRD-4902,Nike Beauty & Care Item #902,Books,L'Oreal,Net Banking,51303,11301,2213,1396,664.88,30,928172.48,3.8,Middle East,2026-03-09
+PRD-4903,Adidas Electronics Item #903,Clothing,L'Oreal,PayPal,77753,22667,9023,3385,801.47,20,2712975.95,4.6,Europe,2026-05-20
+PRD-4904,Nike Home & Kitchen Item #904,Sports Gear,Sony,Credit Card,31998,9226,2049,1380,1124.56,20,1551892.8,3.3,Europe,2026-07-28
+PRD-4905,L'Oreal Electronics Item #905,Clothing,Logitech,UPI Instant,66089,18331,6159,2116,896.29,5,1896549.64,3.3,Europe,2026-02-18
+PRD-4906,Adidas Beauty & Care Item #906,Sports Gear,Samsung,UPI Instant,65583,19567,5584,2264,588.54,15,1332454.56,4.5,Middle East,2026-04-19
+PRD-4907,Adidas Beauty & Care Item #907,Electronics,L'Oreal,UPI Instant,14808,6816,1133,755,229.34,5,173151.7,3.9,Latin America,2026-02-11
+PRD-4908,Samsung Beauty & Care Item #908,Home & Kitchen,Samsung,Cash on Delivery,63650,17750,6335,3757,122.55,30,460420.35,3.8,Europe,2026-07-04
+PRD-4909,Samsung Home & Kitchen Item #909,Home & Kitchen,Nike,Cash on Delivery,26870,8038,2671,1676,1012.62,15,1697151.12,3.5,Asia Pacific,2026-08-02
+PRD-4910,Puma Beauty & Care Item #910,Sports Gear,Apple,Credit Card,7443,1588,672,349,37.95,20,13244.55,4.5,North America,2026-01-22
+PRD-4911,Adidas Sports Gear Item #911,Beauty & Care,Apple,Net Banking,28918,6180,1168,651,1132.93,30,737537.43,3.6,Latin America,2026-06-02
+PRD-4912,Puma Books Item #912,Beauty & Care,Sony,Credit Card,76005,37848,5896,3570,133.35,15,476059.5,4.4,Europe,2026-05-18
+PRD-4913,Samsung Books Item #913,Electronics,Puma,Net Banking,66027,14054,3993,1311,495.68,0,649836.48,4.2,North America,2026-06-06
+PRD-4914,Logitech Beauty & Care Item #914,Electronics,Logitech,Cash on Delivery,48905,20286,8840,6557,73.85,50,484234.45,4.6,Asia Pacific,2026-08-06
+PRD-4915,Nike Electronics Item #915,Clothing,Apple,Net Banking,18720,3809,667,411,544.68,15,223863.48,4.5,Asia Pacific,2026-04-22
+PRD-4916,Nike Clothing Item #916,Home & Kitchen,Samsung,Credit Card,50677,14259,4216,2940,375.56,10,1104146.4,4.1,Latin America,2026-07-07
+PRD-4917,Logitech Clothing Item #917,Clothing,Puma,Credit Card,52645,16264,4358,1474,518.01,15,763546.74,4.1,Europe,2026-07-10
+PRD-4918,Puma Electronics Item #918,Sports Gear,Sony,Cash on Delivery,71172,15285,2568,1165,360.38,30,419842.7,4.0,Middle East,2026-08-11
+PRD-4919,Puma Sports Gear Item #919,Home & Kitchen,Samsung,Credit Card,4334,2594,500,331,423.68,50,140238.08,3.8,North America,2026-06-22
+PRD-4920,Apple Clothing Item #920,Electronics,Samsung,PayPal,79776,16895,4324,2178,902.08,10,1964730.24,3.9,Middle East,2026-07-01
+PRD-4921,Puma Clothing Item #921,Home & Kitchen,Logitech,Credit Card,62139,34209,14260,8982,933.06,0,8380744.92,3.7,Middle East,2026-06-20
+PRD-4922,Logitech Sports Gear Item #922,Home & Kitchen,Apple,PayPal,9042,5284,1155,419,69.0,15,28911.0,4.0,Middle East,2026-07-27
+PRD-4923,Puma Electronics Item #923,Electronics,Puma,PayPal,72443,32461,8472,4969,22.44,20,111504.36,4.1,Latin America,2026-07-13
+PRD-4924,Samsung Home & Kitchen Item #924,Sports Gear,Nike,PayPal,12986,3934,1663,1144,896.35,10,1025424.4,4.2,Europe,2026-06-20
+PRD-4925,Adidas Books Item #925,Books,Sony,Cash on Delivery,37939,21586,7747,3726,400.23,30,1491256.98,4.7,Middle East,2026-07-23
+PRD-4926,Nike Sports Gear Item #926,Clothing,Nike,Net Banking,1855,567,240,116,395.67,30,45897.72,4.5,North America,2026-05-25
+PRD-4927,Apple Sports Gear Item #927,Clothing,Puma,Credit Card,2203,645,255,138,165.02,50,22772.76,3.6,Latin America,2026-04-29
+PRD-4928,Apple Clothing Item #928,Home & Kitchen,Samsung,Cash on Delivery,65678,14958,4196,1900,282.43,10,536617.0,3.5,North America,2026-05-07
+PRD-4929,Puma Electronics Item #929,Clothing,Nike,PayPal,33132,18495,6632,2248,961.4,10,2161227.2,4.4,Latin America,2026-08-15
+PRD-4930,Apple Beauty & Care Item #930,Sports Gear,Nike,PayPal,70803,32718,6218,3999,130.86,10,523309.14,4.0,Middle East,2026-01-31
+PRD-4931,Logitech Books Item #931,Electronics,Logitech,Credit Card,46602,26670,11219,8395,792.45,15,6652617.75,4.7,Asia Pacific,2026-02-21
+PRD-4932,Nike Sports Gear Item #932,Beauty & Care,Logitech,PayPal,3211,1180,370,275,355.94,0,97883.5,3.9,Asia Pacific,2026-01-23
+PRD-4933,L'Oreal Beauty & Care Item #933,Books,Adidas,PayPal,25223,14211,4919,2495,1047.8,15,2614261.0,4.6,Asia Pacific,2026-05-03
+PRD-4934,Samsung Clothing Item #934,Beauty & Care,Logitech,PayPal,45230,22130,9647,6960,1033.65,0,7194204.0,3.9,North America,2026-03-09
+PRD-4935,L'Oreal Home & Kitchen Item #935,Home & Kitchen,Puma,Cash on Delivery,67767,15508,6799,2454,269.63,50,661672.02,4.6,Europe,2026-07-15
+PRD-4936,Samsung Home & Kitchen Item #936,Sports Gear,Samsung,UPI Instant,65561,23942,5025,3066,493.6,15,1513377.6,3.2,North America,2026-08-10
+PRD-4937,Puma Beauty & Care Item #937,Electronics,Logitech,Credit Card,2513,909,351,125,772.59,20,96573.75,3.3,Middle East,2026-04-24
+PRD-4938,Sony Beauty & Care Item #938,Electronics,Nike,PayPal,27120,11408,3183,1704,820.56,50,1398234.24,4.2,Europe,2026-01-20
+PRD-4939,Sony Beauty & Care Item #939,Books,Apple,PayPal,39340,18449,8001,4202,1142.42,50,4800448.84,4.7,Latin America,2026-01-09
+PRD-4940,L'Oreal Clothing Item #940,Clothing,Adidas,UPI Instant,35559,8902,2504,1027,962.39,50,988374.53,4.8,Europe,2026-01-01
+PRD-4941,Sony Home & Kitchen Item #941,Books,L'Oreal,Credit Card,43927,8807,2880,1021,1036.61,10,1058378.81,4.6,North America,2026-02-09
+PRD-4942,Sony Sports Gear Item #942,Clothing,Puma,Credit Card,62822,19124,8125,4292,1078.23,0,4627763.16,4.0,Europe,2026-07-18
+PRD-4943,Sony Clothing Item #943,Sports Gear,L'Oreal,Credit Card,64033,17186,5753,3253,527.89,0,1717226.17,4.6,North America,2026-02-05
+PRD-4944,Samsung Clothing Item #944,Clothing,Samsung,UPI Instant,53111,15233,4533,2374,964.08,30,2288725.92,3.5,Latin America,2026-07-30
+PRD-4945,L'Oreal Electronics Item #945,Clothing,L'Oreal,UPI Instant,7254,2968,1320,605,850.59,10,514606.95,4.0,Europe,2026-01-20
+PRD-4946,Nike Home & Kitchen Item #946,Sports Gear,Nike,UPI Instant,15846,4868,2078,1290,677.93,0,874529.7,3.5,Asia Pacific,2026-06-18
+PRD-4947,L'Oreal Books Item #947,Home & Kitchen,Adidas,UPI Instant,34175,17277,6075,4551,397.43,5,1808703.93,4.1,North America,2026-05-09
+PRD-4948,Puma Books Item #948,Beauty & Care,L'Oreal,Cash on Delivery,48279,21955,8455,6222,757.9,15,4715653.8,4.4,North America,2026-01-16
+PRD-4949,Samsung Beauty & Care Item #949,Clothing,Sony,UPI Instant,62936,28849,5563,3739,1018.69,30,3808881.91,3.6,Asia Pacific,2026-03-16
+PRD-4950,Apple Electronics Item #950,Beauty & Care,Adidas,PayPal,52885,11101,3397,1342,595.04,50,798543.68,4.4,North America,2026-05-07
+PRD-4951,Apple Books Item #951,Home & Kitchen,Adidas,PayPal,46226,15107,3073,1697,659.16,50,1118594.52,4.3,North America,2026-08-15
+PRD-4952,Apple Clothing Item #952,Home & Kitchen,Samsung,Credit Card,61551,30809,9613,4643,1019.07,30,4731542.01,4.3,North America,2026-02-15
+PRD-4953,Puma Beauty & Care Item #953,Electronics,Adidas,Cash on Delivery,13390,5926,2122,815,518.54,15,422610.1,3.8,Latin America,2026-01-19
+PRD-4954,Apple Home & Kitchen Item #954,Clothing,Sony,Net Banking,28980,15594,4791,1797,164.63,50,295840.11,4.6,Asia Pacific,2026-02-27
+PRD-4955,L'Oreal Books Item #955,Sports Gear,Logitech,Credit Card,44863,16879,7247,2751,665.8,20,1831615.8,4.7,Middle East,2026-02-27
+PRD-4956,Apple Clothing Item #956,Home & Kitchen,Samsung,UPI Instant,48589,11203,3982,2783,282.95,50,787449.85,4.7,Asia Pacific,2026-02-25
+PRD-4957,Sony Home & Kitchen Item #957,Sports Gear,Adidas,Credit Card,11216,6386,1227,523,942.42,5,492885.66,3.8,Middle East,2026-05-04
+PRD-4958,L'Oreal Beauty & Care Item #958,Clothing,Puma,PayPal,24078,4910,1142,824,291.1,0,239866.4,3.7,Latin America,2026-02-01
+PRD-4959,Logitech Clothing Item #959,Electronics,Samsung,PayPal,35253,13994,2361,1504,1087.22,20,1635178.88,4.6,Latin America,2026-07-18
+PRD-4960,Sony Electronics Item #960,Home & Kitchen,Logitech,Credit Card,50023,10627,3326,2250,266.98,5,600705.0,3.3,Latin America,2026-07-08
+PRD-4961,Samsung Electronics Item #961,Home & Kitchen,Puma,UPI Instant,60607,15930,4255,2153,393.29,10,846753.37,4.2,North America,2026-02-02
+PRD-4962,Puma Electronics Item #962,Clothing,Puma,Cash on Delivery,21850,11567,3836,2254,663.81,30,1496227.74,4.5,North America,2026-07-12
+PRD-4963,Apple Electronics Item #963,Beauty & Care,Logitech,Cash on Delivery,21311,4948,835,415,958.21,20,397657.15,3.7,Asia Pacific,2026-05-08
+PRD-4964,L'Oreal Beauty & Care Item #964,Clothing,Adidas,Net Banking,1815,939,141,71,1166.35,0,82810.85,4.4,Europe,2026-06-02
+PRD-4965,Adidas Sports Gear Item #965,Electronics,Sony,Cash on Delivery,39738,13953,3434,2017,975.62,0,1967825.54,4.3,Middle East,2026-05-03
+PRD-4966,L'Oreal Electronics Item #966,Electronics,L'Oreal,Credit Card,45757,16848,2576,786,813.45,20,639371.7,4.0,Europe,2026-05-23
+PRD-4967,Nike Clothing Item #967,Beauty & Care,Nike,Net Banking,32381,16817,3929,1221,510.79,30,623674.59,3.6,Latin America,2026-05-10
+PRD-4968,Adidas Electronics Item #968,Clothing,Sony,Net Banking,20870,9903,1686,585,635.22,20,371603.7,3.6,Latin America,2026-01-04
+PRD-4969,Samsung Beauty & Care Item #969,Clothing,Puma,Cash on Delivery,73369,36068,8772,6428,391.04,30,2513605.12,4.5,Asia Pacific,2026-01-09
+PRD-4970,Nike Sports Gear Item #970,Sports Gear,Logitech,UPI Instant,26796,8945,3602,1413,343.01,30,484673.13,4.1,Europe,2026-01-02
+PRD-4971,Logitech Sports Gear Item #971,Home & Kitchen,Nike,UPI Instant,29272,16251,4852,2406,690.79,50,1662040.74,4.7,Europe,2026-02-27
+PRD-4972,Puma Home & Kitchen Item #972,Electronics,Sony,Credit Card,2458,1129,333,156,887.79,5,138495.24,4.8,Asia Pacific,2026-05-09
+PRD-4973,Logitech Beauty & Care Item #973,Electronics,Nike,UPI Instant,8500,2114,426,244,805.46,0,196532.24,4.8,Middle East,2026-07-11
+PRD-4974,Apple Electronics Item #974,Sports Gear,Adidas,Cash on Delivery,11791,5250,2308,737,262.83,0,193705.71,3.5,Middle East,2026-07-12
+PRD-4975,Nike Beauty & Care Item #975,Sports Gear,Puma,Net Banking,71765,17473,4315,1796,116.81,0,209790.76,4.7,North America,2026-03-05
+PRD-4976,Puma Beauty & Care Item #976,Beauty & Care,Adidas,Cash on Delivery,32492,11913,3180,1015,373.4,15,379001.0,3.5,Middle East,2026-01-21
+PRD-4977,Logitech Clothing Item #977,Books,L'Oreal,UPI Instant,57243,28648,10039,4474,92.74,30,414918.76,3.3,Europe,2026-01-20
+PRD-4978,L'Oreal Home & Kitchen Item #978,Home & Kitchen,Samsung,Net Banking,64664,21355,7910,4815,498.65,15,2400999.75,3.7,Asia Pacific,2026-04-24
+PRD-4979,Nike Books Item #979,Books,Samsung,Net Banking,27237,7588,2810,2004,33.63,15,67394.52,3.7,Middle East,2026-05-25
+PRD-4980,Puma Books Item #980,Electronics,Nike,UPI Instant,37896,12479,5092,2459,243.32,10,598323.88,3.6,Asia Pacific,2026-04-01
+PRD-4981,Apple Home & Kitchen Item #981,Electronics,Apple,Net Banking,40295,9553,4262,2767,1085.64,5,3003965.88,4.8,Middle East,2026-01-02
+PRD-4982,Samsung Sports Gear Item #982,Electronics,L'Oreal,PayPal,41619,23123,3753,1488,29.67,0,44148.96,3.8,North America,2026-01-07
+PRD-4983,Adidas Beauty & Care Item #983,Sports Gear,Nike,Net Banking,4084,1308,492,260,350.65,15,91169.0,3.8,Asia Pacific,2026-07-06
+PRD-4984,Sony Clothing Item #984,Clothing,Samsung,Net Banking,4565,1306,502,186,1183.14,5,220064.04,3.6,Middle East,2026-07-10
+PRD-4985,Logitech Sports Gear Item #985,Clothing,Puma,PayPal,37451,8009,2160,669,909.29,0,608315.01,3.5,Europe,2026-03-15
+PRD-4986,Sony Clothing Item #986,Sports Gear,Adidas,Net Banking,30184,11190,2145,868,54.11,10,46967.48,3.2,North America,2026-03-22
+PRD-4987,L'Oreal Home & Kitchen Item #987,Clothing,Apple,Cash on Delivery,42533,9232,3983,1600,535.91,20,857456.0,3.6,Europe,2026-03-10
+PRD-4988,L'Oreal Clothing Item #988,Beauty & Care,Nike,Credit Card,10513,3521,1068,734,1146.92,0,841839.28,4.5,Middle East,2026-04-07
+PRD-4989,Logitech Electronics Item #989,Electronics,Apple,Net Banking,27872,16070,4641,1901,411.36,5,781995.36,3.9,Asia Pacific,2026-06-08
+PRD-4990,Logitech Clothing Item #990,Sports Gear,Samsung,PayPal,4479,2159,814,266,688.59,50,183164.94,4.6,Europe,2026-01-26
+PRD-4991,Sony Home & Kitchen Item #991,Home & Kitchen,Nike,UPI Instant,52147,14579,4316,2546,505.97,10,1288199.62,3.4,Latin America,2026-05-17
+PRD-4992,Sony Electronics Item #992,Electronics,Sony,UPI Instant,29852,10572,3475,2597,866.35,10,2249910.95,3.5,Middle East,2026-06-27
+PRD-4993,Samsung Sports Gear Item #993,Beauty & Care,Logitech,Cash on Delivery,61256,28777,4819,3431,856.01,50,2936970.31,4.9,Europe,2026-06-06
+PRD-4994,L'Oreal Clothing Item #994,Sports Gear,Adidas,Cash on Delivery,34475,12239,3905,2246,963.67,30,2164402.82,3.8,Latin America,2026-01-31
+PRD-4995,Sony Home & Kitchen Item #995,Electronics,Apple,Net Banking,27392,7083,2739,1870,98.86,30,184868.2,4.6,North America,2026-02-20
+PRD-4996,Adidas Home & Kitchen Item #996,Home & Kitchen,Logitech,Net Banking,53958,17767,5991,3555,728.7,20,2590528.5,3.5,Latin America,2026-05-16
+PRD-4997,Samsung Sports Gear Item #997,Clothing,Adidas,Credit Card,69315,41308,16401,5686,1033.01,15,5873694.86,3.7,Latin America,2026-06-24
+PRD-4998,Sony Books Item #998,Home & Kitchen,Nike,PayPal,31751,18428,6635,4548,1042.84,50,4742836.32,4.8,Asia Pacific,2026-03-03
+PRD-4999,Sony Home & Kitchen Item #999,Home & Kitchen,Samsung,PayPal,39701,17586,5787,2731,45.32,50,123768.92,3.6,Europe,2026-05-03
+PRD-5000,Logitech Electronics Item #1000,Electronics,Puma,Credit Card,40498,22701,6976,3583,343.78,5,1231763.74,3.7,Europe,2026-06-19

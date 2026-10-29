@@ -1,0 +1,1001 @@
+match_id,match_title,sport,tournament,team_1,team_2,top_player,broadcaster,views,likes,comments,shares,watch_time_min,date
+MATCH-3001,Red Bull Racing vs Ferrari - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Red Bull Racing,Ferrari,Max Verstappen,Star Sports,1033633,117207,24089,32882,74.3,2026-06-14
+MATCH-3002,Carlos Alcaraz vs Jannik Sinner - Wimbledon,Tennis,Wimbledon,Carlos Alcaraz,Jannik Sinner,Rafael Nadal,Star Sports,586135,39898,8426,14174,97.0,2026-02-13
+MATCH-3003,Red Bull Racing vs Ferrari - Silverstone GP,Formula 1,Silverstone GP,Red Bull Racing,Ferrari,Lando Norris,F1 TV,439094,35372,3709,8360,8.4,2026-03-21
+MATCH-3004,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Novak Djokovic,Star Sports,229688,45790,8790,8548,65.4,2026-06-17
+MATCH-3005,Lakers vs Warriors - NBA Playoffs,Basketball,NBA Playoffs,Lakers,Warriors,Kevin Durant,ESPN,1080252,159909,31114,21562,74.2,2026-04-23
+MATCH-3006,Mercedes F1 vs McLaren - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Mercedes F1,McLaren,Lewis Hamilton,Star Sports,412436,24346,2688,5007,54.3,2026-06-18
+MATCH-3007,Mumbai Indians vs Chennai Super Kings - IPL 2026,Cricket,IPL 2026,Mumbai Indians,Chennai Super Kings,Sachin Tendulkar,Sony Sports,705058,36305,8052,14301,79.4,2026-08-01
+MATCH-3008,Mercedes F1 vs McLaren - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Mercedes F1,McLaren,Max Verstappen,Star Sports,958692,146970,38479,28958,52.4,2026-05-16
+MATCH-3009,Novak Djokovic vs Rafael Nadal - US Open,Tennis,US Open,Novak Djokovic,Rafael Nadal,Rafael Nadal,Star Sports,181007,17690,1533,1917,38.2,2026-05-25
+MATCH-3010,England vs India - ICC World Cup,Cricket,ICC World Cup,England,India,Rohit Sharma,JioCinema,455271,89652,15451,15959,40.8,2026-05-28
+MATCH-3011,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Novak Djokovic,Star Sports,1187399,230288,22939,60612,52.5,2026-06-01
+MATCH-3012,Carlos Alcaraz vs Jannik Sinner - Wimbledon,Tennis,Wimbledon,Carlos Alcaraz,Jannik Sinner,Rafael Nadal,Star Sports,982469,81671,7134,26077,95.8,2026-01-02
+MATCH-3013,Nets vs Bucks - NBA Playoffs,Basketball,NBA Playoffs,Nets,Bucks,Luka Doncic,ESPN,595302,62152,17828,21266,100.3,2026-06-25
+MATCH-3014,Lakers vs Warriors - FIBA World Cup,Basketball,FIBA World Cup,Lakers,Warriors,Giannis Antetokounmpo,TNT,343986,42285,4842,12009,83.0,2026-02-01
+MATCH-3015,Mercedes F1 vs McLaren - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Mercedes F1,McLaren,Charles Leclerc,Sky Sports F1,713330,54479,7043,8673,71.2,2026-05-30
+MATCH-3016,Mercedes F1 vs McLaren - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Mercedes F1,McLaren,Fernando Alonso,Sky Sports F1,377060,44286,8131,6151,37.9,2026-01-17
+MATCH-3017,Mercedes F1 vs McLaren - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Mercedes F1,McLaren,Max Verstappen,Sky Sports F1,737441,39617,6959,8193,113.8,2026-03-08
+MATCH-3018,Red Bull Racing vs Ferrari - Monza GP,Formula 1,Monza GP,Red Bull Racing,Ferrari,Lewis Hamilton,Sky Sports F1,139013,25214,1604,5674,56.1,2026-04-04
+MATCH-3019,Mercedes F1 vs McLaren - Silverstone GP,Formula 1,Silverstone GP,Mercedes F1,McLaren,Max Verstappen,Star Sports,775200,41547,8040,12167,80.8,2026-01-22
+MATCH-3020,India vs Australia - ICC World Cup,Cricket,ICC World Cup,India,Australia,Hardik Pandya,Sony Sports,721253,46572,7441,14129,35.3,2026-05-21
+MATCH-3021,Red Bull Racing vs Ferrari - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Red Bull Racing,Ferrari,Fernando Alonso,Star Sports,799734,64178,12493,17326,75.6,2026-01-13
+MATCH-3022,Mumbai Indians vs Chennai Super Kings - Ashes Test Series,Cricket,Ashes Test Series,Mumbai Indians,Chennai Super Kings,Rohit Sharma,Sony Sports,650868,105348,8993,13708,7.2,2026-02-02
+MATCH-3023,Novak Djokovic vs Rafael Nadal - French Open,Tennis,French Open,Novak Djokovic,Rafael Nadal,Carlos Alcaraz,Tennis Channel,33268,5501,1526,862,5.8,2026-03-04
+MATCH-3024,Nets vs Bucks - NBA Playoffs,Basketball,NBA Playoffs,Nets,Bucks,Luka Doncic,NBA TV,1126407,116197,14693,18222,68.3,2026-03-03
+MATCH-3025,Carlos Alcaraz vs Jannik Sinner - Australian Open,Tennis,Australian Open,Carlos Alcaraz,Jannik Sinner,Jannik Sinner,Tennis Channel,422041,82840,6179,32682,93.2,2026-03-17
+MATCH-3026,England vs India - Ashes Test Series,Cricket,Ashes Test Series,England,India,Jasprit Bumrah,Star Sports,100923,18288,2966,2713,110.3,2026-01-01
+MATCH-3027,Mercedes F1 vs McLaren - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Mercedes F1,McLaren,Lando Norris,Star Sports,1123456,130608,21655,18803,26.5,2026-02-03
+MATCH-3028,Red Bull Racing vs Ferrari - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Red Bull Racing,Ferrari,Fernando Alonso,Sky Sports F1,721377,108484,8487,25738,25.0,2026-07-20
+MATCH-3029,Arsenal vs Chelsea - UEFA Champions League,Football,UEFA Champions League,Arsenal,Chelsea,Cristiano Ronaldo,Sky Sports,219422,27026,5861,9632,69.6,2026-03-05
+MATCH-3030,England vs India - T20 World Cup,Cricket,T20 World Cup,England,India,Sachin Tendulkar,Sony Sports,536625,42744,11515,4659,77.6,2026-05-18
+MATCH-3031,Bayern Munich vs PSG - Premier League,Football,Premier League,Bayern Munich,PSG,Kevin De Bruyne,DAZN,366552,55576,14381,19591,102.7,2026-01-06
+MATCH-3032,Mumbai Indians vs Chennai Super Kings - Ashes Test Series,Cricket,Ashes Test Series,Mumbai Indians,Chennai Super Kings,Hardik Pandya,Sony Sports,209033,36084,6956,9809,6.9,2026-04-30
+MATCH-3033,RCB vs KKR - ICC World Cup,Cricket,ICC World Cup,RCB,KKR,Hardik Pandya,JioCinema,39313,3451,937,459,37.5,2026-03-01
+MATCH-3034,Real Madrid vs FC Barcelona - Premier League,Football,Premier League,Real Madrid,FC Barcelona,Kevin De Bruyne,ESPN,699882,80724,23293,13155,29.6,2026-02-14
+MATCH-3035,Manchester City vs Liverpool - La Liga,Football,La Liga,Manchester City,Liverpool,Neymar Jr,Sky Sports,766403,135007,21212,45889,65.6,2026-08-02
+MATCH-3036,Mumbai Indians vs Chennai Super Kings - T20 World Cup,Cricket,T20 World Cup,Mumbai Indians,Chennai Super Kings,Sachin Tendulkar,Sony Sports,201657,29105,3466,7654,40.9,2026-07-12
+MATCH-3037,Mercedes F1 vs McLaren - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Mercedes F1,McLaren,Lewis Hamilton,Star Sports,1158989,187900,35328,31152,25.7,2026-06-28
+MATCH-3038,England vs India - ICC World Cup,Cricket,ICC World Cup,England,India,Hardik Pandya,JioCinema,324979,41888,8592,6973,11.4,2026-02-05
+MATCH-3039,Bayern Munich vs PSG - Premier League,Football,Premier League,Bayern Munich,PSG,Kevin De Bruyne,Sony LIV,85556,12971,920,3805,102.4,2026-03-17
+MATCH-3040,Lakers vs Warriors - NBA Finals,Basketball,NBA Finals,Lakers,Warriors,Kevin Durant,ESPN,572381,50689,5247,11934,118.1,2026-01-04
+MATCH-3041,Celtics vs Bulls - NBA Finals,Basketball,NBA Finals,Celtics,Bulls,Giannis Antetokounmpo,TNT,1012926,111202,20469,19542,60.5,2026-03-21
+MATCH-3042,Red Bull Racing vs Ferrari - Monza GP,Formula 1,Monza GP,Red Bull Racing,Ferrari,Lando Norris,F1 TV,900156,104641,23587,9410,40.1,2026-05-08
+MATCH-3043,Bayern Munich vs PSG - FIFA World Cup,Football,FIFA World Cup,Bayern Munich,PSG,Neymar Jr,ESPN,520799,50939,8157,6991,44.3,2026-01-07
+MATCH-3044,Lakers vs Warriors - FIBA World Cup,Basketball,FIBA World Cup,Lakers,Warriors,Giannis Antetokounmpo,TNT,393306,61469,7612,18962,73.9,2026-08-05
+MATCH-3045,Red Bull Racing vs Ferrari - Silverstone GP,Formula 1,Silverstone GP,Red Bull Racing,Ferrari,Charles Leclerc,F1 TV,762863,92247,13265,31921,82.0,2026-05-26
+MATCH-3046,Mercedes F1 vs McLaren - Monza GP,Formula 1,Monza GP,Mercedes F1,McLaren,Lewis Hamilton,Star Sports,798048,73511,18159,26340,92.0,2026-05-09
+MATCH-3047,Real Madrid vs FC Barcelona - Premier League,Football,Premier League,Real Madrid,FC Barcelona,Lionel Messi,Sony LIV,244885,31365,8387,3331,58.7,2026-03-09
+MATCH-3048,England vs India - IPL 2026,Cricket,IPL 2026,England,India,Sachin Tendulkar,JioCinema,18544,3048,706,595,118.3,2026-01-31
+MATCH-3049,Nets vs Bucks - NBA Playoffs,Basketball,NBA Playoffs,Nets,Bucks,Luka Doncic,NBA TV,440986,36619,5044,13357,88.5,2026-01-25
+MATCH-3050,Novak Djokovic vs Rafael Nadal - US Open,Tennis,US Open,Novak Djokovic,Rafael Nadal,Iga Swiatek,Eurosport,911730,74676,7626,17104,68.4,2026-08-13
+MATCH-3051,Nets vs Bucks - NBA Finals,Basketball,NBA Finals,Nets,Bucks,Giannis Antetokounmpo,TNT,96403,6969,1287,1502,53.3,2026-07-09
+MATCH-3052,Mumbai Indians vs Chennai Super Kings - IPL 2026,Cricket,IPL 2026,Mumbai Indians,Chennai Super Kings,MS Dhoni,Sony Sports,257352,17765,4975,4478,46.5,2026-01-04
+MATCH-3053,India vs Australia - ICC World Cup,Cricket,ICC World Cup,India,Australia,Rohit Sharma,JioCinema,744930,86950,23884,22313,50.5,2026-03-05
+MATCH-3054,Red Bull Racing vs Ferrari - Silverstone GP,Formula 1,Silverstone GP,Red Bull Racing,Ferrari,Lando Norris,F1 TV,566649,97306,19341,33902,10.2,2026-07-01
+MATCH-3055,Carlos Alcaraz vs Jannik Sinner - US Open,Tennis,US Open,Carlos Alcaraz,Jannik Sinner,Carlos Alcaraz,Star Sports,147142,23921,3099,3786,5.3,2026-06-20
+MATCH-3056,RCB vs KKR - ICC World Cup,Cricket,ICC World Cup,RCB,KKR,Sachin Tendulkar,JioCinema,998421,163358,33705,55424,105.9,2026-02-27
+MATCH-3057,Mercedes F1 vs McLaren - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Mercedes F1,McLaren,Lando Norris,Sky Sports F1,752339,67865,17137,22755,53.3,2026-08-12
+MATCH-3058,Red Bull Racing vs Ferrari - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Red Bull Racing,Ferrari,Fernando Alonso,Sky Sports F1,403155,63285,11923,12518,23.9,2026-05-10
+MATCH-3059,Celtics vs Bulls - NBA Finals,Basketball,NBA Finals,Celtics,Bulls,LeBron James,TNT,1043531,182364,28754,70210,90.8,2026-07-05
+MATCH-3060,Arsenal vs Chelsea - UEFA Champions League,Football,UEFA Champions League,Arsenal,Chelsea,Neymar Jr,Sky Sports,577650,100000,17891,29331,110.4,2026-04-13
+MATCH-3061,RCB vs KKR - T20 World Cup,Cricket,T20 World Cup,RCB,KKR,Hardik Pandya,Star Sports,388263,44762,13094,4278,58.4,2026-04-28
+MATCH-3062,Red Bull Racing vs Ferrari - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Red Bull Racing,Ferrari,Fernando Alonso,F1 TV,326479,49944,5449,11842,67.5,2026-03-15
+MATCH-3063,Mercedes F1 vs McLaren - Silverstone GP,Formula 1,Silverstone GP,Mercedes F1,McLaren,Charles Leclerc,Sky Sports F1,1079918,129908,17431,20438,35.5,2026-06-21
+MATCH-3064,Nets vs Bucks - NBA Playoffs,Basketball,NBA Playoffs,Nets,Bucks,Giannis Antetokounmpo,ESPN,1003206,156312,44790,52372,112.6,2026-04-03
+MATCH-3065,RCB vs KKR - ICC World Cup,Cricket,ICC World Cup,RCB,KKR,Sachin Tendulkar,Sony Sports,185337,9795,2852,3293,23.4,2026-01-03
+MATCH-3066,Arsenal vs Chelsea - UEFA Champions League,Football,UEFA Champions League,Arsenal,Chelsea,Erling Haaland,DAZN,645856,40522,10687,8417,23.7,2026-05-01
+MATCH-3067,Red Bull Racing vs Ferrari - Monza GP,Formula 1,Monza GP,Red Bull Racing,Ferrari,Lando Norris,F1 TV,185933,25016,3075,4142,27.1,2026-01-13
+MATCH-3068,Nets vs Bucks - NBA Finals,Basketball,NBA Finals,Nets,Bucks,Giannis Antetokounmpo,NBA TV,688743,49527,7969,13084,91.9,2026-06-03
+MATCH-3069,Celtics vs Bulls - NBA Finals,Basketball,NBA Finals,Celtics,Bulls,Giannis Antetokounmpo,TNT,214804,33114,6814,5599,87.6,2026-06-27
+MATCH-3070,Arsenal vs Chelsea - FIFA World Cup,Football,FIFA World Cup,Arsenal,Chelsea,Erling Haaland,ESPN,623860,102890,7655,8457,97.6,2026-02-09
+MATCH-3071,Mercedes F1 vs McLaren - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Mercedes F1,McLaren,Charles Leclerc,F1 TV,765595,48223,6813,18888,88.0,2026-02-19
+MATCH-3072,Real Madrid vs FC Barcelona - Premier League,Football,Premier League,Real Madrid,FC Barcelona,Erling Haaland,DAZN,933277,71772,6693,10007,102.2,2026-06-12
+MATCH-3073,Mercedes F1 vs McLaren - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Mercedes F1,McLaren,Max Verstappen,Star Sports,240682,45868,12105,14177,20.0,2026-04-27
+MATCH-3074,England vs India - ICC World Cup,Cricket,ICC World Cup,England,India,Jasprit Bumrah,Sony Sports,294433,35300,9135,12227,75.3,2026-05-28
+MATCH-3075,Red Bull Racing vs Ferrari - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Red Bull Racing,Ferrari,Lewis Hamilton,Star Sports,414571,40411,11663,7563,58.2,2026-06-02
+MATCH-3076,Carlos Alcaraz vs Jannik Sinner - Wimbledon,Tennis,Wimbledon,Carlos Alcaraz,Jannik Sinner,Iga Swiatek,Tennis Channel,234057,20700,4374,3133,35.1,2026-03-23
+MATCH-3077,Mercedes F1 vs McLaren - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Mercedes F1,McLaren,Max Verstappen,F1 TV,667095,84154,20213,17118,75.9,2026-01-27
+MATCH-3078,Real Madrid vs FC Barcelona - Premier League,Football,Premier League,Real Madrid,FC Barcelona,Neymar Jr,Sky Sports,221330,33972,7828,5318,86.1,2026-03-27
+MATCH-3079,England vs India - Ashes Test Series,Cricket,Ashes Test Series,England,India,Sachin Tendulkar,JioCinema,996285,64364,6670,12951,33.8,2026-03-22
+MATCH-3080,Mumbai Indians vs Chennai Super Kings - ICC World Cup,Cricket,ICC World Cup,Mumbai Indians,Chennai Super Kings,Rohit Sharma,Star Sports,914944,81107,20813,21940,104.5,2026-05-03
+MATCH-3081,Bayern Munich vs PSG - UEFA Champions League,Football,UEFA Champions League,Bayern Munich,PSG,Cristiano Ronaldo,Sony LIV,1131000,61647,9293,24384,91.8,2026-01-05
+MATCH-3082,England vs India - Ashes Test Series,Cricket,Ashes Test Series,England,India,Hardik Pandya,JioCinema,1140383,121447,13569,43122,38.1,2026-01-16
+MATCH-3083,Bayern Munich vs PSG - La Liga,Football,La Liga,Bayern Munich,PSG,Cristiano Ronaldo,ESPN,150544,14615,3392,1684,90.9,2026-04-14
+MATCH-3084,Celtics vs Bulls - NBA Playoffs,Basketball,NBA Playoffs,Celtics,Bulls,Stephen Curry,TNT,36560,5665,1680,1057,35.2,2026-07-24
+MATCH-3085,Bayern Munich vs PSG - UEFA Champions League,Football,UEFA Champions League,Bayern Munich,PSG,Kylian Mbappé,DAZN,591378,36121,3036,10738,46.7,2026-02-02
+MATCH-3086,Mumbai Indians vs Chennai Super Kings - Ashes Test Series,Cricket,Ashes Test Series,Mumbai Indians,Chennai Super Kings,Virat Kohli,Sony Sports,573441,51280,14690,7579,96.8,2026-08-09
+MATCH-3087,England vs India - ICC World Cup,Cricket,ICC World Cup,England,India,Virat Kohli,JioCinema,1199253,144085,35606,28748,69.1,2026-02-08
+MATCH-3088,Bayern Munich vs PSG - FIFA World Cup,Football,FIFA World Cup,Bayern Munich,PSG,Lionel Messi,DAZN,476635,26141,5749,4475,37.0,2026-05-02
+MATCH-3089,Real Madrid vs FC Barcelona - FIFA World Cup,Football,FIFA World Cup,Real Madrid,FC Barcelona,Lionel Messi,Sony LIV,915162,78123,13082,17752,107.5,2026-05-27
+MATCH-3090,Real Madrid vs FC Barcelona - FIFA World Cup,Football,FIFA World Cup,Real Madrid,FC Barcelona,Neymar Jr,DAZN,369398,66545,8986,15082,78.5,2026-04-16
+MATCH-3091,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Jannik Sinner,Star Sports,299248,21824,5038,4928,58.4,2026-05-29
+MATCH-3092,Arsenal vs Chelsea - UEFA Champions League,Football,UEFA Champions League,Arsenal,Chelsea,Kevin De Bruyne,Sky Sports,913425,54735,10745,8567,47.4,2026-04-05
+MATCH-3093,Mumbai Indians vs Chennai Super Kings - T20 World Cup,Cricket,T20 World Cup,Mumbai Indians,Chennai Super Kings,MS Dhoni,Star Sports,269772,16321,4348,3909,60.9,2026-03-24
+MATCH-3094,Carlos Alcaraz vs Jannik Sinner - Wimbledon,Tennis,Wimbledon,Carlos Alcaraz,Jannik Sinner,Rafael Nadal,Tennis Channel,119138,11319,887,3128,27.5,2026-01-26
+MATCH-3095,Real Madrid vs FC Barcelona - Premier League,Football,Premier League,Real Madrid,FC Barcelona,Neymar Jr,Sony LIV,1059319,197956,39290,47480,101.4,2026-03-10
+MATCH-3096,Real Madrid vs FC Barcelona - Premier League,Football,Premier League,Real Madrid,FC Barcelona,Kevin De Bruyne,DAZN,1021893,94577,17134,8757,61.3,2026-05-23
+MATCH-3097,Novak Djokovic vs Rafael Nadal - Australian Open,Tennis,Australian Open,Novak Djokovic,Rafael Nadal,Jannik Sinner,Star Sports,280573,53206,15117,14018,14.6,2026-01-08
+MATCH-3098,Real Madrid vs FC Barcelona - FIFA World Cup,Football,FIFA World Cup,Real Madrid,FC Barcelona,Lionel Messi,Sky Sports,969579,119530,24180,42959,33.6,2026-05-12
+MATCH-3099,Lakers vs Warriors - NBA Finals,Basketball,NBA Finals,Lakers,Warriors,Luka Doncic,TNT,1172550,131047,21632,12213,26.4,2026-03-16
+MATCH-3100,Novak Djokovic vs Rafael Nadal - Australian Open,Tennis,Australian Open,Novak Djokovic,Rafael Nadal,Iga Swiatek,Eurosport,55202,4156,994,1066,84.6,2026-06-01
+MATCH-3101,Red Bull Racing vs Ferrari - Silverstone GP,Formula 1,Silverstone GP,Red Bull Racing,Ferrari,Max Verstappen,Star Sports,755112,51749,4701,4503,5.1,2026-08-04
+MATCH-3102,Mumbai Indians vs Chennai Super Kings - IPL 2026,Cricket,IPL 2026,Mumbai Indians,Chennai Super Kings,Rohit Sharma,Star Sports,393921,36596,8241,7156,119.6,2026-07-10
+MATCH-3103,Nets vs Bucks - NBA Playoffs,Basketball,NBA Playoffs,Nets,Bucks,LeBron James,NBA TV,628570,114732,24147,19373,76.2,2026-05-24
+MATCH-3104,RCB vs KKR - Ashes Test Series,Cricket,Ashes Test Series,RCB,KKR,Rohit Sharma,Sony Sports,13581,2646,380,630,101.7,2026-08-07
+MATCH-3105,Bayern Munich vs PSG - UEFA Champions League,Football,UEFA Champions League,Bayern Munich,PSG,Kylian Mbappé,ESPN,1025372,123227,23055,13648,66.8,2026-04-13
+MATCH-3106,Nets vs Bucks - FIBA World Cup,Basketball,FIBA World Cup,Nets,Bucks,Giannis Antetokounmpo,TNT,933862,156747,45696,48283,51.7,2026-07-19
+MATCH-3107,England vs India - IPL 2026,Cricket,IPL 2026,England,India,Jasprit Bumrah,JioCinema,87573,9080,982,2386,7.0,2026-04-03
+MATCH-3108,England vs India - ICC World Cup,Cricket,ICC World Cup,England,India,Jasprit Bumrah,JioCinema,970555,179465,20477,39917,18.2,2026-01-28
+MATCH-3109,Celtics vs Bulls - NBA Finals,Basketball,NBA Finals,Celtics,Bulls,Kevin Durant,NBA TV,578032,35055,8179,4408,26.8,2026-04-06
+MATCH-3110,RCB vs KKR - IPL 2026,Cricket,IPL 2026,RCB,KKR,Virat Kohli,Sony Sports,613556,105227,17966,36271,90.5,2026-02-02
+MATCH-3111,Novak Djokovic vs Rafael Nadal - US Open,Tennis,US Open,Novak Djokovic,Rafael Nadal,Carlos Alcaraz,Star Sports,230121,42343,5821,8645,92.7,2026-08-10
+MATCH-3112,Lakers vs Warriors - NBA Playoffs,Basketball,NBA Playoffs,Lakers,Warriors,Stephen Curry,TNT,185724,21193,4652,3976,33.4,2026-03-05
+MATCH-3113,England vs India - T20 World Cup,Cricket,T20 World Cup,England,India,Sachin Tendulkar,Star Sports,166119,19686,3753,4875,69.2,2026-06-25
+MATCH-3114,Celtics vs Bulls - FIBA World Cup,Basketball,FIBA World Cup,Celtics,Bulls,Stephen Curry,TNT,424499,47695,7134,5600,62.0,2026-07-18
+MATCH-3115,Real Madrid vs FC Barcelona - UEFA Champions League,Football,UEFA Champions League,Real Madrid,FC Barcelona,Cristiano Ronaldo,Sky Sports,89599,5600,344,2080,103.1,2026-05-23
+MATCH-3116,Manchester City vs Liverpool - FIFA World Cup,Football,FIFA World Cup,Manchester City,Liverpool,Neymar Jr,Sony LIV,602136,82052,22673,12114,69.0,2026-02-06
+MATCH-3117,Novak Djokovic vs Rafael Nadal - Australian Open,Tennis,Australian Open,Novak Djokovic,Rafael Nadal,Novak Djokovic,Star Sports,740468,108235,14044,33234,62.4,2026-01-22
+MATCH-3118,Celtics vs Bulls - NBA Finals,Basketball,NBA Finals,Celtics,Bulls,Kevin Durant,TNT,213990,15452,3421,4702,101.9,2026-04-03
+MATCH-3119,Real Madrid vs FC Barcelona - FIFA World Cup,Football,FIFA World Cup,Real Madrid,FC Barcelona,Erling Haaland,Sky Sports,566026,94521,8909,24412,60.7,2026-05-02
+MATCH-3120,Arsenal vs Chelsea - Premier League,Football,Premier League,Arsenal,Chelsea,Neymar Jr,Sony LIV,377821,28753,2099,5724,7.3,2026-03-23
+MATCH-3121,RCB vs KKR - ICC World Cup,Cricket,ICC World Cup,RCB,KKR,Hardik Pandya,Sony Sports,968142,131602,25601,52407,64.8,2026-03-21
+MATCH-3122,Mercedes F1 vs McLaren - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Mercedes F1,McLaren,Fernando Alonso,Sky Sports F1,289039,27895,5707,5555,64.2,2026-06-04
+MATCH-3123,Lakers vs Warriors - NBA Finals,Basketball,NBA Finals,Lakers,Warriors,Kevin Durant,NBA TV,494765,83566,20975,13618,118.9,2026-07-19
+MATCH-3124,England vs India - Ashes Test Series,Cricket,Ashes Test Series,England,India,Jasprit Bumrah,JioCinema,613474,90074,15983,30416,53.3,2026-05-12
+MATCH-3125,Mercedes F1 vs McLaren - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Mercedes F1,McLaren,Charles Leclerc,Star Sports,288943,51719,4010,16795,48.3,2026-08-06
+MATCH-3126,Real Madrid vs FC Barcelona - Premier League,Football,Premier League,Real Madrid,FC Barcelona,Kylian Mbappé,ESPN,558275,67792,14286,13805,8.9,2026-07-05
+MATCH-3127,Manchester City vs Liverpool - FIFA World Cup,Football,FIFA World Cup,Manchester City,Liverpool,Lionel Messi,Sony LIV,1037100,159268,26535,28507,10.8,2026-01-05
+MATCH-3128,Lakers vs Warriors - NBA Finals,Basketball,NBA Finals,Lakers,Warriors,Luka Doncic,TNT,901929,175217,49800,52898,43.1,2026-03-31
+MATCH-3129,Red Bull Racing vs Ferrari - Monza GP,Formula 1,Monza GP,Red Bull Racing,Ferrari,Lando Norris,Sky Sports F1,58075,10012,1075,1464,16.9,2026-05-08
+MATCH-3130,Celtics vs Bulls - NBA Finals,Basketball,NBA Finals,Celtics,Bulls,Stephen Curry,NBA TV,110796,11645,1061,2225,12.0,2026-05-13
+MATCH-3131,Manchester City vs Liverpool - FIFA World Cup,Football,FIFA World Cup,Manchester City,Liverpool,Cristiano Ronaldo,Sky Sports,1064163,95893,16755,18467,65.5,2026-05-26
+MATCH-3132,Mercedes F1 vs McLaren - Monza GP,Formula 1,Monza GP,Mercedes F1,McLaren,Lando Norris,Star Sports,569944,42550,8276,7373,28.1,2026-05-14
+MATCH-3133,Red Bull Racing vs Ferrari - Monza GP,Formula 1,Monza GP,Red Bull Racing,Ferrari,Charles Leclerc,F1 TV,820509,47874,13259,16033,41.5,2026-01-13
+MATCH-3134,England vs India - T20 World Cup,Cricket,T20 World Cup,England,India,Sachin Tendulkar,JioCinema,544309,35521,6142,10148,5.6,2026-08-05
+MATCH-3135,Carlos Alcaraz vs Jannik Sinner - Australian Open,Tennis,Australian Open,Carlos Alcaraz,Jannik Sinner,Jannik Sinner,Star Sports,624897,67128,13138,5395,72.9,2026-05-27
+MATCH-3136,Carlos Alcaraz vs Jannik Sinner - US Open,Tennis,US Open,Carlos Alcaraz,Jannik Sinner,Novak Djokovic,Star Sports,127411,16005,2056,3955,13.7,2026-05-22
+MATCH-3137,India vs Australia - ICC World Cup,Cricket,ICC World Cup,India,Australia,Virat Kohli,Star Sports,698565,94218,10137,37315,38.3,2026-03-16
+MATCH-3138,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Carlos Alcaraz,Eurosport,37945,3441,441,1192,51.2,2026-03-06
+MATCH-3139,Celtics vs Bulls - FIBA World Cup,Basketball,FIBA World Cup,Celtics,Bulls,Giannis Antetokounmpo,NBA TV,55227,7059,1501,2259,28.3,2026-02-05
+MATCH-3140,Manchester City vs Liverpool - Premier League,Football,Premier League,Manchester City,Liverpool,Erling Haaland,DAZN,32401,5034,1158,1366,115.6,2026-02-27
+MATCH-3141,Novak Djokovic vs Rafael Nadal - Australian Open,Tennis,Australian Open,Novak Djokovic,Rafael Nadal,Carlos Alcaraz,Tennis Channel,994813,163165,38899,32935,8.8,2026-02-26
+MATCH-3142,Bayern Munich vs PSG - FIFA World Cup,Football,FIFA World Cup,Bayern Munich,PSG,Cristiano Ronaldo,DAZN,714451,51345,9071,9501,76.9,2026-04-04
+MATCH-3143,Bayern Munich vs PSG - FIFA World Cup,Football,FIFA World Cup,Bayern Munich,PSG,Lionel Messi,Sony LIV,1141731,197596,27806,74489,69.4,2026-06-06
+MATCH-3144,Bayern Munich vs PSG - UEFA Champions League,Football,UEFA Champions League,Bayern Munich,PSG,Neymar Jr,ESPN,887703,86766,7452,8709,59.1,2026-02-22
+MATCH-3145,Lakers vs Warriors - NBA Playoffs,Basketball,NBA Playoffs,Lakers,Warriors,Luka Doncic,TNT,374608,55531,11924,21635,5.5,2026-08-05
+MATCH-3146,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Rafael Nadal,Star Sports,1140370,110208,14401,22962,117.5,2026-01-05
+MATCH-3147,Arsenal vs Chelsea - UEFA Champions League,Football,UEFA Champions League,Arsenal,Chelsea,Erling Haaland,ESPN,478581,90416,17638,25964,37.4,2026-06-16
+MATCH-3148,RCB vs KKR - IPL 2026,Cricket,IPL 2026,RCB,KKR,Sachin Tendulkar,Star Sports,537456,54830,7361,16132,26.2,2026-01-17
+MATCH-3149,Arsenal vs Chelsea - FIFA World Cup,Football,FIFA World Cup,Arsenal,Chelsea,Erling Haaland,Sky Sports,147794,22062,4688,7437,94.2,2026-03-30
+MATCH-3150,Mumbai Indians vs Chennai Super Kings - ICC World Cup,Cricket,ICC World Cup,Mumbai Indians,Chennai Super Kings,Jasprit Bumrah,JioCinema,912499,74353,5903,7772,69.9,2026-03-09
+MATCH-3151,Carlos Alcaraz vs Jannik Sinner - Australian Open,Tennis,Australian Open,Carlos Alcaraz,Jannik Sinner,Novak Djokovic,Tennis Channel,78763,7224,629,1687,102.1,2026-05-14
+MATCH-3152,Manchester City vs Liverpool - UEFA Champions League,Football,UEFA Champions League,Manchester City,Liverpool,Kevin De Bruyne,Sky Sports,62877,6175,1071,1207,97.6,2026-02-28
+MATCH-3153,Novak Djokovic vs Rafael Nadal - US Open,Tennis,US Open,Novak Djokovic,Rafael Nadal,Carlos Alcaraz,Star Sports,209886,13158,2207,1480,90.0,2026-05-12
+MATCH-3154,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Iga Swiatek,Eurosport,853367,63781,16110,24916,17.5,2026-06-29
+MATCH-3155,India vs Australia - ICC World Cup,Cricket,ICC World Cup,India,Australia,Jasprit Bumrah,JioCinema,966264,81962,6536,10654,40.6,2026-04-20
+MATCH-3156,India vs Australia - Ashes Test Series,Cricket,Ashes Test Series,India,Australia,Virat Kohli,Star Sports,229456,40665,11115,4257,45.9,2026-07-08
+MATCH-3157,Novak Djokovic vs Rafael Nadal - Australian Open,Tennis,Australian Open,Novak Djokovic,Rafael Nadal,Iga Swiatek,Eurosport,1145215,154869,26926,44147,115.9,2026-05-04
+MATCH-3158,Red Bull Racing vs Ferrari - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Red Bull Racing,Ferrari,Lando Norris,F1 TV,886741,69262,8048,25988,22.6,2026-06-27
+MATCH-3159,Novak Djokovic vs Rafael Nadal - French Open,Tennis,French Open,Novak Djokovic,Rafael Nadal,Jannik Sinner,Star Sports,1072856,82408,20779,28681,60.0,2026-01-17
+MATCH-3160,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Carlos Alcaraz,Tennis Channel,749475,63585,7910,7419,86.8,2026-06-03
+MATCH-3161,Red Bull Racing vs Ferrari - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Red Bull Racing,Ferrari,Lando Norris,F1 TV,303362,59465,15984,19505,17.3,2026-02-02
+MATCH-3162,RCB vs KKR - ICC World Cup,Cricket,ICC World Cup,RCB,KKR,Rohit Sharma,JioCinema,856222,111936,19565,38571,102.5,2026-01-04
+MATCH-3163,Carlos Alcaraz vs Jannik Sinner - Wimbledon,Tennis,Wimbledon,Carlos Alcaraz,Jannik Sinner,Rafael Nadal,Eurosport,124928,16443,3392,2779,71.4,2026-04-20
+MATCH-3164,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Novak Djokovic,Eurosport,527215,79409,17995,11514,98.8,2026-05-08
+MATCH-3165,RCB vs KKR - Ashes Test Series,Cricket,Ashes Test Series,RCB,KKR,Virat Kohli,Sony Sports,754111,137346,9199,41630,116.9,2026-03-14
+MATCH-3166,England vs India - Ashes Test Series,Cricket,Ashes Test Series,England,India,Jasprit Bumrah,Sony Sports,1013038,115899,17327,29630,61.8,2026-04-03
+MATCH-3167,Carlos Alcaraz vs Jannik Sinner - US Open,Tennis,US Open,Carlos Alcaraz,Jannik Sinner,Carlos Alcaraz,Eurosport,495275,39880,8792,8047,38.4,2026-04-21
+MATCH-3168,Mercedes F1 vs McLaren - Silverstone GP,Formula 1,Silverstone GP,Mercedes F1,McLaren,Lewis Hamilton,F1 TV,26006,3205,901,345,11.9,2026-02-07
+MATCH-3169,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Novak Djokovic,Eurosport,998088,165153,32532,37219,87.0,2026-06-22
+MATCH-3170,Manchester City vs Liverpool - La Liga,Football,La Liga,Manchester City,Liverpool,Erling Haaland,Sky Sports,224597,30948,5899,7333,58.9,2026-07-24
+MATCH-3171,Red Bull Racing vs Ferrari - Silverstone GP,Formula 1,Silverstone GP,Red Bull Racing,Ferrari,Lewis Hamilton,F1 TV,1088655,125241,33565,47041,52.1,2026-01-19
+MATCH-3172,Red Bull Racing vs Ferrari - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Red Bull Racing,Ferrari,Max Verstappen,Star Sports,293615,45056,9725,6879,43.4,2026-02-13
+MATCH-3173,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Jannik Sinner,Tennis Channel,414568,23507,4398,5983,97.4,2026-03-14
+MATCH-3174,Lakers vs Warriors - NBA Playoffs,Basketball,NBA Playoffs,Lakers,Warriors,Luka Doncic,NBA TV,53878,8707,906,1158,28.7,2026-01-16
+MATCH-3175,Celtics vs Bulls - NBA Playoffs,Basketball,NBA Playoffs,Celtics,Bulls,Stephen Curry,ESPN,938258,156580,32910,40926,94.4,2026-01-29
+MATCH-3176,Real Madrid vs FC Barcelona - Premier League,Football,Premier League,Real Madrid,FC Barcelona,Kylian Mbappé,Sony LIV,306185,22227,3906,7610,113.3,2026-04-28
+MATCH-3177,Lakers vs Warriors - NBA Finals,Basketball,NBA Finals,Lakers,Warriors,Luka Doncic,NBA TV,1111604,163037,28586,26408,120.0,2026-07-31
+MATCH-3178,Lakers vs Warriors - NBA Playoffs,Basketball,NBA Playoffs,Lakers,Warriors,Luka Doncic,TNT,465274,51531,13322,10380,34.6,2026-02-06
+MATCH-3179,Real Madrid vs FC Barcelona - FIFA World Cup,Football,FIFA World Cup,Real Madrid,FC Barcelona,Neymar Jr,DAZN,25960,1509,411,412,48.9,2026-02-11
+MATCH-3180,Red Bull Racing vs Ferrari - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Red Bull Racing,Ferrari,Lewis Hamilton,F1 TV,690413,55394,8205,7569,21.3,2026-05-02
+MATCH-3181,Celtics vs Bulls - FIBA World Cup,Basketball,FIBA World Cup,Celtics,Bulls,Stephen Curry,ESPN,913613,129546,19785,18734,47.4,2026-03-15
+MATCH-3182,Manchester City vs Liverpool - FIFA World Cup,Football,FIFA World Cup,Manchester City,Liverpool,Kevin De Bruyne,DAZN,452584,33403,2879,10524,99.5,2026-02-23
+MATCH-3183,Mercedes F1 vs McLaren - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Mercedes F1,McLaren,Lando Norris,Sky Sports F1,435741,25956,7507,6777,103.9,2026-05-08
+MATCH-3184,Arsenal vs Chelsea - La Liga,Football,La Liga,Arsenal,Chelsea,Kevin De Bruyne,Sky Sports,1109716,84711,25393,12869,113.5,2026-05-18
+MATCH-3185,Bayern Munich vs PSG - FIFA World Cup,Football,FIFA World Cup,Bayern Munich,PSG,Neymar Jr,DAZN,47505,3142,293,1061,7.8,2026-06-02
+MATCH-3186,Mumbai Indians vs Chennai Super Kings - Ashes Test Series,Cricket,Ashes Test Series,Mumbai Indians,Chennai Super Kings,Rohit Sharma,JioCinema,633909,66578,18920,23614,38.0,2026-03-06
+MATCH-3187,Carlos Alcaraz vs Jannik Sinner - Wimbledon,Tennis,Wimbledon,Carlos Alcaraz,Jannik Sinner,Novak Djokovic,Star Sports,282043,39708,10409,12791,114.5,2026-01-31
+MATCH-3188,England vs India - T20 World Cup,Cricket,T20 World Cup,England,India,MS Dhoni,Star Sports,754102,99641,19175,31261,108.2,2026-02-22
+MATCH-3189,Arsenal vs Chelsea - UEFA Champions League,Football,UEFA Champions League,Arsenal,Chelsea,Kylian Mbappé,DAZN,1186630,190551,32453,68182,8.4,2026-02-01
+MATCH-3190,Manchester City vs Liverpool - Premier League,Football,Premier League,Manchester City,Liverpool,Erling Haaland,Sony LIV,569584,102848,7213,40518,78.8,2026-03-10
+MATCH-3191,Celtics vs Bulls - FIBA World Cup,Basketball,FIBA World Cup,Celtics,Bulls,LeBron James,NBA TV,762737,95065,12027,20796,41.5,2026-04-06
+MATCH-3192,Mumbai Indians vs Chennai Super Kings - T20 World Cup,Cricket,T20 World Cup,Mumbai Indians,Chennai Super Kings,Virat Kohli,JioCinema,804045,92844,21560,12755,17.9,2026-04-01
+MATCH-3193,Mercedes F1 vs McLaren - Monza GP,Formula 1,Monza GP,Mercedes F1,McLaren,Lewis Hamilton,F1 TV,604743,114436,10193,40220,40.7,2026-02-23
+MATCH-3194,Real Madrid vs FC Barcelona - La Liga,Football,La Liga,Real Madrid,FC Barcelona,Lionel Messi,DAZN,51835,4088,1165,1359,117.7,2026-03-07
+MATCH-3195,Real Madrid vs FC Barcelona - La Liga,Football,La Liga,Real Madrid,FC Barcelona,Neymar Jr,DAZN,18513,2175,187,432,119.1,2026-06-26
+MATCH-3196,Mumbai Indians vs Chennai Super Kings - Ashes Test Series,Cricket,Ashes Test Series,Mumbai Indians,Chennai Super Kings,MS Dhoni,Sony Sports,199949,37149,4426,8392,108.1,2026-03-13
+MATCH-3197,Novak Djokovic vs Rafael Nadal - US Open,Tennis,US Open,Novak Djokovic,Rafael Nadal,Novak Djokovic,Eurosport,1021944,142787,40909,25948,85.2,2026-05-05
+MATCH-3198,Lakers vs Warriors - NBA Finals,Basketball,NBA Finals,Lakers,Warriors,Stephen Curry,NBA TV,249494,38441,5182,9080,30.3,2026-05-06
+MATCH-3199,Red Bull Racing vs Ferrari - Silverstone GP,Formula 1,Silverstone GP,Red Bull Racing,Ferrari,Lando Norris,Star Sports,968192,98618,25075,8985,19.9,2026-03-29
+MATCH-3200,Mumbai Indians vs Chennai Super Kings - Ashes Test Series,Cricket,Ashes Test Series,Mumbai Indians,Chennai Super Kings,Virat Kohli,Star Sports,718246,65869,5315,9986,113.0,2026-01-07
+MATCH-3201,Arsenal vs Chelsea - La Liga,Football,La Liga,Arsenal,Chelsea,Kevin De Bruyne,ESPN,888923,88259,21683,30839,59.3,2026-03-27
+MATCH-3202,Celtics vs Bulls - FIBA World Cup,Basketball,FIBA World Cup,Celtics,Bulls,Kevin Durant,NBA TV,991837,123705,23217,38347,11.2,2026-02-20
+MATCH-3203,India vs Australia - Ashes Test Series,Cricket,Ashes Test Series,India,Australia,Virat Kohli,JioCinema,1131385,121293,19720,23627,52.7,2026-07-25
+MATCH-3204,Manchester City vs Liverpool - FIFA World Cup,Football,FIFA World Cup,Manchester City,Liverpool,Cristiano Ronaldo,ESPN,999390,115368,25995,14026,11.7,2026-01-31
+MATCH-3205,Arsenal vs Chelsea - UEFA Champions League,Football,UEFA Champions League,Arsenal,Chelsea,Kevin De Bruyne,Sony LIV,1167779,213110,33894,80133,51.7,2026-08-05
+MATCH-3206,Real Madrid vs FC Barcelona - Premier League,Football,Premier League,Real Madrid,FC Barcelona,Kevin De Bruyne,Sky Sports,134132,18845,5321,2595,93.6,2026-03-28
+MATCH-3207,Bayern Munich vs PSG - UEFA Champions League,Football,UEFA Champions League,Bayern Munich,PSG,Kylian Mbappé,Sky Sports,612191,49666,11213,11725,58.7,2026-05-25
+MATCH-3208,Novak Djokovic vs Rafael Nadal - Australian Open,Tennis,Australian Open,Novak Djokovic,Rafael Nadal,Iga Swiatek,Eurosport,814342,104815,16331,40074,111.4,2026-06-24
+MATCH-3209,Nets vs Bucks - NBA Playoffs,Basketball,NBA Playoffs,Nets,Bucks,Kevin Durant,TNT,413371,75800,22730,13237,64.9,2026-03-04
+MATCH-3210,Mumbai Indians vs Chennai Super Kings - Ashes Test Series,Cricket,Ashes Test Series,Mumbai Indians,Chennai Super Kings,Hardik Pandya,Star Sports,698612,130600,13928,13953,49.8,2026-02-14
+MATCH-3211,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Iga Swiatek,Eurosport,1190677,154452,20330,56944,117.3,2026-06-25
+MATCH-3212,Carlos Alcaraz vs Jannik Sinner - US Open,Tennis,US Open,Carlos Alcaraz,Jannik Sinner,Novak Djokovic,Tennis Channel,921797,154052,42235,52659,54.7,2026-06-19
+MATCH-3213,Manchester City vs Liverpool - UEFA Champions League,Football,UEFA Champions League,Manchester City,Liverpool,Lionel Messi,ESPN,990248,118232,23221,11785,39.9,2026-04-08
+MATCH-3214,Nets vs Bucks - NBA Playoffs,Basketball,NBA Playoffs,Nets,Bucks,Luka Doncic,TNT,830675,141505,32308,33345,118.3,2026-03-10
+MATCH-3215,RCB vs KKR - T20 World Cup,Cricket,T20 World Cup,RCB,KKR,MS Dhoni,Sony Sports,961785,140403,16833,43825,100.6,2026-08-04
+MATCH-3216,Mercedes F1 vs McLaren - Monza GP,Formula 1,Monza GP,Mercedes F1,McLaren,Lando Norris,Star Sports,747327,95420,25431,29051,20.0,2026-02-10
+MATCH-3217,Arsenal vs Chelsea - FIFA World Cup,Football,FIFA World Cup,Arsenal,Chelsea,Cristiano Ronaldo,Sky Sports,203141,23839,2136,3368,50.2,2026-07-04
+MATCH-3218,Carlos Alcaraz vs Jannik Sinner - Wimbledon,Tennis,Wimbledon,Carlos Alcaraz,Jannik Sinner,Rafael Nadal,Tennis Channel,501616,56446,12935,6711,112.4,2026-06-21
+MATCH-3219,Novak Djokovic vs Rafael Nadal - Australian Open,Tennis,Australian Open,Novak Djokovic,Rafael Nadal,Carlos Alcaraz,Star Sports,773002,106439,17914,18626,18.7,2026-07-21
+MATCH-3220,Arsenal vs Chelsea - UEFA Champions League,Football,UEFA Champions League,Arsenal,Chelsea,Lionel Messi,Sony LIV,699559,47101,13810,5863,16.6,2026-07-17
+MATCH-3221,Novak Djokovic vs Rafael Nadal - French Open,Tennis,French Open,Novak Djokovic,Rafael Nadal,Novak Djokovic,Eurosport,861709,93693,8586,35524,65.5,2026-03-14
+MATCH-3222,Novak Djokovic vs Rafael Nadal - US Open,Tennis,US Open,Novak Djokovic,Rafael Nadal,Iga Swiatek,Eurosport,1175125,165510,33927,14474,106.1,2026-03-24
+MATCH-3223,Nets vs Bucks - NBA Finals,Basketball,NBA Finals,Nets,Bucks,Giannis Antetokounmpo,ESPN,15535,1388,339,437,112.8,2026-05-31
+MATCH-3224,Nets vs Bucks - NBA Playoffs,Basketball,NBA Playoffs,Nets,Bucks,Kevin Durant,ESPN,970103,114963,28310,30805,101.2,2026-06-08
+MATCH-3225,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Carlos Alcaraz,Star Sports,476887,37028,2533,8536,16.5,2026-08-08
+MATCH-3226,Manchester City vs Liverpool - Premier League,Football,Premier League,Manchester City,Liverpool,Erling Haaland,DAZN,192072,31314,6524,6620,74.4,2026-05-18
+MATCH-3227,Novak Djokovic vs Rafael Nadal - US Open,Tennis,US Open,Novak Djokovic,Rafael Nadal,Novak Djokovic,Star Sports,446692,57783,7058,19354,93.1,2026-01-06
+MATCH-3228,Mercedes F1 vs McLaren - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Mercedes F1,McLaren,Lewis Hamilton,Sky Sports F1,1004482,75893,8281,11046,55.6,2026-01-23
+MATCH-3229,Novak Djokovic vs Rafael Nadal - US Open,Tennis,US Open,Novak Djokovic,Rafael Nadal,Carlos Alcaraz,Star Sports,59498,10254,725,1433,92.5,2026-01-25
+MATCH-3230,Mumbai Indians vs Chennai Super Kings - ICC World Cup,Cricket,ICC World Cup,Mumbai Indians,Chennai Super Kings,Hardik Pandya,Sony Sports,207177,12458,1511,2237,63.3,2026-04-04
+MATCH-3231,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Carlos Alcaraz,Eurosport,637497,101071,29048,13246,98.9,2026-04-10
+MATCH-3232,Carlos Alcaraz vs Jannik Sinner - Australian Open,Tennis,Australian Open,Carlos Alcaraz,Jannik Sinner,Jannik Sinner,Star Sports,51771,9691,908,2959,57.1,2026-06-06
+MATCH-3233,Nets vs Bucks - NBA Finals,Basketball,NBA Finals,Nets,Bucks,LeBron James,ESPN,607076,69219,16002,25596,27.5,2026-08-07
+MATCH-3234,Mercedes F1 vs McLaren - Monza GP,Formula 1,Monza GP,Mercedes F1,McLaren,Lando Norris,Star Sports,747742,51372,6652,20303,32.2,2026-05-21
+MATCH-3235,Mercedes F1 vs McLaren - Monza GP,Formula 1,Monza GP,Mercedes F1,McLaren,Charles Leclerc,Star Sports,252956,29117,3089,5391,46.5,2026-06-18
+MATCH-3236,Red Bull Racing vs Ferrari - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Red Bull Racing,Ferrari,Lewis Hamilton,Sky Sports F1,946521,157245,20721,47447,63.0,2026-02-03
+MATCH-3237,Celtics vs Bulls - FIBA World Cup,Basketball,FIBA World Cup,Celtics,Bulls,LeBron James,NBA TV,920754,123025,8615,40421,47.4,2026-06-26
+MATCH-3238,Arsenal vs Chelsea - La Liga,Football,La Liga,Arsenal,Chelsea,Cristiano Ronaldo,ESPN,1051159,166243,34129,32965,56.6,2026-06-30
+MATCH-3239,Red Bull Racing vs Ferrari - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Red Bull Racing,Ferrari,Max Verstappen,Sky Sports F1,1057769,203635,24348,16543,53.5,2026-05-26
+MATCH-3240,Red Bull Racing vs Ferrari - Silverstone GP,Formula 1,Silverstone GP,Red Bull Racing,Ferrari,Lewis Hamilton,Star Sports,890099,68698,14907,20164,113.6,2026-07-30
+MATCH-3241,England vs India - Ashes Test Series,Cricket,Ashes Test Series,England,India,Virat Kohli,JioCinema,1185301,162080,13103,34456,20.5,2026-04-22
+MATCH-3242,Bayern Munich vs PSG - UEFA Champions League,Football,UEFA Champions League,Bayern Munich,PSG,Erling Haaland,ESPN,24567,2792,826,1112,86.7,2026-05-23
+MATCH-3243,Novak Djokovic vs Rafael Nadal - Australian Open,Tennis,Australian Open,Novak Djokovic,Rafael Nadal,Iga Swiatek,Eurosport,145341,8532,1573,1829,91.9,2026-08-07
+MATCH-3244,England vs India - T20 World Cup,Cricket,T20 World Cup,England,India,Virat Kohli,Sony Sports,409498,71446,20442,24096,63.0,2026-06-26
+MATCH-3245,RCB vs KKR - ICC World Cup,Cricket,ICC World Cup,RCB,KKR,Hardik Pandya,Star Sports,223041,36609,6301,3687,111.7,2026-06-13
+MATCH-3246,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Rafael Nadal,Star Sports,339733,46747,8684,4907,44.5,2026-02-04
+MATCH-3247,England vs India - IPL 2026,Cricket,IPL 2026,England,India,Virat Kohli,Star Sports,591521,108206,13969,11427,70.4,2026-05-01
+MATCH-3248,Nets vs Bucks - NBA Finals,Basketball,NBA Finals,Nets,Bucks,Stephen Curry,TNT,1124152,83136,9915,32596,26.5,2026-04-21
+MATCH-3249,Manchester City vs Liverpool - La Liga,Football,La Liga,Manchester City,Liverpool,Erling Haaland,Sony LIV,381316,68122,12755,22252,92.7,2026-08-09
+MATCH-3250,Bayern Munich vs PSG - Premier League,Football,Premier League,Bayern Munich,PSG,Neymar Jr,ESPN,393904,30769,7977,2769,27.6,2026-04-24
+MATCH-3251,Novak Djokovic vs Rafael Nadal - Australian Open,Tennis,Australian Open,Novak Djokovic,Rafael Nadal,Rafael Nadal,Tennis Channel,503246,79122,8570,7885,60.6,2026-07-08
+MATCH-3252,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Rafael Nadal,Eurosport,860664,112017,31444,9410,31.7,2026-01-02
+MATCH-3253,Celtics vs Bulls - NBA Finals,Basketball,NBA Finals,Celtics,Bulls,Kevin Durant,NBA TV,1036008,127642,19158,37440,72.2,2026-08-13
+MATCH-3254,RCB vs KKR - Ashes Test Series,Cricket,Ashes Test Series,RCB,KKR,Jasprit Bumrah,Sony Sports,1092496,80114,15230,12350,26.1,2026-05-13
+MATCH-3255,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Rafael Nadal,Eurosport,307061,33886,7562,7103,117.7,2026-02-10
+MATCH-3256,RCB vs KKR - Ashes Test Series,Cricket,Ashes Test Series,RCB,KKR,Rohit Sharma,Sony Sports,552349,56853,13492,17016,103.4,2026-06-22
+MATCH-3257,Novak Djokovic vs Rafael Nadal - French Open,Tennis,French Open,Novak Djokovic,Rafael Nadal,Iga Swiatek,Tennis Channel,884614,125084,28782,17814,77.9,2026-02-06
+MATCH-3258,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Iga Swiatek,Star Sports,1106976,205096,17454,31656,97.8,2026-06-25
+MATCH-3259,Mumbai Indians vs Chennai Super Kings - T20 World Cup,Cricket,T20 World Cup,Mumbai Indians,Chennai Super Kings,Jasprit Bumrah,Star Sports,114627,9427,1603,3048,53.1,2026-04-03
+MATCH-3260,Celtics vs Bulls - NBA Finals,Basketball,NBA Finals,Celtics,Bulls,Luka Doncic,ESPN,51633,3687,653,1174,30.0,2026-03-09
+MATCH-3261,England vs India - ICC World Cup,Cricket,ICC World Cup,England,India,Sachin Tendulkar,Star Sports,789840,118688,33297,11627,107.0,2026-07-10
+MATCH-3262,Nets vs Bucks - NBA Finals,Basketball,NBA Finals,Nets,Bucks,Stephen Curry,NBA TV,666549,70261,14267,21463,26.3,2026-03-12
+MATCH-3263,Celtics vs Bulls - NBA Playoffs,Basketball,NBA Playoffs,Celtics,Bulls,Stephen Curry,ESPN,279462,47069,13966,13217,17.3,2026-02-11
+MATCH-3264,RCB vs KKR - ICC World Cup,Cricket,ICC World Cup,RCB,KKR,Virat Kohli,Star Sports,1163291,187021,45882,50752,29.9,2026-07-01
+MATCH-3265,Lakers vs Warriors - FIBA World Cup,Basketball,FIBA World Cup,Lakers,Warriors,Luka Doncic,ESPN,600227,46247,8403,15373,38.3,2026-01-24
+MATCH-3266,India vs Australia - IPL 2026,Cricket,IPL 2026,India,Australia,MS Dhoni,JioCinema,1085897,200939,50575,45324,99.7,2026-05-26
+MATCH-3267,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Iga Swiatek,Tennis Channel,1163735,64613,8259,25191,117.3,2026-04-26
+MATCH-3268,Mercedes F1 vs McLaren - Silverstone GP,Formula 1,Silverstone GP,Mercedes F1,McLaren,Lando Norris,Sky Sports F1,974372,133123,17026,21965,96.6,2026-05-06
+MATCH-3269,Arsenal vs Chelsea - Premier League,Football,Premier League,Arsenal,Chelsea,Neymar Jr,DAZN,186165,12302,1803,2948,76.9,2026-04-14
+MATCH-3270,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Carlos Alcaraz,Star Sports,857979,102013,28623,37361,32.6,2026-07-10
+MATCH-3271,Lakers vs Warriors - FIBA World Cup,Basketball,FIBA World Cup,Lakers,Warriors,LeBron James,ESPN,1075642,185786,48157,31519,56.7,2026-07-01
+MATCH-3272,Real Madrid vs FC Barcelona - UEFA Champions League,Football,UEFA Champions League,Real Madrid,FC Barcelona,Cristiano Ronaldo,DAZN,566786,108484,23439,9278,84.5,2026-07-02
+MATCH-3273,RCB vs KKR - Ashes Test Series,Cricket,Ashes Test Series,RCB,KKR,Sachin Tendulkar,Star Sports,338517,38997,5410,9543,22.2,2026-05-15
+MATCH-3274,Bayern Munich vs PSG - FIFA World Cup,Football,FIFA World Cup,Bayern Munich,PSG,Kylian Mbappé,DAZN,721133,142879,21008,11644,6.8,2026-07-04
+MATCH-3275,Celtics vs Bulls - FIBA World Cup,Basketball,FIBA World Cup,Celtics,Bulls,Stephen Curry,TNT,301218,49842,7927,8214,50.9,2026-07-18
+MATCH-3276,Celtics vs Bulls - NBA Playoffs,Basketball,NBA Playoffs,Celtics,Bulls,LeBron James,NBA TV,1197555,149520,28446,39453,88.4,2026-04-26
+MATCH-3277,Red Bull Racing vs Ferrari - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Red Bull Racing,Ferrari,Charles Leclerc,Sky Sports F1,828126,164602,42065,25531,79.3,2026-07-06
+MATCH-3278,England vs India - Ashes Test Series,Cricket,Ashes Test Series,England,India,Jasprit Bumrah,Star Sports,1186701,234649,32498,81205,44.9,2026-07-23
+MATCH-3279,Manchester City vs Liverpool - UEFA Champions League,Football,UEFA Champions League,Manchester City,Liverpool,Lionel Messi,Sony LIV,1106231,156669,17753,49583,60.4,2026-07-03
+MATCH-3280,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Jannik Sinner,Tennis Channel,1055117,131713,9393,23781,56.0,2026-07-31
+MATCH-3281,RCB vs KKR - T20 World Cup,Cricket,T20 World Cup,RCB,KKR,MS Dhoni,JioCinema,1080523,95002,11054,20789,56.7,2026-05-21
+MATCH-3282,Mercedes F1 vs McLaren - Monza GP,Formula 1,Monza GP,Mercedes F1,McLaren,Lewis Hamilton,F1 TV,902018,158901,24740,29160,48.0,2026-04-16
+MATCH-3283,Bayern Munich vs PSG - UEFA Champions League,Football,UEFA Champions League,Bayern Munich,PSG,Lionel Messi,DAZN,852234,146641,35358,20590,88.0,2026-07-28
+MATCH-3284,Mercedes F1 vs McLaren - Silverstone GP,Formula 1,Silverstone GP,Mercedes F1,McLaren,Fernando Alonso,F1 TV,1193060,163787,29245,26919,47.8,2026-06-14
+MATCH-3285,RCB vs KKR - T20 World Cup,Cricket,T20 World Cup,RCB,KKR,Hardik Pandya,JioCinema,299329,30253,3208,7854,65.4,2026-06-02
+MATCH-3286,Mumbai Indians vs Chennai Super Kings - ICC World Cup,Cricket,ICC World Cup,Mumbai Indians,Chennai Super Kings,MS Dhoni,JioCinema,328833,46772,9578,8606,73.5,2026-08-03
+MATCH-3287,Red Bull Racing vs Ferrari - Silverstone GP,Formula 1,Silverstone GP,Red Bull Racing,Ferrari,Lewis Hamilton,Sky Sports F1,20943,2145,539,738,86.0,2026-05-01
+MATCH-3288,Lakers vs Warriors - NBA Finals,Basketball,NBA Finals,Lakers,Warriors,Stephen Curry,TNT,447842,78969,18506,8467,23.2,2026-07-26
+MATCH-3289,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Rafael Nadal,Star Sports,78874,10554,1357,1724,72.5,2026-05-07
+MATCH-3290,RCB vs KKR - ICC World Cup,Cricket,ICC World Cup,RCB,KKR,Hardik Pandya,Sony Sports,408351,29051,5176,9502,110.7,2026-04-01
+MATCH-3291,Red Bull Racing vs Ferrari - Monza GP,Formula 1,Monza GP,Red Bull Racing,Ferrari,Lewis Hamilton,Sky Sports F1,568517,73394,5238,8982,93.5,2026-07-18
+MATCH-3292,England vs India - Ashes Test Series,Cricket,Ashes Test Series,England,India,Rohit Sharma,JioCinema,281944,49521,11903,8576,97.8,2026-01-08
+MATCH-3293,Novak Djokovic vs Rafael Nadal - Australian Open,Tennis,Australian Open,Novak Djokovic,Rafael Nadal,Rafael Nadal,Star Sports,248925,25285,7028,8409,31.9,2026-07-26
+MATCH-3294,Novak Djokovic vs Rafael Nadal - Australian Open,Tennis,Australian Open,Novak Djokovic,Rafael Nadal,Iga Swiatek,Star Sports,128369,17145,1966,5173,52.5,2026-08-09
+MATCH-3295,Manchester City vs Liverpool - La Liga,Football,La Liga,Manchester City,Liverpool,Lionel Messi,Sky Sports,646377,32930,6035,7729,101.6,2026-04-03
+MATCH-3296,Celtics vs Bulls - FIBA World Cup,Basketball,FIBA World Cup,Celtics,Bulls,Kevin Durant,NBA TV,302745,29889,4771,5871,35.2,2026-06-04
+MATCH-3297,Arsenal vs Chelsea - La Liga,Football,La Liga,Arsenal,Chelsea,Neymar Jr,ESPN,623763,39366,5817,6864,31.3,2026-08-04
+MATCH-3298,Manchester City vs Liverpool - FIFA World Cup,Football,FIFA World Cup,Manchester City,Liverpool,Erling Haaland,Sky Sports,764066,76851,19045,20347,100.9,2026-06-14
+MATCH-3299,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Novak Djokovic,Tennis Channel,63680,7142,1667,2291,112.6,2026-03-25
+MATCH-3300,Manchester City vs Liverpool - La Liga,Football,La Liga,Manchester City,Liverpool,Erling Haaland,ESPN,269336,18638,3106,3268,47.2,2026-04-11
+MATCH-3301,RCB vs KKR - Ashes Test Series,Cricket,Ashes Test Series,RCB,KKR,Sachin Tendulkar,Star Sports,886214,105894,19150,18193,96.1,2026-05-09
+MATCH-3302,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Rafael Nadal,Tennis Channel,897431,148207,33157,53394,53.9,2026-01-28
+MATCH-3303,Mumbai Indians vs Chennai Super Kings - IPL 2026,Cricket,IPL 2026,Mumbai Indians,Chennai Super Kings,Virat Kohli,JioCinema,954235,96087,25949,25862,33.8,2026-07-03
+MATCH-3304,Carlos Alcaraz vs Jannik Sinner - US Open,Tennis,US Open,Carlos Alcaraz,Jannik Sinner,Jannik Sinner,Eurosport,1054669,133971,18401,41201,24.6,2026-07-09
+MATCH-3305,Mercedes F1 vs McLaren - Monza GP,Formula 1,Monza GP,Mercedes F1,McLaren,Charles Leclerc,F1 TV,550483,61298,17405,11269,117.6,2026-04-25
+MATCH-3306,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Jannik Sinner,Eurosport,149250,8113,1398,675,41.2,2026-01-23
+MATCH-3307,Nets vs Bucks - NBA Playoffs,Basketball,NBA Playoffs,Nets,Bucks,Giannis Antetokounmpo,ESPN,809573,46694,4747,9701,50.1,2026-06-18
+MATCH-3308,Novak Djokovic vs Rafael Nadal - French Open,Tennis,French Open,Novak Djokovic,Rafael Nadal,Jannik Sinner,Star Sports,27193,2604,522,365,108.7,2026-01-10
+MATCH-3309,Nets vs Bucks - FIBA World Cup,Basketball,FIBA World Cup,Nets,Bucks,Stephen Curry,NBA TV,466521,62977,13676,8369,21.7,2026-04-02
+MATCH-3310,Red Bull Racing vs Ferrari - Monza GP,Formula 1,Monza GP,Red Bull Racing,Ferrari,Lando Norris,Sky Sports F1,33205,4266,1143,664,80.2,2026-08-06
+MATCH-3311,Celtics vs Bulls - NBA Playoffs,Basketball,NBA Playoffs,Celtics,Bulls,Giannis Antetokounmpo,ESPN,230705,34354,3458,12047,44.8,2026-03-13
+MATCH-3312,Celtics vs Bulls - FIBA World Cup,Basketball,FIBA World Cup,Celtics,Bulls,Giannis Antetokounmpo,TNT,996395,58814,11691,13305,87.8,2026-01-28
+MATCH-3313,Celtics vs Bulls - NBA Playoffs,Basketball,NBA Playoffs,Celtics,Bulls,LeBron James,NBA TV,1162908,84966,13058,27004,80.1,2026-03-01
+MATCH-3314,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Novak Djokovic,Tennis Channel,1011404,189145,25458,32275,85.3,2026-08-03
+MATCH-3315,Mercedes F1 vs McLaren - Silverstone GP,Formula 1,Silverstone GP,Mercedes F1,McLaren,Charles Leclerc,F1 TV,1040355,76751,8594,18540,108.3,2026-02-18
+MATCH-3316,Celtics vs Bulls - FIBA World Cup,Basketball,FIBA World Cup,Celtics,Bulls,Kevin Durant,TNT,649614,81856,21751,14613,110.8,2026-05-16
+MATCH-3317,Bayern Munich vs PSG - La Liga,Football,La Liga,Bayern Munich,PSG,Kevin De Bruyne,Sky Sports,405703,39920,9763,5414,50.8,2026-06-08
+MATCH-3318,Mercedes F1 vs McLaren - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Mercedes F1,McLaren,Fernando Alonso,Sky Sports F1,263118,32852,7345,4308,75.8,2026-05-12
+MATCH-3319,India vs Australia - ICC World Cup,Cricket,ICC World Cup,India,Australia,MS Dhoni,Star Sports,396548,52167,3222,15549,71.3,2026-07-17
+MATCH-3320,Nets vs Bucks - FIBA World Cup,Basketball,FIBA World Cup,Nets,Bucks,Luka Doncic,NBA TV,756924,129296,15161,18239,29.8,2026-03-11
+MATCH-3321,England vs India - IPL 2026,Cricket,IPL 2026,England,India,Hardik Pandya,Sony Sports,347943,21594,5459,5844,55.5,2026-01-01
+MATCH-3322,Lakers vs Warriors - NBA Finals,Basketball,NBA Finals,Lakers,Warriors,Kevin Durant,ESPN,233759,38555,5984,9384,58.8,2026-05-23
+MATCH-3323,Lakers vs Warriors - NBA Finals,Basketball,NBA Finals,Lakers,Warriors,Kevin Durant,ESPN,1142785,178156,52854,65336,28.7,2026-05-25
+MATCH-3324,Novak Djokovic vs Rafael Nadal - Australian Open,Tennis,Australian Open,Novak Djokovic,Rafael Nadal,Carlos Alcaraz,Eurosport,563576,49956,13598,18135,14.3,2026-02-09
+MATCH-3325,Manchester City vs Liverpool - Premier League,Football,Premier League,Manchester City,Liverpool,Neymar Jr,Sky Sports,810583,52465,15206,7233,78.0,2026-02-26
+MATCH-3326,Celtics vs Bulls - NBA Finals,Basketball,NBA Finals,Celtics,Bulls,LeBron James,TNT,1119376,170743,19367,63779,66.2,2026-01-01
+MATCH-3327,Manchester City vs Liverpool - La Liga,Football,La Liga,Manchester City,Liverpool,Kylian Mbappé,Sky Sports,406930,66711,19394,22182,96.5,2026-02-16
+MATCH-3328,Mercedes F1 vs McLaren - Monza GP,Formula 1,Monza GP,Mercedes F1,McLaren,Fernando Alonso,Star Sports,422127,46509,4886,15825,112.1,2026-02-10
+MATCH-3329,Lakers vs Warriors - FIBA World Cup,Basketball,FIBA World Cup,Lakers,Warriors,Luka Doncic,TNT,538072,44535,7551,8366,30.0,2026-07-23
+MATCH-3330,Mercedes F1 vs McLaren - Monza GP,Formula 1,Monza GP,Mercedes F1,McLaren,Lewis Hamilton,Star Sports,811024,97706,9830,21386,74.9,2026-07-06
+MATCH-3331,Celtics vs Bulls - NBA Finals,Basketball,NBA Finals,Celtics,Bulls,Luka Doncic,NBA TV,1081920,56712,3894,10407,97.9,2026-03-14
+MATCH-3332,Nets vs Bucks - FIBA World Cup,Basketball,FIBA World Cup,Nets,Bucks,LeBron James,TNT,304374,19769,2247,2983,71.2,2026-04-05
+MATCH-3333,Mumbai Indians vs Chennai Super Kings - IPL 2026,Cricket,IPL 2026,Mumbai Indians,Chennai Super Kings,Rohit Sharma,JioCinema,462688,27054,6657,10058,99.3,2026-02-04
+MATCH-3334,Novak Djokovic vs Rafael Nadal - Australian Open,Tennis,Australian Open,Novak Djokovic,Rafael Nadal,Carlos Alcaraz,Eurosport,1008677,185539,22138,65907,80.7,2026-07-17
+MATCH-3335,Celtics vs Bulls - FIBA World Cup,Basketball,FIBA World Cup,Celtics,Bulls,Stephen Curry,TNT,242365,27474,3601,8492,60.0,2026-04-27
+MATCH-3336,Nets vs Bucks - FIBA World Cup,Basketball,FIBA World Cup,Nets,Bucks,LeBron James,ESPN,418510,32909,6050,10786,63.2,2026-04-01
+MATCH-3337,Arsenal vs Chelsea - UEFA Champions League,Football,UEFA Champions League,Arsenal,Chelsea,Kevin De Bruyne,DAZN,301978,42495,10571,5849,109.6,2026-05-13
+MATCH-3338,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Novak Djokovic,Tennis Channel,522400,33433,2147,6396,19.7,2026-07-05
+MATCH-3339,Manchester City vs Liverpool - UEFA Champions League,Football,UEFA Champions League,Manchester City,Liverpool,Cristiano Ronaldo,DAZN,207634,29644,5929,10708,40.1,2026-06-04
+MATCH-3340,Lakers vs Warriors - NBA Playoffs,Basketball,NBA Playoffs,Lakers,Warriors,Stephen Curry,ESPN,1041414,95455,19409,16022,15.9,2026-03-05
+MATCH-3341,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Jannik Sinner,Eurosport,648982,123756,15319,12300,106.4,2026-02-06
+MATCH-3342,Red Bull Racing vs Ferrari - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Red Bull Racing,Ferrari,Charles Leclerc,Star Sports,349590,65594,17872,10255,102.4,2026-07-28
+MATCH-3343,Red Bull Racing vs Ferrari - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Red Bull Racing,Ferrari,Charles Leclerc,Star Sports,57803,4611,816,945,103.3,2026-07-30
+MATCH-3344,Mercedes F1 vs McLaren - Silverstone GP,Formula 1,Silverstone GP,Mercedes F1,McLaren,Charles Leclerc,Sky Sports F1,1062675,65687,9895,6674,86.8,2026-08-01
+MATCH-3345,Celtics vs Bulls - FIBA World Cup,Basketball,FIBA World Cup,Celtics,Bulls,LeBron James,TNT,266891,27505,6236,4213,45.8,2026-03-27
+MATCH-3346,Manchester City vs Liverpool - FIFA World Cup,Football,FIFA World Cup,Manchester City,Liverpool,Kevin De Bruyne,DAZN,1080763,206122,13523,72274,10.8,2026-07-30
+MATCH-3347,Nets vs Bucks - NBA Playoffs,Basketball,NBA Playoffs,Nets,Bucks,Luka Doncic,ESPN,471203,51879,11206,10891,108.9,2026-01-22
+MATCH-3348,Nets vs Bucks - NBA Finals,Basketball,NBA Finals,Nets,Bucks,LeBron James,ESPN,661787,99756,8163,39526,99.3,2026-05-14
+MATCH-3349,Mumbai Indians vs Chennai Super Kings - Ashes Test Series,Cricket,Ashes Test Series,Mumbai Indians,Chennai Super Kings,Hardik Pandya,Star Sports,908517,128888,13573,33129,81.6,2026-02-28
+MATCH-3350,RCB vs KKR - IPL 2026,Cricket,IPL 2026,RCB,KKR,MS Dhoni,Sony Sports,1109230,217598,56226,42773,20.7,2026-06-28
+MATCH-3351,Nets vs Bucks - FIBA World Cup,Basketball,FIBA World Cup,Nets,Bucks,LeBron James,NBA TV,1156716,89059,17460,34525,64.4,2026-03-01
+MATCH-3352,Mercedes F1 vs McLaren - Monza GP,Formula 1,Monza GP,Mercedes F1,McLaren,Charles Leclerc,F1 TV,469185,61896,12651,6946,11.4,2026-01-28
+MATCH-3353,Red Bull Racing vs Ferrari - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Red Bull Racing,Ferrari,Max Verstappen,Star Sports,58980,5884,1740,1872,87.7,2026-06-29
+MATCH-3354,Manchester City vs Liverpool - La Liga,Football,La Liga,Manchester City,Liverpool,Lionel Messi,Sony LIV,376102,33551,9681,8325,101.7,2026-02-07
+MATCH-3355,Nets vs Bucks - NBA Finals,Basketball,NBA Finals,Nets,Bucks,Luka Doncic,TNT,862361,76864,22150,12127,67.8,2026-08-08
+MATCH-3356,Lakers vs Warriors - NBA Playoffs,Basketball,NBA Playoffs,Lakers,Warriors,Kevin Durant,ESPN,331484,48758,5359,15345,100.5,2026-06-23
+MATCH-3357,Novak Djokovic vs Rafael Nadal - US Open,Tennis,US Open,Novak Djokovic,Rafael Nadal,Novak Djokovic,Tennis Channel,1146288,201953,37574,25958,5.3,2026-05-16
+MATCH-3358,India vs Australia - IPL 2026,Cricket,IPL 2026,India,Australia,Rohit Sharma,JioCinema,974376,95435,11535,16956,49.1,2026-05-10
+MATCH-3359,RCB vs KKR - IPL 2026,Cricket,IPL 2026,RCB,KKR,Jasprit Bumrah,JioCinema,1136093,192532,17950,50348,92.5,2026-05-17
+MATCH-3360,Manchester City vs Liverpool - FIFA World Cup,Football,FIFA World Cup,Manchester City,Liverpool,Lionel Messi,ESPN,1125237,94968,26329,28512,91.9,2026-07-31
+MATCH-3361,Novak Djokovic vs Rafael Nadal - French Open,Tennis,French Open,Novak Djokovic,Rafael Nadal,Novak Djokovic,Tennis Channel,132550,15758,4223,4073,84.6,2026-02-25
+MATCH-3362,Mercedes F1 vs McLaren - Silverstone GP,Formula 1,Silverstone GP,Mercedes F1,McLaren,Lando Norris,F1 TV,489987,97042,20248,34787,64.0,2026-07-18
+MATCH-3363,Arsenal vs Chelsea - Premier League,Football,Premier League,Arsenal,Chelsea,Cristiano Ronaldo,Sony LIV,87382,8435,2170,2565,102.8,2026-08-11
+MATCH-3364,Red Bull Racing vs Ferrari - Monza GP,Formula 1,Monza GP,Red Bull Racing,Ferrari,Max Verstappen,Star Sports,990720,148570,19043,35194,89.3,2026-01-02
+MATCH-3365,Mercedes F1 vs McLaren - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Mercedes F1,McLaren,Fernando Alonso,Sky Sports F1,1075056,89671,10458,35201,82.8,2026-01-09
+MATCH-3366,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Novak Djokovic,Star Sports,769915,60932,16922,20691,45.5,2026-06-07
+MATCH-3367,Mumbai Indians vs Chennai Super Kings - Ashes Test Series,Cricket,Ashes Test Series,Mumbai Indians,Chennai Super Kings,Virat Kohli,Star Sports,705626,86693,17763,10410,29.7,2026-03-04
+MATCH-3368,Arsenal vs Chelsea - La Liga,Football,La Liga,Arsenal,Chelsea,Erling Haaland,ESPN,745200,118666,7925,36393,107.4,2026-05-18
+MATCH-3369,Manchester City vs Liverpool - FIFA World Cup,Football,FIFA World Cup,Manchester City,Liverpool,Kylian Mbappé,ESPN,1169666,212371,40606,25503,62.9,2026-05-25
+MATCH-3370,England vs India - Ashes Test Series,Cricket,Ashes Test Series,England,India,Rohit Sharma,JioCinema,218751,18143,1726,5620,89.7,2026-05-07
+MATCH-3371,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Rafael Nadal,Tennis Channel,467599,29428,4669,5873,100.1,2026-04-15
+MATCH-3372,Manchester City vs Liverpool - UEFA Champions League,Football,UEFA Champions League,Manchester City,Liverpool,Lionel Messi,Sony LIV,1143853,211887,13442,84151,79.3,2026-07-01
+MATCH-3373,Mumbai Indians vs Chennai Super Kings - T20 World Cup,Cricket,T20 World Cup,Mumbai Indians,Chennai Super Kings,Jasprit Bumrah,Star Sports,659711,117706,23306,13717,16.5,2026-07-24
+MATCH-3374,England vs India - T20 World Cup,Cricket,T20 World Cup,England,India,Hardik Pandya,JioCinema,221790,24698,7155,8008,45.6,2026-05-30
+MATCH-3375,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Jannik Sinner,Star Sports,1175935,156586,37038,13392,84.7,2026-06-30
+MATCH-3376,Mercedes F1 vs McLaren - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Mercedes F1,McLaren,Charles Leclerc,Sky Sports F1,282641,22717,5494,7503,60.3,2026-06-09
+MATCH-3377,England vs India - IPL 2026,Cricket,IPL 2026,England,India,MS Dhoni,Star Sports,1116878,189862,22602,17285,44.2,2026-04-11
+MATCH-3378,Lakers vs Warriors - NBA Playoffs,Basketball,NBA Playoffs,Lakers,Warriors,LeBron James,ESPN,758205,86425,10766,7181,29.0,2026-07-06
+MATCH-3379,RCB vs KKR - T20 World Cup,Cricket,T20 World Cup,RCB,KKR,Sachin Tendulkar,Sony Sports,305347,59812,5670,22822,103.3,2026-01-06
+MATCH-3380,Real Madrid vs FC Barcelona - FIFA World Cup,Football,FIFA World Cup,Real Madrid,FC Barcelona,Erling Haaland,DAZN,12573,1355,98,437,76.7,2026-07-20
+MATCH-3381,India vs Australia - Ashes Test Series,Cricket,Ashes Test Series,India,Australia,Hardik Pandya,Sony Sports,186559,14849,4088,2140,72.3,2026-03-01
+MATCH-3382,Celtics vs Bulls - FIBA World Cup,Basketball,FIBA World Cup,Celtics,Bulls,Kevin Durant,ESPN,270097,26675,4871,3183,65.6,2026-03-17
+MATCH-3383,Manchester City vs Liverpool - La Liga,Football,La Liga,Manchester City,Liverpool,Neymar Jr,Sky Sports,577336,42673,3769,5045,82.6,2026-05-10
+MATCH-3384,Bayern Munich vs PSG - La Liga,Football,La Liga,Bayern Munich,PSG,Neymar Jr,Sony LIV,39548,7183,932,1291,39.1,2026-07-01
+MATCH-3385,England vs India - Ashes Test Series,Cricket,Ashes Test Series,England,India,Jasprit Bumrah,JioCinema,1144348,124665,33833,28462,100.4,2026-06-18
+MATCH-3386,Bayern Munich vs PSG - La Liga,Football,La Liga,Bayern Munich,PSG,Cristiano Ronaldo,ESPN,375573,73936,10700,8639,106.3,2026-06-06
+MATCH-3387,Bayern Munich vs PSG - FIFA World Cup,Football,FIFA World Cup,Bayern Munich,PSG,Cristiano Ronaldo,ESPN,936635,49847,12730,6292,34.5,2026-07-14
+MATCH-3388,Bayern Munich vs PSG - La Liga,Football,La Liga,Bayern Munich,PSG,Cristiano Ronaldo,DAZN,113801,21429,1477,2364,80.7,2026-07-30
+MATCH-3389,Red Bull Racing vs Ferrari - Monza GP,Formula 1,Monza GP,Red Bull Racing,Ferrari,Lewis Hamilton,F1 TV,939626,71951,14606,10357,55.7,2026-02-08
+MATCH-3390,Nets vs Bucks - FIBA World Cup,Basketball,FIBA World Cup,Nets,Bucks,Luka Doncic,TNT,89774,9285,775,1057,110.4,2026-07-12
+MATCH-3391,Novak Djokovic vs Rafael Nadal - Australian Open,Tennis,Australian Open,Novak Djokovic,Rafael Nadal,Jannik Sinner,Eurosport,162260,27428,4903,5151,84.5,2026-04-20
+MATCH-3392,Carlos Alcaraz vs Jannik Sinner - US Open,Tennis,US Open,Carlos Alcaraz,Jannik Sinner,Novak Djokovic,Tennis Channel,700517,134338,39002,41575,93.8,2026-05-01
+MATCH-3393,Mercedes F1 vs McLaren - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Mercedes F1,McLaren,Fernando Alonso,Star Sports,16948,2043,545,650,30.1,2026-07-27
+MATCH-3394,Red Bull Racing vs Ferrari - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Red Bull Racing,Ferrari,Lando Norris,F1 TV,955953,110478,14946,29726,80.5,2026-03-11
+MATCH-3395,Celtics vs Bulls - NBA Playoffs,Basketball,NBA Playoffs,Celtics,Bulls,Stephen Curry,NBA TV,727992,73401,5648,10247,42.0,2026-06-22
+MATCH-3396,India vs Australia - T20 World Cup,Cricket,T20 World Cup,India,Australia,MS Dhoni,Star Sports,797396,76117,10358,16774,58.0,2026-07-14
+MATCH-3397,Bayern Munich vs PSG - UEFA Champions League,Football,UEFA Champions League,Bayern Munich,PSG,Kylian Mbappé,DAZN,770821,67881,7041,14227,31.3,2026-05-25
+MATCH-3398,England vs India - ICC World Cup,Cricket,ICC World Cup,England,India,Hardik Pandya,JioCinema,1064974,137682,20845,51376,58.8,2026-01-06
+MATCH-3399,Red Bull Racing vs Ferrari - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Red Bull Racing,Ferrari,Lewis Hamilton,Star Sports,938942,124571,19583,34817,99.8,2026-07-10
+MATCH-3400,Manchester City vs Liverpool - Premier League,Football,Premier League,Manchester City,Liverpool,Neymar Jr,Sky Sports,17889,2873,361,688,79.4,2026-08-03
+MATCH-3401,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Novak Djokovic,Star Sports,86488,8167,2046,711,68.4,2026-05-23
+MATCH-3402,Mercedes F1 vs McLaren - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Mercedes F1,McLaren,Max Verstappen,Sky Sports F1,95101,11758,880,1680,38.3,2026-05-21
+MATCH-3403,Red Bull Racing vs Ferrari - Silverstone GP,Formula 1,Silverstone GP,Red Bull Racing,Ferrari,Lando Norris,F1 TV,474768,42447,12224,5892,25.4,2026-01-02
+MATCH-3404,Manchester City vs Liverpool - Premier League,Football,Premier League,Manchester City,Liverpool,Erling Haaland,Sky Sports,168085,30028,8488,4108,98.1,2026-01-10
+MATCH-3405,RCB vs KKR - ICC World Cup,Cricket,ICC World Cup,RCB,KKR,Virat Kohli,JioCinema,520503,82873,17494,18381,38.3,2026-05-16
+MATCH-3406,Bayern Munich vs PSG - UEFA Champions League,Football,UEFA Champions League,Bayern Munich,PSG,Neymar Jr,ESPN,652995,108388,17371,27635,73.7,2026-06-13
+MATCH-3407,Lakers vs Warriors - NBA Playoffs,Basketball,NBA Playoffs,Lakers,Warriors,Giannis Antetokounmpo,TNT,877136,141273,19004,40458,98.5,2026-02-05
+MATCH-3408,Real Madrid vs FC Barcelona - FIFA World Cup,Football,FIFA World Cup,Real Madrid,FC Barcelona,Kylian Mbappé,ESPN,981979,128762,10066,46389,38.8,2026-03-14
+MATCH-3409,Lakers vs Warriors - NBA Finals,Basketball,NBA Finals,Lakers,Warriors,Giannis Antetokounmpo,TNT,953910,159539,39137,13419,11.8,2026-04-14
+MATCH-3410,Carlos Alcaraz vs Jannik Sinner - US Open,Tennis,US Open,Carlos Alcaraz,Jannik Sinner,Jannik Sinner,Eurosport,972668,72082,17400,24103,94.9,2026-02-13
+MATCH-3411,India vs Australia - T20 World Cup,Cricket,T20 World Cup,India,Australia,Virat Kohli,Star Sports,830780,67058,6114,15329,7.0,2026-01-17
+MATCH-3412,Mumbai Indians vs Chennai Super Kings - T20 World Cup,Cricket,T20 World Cup,Mumbai Indians,Chennai Super Kings,Virat Kohli,JioCinema,546257,37070,2284,11056,86.5,2026-02-28
+MATCH-3413,RCB vs KKR - T20 World Cup,Cricket,T20 World Cup,RCB,KKR,Jasprit Bumrah,Star Sports,844491,126435,14651,43677,19.2,2026-03-29
+MATCH-3414,Real Madrid vs FC Barcelona - UEFA Champions League,Football,UEFA Champions League,Real Madrid,FC Barcelona,Erling Haaland,ESPN,690024,90308,14526,18859,33.5,2026-01-14
+MATCH-3415,Red Bull Racing vs Ferrari - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Red Bull Racing,Ferrari,Max Verstappen,Sky Sports F1,600749,38523,11523,15193,28.5,2026-01-15
+MATCH-3416,Mumbai Indians vs Chennai Super Kings - Ashes Test Series,Cricket,Ashes Test Series,Mumbai Indians,Chennai Super Kings,Jasprit Bumrah,Star Sports,441615,25793,4907,3658,100.1,2026-06-13
+MATCH-3417,Celtics vs Bulls - NBA Finals,Basketball,NBA Finals,Celtics,Bulls,Stephen Curry,TNT,213145,30413,4518,8928,59.0,2026-04-21
+MATCH-3418,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Novak Djokovic,Eurosport,137258,20019,3298,3416,22.9,2026-07-16
+MATCH-3419,India vs Australia - Ashes Test Series,Cricket,Ashes Test Series,India,Australia,Rohit Sharma,Sony Sports,470397,60514,15017,13198,59.6,2026-02-17
+MATCH-3420,Nets vs Bucks - NBA Playoffs,Basketball,NBA Playoffs,Nets,Bucks,LeBron James,ESPN,280379,45154,12060,5474,55.8,2026-07-14
+MATCH-3421,Nets vs Bucks - NBA Playoffs,Basketball,NBA Playoffs,Nets,Bucks,Kevin Durant,ESPN,917786,102986,22660,40176,29.5,2026-01-12
+MATCH-3422,Real Madrid vs FC Barcelona - UEFA Champions League,Football,UEFA Champions League,Real Madrid,FC Barcelona,Lionel Messi,Sky Sports,986445,173255,36230,57294,33.0,2026-06-09
+MATCH-3423,Carlos Alcaraz vs Jannik Sinner - US Open,Tennis,US Open,Carlos Alcaraz,Jannik Sinner,Carlos Alcaraz,Eurosport,1068933,93544,23447,31429,16.1,2026-02-01
+MATCH-3424,Carlos Alcaraz vs Jannik Sinner - Australian Open,Tennis,Australian Open,Carlos Alcaraz,Jannik Sinner,Rafael Nadal,Eurosport,947256,151178,18540,32314,86.6,2026-06-20
+MATCH-3425,Red Bull Racing vs Ferrari - Monza GP,Formula 1,Monza GP,Red Bull Racing,Ferrari,Lando Norris,Sky Sports F1,290295,55081,9369,9879,21.3,2026-03-30
+MATCH-3426,Mumbai Indians vs Chennai Super Kings - IPL 2026,Cricket,IPL 2026,Mumbai Indians,Chennai Super Kings,Rohit Sharma,Star Sports,544406,80529,13045,30217,14.4,2026-03-01
+MATCH-3427,Manchester City vs Liverpool - UEFA Champions League,Football,UEFA Champions League,Manchester City,Liverpool,Cristiano Ronaldo,ESPN,25953,1844,127,379,96.1,2026-01-31
+MATCH-3428,England vs India - ICC World Cup,Cricket,ICC World Cup,England,India,MS Dhoni,JioCinema,457191,78419,20547,24172,71.4,2026-08-05
+MATCH-3429,Nets vs Bucks - NBA Playoffs,Basketball,NBA Playoffs,Nets,Bucks,Giannis Antetokounmpo,NBA TV,716871,60693,15870,22005,70.6,2026-05-30
+MATCH-3430,England vs India - T20 World Cup,Cricket,T20 World Cup,England,India,Jasprit Bumrah,JioCinema,1165398,179093,23282,15555,84.3,2026-02-01
+MATCH-3431,Manchester City vs Liverpool - FIFA World Cup,Football,FIFA World Cup,Manchester City,Liverpool,Erling Haaland,ESPN,921775,156225,39443,41072,36.1,2026-02-20
+MATCH-3432,Real Madrid vs FC Barcelona - Premier League,Football,Premier League,Real Madrid,FC Barcelona,Lionel Messi,Sky Sports,497773,76819,21119,6560,70.5,2026-04-10
+MATCH-3433,Bayern Munich vs PSG - La Liga,Football,La Liga,Bayern Munich,PSG,Kylian Mbappé,ESPN,534361,73018,9378,12864,37.4,2026-06-23
+MATCH-3434,Arsenal vs Chelsea - UEFA Champions League,Football,UEFA Champions League,Arsenal,Chelsea,Lionel Messi,Sky Sports,117147,15453,3672,3067,18.8,2026-02-15
+MATCH-3435,India vs Australia - T20 World Cup,Cricket,T20 World Cup,India,Australia,Rohit Sharma,JioCinema,323574,38103,6270,8024,33.5,2026-03-18
+MATCH-3436,Bayern Munich vs PSG - FIFA World Cup,Football,FIFA World Cup,Bayern Munich,PSG,Cristiano Ronaldo,ESPN,864716,153154,22617,54620,109.5,2026-08-07
+MATCH-3437,RCB vs KKR - T20 World Cup,Cricket,T20 World Cup,RCB,KKR,Hardik Pandya,Sony Sports,1089942,90661,11047,9142,74.1,2026-05-25
+MATCH-3438,Nets vs Bucks - NBA Playoffs,Basketball,NBA Playoffs,Nets,Bucks,LeBron James,NBA TV,1151432,121165,9648,45956,9.7,2026-02-17
+MATCH-3439,Lakers vs Warriors - NBA Finals,Basketball,NBA Finals,Lakers,Warriors,Kevin Durant,TNT,114044,7271,1751,1911,29.4,2026-05-01
+MATCH-3440,Red Bull Racing vs Ferrari - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Red Bull Racing,Ferrari,Max Verstappen,Star Sports,124598,13756,2717,4254,18.2,2026-08-15
+MATCH-3441,Red Bull Racing vs Ferrari - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Red Bull Racing,Ferrari,Lewis Hamilton,F1 TV,715522,138360,38921,42203,96.6,2026-05-25
+MATCH-3442,Bayern Munich vs PSG - Premier League,Football,Premier League,Bayern Munich,PSG,Cristiano Ronaldo,ESPN,179499,34860,7004,6091,80.4,2026-03-13
+MATCH-3443,Lakers vs Warriors - NBA Playoffs,Basketball,NBA Playoffs,Lakers,Warriors,Stephen Curry,ESPN,1140573,119831,33898,37465,96.5,2026-02-05
+MATCH-3444,India vs Australia - T20 World Cup,Cricket,T20 World Cup,India,Australia,Rohit Sharma,Sony Sports,142891,18053,3449,4254,42.5,2026-02-13
+MATCH-3445,Nets vs Bucks - NBA Finals,Basketball,NBA Finals,Nets,Bucks,Luka Doncic,TNT,255461,13076,3577,4202,87.3,2026-06-07
+MATCH-3446,England vs India - IPL 2026,Cricket,IPL 2026,England,India,Virat Kohli,Sony Sports,625874,43940,12484,14215,95.2,2026-01-09
+MATCH-3447,Red Bull Racing vs Ferrari - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Red Bull Racing,Ferrari,Lewis Hamilton,Sky Sports F1,101754,8388,1871,1492,74.4,2026-05-18
+MATCH-3448,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Iga Swiatek,Star Sports,286505,17174,2501,5328,17.1,2026-01-17
+MATCH-3449,Nets vs Bucks - NBA Finals,Basketball,NBA Finals,Nets,Bucks,Luka Doncic,ESPN,1082252,177560,12241,21206,98.9,2026-06-19
+MATCH-3450,Novak Djokovic vs Rafael Nadal - Australian Open,Tennis,Australian Open,Novak Djokovic,Rafael Nadal,Iga Swiatek,Eurosport,1132319,78493,10896,17039,59.3,2026-06-17
+MATCH-3451,Mercedes F1 vs McLaren - Silverstone GP,Formula 1,Silverstone GP,Mercedes F1,McLaren,Charles Leclerc,Sky Sports F1,275661,35313,3303,13192,63.4,2026-04-20
+MATCH-3452,Manchester City vs Liverpool - Premier League,Football,Premier League,Manchester City,Liverpool,Neymar Jr,Sky Sports,472824,52651,13703,4563,89.0,2026-06-10
+MATCH-3453,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Rafael Nadal,Star Sports,923148,60759,14076,8072,102.4,2026-06-01
+MATCH-3454,Mumbai Indians vs Chennai Super Kings - T20 World Cup,Cricket,T20 World Cup,Mumbai Indians,Chennai Super Kings,Virat Kohli,Sony Sports,193839,38170,7428,15167,14.4,2026-06-07
+MATCH-3455,Carlos Alcaraz vs Jannik Sinner - US Open,Tennis,US Open,Carlos Alcaraz,Jannik Sinner,Carlos Alcaraz,Tennis Channel,305323,15316,1096,2068,66.4,2026-05-17
+MATCH-3456,Carlos Alcaraz vs Jannik Sinner - US Open,Tennis,US Open,Carlos Alcaraz,Jannik Sinner,Novak Djokovic,Star Sports,256364,22936,4038,6631,114.0,2026-02-09
+MATCH-3457,Manchester City vs Liverpool - UEFA Champions League,Football,UEFA Champions League,Manchester City,Liverpool,Cristiano Ronaldo,Sony LIV,332211,24921,5185,8615,49.1,2026-03-22
+MATCH-3458,Carlos Alcaraz vs Jannik Sinner - Wimbledon,Tennis,Wimbledon,Carlos Alcaraz,Jannik Sinner,Rafael Nadal,Eurosport,556907,106883,26611,33986,87.3,2026-07-20
+MATCH-3459,Mumbai Indians vs Chennai Super Kings - IPL 2026,Cricket,IPL 2026,Mumbai Indians,Chennai Super Kings,MS Dhoni,Sony Sports,445143,59531,11819,15981,30.0,2026-03-05
+MATCH-3460,England vs India - Ashes Test Series,Cricket,Ashes Test Series,England,India,Hardik Pandya,Star Sports,1031509,147002,36314,49118,22.9,2026-01-25
+MATCH-3461,Nets vs Bucks - NBA Finals,Basketball,NBA Finals,Nets,Bucks,Luka Doncic,ESPN,153328,13811,907,2636,109.3,2026-08-05
+MATCH-3462,Bayern Munich vs PSG - La Liga,Football,La Liga,Bayern Munich,PSG,Lionel Messi,ESPN,41067,6300,1758,1096,62.4,2026-05-20
+MATCH-3463,England vs India - T20 World Cup,Cricket,T20 World Cup,England,India,Hardik Pandya,JioCinema,401747,61400,11990,7487,40.3,2026-02-01
+MATCH-3464,Celtics vs Bulls - NBA Playoffs,Basketball,NBA Playoffs,Celtics,Bulls,Giannis Antetokounmpo,ESPN,188120,19546,2431,3512,14.6,2026-06-16
+MATCH-3465,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Iga Swiatek,Tennis Channel,288775,18350,2269,4104,38.1,2026-01-13
+MATCH-3466,India vs Australia - T20 World Cup,Cricket,T20 World Cup,India,Australia,Sachin Tendulkar,JioCinema,23137,4572,1268,1768,36.4,2026-04-12
+MATCH-3467,England vs India - T20 World Cup,Cricket,T20 World Cup,England,India,Hardik Pandya,Star Sports,868241,150230,40070,19645,73.5,2026-04-30
+MATCH-3468,Red Bull Racing vs Ferrari - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Red Bull Racing,Ferrari,Fernando Alonso,Star Sports,337823,18864,4394,2556,28.0,2026-06-20
+MATCH-3469,Manchester City vs Liverpool - Premier League,Football,Premier League,Manchester City,Liverpool,Lionel Messi,Sky Sports,915716,123675,30963,45087,35.7,2026-06-08
+MATCH-3470,Mercedes F1 vs McLaren - Silverstone GP,Formula 1,Silverstone GP,Mercedes F1,McLaren,Charles Leclerc,F1 TV,652070,34647,8938,13723,40.5,2026-05-25
+MATCH-3471,Red Bull Racing vs Ferrari - Monza GP,Formula 1,Monza GP,Red Bull Racing,Ferrari,Max Verstappen,F1 TV,97556,13890,1640,1260,112.1,2026-08-12
+MATCH-3472,Mumbai Indians vs Chennai Super Kings - Ashes Test Series,Cricket,Ashes Test Series,Mumbai Indians,Chennai Super Kings,Sachin Tendulkar,JioCinema,868027,126957,37398,49656,41.5,2026-06-01
+MATCH-3473,England vs India - Ashes Test Series,Cricket,Ashes Test Series,England,India,Rohit Sharma,Star Sports,748432,111586,23208,21703,22.7,2026-03-24
+MATCH-3474,England vs India - T20 World Cup,Cricket,T20 World Cup,England,India,Virat Kohli,Star Sports,1076230,178012,45022,30571,89.0,2026-03-09
+MATCH-3475,RCB vs KKR - IPL 2026,Cricket,IPL 2026,RCB,KKR,Sachin Tendulkar,Star Sports,77351,7891,1246,1451,110.7,2026-03-14
+MATCH-3476,Carlos Alcaraz vs Jannik Sinner - Australian Open,Tennis,Australian Open,Carlos Alcaraz,Jannik Sinner,Jannik Sinner,Star Sports,52953,4028,567,652,81.0,2026-05-09
+MATCH-3477,India vs Australia - T20 World Cup,Cricket,T20 World Cup,India,Australia,Sachin Tendulkar,Sony Sports,840194,93205,21578,9343,19.8,2026-05-28
+MATCH-3478,Red Bull Racing vs Ferrari - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Red Bull Racing,Ferrari,Lando Norris,Sky Sports F1,919241,107975,16756,13921,118.5,2026-05-18
+MATCH-3479,Real Madrid vs FC Barcelona - UEFA Champions League,Football,UEFA Champions League,Real Madrid,FC Barcelona,Lionel Messi,Sony LIV,699846,38495,8901,8136,78.3,2026-03-26
+MATCH-3480,Bayern Munich vs PSG - Premier League,Football,Premier League,Bayern Munich,PSG,Erling Haaland,Sony LIV,448339,70482,18154,7707,107.4,2026-04-03
+MATCH-3481,Carlos Alcaraz vs Jannik Sinner - Australian Open,Tennis,Australian Open,Carlos Alcaraz,Jannik Sinner,Iga Swiatek,Tennis Channel,296424,15189,1871,1396,44.1,2026-07-27
+MATCH-3482,Arsenal vs Chelsea - Premier League,Football,Premier League,Arsenal,Chelsea,Kevin De Bruyne,Sony LIV,85107,10487,1000,2391,103.9,2026-08-06
+MATCH-3483,Arsenal vs Chelsea - La Liga,Football,La Liga,Arsenal,Chelsea,Lionel Messi,DAZN,842717,67964,14275,18363,89.4,2026-07-21
+MATCH-3484,Carlos Alcaraz vs Jannik Sinner - US Open,Tennis,US Open,Carlos Alcaraz,Jannik Sinner,Jannik Sinner,Eurosport,588822,117751,15403,42453,104.1,2026-06-08
+MATCH-3485,Carlos Alcaraz vs Jannik Sinner - Wimbledon,Tennis,Wimbledon,Carlos Alcaraz,Jannik Sinner,Jannik Sinner,Star Sports,148756,19734,3125,7111,25.2,2026-07-26
+MATCH-3486,Red Bull Racing vs Ferrari - Silverstone GP,Formula 1,Silverstone GP,Red Bull Racing,Ferrari,Max Verstappen,Sky Sports F1,415224,61845,8238,6284,32.3,2026-08-11
+MATCH-3487,Red Bull Racing vs Ferrari - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Red Bull Racing,Ferrari,Lando Norris,Star Sports,805435,68573,6190,6195,86.2,2026-04-26
+MATCH-3488,Arsenal vs Chelsea - UEFA Champions League,Football,UEFA Champions League,Arsenal,Chelsea,Cristiano Ronaldo,Sony LIV,198181,26030,4012,10207,38.8,2026-06-23
+MATCH-3489,England vs India - ICC World Cup,Cricket,ICC World Cup,England,India,Hardik Pandya,Star Sports,314750,16871,1557,6074,13.3,2026-05-14
+MATCH-3490,India vs Australia - IPL 2026,Cricket,IPL 2026,India,Australia,Sachin Tendulkar,Star Sports,679783,54237,9910,6506,94.4,2026-07-27
+MATCH-3491,Red Bull Racing vs Ferrari - Silverstone GP,Formula 1,Silverstone GP,Red Bull Racing,Ferrari,Max Verstappen,Sky Sports F1,1193550,157089,25947,44102,39.5,2026-06-07
+MATCH-3492,Novak Djokovic vs Rafael Nadal - Australian Open,Tennis,Australian Open,Novak Djokovic,Rafael Nadal,Iga Swiatek,Tennis Channel,944346,85058,15421,20826,71.1,2026-07-16
+MATCH-3493,Nets vs Bucks - FIBA World Cup,Basketball,FIBA World Cup,Nets,Bucks,Stephen Curry,NBA TV,912936,168519,34409,15539,18.9,2026-02-27
+MATCH-3494,Novak Djokovic vs Rafael Nadal - US Open,Tennis,US Open,Novak Djokovic,Rafael Nadal,Iga Swiatek,Tennis Channel,504311,72467,20843,17437,7.4,2026-02-17
+MATCH-3495,Nets vs Bucks - NBA Finals,Basketball,NBA Finals,Nets,Bucks,Giannis Antetokounmpo,TNT,1165530,232958,28959,49888,22.6,2026-04-26
+MATCH-3496,Novak Djokovic vs Rafael Nadal - US Open,Tennis,US Open,Novak Djokovic,Rafael Nadal,Rafael Nadal,Eurosport,251294,13267,1531,3567,42.3,2026-08-12
+MATCH-3497,Bayern Munich vs PSG - Premier League,Football,Premier League,Bayern Munich,PSG,Kevin De Bruyne,ESPN,525956,71644,12076,20708,97.7,2026-04-14
+MATCH-3498,Celtics vs Bulls - NBA Finals,Basketball,NBA Finals,Celtics,Bulls,Luka Doncic,TNT,1024204,204398,28827,71245,90.4,2026-05-01
+MATCH-3499,Arsenal vs Chelsea - UEFA Champions League,Football,UEFA Champions League,Arsenal,Chelsea,Neymar Jr,DAZN,1096866,158329,17158,15146,6.8,2026-07-16
+MATCH-3500,Manchester City vs Liverpool - FIFA World Cup,Football,FIFA World Cup,Manchester City,Liverpool,Cristiano Ronaldo,ESPN,600586,73747,18989,11838,59.4,2026-06-01
+MATCH-3501,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Jannik Sinner,Eurosport,152968,20706,1575,8054,34.4,2026-07-26
+MATCH-3502,Mercedes F1 vs McLaren - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Mercedes F1,McLaren,Max Verstappen,Sky Sports F1,644993,55742,5476,10482,27.0,2026-06-13
+MATCH-3503,Celtics vs Bulls - NBA Finals,Basketball,NBA Finals,Celtics,Bulls,LeBron James,NBA TV,645738,41072,8565,8000,46.0,2026-01-28
+MATCH-3504,Red Bull Racing vs Ferrari - Monza GP,Formula 1,Monza GP,Red Bull Racing,Ferrari,Lando Norris,Sky Sports F1,619213,68393,5748,19768,62.1,2026-01-14
+MATCH-3505,Carlos Alcaraz vs Jannik Sinner - Wimbledon,Tennis,Wimbledon,Carlos Alcaraz,Jannik Sinner,Rafael Nadal,Eurosport,122905,14741,2838,3084,112.4,2026-05-28
+MATCH-3506,Mercedes F1 vs McLaren - Silverstone GP,Formula 1,Silverstone GP,Mercedes F1,McLaren,Lewis Hamilton,F1 TV,575897,42404,9388,5280,83.5,2026-01-15
+MATCH-3507,Lakers vs Warriors - NBA Finals,Basketball,NBA Finals,Lakers,Warriors,Giannis Antetokounmpo,TNT,502865,97909,26594,23959,91.9,2026-01-18
+MATCH-3508,Real Madrid vs FC Barcelona - UEFA Champions League,Football,UEFA Champions League,Real Madrid,FC Barcelona,Kevin De Bruyne,Sony LIV,1068558,207864,25941,59242,101.7,2026-01-12
+MATCH-3509,Novak Djokovic vs Rafael Nadal - Australian Open,Tennis,Australian Open,Novak Djokovic,Rafael Nadal,Jannik Sinner,Star Sports,466000,31591,7606,8353,47.8,2026-05-07
+MATCH-3510,Celtics vs Bulls - NBA Playoffs,Basketball,NBA Playoffs,Celtics,Bulls,Giannis Antetokounmpo,TNT,230116,18234,2759,4888,43.5,2026-02-23
+MATCH-3511,Carlos Alcaraz vs Jannik Sinner - Wimbledon,Tennis,Wimbledon,Carlos Alcaraz,Jannik Sinner,Carlos Alcaraz,Star Sports,601371,56892,5051,11891,38.4,2026-01-06
+MATCH-3512,Nets vs Bucks - NBA Finals,Basketball,NBA Finals,Nets,Bucks,LeBron James,NBA TV,1065806,121242,19562,36997,113.6,2026-01-27
+MATCH-3513,Arsenal vs Chelsea - UEFA Champions League,Football,UEFA Champions League,Arsenal,Chelsea,Erling Haaland,DAZN,964951,68776,9995,5747,44.8,2026-06-04
+MATCH-3514,Manchester City vs Liverpool - La Liga,Football,La Liga,Manchester City,Liverpool,Cristiano Ronaldo,Sony LIV,253974,50100,12786,13554,68.3,2026-03-03
+MATCH-3515,Bayern Munich vs PSG - FIFA World Cup,Football,FIFA World Cup,Bayern Munich,PSG,Erling Haaland,Sky Sports,1170100,104760,22399,22338,103.8,2026-04-28
+MATCH-3516,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Carlos Alcaraz,Star Sports,941752,98707,25848,16447,92.7,2026-07-13
+MATCH-3517,Celtics vs Bulls - FIBA World Cup,Basketball,FIBA World Cup,Celtics,Bulls,LeBron James,NBA TV,989599,88832,5948,22230,100.2,2026-01-10
+MATCH-3518,England vs India - Ashes Test Series,Cricket,Ashes Test Series,England,India,Sachin Tendulkar,Sony Sports,1089266,180670,26913,36340,108.9,2026-07-04
+MATCH-3519,England vs India - ICC World Cup,Cricket,ICC World Cup,England,India,MS Dhoni,Sony Sports,115234,19137,5063,4026,101.5,2026-01-12
+MATCH-3520,Nets vs Bucks - NBA Finals,Basketball,NBA Finals,Nets,Bucks,Giannis Antetokounmpo,NBA TV,900700,126064,25164,36506,33.4,2026-08-07
+MATCH-3521,Lakers vs Warriors - FIBA World Cup,Basketball,FIBA World Cup,Lakers,Warriors,Giannis Antetokounmpo,TNT,900555,67955,13005,11638,82.9,2026-03-02
+MATCH-3522,Celtics vs Bulls - FIBA World Cup,Basketball,FIBA World Cup,Celtics,Bulls,Giannis Antetokounmpo,ESPN,196866,36723,10094,11824,80.7,2026-05-30
+MATCH-3523,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Jannik Sinner,Star Sports,924559,49289,5068,6679,62.1,2026-03-30
+MATCH-3524,Celtics vs Bulls - FIBA World Cup,Basketball,FIBA World Cup,Celtics,Bulls,Stephen Curry,NBA TV,666865,129928,21126,40587,69.2,2026-01-29
+MATCH-3525,Novak Djokovic vs Rafael Nadal - French Open,Tennis,French Open,Novak Djokovic,Rafael Nadal,Iga Swiatek,Tennis Channel,1196613,106497,22255,29476,70.5,2026-04-28
+MATCH-3526,Arsenal vs Chelsea - FIFA World Cup,Football,FIFA World Cup,Arsenal,Chelsea,Cristiano Ronaldo,ESPN,1192532,77526,10295,19326,13.4,2026-02-07
+MATCH-3527,Real Madrid vs FC Barcelona - FIFA World Cup,Football,FIFA World Cup,Real Madrid,FC Barcelona,Lionel Messi,DAZN,21292,2430,690,203,112.1,2026-05-12
+MATCH-3528,Red Bull Racing vs Ferrari - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Red Bull Racing,Ferrari,Max Verstappen,F1 TV,1020536,152477,24568,25416,69.6,2026-04-13
+MATCH-3529,Novak Djokovic vs Rafael Nadal - Australian Open,Tennis,Australian Open,Novak Djokovic,Rafael Nadal,Jannik Sinner,Star Sports,808829,56512,6445,20240,119.0,2026-01-05
+MATCH-3530,Carlos Alcaraz vs Jannik Sinner - Wimbledon,Tennis,Wimbledon,Carlos Alcaraz,Jannik Sinner,Jannik Sinner,Tennis Channel,608147,114690,20448,38486,82.6,2026-02-24
+MATCH-3531,RCB vs KKR - Ashes Test Series,Cricket,Ashes Test Series,RCB,KKR,Hardik Pandya,Sony Sports,560469,71600,8857,5988,29.2,2026-01-20
+MATCH-3532,Manchester City vs Liverpool - FIFA World Cup,Football,FIFA World Cup,Manchester City,Liverpool,Kylian Mbappé,DAZN,707873,128852,29060,37418,21.7,2026-04-13
+MATCH-3533,Arsenal vs Chelsea - Premier League,Football,Premier League,Arsenal,Chelsea,Kevin De Bruyne,Sky Sports,427082,68617,7055,25073,15.9,2026-01-21
+MATCH-3534,Carlos Alcaraz vs Jannik Sinner - Australian Open,Tennis,Australian Open,Carlos Alcaraz,Jannik Sinner,Rafael Nadal,Eurosport,680489,117808,31951,38837,9.5,2026-02-25
+MATCH-3535,India vs Australia - Ashes Test Series,Cricket,Ashes Test Series,India,Australia,Sachin Tendulkar,Star Sports,366164,61874,9518,23517,94.7,2026-03-11
+MATCH-3536,Celtics vs Bulls - NBA Finals,Basketball,NBA Finals,Celtics,Bulls,LeBron James,ESPN,570319,56946,15790,16146,56.6,2026-07-12
+MATCH-3537,Red Bull Racing vs Ferrari - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Red Bull Racing,Ferrari,Lando Norris,Sky Sports F1,701944,82945,18164,21758,46.7,2026-02-02
+MATCH-3538,Lakers vs Warriors - NBA Playoffs,Basketball,NBA Playoffs,Lakers,Warriors,Luka Doncic,TNT,19230,3438,237,374,51.6,2026-01-09
+MATCH-3539,Mumbai Indians vs Chennai Super Kings - T20 World Cup,Cricket,T20 World Cup,Mumbai Indians,Chennai Super Kings,Hardik Pandya,JioCinema,401771,59291,13669,14633,38.8,2026-03-18
+MATCH-3540,Mumbai Indians vs Chennai Super Kings - T20 World Cup,Cricket,T20 World Cup,Mumbai Indians,Chennai Super Kings,Virat Kohli,Sony Sports,1190120,151189,36079,17782,17.3,2026-01-24
+MATCH-3541,Celtics vs Bulls - NBA Finals,Basketball,NBA Finals,Celtics,Bulls,Stephen Curry,NBA TV,1065761,187148,35337,46633,53.3,2026-04-21
+MATCH-3542,Red Bull Racing vs Ferrari - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Red Bull Racing,Ferrari,Fernando Alonso,Star Sports,413973,79926,4815,24900,119.5,2026-03-11
+MATCH-3543,England vs India - IPL 2026,Cricket,IPL 2026,England,India,Virat Kohli,Star Sports,1185128,167001,13718,14749,80.3,2026-02-26
+MATCH-3544,England vs India - T20 World Cup,Cricket,T20 World Cup,England,India,Rohit Sharma,Sony Sports,280830,42609,8759,16485,67.3,2026-07-11
+MATCH-3545,Novak Djokovic vs Rafael Nadal - French Open,Tennis,French Open,Novak Djokovic,Rafael Nadal,Carlos Alcaraz,Eurosport,419333,80352,19070,19310,43.1,2026-07-05
+MATCH-3546,Mumbai Indians vs Chennai Super Kings - ICC World Cup,Cricket,ICC World Cup,Mumbai Indians,Chennai Super Kings,Sachin Tendulkar,Star Sports,450280,59687,4505,21716,47.7,2026-01-10
+MATCH-3547,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Rafael Nadal,Tennis Channel,971239,76186,14929,29711,70.4,2026-01-07
+MATCH-3548,Arsenal vs Chelsea - UEFA Champions League,Football,UEFA Champions League,Arsenal,Chelsea,Kylian Mbappé,DAZN,508610,32152,5879,10729,52.1,2026-03-07
+MATCH-3549,Bayern Munich vs PSG - FIFA World Cup,Football,FIFA World Cup,Bayern Munich,PSG,Neymar Jr,Sony LIV,107045,9832,2719,3122,114.3,2026-02-17
+MATCH-3550,Novak Djokovic vs Rafael Nadal - Australian Open,Tennis,Australian Open,Novak Djokovic,Rafael Nadal,Rafael Nadal,Tennis Channel,611517,111775,8874,42063,33.3,2026-04-14
+MATCH-3551,Mercedes F1 vs McLaren - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Mercedes F1,McLaren,Fernando Alonso,Star Sports,64966,7411,1057,2875,55.1,2026-04-06
+MATCH-3552,Novak Djokovic vs Rafael Nadal - US Open,Tennis,US Open,Novak Djokovic,Rafael Nadal,Jannik Sinner,Tennis Channel,191044,22028,2125,8500,105.7,2026-02-07
+MATCH-3553,Lakers vs Warriors - NBA Finals,Basketball,NBA Finals,Lakers,Warriors,Giannis Antetokounmpo,TNT,453204,74814,19523,18715,68.0,2026-01-10
+MATCH-3554,Arsenal vs Chelsea - Premier League,Football,Premier League,Arsenal,Chelsea,Kevin De Bruyne,Sony LIV,698489,114991,28063,21400,68.5,2026-06-22
+MATCH-3555,RCB vs KKR - T20 World Cup,Cricket,T20 World Cup,RCB,KKR,Virat Kohli,Star Sports,1071853,206010,42570,21118,43.9,2026-07-31
+MATCH-3556,Red Bull Racing vs Ferrari - Silverstone GP,Formula 1,Silverstone GP,Red Bull Racing,Ferrari,Lando Norris,F1 TV,831866,76567,15843,14131,71.7,2026-06-01
+MATCH-3557,RCB vs KKR - IPL 2026,Cricket,IPL 2026,RCB,KKR,Sachin Tendulkar,Sony Sports,277891,54555,12019,20606,108.4,2026-03-26
+MATCH-3558,Mumbai Indians vs Chennai Super Kings - IPL 2026,Cricket,IPL 2026,Mumbai Indians,Chennai Super Kings,Sachin Tendulkar,JioCinema,131077,9213,2247,2260,58.7,2026-06-10
+MATCH-3559,Nets vs Bucks - NBA Playoffs,Basketball,NBA Playoffs,Nets,Bucks,Stephen Curry,NBA TV,160810,11713,1722,4167,112.6,2026-01-07
+MATCH-3560,Carlos Alcaraz vs Jannik Sinner - US Open,Tennis,US Open,Carlos Alcaraz,Jannik Sinner,Novak Djokovic,Star Sports,689886,37250,2806,8092,118.5,2026-05-17
+MATCH-3561,Arsenal vs Chelsea - FIFA World Cup,Football,FIFA World Cup,Arsenal,Chelsea,Kylian Mbappé,DAZN,940645,183731,34903,45998,10.8,2026-05-22
+MATCH-3562,Arsenal vs Chelsea - UEFA Champions League,Football,UEFA Champions League,Arsenal,Chelsea,Lionel Messi,Sky Sports,1085483,133742,11226,35950,20.1,2026-07-12
+MATCH-3563,India vs Australia - Ashes Test Series,Cricket,Ashes Test Series,India,Australia,Virat Kohli,Sony Sports,152951,27899,4650,5827,62.1,2026-03-20
+MATCH-3564,Red Bull Racing vs Ferrari - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Red Bull Racing,Ferrari,Max Verstappen,Star Sports,81541,10283,1050,1417,31.3,2026-01-14
+MATCH-3565,Celtics vs Bulls - NBA Playoffs,Basketball,NBA Playoffs,Celtics,Bulls,Kevin Durant,TNT,528928,66948,6432,17005,16.0,2026-01-07
+MATCH-3566,Nets vs Bucks - NBA Finals,Basketball,NBA Finals,Nets,Bucks,LeBron James,TNT,1105932,132399,35307,23264,36.4,2026-05-26
+MATCH-3567,India vs Australia - IPL 2026,Cricket,IPL 2026,India,Australia,Hardik Pandya,JioCinema,495340,32948,6807,10214,95.7,2026-04-20
+MATCH-3568,Real Madrid vs FC Barcelona - Premier League,Football,Premier League,Real Madrid,FC Barcelona,Kylian Mbappé,Sony LIV,821225,60173,17204,19599,41.5,2026-08-15
+MATCH-3569,Lakers vs Warriors - NBA Playoffs,Basketball,NBA Playoffs,Lakers,Warriors,Giannis Antetokounmpo,ESPN,1014986,81979,6611,18680,38.7,2026-07-08
+MATCH-3570,Mumbai Indians vs Chennai Super Kings - ICC World Cup,Cricket,ICC World Cup,Mumbai Indians,Chennai Super Kings,Sachin Tendulkar,Star Sports,701930,85288,5254,31733,12.0,2026-06-10
+MATCH-3571,India vs Australia - ICC World Cup,Cricket,ICC World Cup,India,Australia,MS Dhoni,Sony Sports,47370,6679,785,2297,30.0,2026-04-14
+MATCH-3572,India vs Australia - T20 World Cup,Cricket,T20 World Cup,India,Australia,MS Dhoni,Star Sports,816699,63843,7494,18671,16.3,2026-05-05
+MATCH-3573,Red Bull Racing vs Ferrari - Silverstone GP,Formula 1,Silverstone GP,Red Bull Racing,Ferrari,Charles Leclerc,Star Sports,59408,8930,1575,3422,16.9,2026-04-24
+MATCH-3574,Novak Djokovic vs Rafael Nadal - Australian Open,Tennis,Australian Open,Novak Djokovic,Rafael Nadal,Iga Swiatek,Tennis Channel,762262,146123,37954,22365,46.4,2026-04-13
+MATCH-3575,Bayern Munich vs PSG - Premier League,Football,Premier League,Bayern Munich,PSG,Cristiano Ronaldo,ESPN,483881,93079,23184,24847,68.6,2026-05-19
+MATCH-3576,Novak Djokovic vs Rafael Nadal - US Open,Tennis,US Open,Novak Djokovic,Rafael Nadal,Jannik Sinner,Eurosport,581415,91393,26307,32187,5.6,2026-06-14
+MATCH-3577,Mercedes F1 vs McLaren - Monza GP,Formula 1,Monza GP,Mercedes F1,McLaren,Charles Leclerc,Star Sports,1103211,155165,13928,29416,89.0,2026-03-11
+MATCH-3578,Arsenal vs Chelsea - La Liga,Football,La Liga,Arsenal,Chelsea,Cristiano Ronaldo,Sky Sports,591878,85309,18616,10752,68.9,2026-04-14
+MATCH-3579,England vs India - IPL 2026,Cricket,IPL 2026,England,India,MS Dhoni,Sony Sports,54640,5791,501,1139,55.4,2026-07-18
+MATCH-3580,Mercedes F1 vs McLaren - Monza GP,Formula 1,Monza GP,Mercedes F1,McLaren,Max Verstappen,F1 TV,252037,20483,4982,2261,25.1,2026-05-28
+MATCH-3581,Red Bull Racing vs Ferrari - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Red Bull Racing,Ferrari,Max Verstappen,Sky Sports F1,889353,165343,18213,58680,74.4,2026-03-13
+MATCH-3582,India vs Australia - IPL 2026,Cricket,IPL 2026,India,Australia,Sachin Tendulkar,Star Sports,1039081,152712,15217,50052,106.6,2026-07-31
+MATCH-3583,RCB vs KKR - Ashes Test Series,Cricket,Ashes Test Series,RCB,KKR,Sachin Tendulkar,Sony Sports,920712,105255,7559,31062,58.0,2026-04-21
+MATCH-3584,England vs India - T20 World Cup,Cricket,T20 World Cup,England,India,Jasprit Bumrah,JioCinema,684902,71573,16029,19330,78.1,2026-05-29
+MATCH-3585,Real Madrid vs FC Barcelona - UEFA Champions League,Football,UEFA Champions League,Real Madrid,FC Barcelona,Erling Haaland,ESPN,904701,90301,14656,27004,68.4,2026-02-26
+MATCH-3586,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Jannik Sinner,Star Sports,1017588,97235,14452,27496,28.7,2026-06-26
+MATCH-3587,Carlos Alcaraz vs Jannik Sinner - Wimbledon,Tennis,Wimbledon,Carlos Alcaraz,Jannik Sinner,Jannik Sinner,Star Sports,296950,31027,8023,11950,87.2,2026-01-17
+MATCH-3588,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Iga Swiatek,Star Sports,337668,47817,6229,17781,64.3,2026-04-20
+MATCH-3589,Manchester City vs Liverpool - Premier League,Football,Premier League,Manchester City,Liverpool,Kylian Mbappé,Sony LIV,608218,52705,3271,8798,86.0,2026-03-30
+MATCH-3590,Bayern Munich vs PSG - Premier League,Football,Premier League,Bayern Munich,PSG,Neymar Jr,Sky Sports,151522,9745,1623,2286,79.6,2026-02-18
+MATCH-3591,India vs Australia - T20 World Cup,Cricket,T20 World Cup,India,Australia,Hardik Pandya,JioCinema,473575,39099,3641,14316,89.2,2026-02-15
+MATCH-3592,England vs India - ICC World Cup,Cricket,ICC World Cup,England,India,MS Dhoni,Sony Sports,541225,80224,23718,13690,30.9,2026-05-01
+MATCH-3593,Mercedes F1 vs McLaren - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Mercedes F1,McLaren,Lando Norris,Star Sports,719492,96122,14592,34559,86.1,2026-04-30
+MATCH-3594,Novak Djokovic vs Rafael Nadal - US Open,Tennis,US Open,Novak Djokovic,Rafael Nadal,Carlos Alcaraz,Star Sports,753321,42862,5186,14454,113.0,2026-01-05
+MATCH-3595,Celtics vs Bulls - NBA Playoffs,Basketball,NBA Playoffs,Celtics,Bulls,Kevin Durant,ESPN,681819,58479,9366,17009,62.9,2026-01-05
+MATCH-3596,Nets vs Bucks - NBA Playoffs,Basketball,NBA Playoffs,Nets,Bucks,Luka Doncic,TNT,1053466,187913,37275,53822,58.6,2026-01-09
+MATCH-3597,Carlos Alcaraz vs Jannik Sinner - US Open,Tennis,US Open,Carlos Alcaraz,Jannik Sinner,Iga Swiatek,Tennis Channel,891484,59321,16824,19563,49.9,2026-04-07
+MATCH-3598,Real Madrid vs FC Barcelona - Premier League,Football,Premier League,Real Madrid,FC Barcelona,Neymar Jr,Sky Sports,969585,135526,40427,43938,83.2,2026-08-04
+MATCH-3599,Novak Djokovic vs Rafael Nadal - French Open,Tennis,French Open,Novak Djokovic,Rafael Nadal,Carlos Alcaraz,Star Sports,439093,41173,9625,15027,27.6,2026-07-28
+MATCH-3600,Nets vs Bucks - FIBA World Cup,Basketball,FIBA World Cup,Nets,Bucks,Stephen Curry,ESPN,514937,75170,19682,27553,23.9,2026-04-19
+MATCH-3601,RCB vs KKR - T20 World Cup,Cricket,T20 World Cup,RCB,KKR,Jasprit Bumrah,Sony Sports,72583,14234,4190,3672,29.2,2026-05-29
+MATCH-3602,Arsenal vs Chelsea - UEFA Champions League,Football,UEFA Champions League,Arsenal,Chelsea,Erling Haaland,ESPN,1125219,159919,42376,54548,53.8,2026-04-28
+MATCH-3603,Lakers vs Warriors - NBA Playoffs,Basketball,NBA Playoffs,Lakers,Warriors,Kevin Durant,ESPN,196119,17563,4873,4225,71.9,2026-04-04
+MATCH-3604,Nets vs Bucks - FIBA World Cup,Basketball,FIBA World Cup,Nets,Bucks,Kevin Durant,NBA TV,168478,26039,6549,4453,106.3,2026-02-12
+MATCH-3605,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Iga Swiatek,Tennis Channel,499811,25025,3203,7620,86.2,2026-01-14
+MATCH-3606,Lakers vs Warriors - FIBA World Cup,Basketball,FIBA World Cup,Lakers,Warriors,Kevin Durant,NBA TV,177914,15271,3499,3449,22.4,2026-04-16
+MATCH-3607,Mercedes F1 vs McLaren - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Mercedes F1,McLaren,Max Verstappen,Star Sports,231484,21279,2955,4143,84.7,2026-07-25
+MATCH-3608,Carlos Alcaraz vs Jannik Sinner - Australian Open,Tennis,Australian Open,Carlos Alcaraz,Jannik Sinner,Carlos Alcaraz,Tennis Channel,716949,111101,22503,28284,41.8,2026-07-26
+MATCH-3609,Celtics vs Bulls - NBA Playoffs,Basketball,NBA Playoffs,Celtics,Bulls,Stephen Curry,TNT,357647,36293,9247,2990,58.8,2026-05-22
+MATCH-3610,Nets vs Bucks - NBA Finals,Basketball,NBA Finals,Nets,Bucks,Giannis Antetokounmpo,TNT,836474,66658,9308,9009,52.5,2026-04-24
+MATCH-3611,Real Madrid vs FC Barcelona - UEFA Champions League,Football,UEFA Champions League,Real Madrid,FC Barcelona,Kevin De Bruyne,DAZN,939112,58059,6743,15921,74.8,2026-01-20
+MATCH-3612,Manchester City vs Liverpool - FIFA World Cup,Football,FIFA World Cup,Manchester City,Liverpool,Kevin De Bruyne,Sky Sports,574663,32212,5726,6794,58.7,2026-01-24
+MATCH-3613,Carlos Alcaraz vs Jannik Sinner - US Open,Tennis,US Open,Carlos Alcaraz,Jannik Sinner,Rafael Nadal,Tennis Channel,301984,41643,12356,6738,45.9,2026-08-04
+MATCH-3614,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Jannik Sinner,Eurosport,587630,49653,7231,7224,35.8,2026-05-07
+MATCH-3615,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Rafael Nadal,Eurosport,529994,89570,15673,9668,96.5,2026-06-18
+MATCH-3616,Carlos Alcaraz vs Jannik Sinner - Australian Open,Tennis,Australian Open,Carlos Alcaraz,Jannik Sinner,Carlos Alcaraz,Eurosport,649699,66836,18904,19754,74.0,2026-06-20
+MATCH-3617,India vs Australia - T20 World Cup,Cricket,T20 World Cup,India,Australia,MS Dhoni,Sony Sports,379230,22514,5323,8271,89.5,2026-08-05
+MATCH-3618,Mercedes F1 vs McLaren - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Mercedes F1,McLaren,Lando Norris,Sky Sports F1,416163,40945,3789,4533,90.9,2026-08-06
+MATCH-3619,Mercedes F1 vs McLaren - Monza GP,Formula 1,Monza GP,Mercedes F1,McLaren,Fernando Alonso,F1 TV,674837,82435,8416,9681,15.4,2026-07-13
+MATCH-3620,Arsenal vs Chelsea - UEFA Champions League,Football,UEFA Champions League,Arsenal,Chelsea,Cristiano Ronaldo,ESPN,859408,129504,22045,50578,54.7,2026-03-05
+MATCH-3621,Arsenal vs Chelsea - Premier League,Football,Premier League,Arsenal,Chelsea,Cristiano Ronaldo,DAZN,694395,127420,23819,14591,71.2,2026-02-04
+MATCH-3622,Nets vs Bucks - NBA Finals,Basketball,NBA Finals,Nets,Bucks,Stephen Curry,ESPN,292701,42645,4685,5959,15.2,2026-03-27
+MATCH-3623,England vs India - T20 World Cup,Cricket,T20 World Cup,England,India,Rohit Sharma,Sony Sports,113636,21267,1539,6692,36.5,2026-02-26
+MATCH-3624,Real Madrid vs FC Barcelona - La Liga,Football,La Liga,Real Madrid,FC Barcelona,Neymar Jr,DAZN,153603,26619,3589,7076,35.2,2026-01-01
+MATCH-3625,RCB vs KKR - T20 World Cup,Cricket,T20 World Cup,RCB,KKR,MS Dhoni,Star Sports,1121123,62945,18690,16347,94.4,2026-04-17
+MATCH-3626,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Jannik Sinner,Eurosport,1180963,87793,21530,23098,30.5,2026-07-28
+MATCH-3627,Novak Djokovic vs Rafael Nadal - US Open,Tennis,US Open,Novak Djokovic,Rafael Nadal,Novak Djokovic,Star Sports,808378,100482,13710,9455,94.5,2026-01-28
+MATCH-3628,Bayern Munich vs PSG - FIFA World Cup,Football,FIFA World Cup,Bayern Munich,PSG,Kevin De Bruyne,DAZN,1095556,123963,14610,41553,44.9,2026-02-24
+MATCH-3629,Nets vs Bucks - FIBA World Cup,Basketball,FIBA World Cup,Nets,Bucks,Luka Doncic,ESPN,917247,168683,13819,55320,89.5,2026-01-28
+MATCH-3630,Red Bull Racing vs Ferrari - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Red Bull Racing,Ferrari,Max Verstappen,F1 TV,773672,84766,19292,27492,92.2,2026-02-01
+MATCH-3631,Nets vs Bucks - NBA Finals,Basketball,NBA Finals,Nets,Bucks,Stephen Curry,TNT,453812,50309,3800,4126,14.4,2026-05-18
+MATCH-3632,RCB vs KKR - Ashes Test Series,Cricket,Ashes Test Series,RCB,KKR,Hardik Pandya,Star Sports,138960,10336,2495,3320,16.7,2026-06-11
+MATCH-3633,Novak Djokovic vs Rafael Nadal - Australian Open,Tennis,Australian Open,Novak Djokovic,Rafael Nadal,Novak Djokovic,Tennis Channel,153891,17426,5203,3609,49.7,2026-02-05
+MATCH-3634,Mercedes F1 vs McLaren - Monza GP,Formula 1,Monza GP,Mercedes F1,McLaren,Fernando Alonso,Star Sports,12293,2183,298,695,26.9,2026-01-09
+MATCH-3635,Real Madrid vs FC Barcelona - UEFA Champions League,Football,UEFA Champions League,Real Madrid,FC Barcelona,Cristiano Ronaldo,ESPN,245254,37213,7534,6838,67.5,2026-07-12
+MATCH-3636,Nets vs Bucks - NBA Finals,Basketball,NBA Finals,Nets,Bucks,Kevin Durant,NBA TV,265758,35102,7408,4023,20.0,2026-03-06
+MATCH-3637,Arsenal vs Chelsea - FIFA World Cup,Football,FIFA World Cup,Arsenal,Chelsea,Erling Haaland,Sky Sports,204396,15658,4594,4453,93.6,2026-05-13
+MATCH-3638,Nets vs Bucks - FIBA World Cup,Basketball,FIBA World Cup,Nets,Bucks,Kevin Durant,TNT,386424,35445,5734,3926,14.9,2026-05-11
+MATCH-3639,Manchester City vs Liverpool - Premier League,Football,Premier League,Manchester City,Liverpool,Erling Haaland,Sky Sports,403017,27144,3623,6194,11.3,2026-02-07
+MATCH-3640,Nets vs Bucks - NBA Playoffs,Basketball,NBA Playoffs,Nets,Bucks,LeBron James,TNT,834654,95645,27221,34654,16.5,2026-07-03
+MATCH-3641,Red Bull Racing vs Ferrari - Monza GP,Formula 1,Monza GP,Red Bull Racing,Ferrari,Lewis Hamilton,F1 TV,1107786,155166,15629,34615,48.9,2026-02-10
+MATCH-3642,Carlos Alcaraz vs Jannik Sinner - Australian Open,Tennis,Australian Open,Carlos Alcaraz,Jannik Sinner,Carlos Alcaraz,Tennis Channel,394824,68836,15920,8867,16.2,2026-03-15
+MATCH-3643,Mercedes F1 vs McLaren - Silverstone GP,Formula 1,Silverstone GP,Mercedes F1,McLaren,Charles Leclerc,Star Sports,722671,86439,8959,10716,77.4,2026-05-07
+MATCH-3644,Mercedes F1 vs McLaren - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Mercedes F1,McLaren,Max Verstappen,Star Sports,83953,6271,1088,1456,60.9,2026-07-29
+MATCH-3645,Red Bull Racing vs Ferrari - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Red Bull Racing,Ferrari,Max Verstappen,Sky Sports F1,560371,63877,10820,16842,72.5,2026-05-03
+MATCH-3646,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Jannik Sinner,Star Sports,852779,44382,12677,17236,68.2,2026-02-20
+MATCH-3647,Carlos Alcaraz vs Jannik Sinner - Australian Open,Tennis,Australian Open,Carlos Alcaraz,Jannik Sinner,Carlos Alcaraz,Tennis Channel,687030,129694,32439,21718,17.8,2026-07-15
+MATCH-3648,Carlos Alcaraz vs Jannik Sinner - US Open,Tennis,US Open,Carlos Alcaraz,Jannik Sinner,Jannik Sinner,Tennis Channel,210428,33709,8994,12214,46.4,2026-08-10
+MATCH-3649,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Novak Djokovic,Eurosport,236012,17800,2858,1975,28.2,2026-05-24
+MATCH-3650,India vs Australia - IPL 2026,Cricket,IPL 2026,India,Australia,Virat Kohli,Star Sports,850625,81019,8695,26249,8.8,2026-03-11
+MATCH-3651,England vs India - Ashes Test Series,Cricket,Ashes Test Series,England,India,Jasprit Bumrah,Star Sports,929842,143340,15147,14595,42.5,2026-08-07
+MATCH-3652,Novak Djokovic vs Rafael Nadal - US Open,Tennis,US Open,Novak Djokovic,Rafael Nadal,Iga Swiatek,Tennis Channel,577618,105026,21916,34707,45.7,2026-06-02
+MATCH-3653,Manchester City vs Liverpool - Premier League,Football,Premier League,Manchester City,Liverpool,Neymar Jr,Sky Sports,738749,109401,8077,36132,41.4,2026-02-27
+MATCH-3654,Manchester City vs Liverpool - La Liga,Football,La Liga,Manchester City,Liverpool,Erling Haaland,Sony LIV,1162758,78814,18432,8971,74.1,2026-06-29
+MATCH-3655,Lakers vs Warriors - FIBA World Cup,Basketball,FIBA World Cup,Lakers,Warriors,Stephen Curry,NBA TV,84268,8082,1337,1723,118.5,2026-04-13
+MATCH-3656,Lakers vs Warriors - FIBA World Cup,Basketball,FIBA World Cup,Lakers,Warriors,Stephen Curry,ESPN,1122012,103021,16545,29042,18.4,2026-04-14
+MATCH-3657,Nets vs Bucks - FIBA World Cup,Basketball,FIBA World Cup,Nets,Bucks,Giannis Antetokounmpo,TNT,339243,23277,2363,4799,90.2,2026-06-26
+MATCH-3658,Mercedes F1 vs McLaren - Monza GP,Formula 1,Monza GP,Mercedes F1,McLaren,Max Verstappen,Sky Sports F1,1172014,226789,22502,66287,116.5,2026-05-28
+MATCH-3659,Red Bull Racing vs Ferrari - Silverstone GP,Formula 1,Silverstone GP,Red Bull Racing,Ferrari,Lando Norris,Sky Sports F1,258100,40606,8242,15790,78.9,2026-04-30
+MATCH-3660,Red Bull Racing vs Ferrari - Monza GP,Formula 1,Monza GP,Red Bull Racing,Ferrari,Lando Norris,F1 TV,136800,21730,5060,7367,52.8,2026-06-20
+MATCH-3661,Nets vs Bucks - FIBA World Cup,Basketball,FIBA World Cup,Nets,Bucks,Giannis Antetokounmpo,TNT,245023,17590,2415,5764,59.6,2026-02-07
+MATCH-3662,Real Madrid vs FC Barcelona - UEFA Champions League,Football,UEFA Champions League,Real Madrid,FC Barcelona,Kylian Mbappé,Sony LIV,1138818,115207,13722,44900,9.8,2026-04-26
+MATCH-3663,Celtics vs Bulls - FIBA World Cup,Basketball,FIBA World Cup,Celtics,Bulls,LeBron James,NBA TV,674764,72194,12173,21879,85.4,2026-05-29
+MATCH-3664,Carlos Alcaraz vs Jannik Sinner - US Open,Tennis,US Open,Carlos Alcaraz,Jannik Sinner,Rafael Nadal,Eurosport,397634,70966,16984,6127,66.6,2026-07-19
+MATCH-3665,Real Madrid vs FC Barcelona - Premier League,Football,Premier League,Real Madrid,FC Barcelona,Neymar Jr,ESPN,622641,100712,7048,36807,76.6,2026-07-14
+MATCH-3666,Novak Djokovic vs Rafael Nadal - US Open,Tennis,US Open,Novak Djokovic,Rafael Nadal,Rafael Nadal,Tennis Channel,144344,11024,2827,4069,79.6,2026-07-20
+MATCH-3667,Lakers vs Warriors - NBA Finals,Basketball,NBA Finals,Lakers,Warriors,LeBron James,TNT,1136696,75482,9348,18109,59.8,2026-05-02
+MATCH-3668,RCB vs KKR - Ashes Test Series,Cricket,Ashes Test Series,RCB,KKR,Virat Kohli,Sony Sports,490924,43683,12478,4520,17.1,2026-08-07
+MATCH-3669,Nets vs Bucks - FIBA World Cup,Basketball,FIBA World Cup,Nets,Bucks,Luka Doncic,ESPN,807462,73957,7081,14353,106.9,2026-03-20
+MATCH-3670,Carlos Alcaraz vs Jannik Sinner - US Open,Tennis,US Open,Carlos Alcaraz,Jannik Sinner,Novak Djokovic,Star Sports,400003,21568,1990,6652,22.7,2026-07-26
+MATCH-3671,Red Bull Racing vs Ferrari - Monza GP,Formula 1,Monza GP,Red Bull Racing,Ferrari,Lando Norris,Sky Sports F1,841989,136636,19645,21020,60.5,2026-07-09
+MATCH-3672,India vs Australia - ICC World Cup,Cricket,ICC World Cup,India,Australia,Rohit Sharma,Star Sports,51021,8075,1429,2177,56.7,2026-01-05
+MATCH-3673,Celtics vs Bulls - NBA Finals,Basketball,NBA Finals,Celtics,Bulls,Stephen Curry,NBA TV,1067314,91165,10836,8402,108.9,2026-04-13
+MATCH-3674,Red Bull Racing vs Ferrari - Silverstone GP,Formula 1,Silverstone GP,Red Bull Racing,Ferrari,Charles Leclerc,F1 TV,778064,144612,39712,56008,41.0,2026-04-29
+MATCH-3675,Celtics vs Bulls - NBA Finals,Basketball,NBA Finals,Celtics,Bulls,LeBron James,TNT,1073649,147680,19132,33405,110.4,2026-01-10
+MATCH-3676,Novak Djokovic vs Rafael Nadal - French Open,Tennis,French Open,Novak Djokovic,Rafael Nadal,Iga Swiatek,Star Sports,1038809,105480,11304,24342,64.8,2026-05-14
+MATCH-3677,India vs Australia - T20 World Cup,Cricket,T20 World Cup,India,Australia,Sachin Tendulkar,Sony Sports,174251,23588,1729,7427,9.3,2026-06-24
+MATCH-3678,Mumbai Indians vs Chennai Super Kings - ICC World Cup,Cricket,ICC World Cup,Mumbai Indians,Chennai Super Kings,Virat Kohli,Star Sports,509772,53000,11171,4670,83.4,2026-02-23
+MATCH-3679,Red Bull Racing vs Ferrari - Monza GP,Formula 1,Monza GP,Red Bull Racing,Ferrari,Lewis Hamilton,Star Sports,345706,68237,14931,12711,76.3,2026-06-19
+MATCH-3680,Lakers vs Warriors - FIBA World Cup,Basketball,FIBA World Cup,Lakers,Warriors,Stephen Curry,ESPN,82989,7130,2137,2302,117.2,2026-03-09
+MATCH-3681,Red Bull Racing vs Ferrari - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Red Bull Racing,Ferrari,Max Verstappen,Star Sports,59939,11349,1500,3133,111.0,2026-01-22
+MATCH-3682,Lakers vs Warriors - NBA Playoffs,Basketball,NBA Playoffs,Lakers,Warriors,LeBron James,TNT,599904,35808,9872,9633,100.1,2026-02-12
+MATCH-3683,Celtics vs Bulls - FIBA World Cup,Basketball,FIBA World Cup,Celtics,Bulls,Stephen Curry,NBA TV,569850,67760,18634,5486,85.6,2026-05-11
+MATCH-3684,Carlos Alcaraz vs Jannik Sinner - Australian Open,Tennis,Australian Open,Carlos Alcaraz,Jannik Sinner,Iga Swiatek,Star Sports,438615,34968,3972,10035,118.3,2026-05-13
+MATCH-3685,Real Madrid vs FC Barcelona - Premier League,Football,Premier League,Real Madrid,FC Barcelona,Lionel Messi,Sky Sports,204025,39167,7186,7208,32.7,2026-02-27
+MATCH-3686,Arsenal vs Chelsea - La Liga,Football,La Liga,Arsenal,Chelsea,Neymar Jr,ESPN,193871,22103,2039,2769,115.8,2026-06-12
+MATCH-3687,India vs Australia - IPL 2026,Cricket,IPL 2026,India,Australia,Jasprit Bumrah,JioCinema,1067551,115571,24613,26917,7.3,2026-01-04
+MATCH-3688,Arsenal vs Chelsea - La Liga,Football,La Liga,Arsenal,Chelsea,Erling Haaland,Sony LIV,194997,21588,6457,4130,109.4,2026-07-10
+MATCH-3689,Arsenal vs Chelsea - FIFA World Cup,Football,FIFA World Cup,Arsenal,Chelsea,Cristiano Ronaldo,DAZN,348898,59951,17984,6448,104.1,2026-05-18
+MATCH-3690,Real Madrid vs FC Barcelona - La Liga,Football,La Liga,Real Madrid,FC Barcelona,Lionel Messi,Sky Sports,913160,66257,8096,6474,51.3,2026-03-19
+MATCH-3691,RCB vs KKR - IPL 2026,Cricket,IPL 2026,RCB,KKR,Rohit Sharma,JioCinema,149470,28562,1835,4565,37.2,2026-03-16
+MATCH-3692,India vs Australia - Ashes Test Series,Cricket,Ashes Test Series,India,Australia,Sachin Tendulkar,JioCinema,762463,98948,26765,37033,25.2,2026-08-14
+MATCH-3693,Mercedes F1 vs McLaren - Silverstone GP,Formula 1,Silverstone GP,Mercedes F1,McLaren,Fernando Alonso,Sky Sports F1,976548,143361,28125,30670,107.2,2026-08-05
+MATCH-3694,Novak Djokovic vs Rafael Nadal - US Open,Tennis,US Open,Novak Djokovic,Rafael Nadal,Iga Swiatek,Star Sports,1001595,80004,15700,28450,84.5,2026-02-27
+MATCH-3695,Real Madrid vs FC Barcelona - Premier League,Football,Premier League,Real Madrid,FC Barcelona,Erling Haaland,Sky Sports,49592,9018,1108,2380,17.8,2026-03-27
+MATCH-3696,Red Bull Racing vs Ferrari - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Red Bull Racing,Ferrari,Lando Norris,Sky Sports F1,10406,589,132,228,43.1,2026-05-24
+MATCH-3697,England vs India - IPL 2026,Cricket,IPL 2026,England,India,MS Dhoni,JioCinema,1011052,78167,10201,8151,90.0,2026-08-07
+MATCH-3698,Mercedes F1 vs McLaren - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Mercedes F1,McLaren,Lando Norris,Sky Sports F1,81465,11544,909,2772,54.7,2026-02-14
+MATCH-3699,Novak Djokovic vs Rafael Nadal - French Open,Tennis,French Open,Novak Djokovic,Rafael Nadal,Rafael Nadal,Eurosport,342802,42773,9950,9553,82.3,2026-05-20
+MATCH-3700,Red Bull Racing vs Ferrari - Monza GP,Formula 1,Monza GP,Red Bull Racing,Ferrari,Fernando Alonso,Sky Sports F1,73595,11369,3153,3041,53.5,2026-05-12
+MATCH-3701,Novak Djokovic vs Rafael Nadal - US Open,Tennis,US Open,Novak Djokovic,Rafael Nadal,Rafael Nadal,Star Sports,1005856,60643,13496,22629,68.5,2026-03-19
+MATCH-3702,England vs India - ICC World Cup,Cricket,ICC World Cup,England,India,Sachin Tendulkar,Star Sports,566240,111804,16844,11610,22.5,2026-03-12
+MATCH-3703,Red Bull Racing vs Ferrari - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Red Bull Racing,Ferrari,Fernando Alonso,Star Sports,1004061,117638,27133,30621,22.5,2026-04-18
+MATCH-3704,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Iga Swiatek,Tennis Channel,488391,70479,4827,8243,111.3,2026-08-01
+MATCH-3705,Celtics vs Bulls - NBA Playoffs,Basketball,NBA Playoffs,Celtics,Bulls,Stephen Curry,TNT,477194,44242,10660,17260,54.4,2026-02-13
+MATCH-3706,England vs India - IPL 2026,Cricket,IPL 2026,England,India,MS Dhoni,Star Sports,55885,7394,1027,2445,82.6,2026-03-25
+MATCH-3707,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Iga Swiatek,Eurosport,217472,19006,1777,4216,13.3,2026-02-10
+MATCH-3708,Celtics vs Bulls - NBA Finals,Basketball,NBA Finals,Celtics,Bulls,Giannis Antetokounmpo,ESPN,1184537,143466,32911,12613,20.4,2026-03-30
+MATCH-3709,Mumbai Indians vs Chennai Super Kings - ICC World Cup,Cricket,ICC World Cup,Mumbai Indians,Chennai Super Kings,Virat Kohli,Sony Sports,628425,120716,27990,29066,49.7,2026-06-21
+MATCH-3710,Celtics vs Bulls - FIBA World Cup,Basketball,FIBA World Cup,Celtics,Bulls,Stephen Curry,ESPN,18583,1308,155,427,102.7,2026-06-28
+MATCH-3711,RCB vs KKR - Ashes Test Series,Cricket,Ashes Test Series,RCB,KKR,Sachin Tendulkar,JioCinema,826331,144016,29587,47956,19.1,2026-06-30
+MATCH-3712,Red Bull Racing vs Ferrari - Monza GP,Formula 1,Monza GP,Red Bull Racing,Ferrari,Fernando Alonso,Star Sports,131395,17692,2901,6726,43.9,2026-06-12
+MATCH-3713,Manchester City vs Liverpool - La Liga,Football,La Liga,Manchester City,Liverpool,Cristiano Ronaldo,Sky Sports,856680,70844,8816,24282,55.9,2026-03-16
+MATCH-3714,Bayern Munich vs PSG - UEFA Champions League,Football,UEFA Champions League,Bayern Munich,PSG,Kevin De Bruyne,Sky Sports,633512,74387,10067,11707,55.2,2026-03-24
+MATCH-3715,Red Bull Racing vs Ferrari - Monza GP,Formula 1,Monza GP,Red Bull Racing,Ferrari,Fernando Alonso,Star Sports,86880,15018,3526,5817,31.6,2026-07-23
+MATCH-3716,Bayern Munich vs PSG - FIFA World Cup,Football,FIFA World Cup,Bayern Munich,PSG,Kevin De Bruyne,Sky Sports,288181,25147,6254,7130,64.8,2026-03-12
+MATCH-3717,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Carlos Alcaraz,Eurosport,666102,122086,18405,14951,99.7,2026-05-18
+MATCH-3718,Mercedes F1 vs McLaren - Monza GP,Formula 1,Monza GP,Mercedes F1,McLaren,Charles Leclerc,Star Sports,471725,81859,9778,23326,64.4,2026-02-14
+MATCH-3719,Carlos Alcaraz vs Jannik Sinner - Australian Open,Tennis,Australian Open,Carlos Alcaraz,Jannik Sinner,Iga Swiatek,Tennis Channel,782206,104914,27696,38379,7.8,2026-08-02
+MATCH-3720,Red Bull Racing vs Ferrari - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Red Bull Racing,Ferrari,Lando Norris,Star Sports,521012,61012,12514,6956,12.2,2026-08-01
+MATCH-3721,Novak Djokovic vs Rafael Nadal - Australian Open,Tennis,Australian Open,Novak Djokovic,Rafael Nadal,Iga Swiatek,Star Sports,469005,70176,8320,7021,33.1,2026-05-26
+MATCH-3722,Mumbai Indians vs Chennai Super Kings - ICC World Cup,Cricket,ICC World Cup,Mumbai Indians,Chennai Super Kings,Rohit Sharma,JioCinema,98217,10957,1155,1217,33.5,2026-08-04
+MATCH-3723,Nets vs Bucks - NBA Playoffs,Basketball,NBA Playoffs,Nets,Bucks,Luka Doncic,TNT,437033,85120,16543,22140,28.0,2026-05-05
+MATCH-3724,Novak Djokovic vs Rafael Nadal - Australian Open,Tennis,Australian Open,Novak Djokovic,Rafael Nadal,Novak Djokovic,Tennis Channel,777694,107641,16661,29162,54.9,2026-06-26
+MATCH-3725,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Iga Swiatek,Tennis Channel,786970,105039,16319,13216,86.2,2026-05-01
+MATCH-3726,Red Bull Racing vs Ferrari - Monza GP,Formula 1,Monza GP,Red Bull Racing,Ferrari,Fernando Alonso,F1 TV,308009,47937,11983,7474,39.0,2026-03-15
+MATCH-3727,Manchester City vs Liverpool - UEFA Champions League,Football,UEFA Champions League,Manchester City,Liverpool,Lionel Messi,Sky Sports,243690,23355,4903,6473,7.8,2026-08-11
+MATCH-3728,Novak Djokovic vs Rafael Nadal - French Open,Tennis,French Open,Novak Djokovic,Rafael Nadal,Carlos Alcaraz,Tennis Channel,836242,123978,9139,47956,65.2,2026-06-16
+MATCH-3729,Lakers vs Warriors - NBA Playoffs,Basketball,NBA Playoffs,Lakers,Warriors,Luka Doncic,TNT,388979,28688,3661,7942,7.1,2026-04-29
+MATCH-3730,England vs India - IPL 2026,Cricket,IPL 2026,England,India,Jasprit Bumrah,Star Sports,30481,5803,715,548,78.0,2026-05-16
+MATCH-3731,Arsenal vs Chelsea - FIFA World Cup,Football,FIFA World Cup,Arsenal,Chelsea,Cristiano Ronaldo,DAZN,616742,45301,9926,10759,57.4,2026-05-05
+MATCH-3732,Lakers vs Warriors - NBA Playoffs,Basketball,NBA Playoffs,Lakers,Warriors,LeBron James,ESPN,945603,55741,5306,18014,67.0,2026-06-03
+MATCH-3733,Carlos Alcaraz vs Jannik Sinner - US Open,Tennis,US Open,Carlos Alcaraz,Jannik Sinner,Iga Swiatek,Tennis Channel,1064070,178739,35997,57419,56.6,2026-05-29
+MATCH-3734,Celtics vs Bulls - NBA Finals,Basketball,NBA Finals,Celtics,Bulls,Kevin Durant,ESPN,729242,56356,15287,11672,32.3,2026-05-25
+MATCH-3735,Real Madrid vs FC Barcelona - Premier League,Football,Premier League,Real Madrid,FC Barcelona,Lionel Messi,ESPN,975804,140107,15076,31131,100.0,2026-06-04
+MATCH-3736,Mumbai Indians vs Chennai Super Kings - Ashes Test Series,Cricket,Ashes Test Series,Mumbai Indians,Chennai Super Kings,Virat Kohli,Star Sports,382171,72442,10893,17915,48.2,2026-03-10
+MATCH-3737,Real Madrid vs FC Barcelona - Premier League,Football,Premier League,Real Madrid,FC Barcelona,Erling Haaland,ESPN,979539,183783,21752,45779,53.4,2026-01-15
+MATCH-3738,India vs Australia - Ashes Test Series,Cricket,Ashes Test Series,India,Australia,Sachin Tendulkar,Sony Sports,602752,95112,9883,25863,92.2,2026-07-02
+MATCH-3739,Real Madrid vs FC Barcelona - UEFA Champions League,Football,UEFA Champions League,Real Madrid,FC Barcelona,Erling Haaland,Sky Sports,415378,78862,19752,13944,37.4,2026-04-17
+MATCH-3740,Mumbai Indians vs Chennai Super Kings - ICC World Cup,Cricket,ICC World Cup,Mumbai Indians,Chennai Super Kings,Virat Kohli,Star Sports,405641,38337,9828,10396,54.5,2026-03-30
+MATCH-3741,RCB vs KKR - ICC World Cup,Cricket,ICC World Cup,RCB,KKR,Rohit Sharma,Sony Sports,445573,51968,13804,20103,109.4,2026-01-02
+MATCH-3742,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Jannik Sinner,Eurosport,465172,80893,21255,22005,8.5,2026-07-15
+MATCH-3743,Nets vs Bucks - NBA Playoffs,Basketball,NBA Playoffs,Nets,Bucks,Kevin Durant,NBA TV,523343,53787,4192,9860,53.6,2026-03-21
+MATCH-3744,Red Bull Racing vs Ferrari - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Red Bull Racing,Ferrari,Lewis Hamilton,Sky Sports F1,981184,51510,13759,18088,47.3,2026-03-06
+MATCH-3745,Carlos Alcaraz vs Jannik Sinner - Australian Open,Tennis,Australian Open,Carlos Alcaraz,Jannik Sinner,Iga Swiatek,Tennis Channel,296821,55813,10328,21934,44.8,2026-04-23
+MATCH-3746,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Rafael Nadal,Eurosport,1180171,223000,18968,54549,76.9,2026-03-11
+MATCH-3747,Mercedes F1 vs McLaren - Monza GP,Formula 1,Monza GP,Mercedes F1,McLaren,Lando Norris,F1 TV,389576,49312,14398,10892,14.9,2026-07-09
+MATCH-3748,Red Bull Racing vs Ferrari - Silverstone GP,Formula 1,Silverstone GP,Red Bull Racing,Ferrari,Charles Leclerc,Star Sports,161467,31701,5342,8128,38.4,2026-02-08
+MATCH-3749,Arsenal vs Chelsea - UEFA Champions League,Football,UEFA Champions League,Arsenal,Chelsea,Kevin De Bruyne,Sony LIV,164654,13883,1961,3565,108.0,2026-02-21
+MATCH-3750,Bayern Munich vs PSG - UEFA Champions League,Football,UEFA Champions League,Bayern Munich,PSG,Erling Haaland,Sky Sports,118611,8017,1023,1321,98.9,2026-01-01
+MATCH-3751,Lakers vs Warriors - NBA Playoffs,Basketball,NBA Playoffs,Lakers,Warriors,Giannis Antetokounmpo,ESPN,303630,37600,6546,4738,19.0,2026-06-30
+MATCH-3752,Nets vs Bucks - NBA Playoffs,Basketball,NBA Playoffs,Nets,Bucks,Luka Doncic,TNT,263281,31218,7899,10720,71.3,2026-02-09
+MATCH-3753,India vs Australia - Ashes Test Series,Cricket,Ashes Test Series,India,Australia,MS Dhoni,JioCinema,58675,7303,584,2862,87.1,2026-06-15
+MATCH-3754,Arsenal vs Chelsea - La Liga,Football,La Liga,Arsenal,Chelsea,Cristiano Ronaldo,DAZN,1167052,171878,45042,16336,114.7,2026-05-27
+MATCH-3755,Red Bull Racing vs Ferrari - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Red Bull Racing,Ferrari,Fernando Alonso,Star Sports,1126277,194900,58137,47141,78.6,2026-03-06
+MATCH-3756,Nets vs Bucks - FIBA World Cup,Basketball,FIBA World Cup,Nets,Bucks,Giannis Antetokounmpo,ESPN,822045,64015,17720,12841,47.5,2026-06-30
+MATCH-3757,Red Bull Racing vs Ferrari - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Red Bull Racing,Ferrari,Lando Norris,Sky Sports F1,1193435,64661,12244,19276,114.0,2026-03-29
+MATCH-3758,Celtics vs Bulls - NBA Finals,Basketball,NBA Finals,Celtics,Bulls,Stephen Curry,ESPN,812373,93098,24686,29832,89.6,2026-06-16
+MATCH-3759,Mercedes F1 vs McLaren - Monza GP,Formula 1,Monza GP,Mercedes F1,McLaren,Charles Leclerc,F1 TV,86106,16797,3655,3422,62.3,2026-04-23
+MATCH-3760,England vs India - Ashes Test Series,Cricket,Ashes Test Series,England,India,Hardik Pandya,JioCinema,1107666,70080,17371,9660,49.4,2026-01-19
+MATCH-3761,Mercedes F1 vs McLaren - Silverstone GP,Formula 1,Silverstone GP,Mercedes F1,McLaren,Charles Leclerc,Star Sports,823487,74255,17675,8983,47.3,2026-03-27
+MATCH-3762,Mercedes F1 vs McLaren - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Mercedes F1,McLaren,Charles Leclerc,Star Sports,1036576,142101,21067,52457,22.7,2026-02-08
+MATCH-3763,Carlos Alcaraz vs Jannik Sinner - US Open,Tennis,US Open,Carlos Alcaraz,Jannik Sinner,Carlos Alcaraz,Tennis Channel,74334,10124,2254,3898,42.2,2026-04-22
+MATCH-3764,England vs India - Ashes Test Series,Cricket,Ashes Test Series,England,India,MS Dhoni,Star Sports,684575,89084,12892,32245,109.3,2026-04-09
+MATCH-3765,Lakers vs Warriors - FIBA World Cup,Basketball,FIBA World Cup,Lakers,Warriors,Giannis Antetokounmpo,TNT,151816,10179,1326,3489,93.4,2026-05-18
+MATCH-3766,India vs Australia - IPL 2026,Cricket,IPL 2026,India,Australia,Rohit Sharma,JioCinema,921194,115178,7211,27197,8.6,2026-02-03
+MATCH-3767,Red Bull Racing vs Ferrari - Silverstone GP,Formula 1,Silverstone GP,Red Bull Racing,Ferrari,Lewis Hamilton,Star Sports,927392,157428,16631,19089,49.3,2026-01-04
+MATCH-3768,Celtics vs Bulls - FIBA World Cup,Basketball,FIBA World Cup,Celtics,Bulls,Stephen Curry,NBA TV,725713,104233,30966,37285,61.0,2026-08-01
+MATCH-3769,Arsenal vs Chelsea - FIFA World Cup,Football,FIFA World Cup,Arsenal,Chelsea,Kylian Mbappé,DAZN,812073,90668,22860,33093,73.7,2026-05-19
+MATCH-3770,Novak Djokovic vs Rafael Nadal - Australian Open,Tennis,Australian Open,Novak Djokovic,Rafael Nadal,Jannik Sinner,Eurosport,578710,64883,6975,23799,80.7,2026-04-18
+MATCH-3771,Arsenal vs Chelsea - UEFA Champions League,Football,UEFA Champions League,Arsenal,Chelsea,Neymar Jr,Sony LIV,143816,15176,2080,1621,109.2,2026-08-08
+MATCH-3772,Red Bull Racing vs Ferrari - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Red Bull Racing,Ferrari,Lando Norris,Sky Sports F1,528968,93159,16779,29002,103.7,2026-02-04
+MATCH-3773,Mercedes F1 vs McLaren - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Mercedes F1,McLaren,Lando Norris,F1 TV,136851,10657,995,3840,24.0,2026-07-07
+MATCH-3774,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Iga Swiatek,Star Sports,496954,27881,7676,10090,33.3,2026-05-07
+MATCH-3775,Red Bull Racing vs Ferrari - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Red Bull Racing,Ferrari,Charles Leclerc,Sky Sports F1,73706,4307,641,947,37.5,2026-07-30
+MATCH-3776,Mercedes F1 vs McLaren - Monza GP,Formula 1,Monza GP,Mercedes F1,McLaren,Lando Norris,Sky Sports F1,275651,46212,4175,11058,11.3,2026-03-18
+MATCH-3777,Carlos Alcaraz vs Jannik Sinner - US Open,Tennis,US Open,Carlos Alcaraz,Jannik Sinner,Novak Djokovic,Eurosport,598217,82828,22070,32412,27.7,2026-02-28
+MATCH-3778,England vs India - IPL 2026,Cricket,IPL 2026,England,India,MS Dhoni,JioCinema,598261,100579,29797,37647,47.4,2026-04-13
+MATCH-3779,Lakers vs Warriors - NBA Playoffs,Basketball,NBA Playoffs,Lakers,Warriors,Kevin Durant,TNT,1066523,138554,29325,43513,47.1,2026-05-02
+MATCH-3780,Novak Djokovic vs Rafael Nadal - French Open,Tennis,French Open,Novak Djokovic,Rafael Nadal,Jannik Sinner,Tennis Channel,444992,85479,9433,21459,26.0,2026-01-26
+MATCH-3781,Mercedes F1 vs McLaren - Silverstone GP,Formula 1,Silverstone GP,Mercedes F1,McLaren,Lewis Hamilton,Star Sports,450475,35571,7998,6791,65.8,2026-07-01
+MATCH-3782,Novak Djokovic vs Rafael Nadal - US Open,Tennis,US Open,Novak Djokovic,Rafael Nadal,Rafael Nadal,Eurosport,271353,49531,8368,4505,85.2,2026-04-19
+MATCH-3783,Lakers vs Warriors - NBA Finals,Basketball,NBA Finals,Lakers,Warriors,LeBron James,ESPN,252872,13108,3878,4132,81.4,2026-04-04
+MATCH-3784,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Novak Djokovic,Eurosport,576126,71866,9623,17618,52.7,2026-06-01
+MATCH-3785,Mercedes F1 vs McLaren - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Mercedes F1,McLaren,Max Verstappen,Sky Sports F1,581359,73696,7934,12411,20.5,2026-06-16
+MATCH-3786,RCB vs KKR - Ashes Test Series,Cricket,Ashes Test Series,RCB,KKR,Rohit Sharma,JioCinema,1165448,186155,25219,51269,14.2,2026-03-26
+MATCH-3787,Red Bull Racing vs Ferrari - Silverstone GP,Formula 1,Silverstone GP,Red Bull Racing,Ferrari,Max Verstappen,F1 TV,654176,76451,10906,24774,71.1,2026-07-11
+MATCH-3788,Red Bull Racing vs Ferrari - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Red Bull Racing,Ferrari,Lewis Hamilton,Sky Sports F1,614610,102491,11446,40003,65.8,2026-05-31
+MATCH-3789,Arsenal vs Chelsea - UEFA Champions League,Football,UEFA Champions League,Arsenal,Chelsea,Neymar Jr,ESPN,580231,39667,5013,14249,40.7,2026-03-16
+MATCH-3790,Arsenal vs Chelsea - Premier League,Football,Premier League,Arsenal,Chelsea,Kylian Mbappé,Sky Sports,1063329,107198,22779,41510,52.1,2026-07-17
+MATCH-3791,Novak Djokovic vs Rafael Nadal - US Open,Tennis,US Open,Novak Djokovic,Rafael Nadal,Iga Swiatek,Star Sports,1144253,183801,37350,39915,112.2,2026-01-31
+MATCH-3792,Mercedes F1 vs McLaren - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Mercedes F1,McLaren,Max Verstappen,Sky Sports F1,405803,72501,15221,9863,106.6,2026-08-04
+MATCH-3793,England vs India - ICC World Cup,Cricket,ICC World Cup,England,India,MS Dhoni,Star Sports,741415,137317,28115,34804,41.1,2026-01-16
+MATCH-3794,Mercedes F1 vs McLaren - Monza GP,Formula 1,Monza GP,Mercedes F1,McLaren,Lando Norris,Sky Sports F1,1120991,58557,13143,15207,88.6,2026-05-11
+MATCH-3795,Nets vs Bucks - FIBA World Cup,Basketball,FIBA World Cup,Nets,Bucks,LeBron James,NBA TV,461953,91294,18397,17325,32.0,2026-04-20
+MATCH-3796,Lakers vs Warriors - NBA Finals,Basketball,NBA Finals,Lakers,Warriors,Giannis Antetokounmpo,ESPN,1146894,213650,21601,68030,8.5,2026-07-28
+MATCH-3797,Nets vs Bucks - FIBA World Cup,Basketball,FIBA World Cup,Nets,Bucks,Stephen Curry,ESPN,481075,24682,4822,7405,119.0,2026-07-23
+MATCH-3798,Lakers vs Warriors - NBA Playoffs,Basketball,NBA Playoffs,Lakers,Warriors,LeBron James,NBA TV,679785,100843,10709,10183,51.1,2026-02-21
+MATCH-3799,Lakers vs Warriors - FIBA World Cup,Basketball,FIBA World Cup,Lakers,Warriors,Kevin Durant,ESPN,127789,7984,1815,2897,81.3,2026-06-19
+MATCH-3800,India vs Australia - IPL 2026,Cricket,IPL 2026,India,Australia,Rohit Sharma,Star Sports,649700,102112,27391,40528,89.4,2026-05-14
+MATCH-3801,Mercedes F1 vs McLaren - Monza GP,Formula 1,Monza GP,Mercedes F1,McLaren,Lando Norris,Sky Sports F1,813387,130257,25239,49468,107.2,2026-04-08
+MATCH-3802,Novak Djokovic vs Rafael Nadal - Australian Open,Tennis,Australian Open,Novak Djokovic,Rafael Nadal,Iga Swiatek,Eurosport,301768,54842,14274,14430,81.0,2026-07-23
+MATCH-3803,Lakers vs Warriors - NBA Playoffs,Basketball,NBA Playoffs,Lakers,Warriors,Giannis Antetokounmpo,ESPN,20533,1841,361,237,6.8,2026-06-14
+MATCH-3804,Celtics vs Bulls - FIBA World Cup,Basketball,FIBA World Cup,Celtics,Bulls,Luka Doncic,NBA TV,1093077,63094,12400,8592,17.9,2026-07-08
+MATCH-3805,Novak Djokovic vs Rafael Nadal - French Open,Tennis,French Open,Novak Djokovic,Rafael Nadal,Jannik Sinner,Eurosport,403215,71998,7947,16392,8.2,2026-08-15
+MATCH-3806,Nets vs Bucks - FIBA World Cup,Basketball,FIBA World Cup,Nets,Bucks,Giannis Antetokounmpo,TNT,1005241,172399,27468,30394,74.9,2026-04-23
+MATCH-3807,Carlos Alcaraz vs Jannik Sinner - Australian Open,Tennis,Australian Open,Carlos Alcaraz,Jannik Sinner,Carlos Alcaraz,Star Sports,806518,134892,34223,14065,105.3,2026-05-01
+MATCH-3808,Celtics vs Bulls - NBA Finals,Basketball,NBA Finals,Celtics,Bulls,Giannis Antetokounmpo,NBA TV,474421,60392,9449,12474,15.5,2026-03-17
+MATCH-3809,Mumbai Indians vs Chennai Super Kings - ICC World Cup,Cricket,ICC World Cup,Mumbai Indians,Chennai Super Kings,Rohit Sharma,Sony Sports,886984,122118,13679,44927,66.1,2026-01-17
+MATCH-3810,Manchester City vs Liverpool - UEFA Champions League,Football,UEFA Champions League,Manchester City,Liverpool,Lionel Messi,ESPN,333956,37297,8372,4191,24.4,2026-07-03
+MATCH-3811,Nets vs Bucks - NBA Finals,Basketball,NBA Finals,Nets,Bucks,LeBron James,ESPN,317813,27333,2461,10479,33.7,2026-03-06
+MATCH-3812,Red Bull Racing vs Ferrari - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Red Bull Racing,Ferrari,Max Verstappen,F1 TV,819920,66471,4823,22978,5.5,2026-07-17
+MATCH-3813,Arsenal vs Chelsea - UEFA Champions League,Football,UEFA Champions League,Arsenal,Chelsea,Erling Haaland,Sony LIV,371036,29532,8764,4386,39.8,2026-03-27
+MATCH-3814,Red Bull Racing vs Ferrari - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Red Bull Racing,Ferrari,Charles Leclerc,Sky Sports F1,688441,120111,7485,16575,8.9,2026-06-28
+MATCH-3815,Novak Djokovic vs Rafael Nadal - US Open,Tennis,US Open,Novak Djokovic,Rafael Nadal,Jannik Sinner,Tennis Channel,210086,30126,4807,10274,32.7,2026-01-02
+MATCH-3816,India vs Australia - Ashes Test Series,Cricket,Ashes Test Series,India,Australia,Hardik Pandya,JioCinema,1075602,131673,21699,52299,50.5,2026-04-14
+MATCH-3817,Red Bull Racing vs Ferrari - Monza GP,Formula 1,Monza GP,Red Bull Racing,Ferrari,Charles Leclerc,Star Sports,784314,121939,28913,20052,111.1,2026-07-05
+MATCH-3818,England vs India - ICC World Cup,Cricket,ICC World Cup,England,India,MS Dhoni,Star Sports,681953,62363,16316,11657,88.4,2026-01-16
+MATCH-3819,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Jannik Sinner,Eurosport,243788,46221,7045,9256,40.8,2026-03-31
+MATCH-3820,Manchester City vs Liverpool - Premier League,Football,Premier League,Manchester City,Liverpool,Cristiano Ronaldo,Sony LIV,557061,97670,24381,18062,49.2,2026-05-05
+MATCH-3821,Novak Djokovic vs Rafael Nadal - Australian Open,Tennis,Australian Open,Novak Djokovic,Rafael Nadal,Novak Djokovic,Eurosport,803962,104598,30460,32093,117.8,2026-06-22
+MATCH-3822,Arsenal vs Chelsea - FIFA World Cup,Football,FIFA World Cup,Arsenal,Chelsea,Cristiano Ronaldo,ESPN,938556,133708,30579,15718,51.9,2026-06-01
+MATCH-3823,England vs India - Ashes Test Series,Cricket,Ashes Test Series,England,India,MS Dhoni,JioCinema,989815,76883,13731,11338,13.1,2026-02-03
+MATCH-3824,Carlos Alcaraz vs Jannik Sinner - Wimbledon,Tennis,Wimbledon,Carlos Alcaraz,Jannik Sinner,Rafael Nadal,Star Sports,436368,76182,7796,28141,113.4,2026-02-07
+MATCH-3825,Nets vs Bucks - FIBA World Cup,Basketball,FIBA World Cup,Nets,Bucks,Luka Doncic,TNT,259091,51029,15274,4470,86.8,2026-02-14
+MATCH-3826,Lakers vs Warriors - NBA Playoffs,Basketball,NBA Playoffs,Lakers,Warriors,LeBron James,ESPN,998271,116095,11411,43519,107.7,2026-05-11
+MATCH-3827,Real Madrid vs FC Barcelona - FIFA World Cup,Football,FIFA World Cup,Real Madrid,FC Barcelona,Neymar Jr,Sky Sports,447157,65849,13477,16654,81.7,2026-06-17
+MATCH-3828,Red Bull Racing vs Ferrari - Monza GP,Formula 1,Monza GP,Red Bull Racing,Ferrari,Lewis Hamilton,Star Sports,267113,16209,3722,2240,34.2,2026-03-02
+MATCH-3829,India vs Australia - T20 World Cup,Cricket,T20 World Cup,India,Australia,Virat Kohli,JioCinema,200207,24168,4165,5902,115.7,2026-04-26
+MATCH-3830,Celtics vs Bulls - NBA Finals,Basketball,NBA Finals,Celtics,Bulls,Luka Doncic,ESPN,1143151,74397,13520,15884,15.6,2026-08-01
+MATCH-3831,England vs India - ICC World Cup,Cricket,ICC World Cup,England,India,Sachin Tendulkar,JioCinema,861497,86699,6553,25568,20.9,2026-05-21
+MATCH-3832,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Carlos Alcaraz,Star Sports,273596,39110,7440,7759,92.2,2026-07-04
+MATCH-3833,Arsenal vs Chelsea - La Liga,Football,La Liga,Arsenal,Chelsea,Lionel Messi,DAZN,1177942,138918,38660,14642,114.3,2026-05-04
+MATCH-3834,Lakers vs Warriors - FIBA World Cup,Basketball,FIBA World Cup,Lakers,Warriors,Giannis Antetokounmpo,ESPN,966488,89883,10986,23800,69.4,2026-05-17
+MATCH-3835,Celtics vs Bulls - NBA Finals,Basketball,NBA Finals,Celtics,Bulls,Giannis Antetokounmpo,ESPN,951879,147549,19239,26888,17.1,2026-03-19
+MATCH-3836,Novak Djokovic vs Rafael Nadal - French Open,Tennis,French Open,Novak Djokovic,Rafael Nadal,Jannik Sinner,Tennis Channel,352157,48943,8041,12279,75.8,2026-08-12
+MATCH-3837,Celtics vs Bulls - NBA Playoffs,Basketball,NBA Playoffs,Celtics,Bulls,Kevin Durant,TNT,1070835,205520,34947,76891,61.6,2026-07-12
+MATCH-3838,RCB vs KKR - ICC World Cup,Cricket,ICC World Cup,RCB,KKR,Rohit Sharma,Sony Sports,779590,77814,5942,10431,92.7,2026-07-01
+MATCH-3839,Manchester City vs Liverpool - FIFA World Cup,Football,FIFA World Cup,Manchester City,Liverpool,Neymar Jr,ESPN,1103229,135638,20385,13039,100.7,2026-03-01
+MATCH-3840,Real Madrid vs FC Barcelona - UEFA Champions League,Football,UEFA Champions League,Real Madrid,FC Barcelona,Kevin De Bruyne,Sony LIV,1040629,175877,32039,24220,119.2,2026-06-08
+MATCH-3841,Manchester City vs Liverpool - La Liga,Football,La Liga,Manchester City,Liverpool,Cristiano Ronaldo,Sony LIV,219366,41190,6990,16112,16.9,2026-03-12
+MATCH-3842,Celtics vs Bulls - NBA Finals,Basketball,NBA Finals,Celtics,Bulls,Kevin Durant,ESPN,1026832,54156,3526,16367,84.3,2026-04-25
+MATCH-3843,Mercedes F1 vs McLaren - Silverstone GP,Formula 1,Silverstone GP,Mercedes F1,McLaren,Charles Leclerc,Star Sports,1029540,191233,13229,36173,118.9,2026-08-07
+MATCH-3844,Mercedes F1 vs McLaren - Silverstone GP,Formula 1,Silverstone GP,Mercedes F1,McLaren,Lando Norris,Star Sports,203344,16957,4981,5564,23.4,2026-06-14
+MATCH-3845,Arsenal vs Chelsea - Premier League,Football,Premier League,Arsenal,Chelsea,Kevin De Bruyne,Sony LIV,140438,25714,2401,5374,49.9,2026-02-23
+MATCH-3846,Celtics vs Bulls - NBA Playoffs,Basketball,NBA Playoffs,Celtics,Bulls,Luka Doncic,NBA TV,186556,13793,2748,3918,18.0,2026-03-15
+MATCH-3847,Mercedes F1 vs McLaren - Monza GP,Formula 1,Monza GP,Mercedes F1,McLaren,Lewis Hamilton,F1 TV,283644,42571,2737,16248,88.9,2026-01-13
+MATCH-3848,Red Bull Racing vs Ferrari - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Red Bull Racing,Ferrari,Charles Leclerc,Star Sports,597719,54717,6301,6938,29.1,2026-05-15
+MATCH-3849,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Novak Djokovic,Eurosport,1163237,78558,21109,25526,100.8,2026-03-19
+MATCH-3850,Arsenal vs Chelsea - Premier League,Football,Premier League,Arsenal,Chelsea,Erling Haaland,Sony LIV,31714,6176,788,1043,31.5,2026-02-15
+MATCH-3851,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Novak Djokovic,Eurosport,891550,66487,10441,10016,94.2,2026-02-27
+MATCH-3852,Lakers vs Warriors - NBA Playoffs,Basketball,NBA Playoffs,Lakers,Warriors,LeBron James,NBA TV,47569,4436,635,1411,86.7,2026-08-09
+MATCH-3853,Nets vs Bucks - NBA Playoffs,Basketball,NBA Playoffs,Nets,Bucks,Giannis Antetokounmpo,NBA TV,245286,21187,2083,6389,18.7,2026-03-20
+MATCH-3854,Bayern Munich vs PSG - FIFA World Cup,Football,FIFA World Cup,Bayern Munich,PSG,Kylian Mbappé,Sky Sports,788250,47780,4019,18165,43.9,2026-07-24
+MATCH-3855,Red Bull Racing vs Ferrari - Silverstone GP,Formula 1,Silverstone GP,Red Bull Racing,Ferrari,Fernando Alonso,F1 TV,471043,48498,13037,6933,83.5,2026-02-27
+MATCH-3856,Real Madrid vs FC Barcelona - UEFA Champions League,Football,UEFA Champions League,Real Madrid,FC Barcelona,Erling Haaland,Sony LIV,453066,75647,5952,28187,119.4,2026-01-03
+MATCH-3857,India vs Australia - ICC World Cup,Cricket,ICC World Cup,India,Australia,MS Dhoni,JioCinema,740533,60861,5054,22091,40.5,2026-03-13
+MATCH-3858,Nets vs Bucks - NBA Finals,Basketball,NBA Finals,Nets,Bucks,LeBron James,ESPN,989538,75796,11781,14325,99.6,2026-06-11
+MATCH-3859,Mercedes F1 vs McLaren - Monza GP,Formula 1,Monza GP,Mercedes F1,McLaren,Fernando Alonso,Star Sports,805959,116580,24068,16086,105.3,2026-03-28
+MATCH-3860,Nets vs Bucks - FIBA World Cup,Basketball,FIBA World Cup,Nets,Bucks,Luka Doncic,TNT,1026365,69851,12363,25478,26.4,2026-01-12
+MATCH-3861,India vs Australia - T20 World Cup,Cricket,T20 World Cup,India,Australia,Virat Kohli,Star Sports,711765,100198,13772,10338,65.3,2026-07-24
+MATCH-3862,Novak Djokovic vs Rafael Nadal - US Open,Tennis,US Open,Novak Djokovic,Rafael Nadal,Rafael Nadal,Eurosport,224078,11533,2404,3013,104.3,2026-07-06
+MATCH-3863,Nets vs Bucks - NBA Finals,Basketball,NBA Finals,Nets,Bucks,Kevin Durant,ESPN,649564,88191,10513,14431,18.2,2026-05-03
+MATCH-3864,Lakers vs Warriors - NBA Finals,Basketball,NBA Finals,Lakers,Warriors,Giannis Antetokounmpo,ESPN,189762,17000,1959,2255,49.1,2026-03-05
+MATCH-3865,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Rafael Nadal,Star Sports,116594,12594,2330,2805,40.6,2026-02-25
+MATCH-3866,Mumbai Indians vs Chennai Super Kings - IPL 2026,Cricket,IPL 2026,Mumbai Indians,Chennai Super Kings,MS Dhoni,Star Sports,352596,44842,13052,6815,32.7,2026-01-05
+MATCH-3867,Manchester City vs Liverpool - La Liga,Football,La Liga,Manchester City,Liverpool,Neymar Jr,Sky Sports,889053,54379,14536,16403,94.4,2026-02-27
+MATCH-3868,England vs India - T20 World Cup,Cricket,T20 World Cup,England,India,Sachin Tendulkar,JioCinema,155153,16477,2922,6442,13.3,2026-07-15
+MATCH-3869,Mercedes F1 vs McLaren - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Mercedes F1,McLaren,Lewis Hamilton,Star Sports,524161,28570,2476,4330,80.9,2026-04-08
+MATCH-3870,Manchester City vs Liverpool - FIFA World Cup,Football,FIFA World Cup,Manchester City,Liverpool,Neymar Jr,Sony LIV,153436,18826,3065,3932,58.9,2026-08-05
+MATCH-3871,Mumbai Indians vs Chennai Super Kings - ICC World Cup,Cricket,ICC World Cup,Mumbai Indians,Chennai Super Kings,Jasprit Bumrah,Star Sports,1049643,205792,14073,43533,43.2,2026-04-22
+MATCH-3872,Mumbai Indians vs Chennai Super Kings - ICC World Cup,Cricket,ICC World Cup,Mumbai Indians,Chennai Super Kings,MS Dhoni,JioCinema,1033982,140075,35937,22347,77.5,2026-06-18
+MATCH-3873,Red Bull Racing vs Ferrari - Silverstone GP,Formula 1,Silverstone GP,Red Bull Racing,Ferrari,Lewis Hamilton,F1 TV,15665,2023,255,494,57.0,2026-07-07
+MATCH-3874,Manchester City vs Liverpool - UEFA Champions League,Football,UEFA Champions League,Manchester City,Liverpool,Kevin De Bruyne,Sony LIV,454226,30632,8341,2769,61.9,2026-04-01
+MATCH-3875,Arsenal vs Chelsea - FIFA World Cup,Football,FIFA World Cup,Arsenal,Chelsea,Kevin De Bruyne,ESPN,528658,86977,5361,15997,95.3,2026-04-14
+MATCH-3876,Bayern Munich vs PSG - UEFA Champions League,Football,UEFA Champions League,Bayern Munich,PSG,Kevin De Bruyne,ESPN,326420,54849,15699,10340,31.9,2026-01-02
+MATCH-3877,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Iga Swiatek,Star Sports,322326,46545,5305,12150,65.3,2026-08-06
+MATCH-3878,Novak Djokovic vs Rafael Nadal - Australian Open,Tennis,Australian Open,Novak Djokovic,Rafael Nadal,Jannik Sinner,Eurosport,746650,144456,35176,20612,15.5,2026-04-04
+MATCH-3879,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Novak Djokovic,Star Sports,868796,149255,21349,58485,61.4,2026-02-25
+MATCH-3880,Mercedes F1 vs McLaren - Monza GP,Formula 1,Monza GP,Mercedes F1,McLaren,Lando Norris,Sky Sports F1,180570,24082,2918,8809,106.4,2026-05-10
+MATCH-3881,Manchester City vs Liverpool - Premier League,Football,Premier League,Manchester City,Liverpool,Cristiano Ronaldo,Sky Sports,1177407,176916,39357,61148,29.8,2026-06-21
+MATCH-3882,Mercedes F1 vs McLaren - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Mercedes F1,McLaren,Lewis Hamilton,Sky Sports F1,288917,56011,8693,20545,118.1,2026-05-09
+MATCH-3883,Carlos Alcaraz vs Jannik Sinner - US Open,Tennis,US Open,Carlos Alcaraz,Jannik Sinner,Jannik Sinner,Star Sports,781991,128188,12487,15577,16.6,2026-02-17
+MATCH-3884,Red Bull Racing vs Ferrari - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Red Bull Racing,Ferrari,Lewis Hamilton,Star Sports,332523,24926,6278,9061,115.4,2026-05-08
+MATCH-3885,England vs India - ICC World Cup,Cricket,ICC World Cup,England,India,Virat Kohli,JioCinema,866645,149875,38039,14112,7.3,2026-03-05
+MATCH-3886,Nets vs Bucks - NBA Playoffs,Basketball,NBA Playoffs,Nets,Bucks,Kevin Durant,TNT,99822,16514,1584,3230,27.7,2026-02-03
+MATCH-3887,India vs Australia - Ashes Test Series,Cricket,Ashes Test Series,India,Australia,Hardik Pandya,Star Sports,232386,40791,4599,14254,48.5,2026-07-24
+MATCH-3888,England vs India - ICC World Cup,Cricket,ICC World Cup,England,India,Virat Kohli,Sony Sports,341013,18317,1511,2845,71.0,2026-01-08
+MATCH-3889,Lakers vs Warriors - FIBA World Cup,Basketball,FIBA World Cup,Lakers,Warriors,Kevin Durant,TNT,844351,68988,9329,20736,58.3,2026-08-13
+MATCH-3890,England vs India - T20 World Cup,Cricket,T20 World Cup,England,India,Rohit Sharma,Sony Sports,930862,181491,28339,44497,27.0,2026-03-23
+MATCH-3891,Nets vs Bucks - FIBA World Cup,Basketball,FIBA World Cup,Nets,Bucks,Stephen Curry,NBA TV,721007,44627,5130,7738,62.7,2026-03-09
+MATCH-3892,Carlos Alcaraz vs Jannik Sinner - Wimbledon,Tennis,Wimbledon,Carlos Alcaraz,Jannik Sinner,Carlos Alcaraz,Star Sports,48397,8432,1772,1917,75.3,2026-08-02
+MATCH-3893,Arsenal vs Chelsea - FIFA World Cup,Football,FIFA World Cup,Arsenal,Chelsea,Neymar Jr,Sky Sports,99693,13917,1128,1271,6.6,2026-04-26
+MATCH-3894,Mumbai Indians vs Chennai Super Kings - Ashes Test Series,Cricket,Ashes Test Series,Mumbai Indians,Chennai Super Kings,Sachin Tendulkar,Sony Sports,943708,123679,12873,47358,117.3,2026-05-08
+MATCH-3895,Carlos Alcaraz vs Jannik Sinner - Australian Open,Tennis,Australian Open,Carlos Alcaraz,Jannik Sinner,Jannik Sinner,Tennis Channel,407779,50498,9800,17563,15.8,2026-08-08
+MATCH-3896,Mumbai Indians vs Chennai Super Kings - Ashes Test Series,Cricket,Ashes Test Series,Mumbai Indians,Chennai Super Kings,Sachin Tendulkar,JioCinema,283219,19857,2983,2798,105.7,2026-02-09
+MATCH-3897,Mercedes F1 vs McLaren - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Mercedes F1,McLaren,Max Verstappen,F1 TV,151255,27312,3634,7216,19.3,2026-07-21
+MATCH-3898,Real Madrid vs FC Barcelona - FIFA World Cup,Football,FIFA World Cup,Real Madrid,FC Barcelona,Erling Haaland,Sony LIV,23182,4552,966,685,56.6,2026-04-18
+MATCH-3899,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Novak Djokovic,Tennis Channel,1030209,126172,23592,14287,53.0,2026-07-21
+MATCH-3900,England vs India - Ashes Test Series,Cricket,Ashes Test Series,England,India,Rohit Sharma,Star Sports,1119302,97282,26332,29564,33.3,2026-01-25
+MATCH-3901,Red Bull Racing vs Ferrari - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Red Bull Racing,Ferrari,Lewis Hamilton,F1 TV,921464,124937,10835,19059,9.7,2026-01-23
+MATCH-3902,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Novak Djokovic,Star Sports,512983,39126,5168,7124,31.5,2026-03-09
+MATCH-3903,Bayern Munich vs PSG - Premier League,Football,Premier League,Bayern Munich,PSG,Neymar Jr,ESPN,990293,118306,20666,14520,20.7,2026-05-20
+MATCH-3904,RCB vs KKR - T20 World Cup,Cricket,T20 World Cup,RCB,KKR,Hardik Pandya,Star Sports,308141,35449,6671,8604,115.2,2026-07-28
+MATCH-3905,Mercedes F1 vs McLaren - Silverstone GP,Formula 1,Silverstone GP,Mercedes F1,McLaren,Charles Leclerc,Star Sports,795004,115052,25867,21580,117.3,2026-02-18
+MATCH-3906,Nets vs Bucks - FIBA World Cup,Basketball,FIBA World Cup,Nets,Bucks,Giannis Antetokounmpo,TNT,740591,136111,21826,25192,109.0,2026-04-19
+MATCH-3907,Mercedes F1 vs McLaren - Silverstone GP,Formula 1,Silverstone GP,Mercedes F1,McLaren,Max Verstappen,F1 TV,1101133,104393,13013,14587,28.3,2026-02-11
+MATCH-3908,Real Madrid vs FC Barcelona - La Liga,Football,La Liga,Real Madrid,FC Barcelona,Cristiano Ronaldo,Sky Sports,914115,135357,11453,35388,96.2,2026-07-04
+MATCH-3909,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Novak Djokovic,Eurosport,507848,79311,16146,23897,84.6,2026-08-02
+MATCH-3910,Carlos Alcaraz vs Jannik Sinner - Australian Open,Tennis,Australian Open,Carlos Alcaraz,Jannik Sinner,Jannik Sinner,Tennis Channel,618403,45572,10341,13161,19.2,2026-01-22
+MATCH-3911,Arsenal vs Chelsea - FIFA World Cup,Football,FIFA World Cup,Arsenal,Chelsea,Cristiano Ronaldo,DAZN,89571,16037,4533,3442,109.8,2026-06-02
+MATCH-3912,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Iga Swiatek,Tennis Channel,19123,1678,262,536,44.6,2026-05-18
+MATCH-3913,Red Bull Racing vs Ferrari - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Red Bull Racing,Ferrari,Charles Leclerc,Sky Sports F1,911471,166135,23475,34562,83.3,2026-06-06
+MATCH-3914,India vs Australia - ICC World Cup,Cricket,ICC World Cup,India,Australia,Hardik Pandya,Sony Sports,64729,5210,922,1359,56.4,2026-08-06
+MATCH-3915,India vs Australia - ICC World Cup,Cricket,ICC World Cup,India,Australia,MS Dhoni,Sony Sports,989393,115691,23707,42181,78.1,2026-04-22
+MATCH-3916,Nets vs Bucks - NBA Finals,Basketball,NBA Finals,Nets,Bucks,Giannis Antetokounmpo,ESPN,988055,66991,19026,23793,100.6,2026-07-07
+MATCH-3917,Mercedes F1 vs McLaren - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Mercedes F1,McLaren,Lando Norris,F1 TV,41970,4228,993,1134,39.9,2026-07-10
+MATCH-3918,Red Bull Racing vs Ferrari - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Red Bull Racing,Ferrari,Max Verstappen,Sky Sports F1,906821,105112,29067,14495,60.2,2026-08-11
+MATCH-3919,Lakers vs Warriors - NBA Playoffs,Basketball,NBA Playoffs,Lakers,Warriors,Kevin Durant,TNT,847909,149629,21563,40862,11.1,2026-06-22
+MATCH-3920,Lakers vs Warriors - FIBA World Cup,Basketball,FIBA World Cup,Lakers,Warriors,Giannis Antetokounmpo,ESPN,204895,12074,3372,2972,48.2,2026-07-01
+MATCH-3921,Carlos Alcaraz vs Jannik Sinner - Wimbledon,Tennis,Wimbledon,Carlos Alcaraz,Jannik Sinner,Iga Swiatek,Eurosport,585886,70051,8762,21516,59.9,2026-06-20
+MATCH-3922,Real Madrid vs FC Barcelona - UEFA Champions League,Football,UEFA Champions League,Real Madrid,FC Barcelona,Kylian Mbappé,Sony LIV,728072,87774,17566,11995,115.5,2026-07-27
+MATCH-3923,Celtics vs Bulls - NBA Finals,Basketball,NBA Finals,Celtics,Bulls,LeBron James,NBA TV,596630,51762,14155,12611,107.6,2026-07-13
+MATCH-3924,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Carlos Alcaraz,Star Sports,905879,120422,10029,25817,52.1,2026-06-20
+MATCH-3925,Bayern Munich vs PSG - UEFA Champions League,Football,UEFA Champions League,Bayern Munich,PSG,Kylian Mbappé,ESPN,858913,163131,43365,61154,88.3,2026-07-23
+MATCH-3926,Novak Djokovic vs Rafael Nadal - Australian Open,Tennis,Australian Open,Novak Djokovic,Rafael Nadal,Iga Swiatek,Star Sports,44008,7027,1564,758,85.5,2026-05-25
+MATCH-3927,Bayern Munich vs PSG - FIFA World Cup,Football,FIFA World Cup,Bayern Munich,PSG,Kylian Mbappé,Sony LIV,281336,20040,3738,3456,35.9,2026-04-29
+MATCH-3928,Celtics vs Bulls - FIBA World Cup,Basketball,FIBA World Cup,Celtics,Bulls,Giannis Antetokounmpo,ESPN,893219,89938,25098,12633,11.5,2026-05-07
+MATCH-3929,Mercedes F1 vs McLaren - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Mercedes F1,McLaren,Charles Leclerc,Star Sports,1182086,232467,32309,30995,104.8,2026-08-15
+MATCH-3930,Novak Djokovic vs Rafael Nadal - French Open,Tennis,French Open,Novak Djokovic,Rafael Nadal,Iga Swiatek,Tennis Channel,918374,72740,8680,24159,89.6,2026-01-31
+MATCH-3931,Manchester City vs Liverpool - La Liga,Football,La Liga,Manchester City,Liverpool,Kylian Mbappé,Sony LIV,363494,23048,5960,6545,84.8,2026-02-21
+MATCH-3932,Novak Djokovic vs Rafael Nadal - Australian Open,Tennis,Australian Open,Novak Djokovic,Rafael Nadal,Carlos Alcaraz,Star Sports,110694,8754,858,1666,12.1,2026-01-23
+MATCH-3933,Bayern Munich vs PSG - Premier League,Football,Premier League,Bayern Munich,PSG,Kevin De Bruyne,Sky Sports,257661,33872,4702,11854,90.1,2026-05-03
+MATCH-3934,India vs Australia - T20 World Cup,Cricket,T20 World Cup,India,Australia,Virat Kohli,JioCinema,795030,149457,34385,50245,43.4,2026-03-09
+MATCH-3935,Mercedes F1 vs McLaren - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Mercedes F1,McLaren,Max Verstappen,Sky Sports F1,1176360,153882,17242,34796,100.9,2026-07-15
+MATCH-3936,Real Madrid vs FC Barcelona - UEFA Champions League,Football,UEFA Champions League,Real Madrid,FC Barcelona,Kylian Mbappé,Sky Sports,1050084,93306,23546,19148,52.7,2026-08-10
+MATCH-3937,Carlos Alcaraz vs Jannik Sinner - US Open,Tennis,US Open,Carlos Alcaraz,Jannik Sinner,Carlos Alcaraz,Eurosport,428027,76710,16367,9018,88.4,2026-04-24
+MATCH-3938,Mercedes F1 vs McLaren - Silverstone GP,Formula 1,Silverstone GP,Mercedes F1,McLaren,Charles Leclerc,F1 TV,1029157,104960,27332,35136,14.5,2026-01-20
+MATCH-3939,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Rafael Nadal,Star Sports,801711,68599,14050,16798,66.1,2026-01-09
+MATCH-3940,Red Bull Racing vs Ferrari - Silverstone GP,Formula 1,Silverstone GP,Red Bull Racing,Ferrari,Lewis Hamilton,Sky Sports F1,373154,59466,9821,20833,86.7,2026-01-01
+MATCH-3941,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Carlos Alcaraz,Star Sports,743516,90585,24404,30326,64.4,2026-02-09
+MATCH-3942,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Carlos Alcaraz,Eurosport,134101,11510,2070,1333,109.1,2026-07-18
+MATCH-3943,Mumbai Indians vs Chennai Super Kings - ICC World Cup,Cricket,ICC World Cup,Mumbai Indians,Chennai Super Kings,Virat Kohli,JioCinema,1021971,79821,13489,16864,98.9,2026-02-05
+MATCH-3944,RCB vs KKR - T20 World Cup,Cricket,T20 World Cup,RCB,KKR,Sachin Tendulkar,Star Sports,1162881,218076,49683,83371,78.9,2026-07-30
+MATCH-3945,Mumbai Indians vs Chennai Super Kings - T20 World Cup,Cricket,T20 World Cup,Mumbai Indians,Chennai Super Kings,Rohit Sharma,JioCinema,70514,5638,729,1140,92.5,2026-01-20
+MATCH-3946,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Rafael Nadal,Star Sports,419581,71605,6975,21102,87.3,2026-06-18
+MATCH-3947,Red Bull Racing vs Ferrari - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Red Bull Racing,Ferrari,Max Verstappen,Sky Sports F1,248822,27157,7537,8660,57.6,2026-05-09
+MATCH-3948,RCB vs KKR - T20 World Cup,Cricket,T20 World Cup,RCB,KKR,Rohit Sharma,JioCinema,800584,87613,24816,25417,90.1,2026-01-16
+MATCH-3949,Real Madrid vs FC Barcelona - UEFA Champions League,Football,UEFA Champions League,Real Madrid,FC Barcelona,Kylian Mbappé,Sky Sports,163954,27268,2432,9299,119.8,2026-03-16
+MATCH-3950,RCB vs KKR - IPL 2026,Cricket,IPL 2026,RCB,KKR,Hardik Pandya,JioCinema,298082,59247,14413,14546,37.9,2026-05-07
+MATCH-3951,India vs Australia - Ashes Test Series,Cricket,Ashes Test Series,India,Australia,MS Dhoni,JioCinema,1174098,219956,16000,35157,67.2,2026-08-15
+MATCH-3952,Nets vs Bucks - NBA Playoffs,Basketball,NBA Playoffs,Nets,Bucks,Luka Doncic,NBA TV,782055,73012,11676,27051,104.2,2026-02-15
+MATCH-3953,Novak Djokovic vs Rafael Nadal - Australian Open,Tennis,Australian Open,Novak Djokovic,Rafael Nadal,Iga Swiatek,Eurosport,138584,7915,536,3046,65.4,2026-01-19
+MATCH-3954,Red Bull Racing vs Ferrari - Monza GP,Formula 1,Monza GP,Red Bull Racing,Ferrari,Charles Leclerc,F1 TV,800456,108561,20694,11008,43.1,2026-02-27
+MATCH-3955,RCB vs KKR - Ashes Test Series,Cricket,Ashes Test Series,RCB,KKR,Virat Kohli,Star Sports,188767,21462,4873,2804,23.6,2026-02-27
+MATCH-3956,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Carlos Alcaraz,Star Sports,46085,4246,634,1076,71.9,2026-02-25
+MATCH-3957,Mercedes F1 vs McLaren - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Mercedes F1,McLaren,Charles Leclerc,Star Sports,477952,55744,14302,17427,39.8,2026-05-04
+MATCH-3958,Manchester City vs Liverpool - La Liga,Football,La Liga,Manchester City,Liverpool,Kevin De Bruyne,ESPN,811563,61438,6452,19455,54.6,2026-02-01
+MATCH-3959,Bayern Munich vs PSG - Premier League,Football,Premier League,Bayern Munich,PSG,Neymar Jr,Sony LIV,937237,156654,15588,61971,110.6,2026-07-18
+MATCH-3960,Novak Djokovic vs Rafael Nadal - French Open,Tennis,French Open,Novak Djokovic,Rafael Nadal,Iga Swiatek,Eurosport,603143,67393,19131,22652,64.5,2026-07-08
+MATCH-3961,Carlos Alcaraz vs Jannik Sinner - US Open,Tennis,US Open,Carlos Alcaraz,Jannik Sinner,Carlos Alcaraz,Tennis Channel,602522,65484,19142,9440,116.2,2026-02-02
+MATCH-3962,Lakers vs Warriors - NBA Finals,Basketball,NBA Finals,Lakers,Warriors,Stephen Curry,NBA TV,984429,164484,12883,34870,68.3,2026-07-12
+MATCH-3963,Mercedes F1 vs McLaren - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Mercedes F1,McLaren,Charles Leclerc,Star Sports,506303,54217,8394,16498,80.8,2026-05-08
+MATCH-3964,Arsenal vs Chelsea - La Liga,Football,La Liga,Arsenal,Chelsea,Neymar Jr,Sony LIV,982348,79557,13674,8930,104.3,2026-06-02
+MATCH-3965,Bayern Munich vs PSG - La Liga,Football,La Liga,Bayern Munich,PSG,Cristiano Ronaldo,ESPN,373969,57351,9921,20534,16.5,2026-05-03
+MATCH-3966,Celtics vs Bulls - FIBA World Cup,Basketball,FIBA World Cup,Celtics,Bulls,Luka Doncic,ESPN,163856,20864,2216,5027,55.4,2026-05-23
+MATCH-3967,Nets vs Bucks - FIBA World Cup,Basketball,FIBA World Cup,Nets,Bucks,Luka Doncic,NBA TV,734786,113498,32428,27346,68.5,2026-05-10
+MATCH-3968,Novak Djokovic vs Rafael Nadal - Wimbledon,Tennis,Wimbledon,Novak Djokovic,Rafael Nadal,Jannik Sinner,Tennis Channel,1063765,156159,13669,38109,74.3,2026-01-04
+MATCH-3969,Mumbai Indians vs Chennai Super Kings - ICC World Cup,Cricket,ICC World Cup,Mumbai Indians,Chennai Super Kings,Rohit Sharma,JioCinema,745321,39625,7319,8392,68.5,2026-01-09
+MATCH-3970,Celtics vs Bulls - NBA Finals,Basketball,NBA Finals,Celtics,Bulls,Luka Doncic,TNT,641182,68820,13372,11799,29.3,2026-01-02
+MATCH-3971,Carlos Alcaraz vs Jannik Sinner - US Open,Tennis,US Open,Carlos Alcaraz,Jannik Sinner,Iga Swiatek,Star Sports,845607,47438,8773,9973,66.3,2026-02-27
+MATCH-3972,Nets vs Bucks - FIBA World Cup,Basketball,FIBA World Cup,Nets,Bucks,Luka Doncic,ESPN,638913,38316,7162,3609,88.7,2026-05-09
+MATCH-3973,Nets vs Bucks - NBA Finals,Basketball,NBA Finals,Nets,Bucks,Stephen Curry,ESPN,82131,7765,1806,2985,27.8,2026-07-11
+MATCH-3974,Lakers vs Warriors - FIBA World Cup,Basketball,FIBA World Cup,Lakers,Warriors,Stephen Curry,NBA TV,406770,68230,18511,6692,84.6,2026-07-12
+MATCH-3975,Carlos Alcaraz vs Jannik Sinner - US Open,Tennis,US Open,Carlos Alcaraz,Jannik Sinner,Iga Swiatek,Eurosport,90610,7951,2363,2675,20.9,2026-03-05
+MATCH-3976,RCB vs KKR - Ashes Test Series,Cricket,Ashes Test Series,RCB,KKR,Sachin Tendulkar,Star Sports,312285,44966,8892,12830,15.1,2026-01-21
+MATCH-3977,Arsenal vs Chelsea - FIFA World Cup,Football,FIFA World Cup,Arsenal,Chelsea,Cristiano Ronaldo,Sky Sports,1018258,203075,47041,31775,24.6,2026-01-20
+MATCH-3978,Lakers vs Warriors - NBA Finals,Basketball,NBA Finals,Lakers,Warriors,Kevin Durant,TNT,466834,83790,22753,16999,57.9,2026-04-24
+MATCH-3979,Arsenal vs Chelsea - Premier League,Football,Premier League,Arsenal,Chelsea,Lionel Messi,DAZN,1020731,136905,28092,12857,52.2,2026-05-25
+MATCH-3980,Nets vs Bucks - NBA Playoffs,Basketball,NBA Playoffs,Nets,Bucks,Stephen Curry,NBA TV,284536,28710,8082,9413,98.0,2026-04-01
+MATCH-3981,Lakers vs Warriors - NBA Playoffs,Basketball,NBA Playoffs,Lakers,Warriors,Luka Doncic,NBA TV,102741,17757,1375,3614,115.6,2026-01-02
+MATCH-3982,Arsenal vs Chelsea - Premier League,Football,Premier League,Arsenal,Chelsea,Neymar Jr,Sony LIV,1186204,119864,11526,36380,20.0,2026-01-07
+MATCH-3983,Arsenal vs Chelsea - Premier League,Football,Premier League,Arsenal,Chelsea,Kylian Mbappé,ESPN,611824,118448,27510,34153,47.6,2026-07-06
+MATCH-3984,England vs India - ICC World Cup,Cricket,ICC World Cup,England,India,Hardik Pandya,Star Sports,1072168,201968,51598,47554,24.3,2026-07-10
+MATCH-3985,Carlos Alcaraz vs Jannik Sinner - Australian Open,Tennis,Australian Open,Carlos Alcaraz,Jannik Sinner,Iga Swiatek,Star Sports,767533,112276,27402,26655,13.9,2026-03-15
+MATCH-3986,Red Bull Racing vs Ferrari - Abu Dhabi GP,Formula 1,Abu Dhabi GP,Red Bull Racing,Ferrari,Lewis Hamilton,F1 TV,1045967,151789,25470,29068,11.2,2026-03-22
+MATCH-3987,Real Madrid vs FC Barcelona - La Liga,Football,La Liga,Real Madrid,FC Barcelona,Lionel Messi,Sky Sports,1098575,128002,30132,14583,53.9,2026-03-10
+MATCH-3988,Novak Djokovic vs Rafael Nadal - US Open,Tennis,US Open,Novak Djokovic,Rafael Nadal,Iga Swiatek,Tennis Channel,715000,71807,20233,10428,100.6,2026-04-07
+MATCH-3989,India vs Australia - ICC World Cup,Cricket,ICC World Cup,India,Australia,Jasprit Bumrah,JioCinema,1006504,99848,19879,20117,67.1,2026-06-08
+MATCH-3990,Real Madrid vs FC Barcelona - Premier League,Football,Premier League,Real Madrid,FC Barcelona,Kevin De Bruyne,DAZN,798598,66753,19309,21692,97.8,2026-01-26
+MATCH-3991,England vs India - Ashes Test Series,Cricket,Ashes Test Series,England,India,Virat Kohli,Star Sports,948086,76087,9130,26143,38.0,2026-05-17
+MATCH-3992,Carlos Alcaraz vs Jannik Sinner - Wimbledon,Tennis,Wimbledon,Carlos Alcaraz,Jannik Sinner,Iga Swiatek,Star Sports,875605,119464,15230,32658,93.7,2026-06-27
+MATCH-3993,Novak Djokovic vs Rafael Nadal - French Open,Tennis,French Open,Novak Djokovic,Rafael Nadal,Rafael Nadal,Star Sports,821563,98104,5960,35220,110.0,2026-06-06
+MATCH-3994,Arsenal vs Chelsea - Premier League,Football,Premier League,Arsenal,Chelsea,Neymar Jr,ESPN,428336,59137,10263,14594,100.5,2026-01-31
+MATCH-3995,Manchester City vs Liverpool - Premier League,Football,Premier League,Manchester City,Liverpool,Cristiano Ronaldo,ESPN,87908,8716,1816,2057,48.4,2026-02-20
+MATCH-3996,Mercedes F1 vs McLaren - Monaco Grand Prix,Formula 1,Monaco Grand Prix,Mercedes F1,McLaren,Max Verstappen,Star Sports,106410,19760,1702,3401,20.6,2026-05-16
+MATCH-3997,Lakers vs Warriors - NBA Finals,Basketball,NBA Finals,Lakers,Warriors,Giannis Antetokounmpo,NBA TV,354760,47584,12801,9934,8.5,2026-06-24
+MATCH-3998,England vs India - Ashes Test Series,Cricket,Ashes Test Series,England,India,Jasprit Bumrah,Star Sports,143819,15441,3389,1849,58.4,2026-03-03
+MATCH-3999,Carlos Alcaraz vs Jannik Sinner - French Open,Tennis,French Open,Carlos Alcaraz,Jannik Sinner,Iga Swiatek,Eurosport,103427,14163,3453,5241,56.5,2026-05-03
+MATCH-4000,Carlos Alcaraz vs Jannik Sinner - Australian Open,Tennis,Australian Open,Carlos Alcaraz,Jannik Sinner,Novak Djokovic,Star Sports,1184538,155006,39861,49925,98.5,2026-06-19

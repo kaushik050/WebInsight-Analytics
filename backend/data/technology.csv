@@ -1,0 +1,1001 @@
+content_id,title,topic,difficulty,content_type,views,tutorial_views,downloads,github_stars,reading_time_sec,likes,comments,shares,date
+TECH-5001,Mastering Java: Complete Advanced Guide,Cybersecurity,Beginner,GitHub Repo,99315,37362,8272,30,864,4948,1465,1415,2026-06-14
+TECH-5002,Mastering Cloud Computing: Complete Intermediate Guide,Java,Intermediate,GitHub Repo,192503,93130,36050,481,433,12265,3767,4536,2026-02-13
+TECH-5003,Mastering Cloud Computing: Complete Advanced Guide,Cybersecurity,Beginner,Article,28235,16720,5349,1306,342,3619,676,791,2026-03-21
+TECH-5004,Mastering Artificial Intelligence: Complete Advanced Guide,Cybersecurity,Beginner,Video Tutorial,219477,80828,21065,1760,613,15312,4496,4044,2026-06-17
+TECH-5005,Mastering Python: Complete Intermediate Guide,Artificial Intelligence,Advanced,GitHub Repo,149558,70242,10187,1588,811,15157,4433,1877,2026-04-23
+TECH-5006,Mastering DevOps: Complete Advanced Guide,Python,Advanced,Video Tutorial,235267,117318,26456,1757,537,25653,2969,10119,2026-06-18
+TECH-5007,Mastering Cybersecurity: Complete Intermediate Guide,Python,Intermediate,GitHub Repo,84174,47988,10519,2230,422,5518,993,1184,2026-08-01
+TECH-5008,Mastering Artificial Intelligence: Complete Advanced Guide,DevOps,Beginner,Video Tutorial,235076,88261,13369,1219,499,23854,6676,9064,2026-05-16
+TECH-5009,Mastering DevOps: Complete Intermediate Guide,DevOps,Intermediate,GitHub Repo,58010,25754,11788,2022,469,2981,537,531,2026-05-25
+TECH-5010,Mastering DevOps: Complete Intermediate Guide,Java,Intermediate,Article,197812,120900,17995,291,695,17893,4529,4294,2026-05-28
+TECH-5011,Mastering Java: Complete Advanced Guide,Cloud Computing,Intermediate,Documentation,218652,107719,28131,304,804,27555,3660,4116,2026-06-01
+TECH-5012,Mastering Cybersecurity: Complete Advanced Guide,Data Analytics,Advanced,Architecture Guide,217458,108456,46402,887,165,18153,2706,5789,2026-01-02
+TECH-5013,Mastering React: Complete Advanced Guide,React,Intermediate,Documentation,116420,58741,12636,1148,749,12746,1450,4996,2026-06-25
+TECH-5014,Mastering Cybersecurity: Complete Beginner Guide,Java,Beginner,Documentation,217777,141791,51262,760,626,15308,4092,6082,2026-02-01
+TECH-5015,Mastering Artificial Intelligence: Complete Intermediate Guide,Artificial Intelligence,Advanced,GitHub Repo,231311,149119,28012,1333,514,32831,8549,11379,2026-05-30
+TECH-5016,Mastering Cloud Computing: Complete Beginner Guide,Python,Advanced,GitHub Repo,127727,82670,11221,163,336,7872,1399,1878,2026-01-17
+TECH-5017,Mastering Java: Complete Intermediate Guide,Java,Advanced,GitHub Repo,82660,51372,19616,1722,666,7056,767,2779,2026-03-08
+TECH-5018,Mastering Java: Complete Intermediate Guide,Python,Intermediate,GitHub Repo,30139,20417,2581,1486,509,3861,780,1121,2026-04-04
+TECH-5019,Mastering Python: Complete Beginner Guide,DevOps,Beginner,Architecture Guide,172176,95556,36168,293,890,21934,2214,7972,2026-01-22
+TECH-5020,Mastering Cloud Computing: Complete Beginner Guide,React,Beginner,Documentation,71720,38203,10731,2143,397,2926,542,1165,2026-05-21
+TECH-5021,Mastering Data Analytics: Complete Advanced Guide,Python,Beginner,Video Tutorial,49171,17778,3599,1458,543,3198,672,461,2026-01-13
+TECH-5022,Mastering React: Complete Beginner Guide,DevOps,Intermediate,Video Tutorial,145355,52567,20700,653,729,6679,1461,2500,2026-02-02
+TECH-5023,Mastering Artificial Intelligence: Complete Intermediate Guide,Data Analytics,Intermediate,Video Tutorial,208814,98131,33056,512,216,27930,8881,11166,2026-03-04
+TECH-5024,Mastering Python: Complete Beginner Guide,Cybersecurity,Beginner,GitHub Repo,177138,88278,34021,352,872,18950,5726,7471,2026-03-03
+TECH-5025,Mastering React: Complete Advanced Guide,Python,Advanced,GitHub Repo,91649,52366,21023,2331,277,5077,1086,1300,2026-03-17
+TECH-5026,Mastering Java: Complete Advanced Guide,Java,Intermediate,GitHub Repo,55914,34266,6162,2052,784,4647,783,1540,2026-01-01
+TECH-5027,Mastering Artificial Intelligence: Complete Intermediate Guide,Python,Advanced,GitHub Repo,84828,32385,13077,120,505,8932,1612,2526,2026-02-03
+TECH-5028,Mastering Cloud Computing: Complete Intermediate Guide,Python,Beginner,Video Tutorial,174872,98122,41769,596,703,11865,1541,3813,2026-07-20
+TECH-5029,Mastering React: Complete Advanced Guide,Cloud Computing,Intermediate,Architecture Guide,144569,101365,24545,1994,149,11551,1615,3667,2026-03-05
+TECH-5030,Mastering React: Complete Beginner Guide,Java,Advanced,Documentation,230179,169347,24250,1641,518,17286,3344,5833,2026-05-18
+TECH-5031,Mastering React: Complete Advanced Guide,DevOps,Beginner,Article,173752,83103,34589,1407,148,20747,5664,5329,2026-01-06
+TECH-5032,Mastering DevOps: Complete Advanced Guide,DevOps,Intermediate,Architecture Guide,156300,55016,20688,956,785,10597,1711,1424,2026-04-30
+TECH-5033,Mastering DevOps: Complete Intermediate Guide,Cloud Computing,Advanced,Article,36730,17501,5573,1650,113,1907,495,611,2026-03-01
+TECH-5034,Mastering Artificial Intelligence: Complete Advanced Guide,React,Intermediate,GitHub Repo,141038,95924,16896,1732,201,12333,2409,4459,2026-02-14
+TECH-5035,Mastering Data Analytics: Complete Beginner Guide,Cybersecurity,Advanced,Video Tutorial,59489,37501,4245,75,436,6625,1341,2494,2026-08-02
+TECH-5036,Mastering DevOps: Complete Intermediate Guide,DevOps,Beginner,Documentation,67424,27725,12887,2191,99,9187,2936,1595,2026-07-12
+TECH-5037,Mastering Artificial Intelligence: Complete Advanced Guide,Artificial Intelligence,Beginner,Documentation,50326,30849,8326,1821,190,5379,1846,998,2026-06-28
+TECH-5038,Mastering Python: Complete Intermediate Guide,Artificial Intelligence,Advanced,GitHub Repo,102293,41100,20175,1118,307,8028,1692,2865,2026-02-05
+TECH-5039,Mastering DevOps: Complete Advanced Guide,Java,Beginner,Documentation,116918,76216,9344,2492,545,7401,1809,2611,2026-03-17
+TECH-5040,Mastering Java: Complete Advanced Guide,Python,Advanced,Architecture Guide,159129,108900,33497,1979,174,20164,3314,7889,2026-01-04
+TECH-5041,Mastering Data Analytics: Complete Beginner Guide,DevOps,Intermediate,Architecture Guide,96165,70598,15007,67,413,11117,1760,2647,2026-03-21
+TECH-5042,Mastering Java: Complete Intermediate Guide,Python,Beginner,Documentation,104464,63411,21779,1263,409,12155,3952,1990,2026-05-08
+TECH-5043,Mastering Cloud Computing: Complete Advanced Guide,Cybersecurity,Advanced,Documentation,116338,77823,28262,2002,327,11825,2448,1930,2026-01-07
+TECH-5044,Mastering Data Analytics: Complete Advanced Guide,Java,Advanced,GitHub Repo,69935,35894,11122,1442,643,4102,1004,559,2026-08-05
+TECH-5045,Mastering Artificial Intelligence: Complete Advanced Guide,Cybersecurity,Intermediate,Video Tutorial,28592,18321,3644,411,328,3531,1117,838,2026-05-26
+TECH-5046,Mastering Artificial Intelligence: Complete Advanced Guide,React,Advanced,Video Tutorial,112509,73605,26749,214,900,11783,2398,3586,2026-05-09
+TECH-5047,Mastering Cloud Computing: Complete Beginner Guide,DevOps,Intermediate,GitHub Repo,143512,106056,34552,324,166,17084,5560,6505,2026-03-09
+TECH-5048,Mastering Data Analytics: Complete Intermediate Guide,Cloud Computing,Advanced,Article,142301,81740,14655,713,706,16826,2533,4815,2026-01-31
+TECH-5049,Mastering Java: Complete Advanced Guide,Cybersecurity,Advanced,Article,47023,17732,11200,1111,74,6379,978,1336,2026-01-25
+TECH-5050,Mastering Cloud Computing: Complete Intermediate Guide,Python,Advanced,GitHub Repo,226225,166211,18894,1013,332,19579,6435,2586,2026-08-13
+TECH-5051,Mastering React: Complete Beginner Guide,Cybersecurity,Intermediate,Article,170863,124930,8622,1362,882,10230,1339,2109,2026-07-09
+TECH-5052,Mastering DevOps: Complete Advanced Guide,Cybersecurity,Intermediate,Video Tutorial,150593,49564,17529,1787,551,7865,2702,2669,2026-01-04
+TECH-5053,Mastering Cloud Computing: Complete Beginner Guide,DevOps,Intermediate,Architecture Guide,232867,169068,18529,1141,638,20282,6820,5950,2026-03-05
+TECH-5054,Mastering Python: Complete Intermediate Guide,DevOps,Intermediate,Documentation,135101,94587,24190,219,744,11194,3128,3272,2026-07-01
+TECH-5055,Mastering DevOps: Complete Intermediate Guide,Java,Advanced,Article,243181,84973,42970,1421,613,30867,9709,7732,2026-06-20
+TECH-5056,Mastering Cloud Computing: Complete Beginner Guide,DevOps,Beginner,Article,10079,6405,1135,1560,424,494,155,72,2026-02-27
+TECH-5057,Mastering DevOps: Complete Advanced Guide,Artificial Intelligence,Advanced,Video Tutorial,132449,41945,16850,1829,372,18037,5245,3800,2026-08-12
+TECH-5058,Mastering Cybersecurity: Complete Intermediate Guide,Data Analytics,Advanced,Article,60159,27253,5821,624,117,5201,1334,2018,2026-05-10
+TECH-5059,Mastering Cloud Computing: Complete Intermediate Guide,DevOps,Advanced,Documentation,238960,164414,19323,2241,87,20429,2582,6429,2026-07-05
+TECH-5060,Mastering DevOps: Complete Advanced Guide,Artificial Intelligence,Beginner,GitHub Repo,75930,34159,15086,1962,654,3798,1094,1362,2026-04-13
+TECH-5061,Mastering Java: Complete Beginner Guide,Cloud Computing,Beginner,Article,176794,63259,43241,1757,273,16963,5717,4498,2026-04-28
+TECH-5062,Mastering DevOps: Complete Intermediate Guide,React,Intermediate,Architecture Guide,98698,55572,24547,839,534,4268,681,705,2026-03-15
+TECH-5063,Mastering Python: Complete Intermediate Guide,DevOps,Beginner,GitHub Repo,46750,26400,8577,1121,713,3321,377,1000,2026-06-21
+TECH-5064,Mastering Cybersecurity: Complete Intermediate Guide,Data Analytics,Beginner,GitHub Repo,22752,17022,1677,2379,387,1448,185,503,2026-04-03
+TECH-5065,Mastering Cybersecurity: Complete Beginner Guide,Java,Intermediate,Architecture Guide,217142,122169,21733,1149,568,18479,2722,5646,2026-01-03
+TECH-5066,Mastering Data Analytics: Complete Intermediate Guide,Python,Advanced,Architecture Guide,41586,19427,6363,2097,775,2226,525,468,2026-05-01
+TECH-5067,Mastering Artificial Intelligence: Complete Advanced Guide,Java,Beginner,Article,112256,79894,24970,400,450,8005,2559,982,2026-01-13
+TECH-5068,Mastering DevOps: Complete Advanced Guide,Python,Advanced,Architecture Guide,72138,43096,11013,884,269,9343,2962,1188,2026-06-03
+TECH-5069,Mastering Cloud Computing: Complete Beginner Guide,Java,Advanced,Article,177877,108759,9523,1013,827,19464,2950,6045,2026-06-27
+TECH-5070,Mastering Python: Complete Intermediate Guide,Python,Beginner,Video Tutorial,41822,23358,9132,1506,586,1922,570,352,2026-02-09
+TECH-5071,Mastering DevOps: Complete Beginner Guide,Java,Beginner,GitHub Repo,187620,68339,14207,846,271,27007,5049,8706,2026-02-19
+TECH-5072,Mastering DevOps: Complete Intermediate Guide,Artificial Intelligence,Beginner,Documentation,57242,27985,8791,215,320,8188,2221,2035,2026-06-12
+TECH-5073,Mastering Data Analytics: Complete Beginner Guide,Cybersecurity,Intermediate,Article,11001,4920,2670,1168,506,1622,294,507,2026-04-27
+TECH-5074,Mastering Python: Complete Intermediate Guide,Data Analytics,Beginner,Video Tutorial,122857,77034,12778,666,364,8697,989,2057,2026-05-28
+TECH-5075,Mastering Cybersecurity: Complete Advanced Guide,DevOps,Intermediate,GitHub Repo,50740,33543,11555,1994,847,6331,1483,1225,2026-06-02
+TECH-5076,Mastering DevOps: Complete Intermediate Guide,Artificial Intelligence,Intermediate,Documentation,69685,24755,14587,2007,261,4839,806,916,2026-03-23
+TECH-5077,Mastering DevOps: Complete Intermediate Guide,Java,Intermediate,Article,102082,65436,19733,1745,496,9123,1708,3240,2026-01-27
+TECH-5078,Mastering Artificial Intelligence: Complete Advanced Guide,DevOps,Beginner,Architecture Guide,152686,48072,31917,2327,816,10844,1563,2612,2026-03-27
+TECH-5079,Mastering React: Complete Advanced Guide,Python,Beginner,GitHub Repo,28316,12333,5407,992,849,3573,987,655,2026-03-22
+TECH-5080,Mastering Data Analytics: Complete Intermediate Guide,Cybersecurity,Advanced,Documentation,61826,44582,8266,1704,739,6086,1991,2210,2026-05-03
+TECH-5081,Mastering Java: Complete Advanced Guide,Artificial Intelligence,Intermediate,GitHub Repo,21633,6876,2755,1342,477,2894,706,1040,2026-01-05
+TECH-5082,Mastering React: Complete Beginner Guide,Data Analytics,Advanced,Article,103791,45920,23735,2384,105,13747,3764,5113,2026-01-16
+TECH-5083,Mastering Java: Complete Advanced Guide,Cybersecurity,Intermediate,Architecture Guide,98032,71743,20036,1820,740,8253,2496,3158,2026-04-14
+TECH-5084,Mastering Artificial Intelligence: Complete Advanced Guide,Python,Intermediate,Article,216057,157284,43542,1816,729,8818,1819,1568,2026-07-24
+TECH-5085,Mastering Python: Complete Intermediate Guide,Python,Intermediate,Video Tutorial,233094,70571,12353,1333,62,10795,3218,2257,2026-02-02
+TECH-5086,Mastering React: Complete Intermediate Guide,Cloud Computing,Beginner,GitHub Repo,105535,41163,16168,1653,678,4869,1023,1135,2026-08-09
+TECH-5087,Mastering Artificial Intelligence: Complete Intermediate Guide,Cybersecurity,Intermediate,Article,18589,10107,3606,991,282,1188,211,178,2026-02-08
+TECH-5088,Mastering Artificial Intelligence: Complete Intermediate Guide,Cloud Computing,Beginner,Documentation,104283,60096,14786,586,388,7991,2492,2517,2026-05-02
+TECH-5089,Mastering Cybersecurity: Complete Beginner Guide,Data Analytics,Intermediate,GitHub Repo,12644,5590,3051,351,561,997,297,280,2026-05-27
+TECH-5090,Mastering Data Analytics: Complete Beginner Guide,Cloud Computing,Intermediate,Video Tutorial,236111,161584,27982,1724,227,12725,2163,3700,2026-04-16
+TECH-5091,Mastering Artificial Intelligence: Complete Beginner Guide,Python,Beginner,GitHub Repo,138981,65383,9005,1939,607,11019,2255,3393,2026-05-29
+TECH-5092,Mastering Python: Complete Intermediate Guide,Artificial Intelligence,Beginner,GitHub Repo,101741,54367,6514,1436,725,9803,1200,3408,2026-04-05
+TECH-5093,Mastering DevOps: Complete Intermediate Guide,Data Analytics,Advanced,Video Tutorial,37286,11739,8763,1205,351,5265,758,1988,2026-03-24
+TECH-5094,Mastering Java: Complete Beginner Guide,React,Beginner,Article,111099,73480,18363,1630,624,11656,1518,2484,2026-01-26
+TECH-5095,Mastering Cybersecurity: Complete Advanced Guide,Java,Intermediate,Article,52126,17702,11517,2446,361,3964,1023,1092,2026-03-10
+TECH-5096,Mastering Java: Complete Advanced Guide,DevOps,Advanced,Architecture Guide,94652,67023,8227,2454,120,12447,3731,4490,2026-05-23
+TECH-5097,Mastering Java: Complete Intermediate Guide,Cybersecurity,Advanced,Article,108637,59104,7132,1019,300,14831,4676,5571,2026-01-08
+TECH-5098,Mastering Python: Complete Beginner Guide,React,Advanced,Documentation,231812,165972,19118,262,516,23183,5008,2814,2026-05-12
+TECH-5099,Mastering Cloud Computing: Complete Advanced Guide,Artificial Intelligence,Intermediate,Video Tutorial,150745,69129,24132,2407,476,16683,3999,5114,2026-03-16
+TECH-5100,Mastering Python: Complete Advanced Guide,Artificial Intelligence,Intermediate,Video Tutorial,155259,75979,11069,327,329,20239,6598,4877,2026-06-01
+TECH-5101,Mastering Data Analytics: Complete Beginner Guide,Artificial Intelligence,Advanced,Documentation,218364,122709,19606,1398,756,14672,4800,1984,2026-08-04
+TECH-5102,Mastering React: Complete Intermediate Guide,Python,Beginner,Video Tutorial,126357,73144,14974,40,798,16137,3712,4174,2026-07-10
+TECH-5103,Mastering Cloud Computing: Complete Beginner Guide,Python,Beginner,Video Tutorial,12470,5754,1822,864,153,821,215,300,2026-05-24
+TECH-5104,Mastering Cloud Computing: Complete Advanced Guide,React,Advanced,GitHub Repo,138784,95791,16896,1221,388,19805,2038,7436,2026-08-07
+TECH-5105,Mastering Cybersecurity: Complete Beginner Guide,React,Intermediate,GitHub Repo,34036,19885,2533,1665,242,3623,610,1347,2026-04-13
+TECH-5106,Mastering Data Analytics: Complete Intermediate Guide,React,Beginner,GitHub Repo,35081,18969,5983,927,774,4300,1178,1308,2026-07-19
+TECH-5107,Mastering DevOps: Complete Beginner Guide,DevOps,Intermediate,Architecture Guide,15113,10622,2585,2437,675,2200,431,477,2026-04-03
+TECH-5108,Mastering Cybersecurity: Complete Advanced Guide,Data Analytics,Advanced,Video Tutorial,131399,75654,28347,1360,707,5652,1060,895,2026-01-28
+TECH-5109,Mastering Cloud Computing: Complete Intermediate Guide,DevOps,Intermediate,Article,167078,66119,13338,1004,737,22288,3601,4704,2026-04-06
+TECH-5110,Mastering Cloud Computing: Complete Intermediate Guide,Python,Beginner,GitHub Repo,40826,29963,3907,630,405,5388,976,955,2026-02-02
+TECH-5111,Mastering Python: Complete Advanced Guide,Python,Intermediate,Video Tutorial,55344,17443,4577,889,449,6601,2093,1171,2026-08-10
+TECH-5112,Mastering Java: Complete Advanced Guide,Data Analytics,Beginner,Video Tutorial,185524,78287,15367,1646,503,24032,4898,3555,2026-03-05
+TECH-5113,Mastering Data Analytics: Complete Advanced Guide,Python,Intermediate,Architecture Guide,23084,13670,2050,514,471,2402,435,374,2026-06-25
+TECH-5114,Mastering DevOps: Complete Intermediate Guide,Java,Intermediate,GitHub Repo,184710,125267,35703,1869,80,18404,2966,4150,2026-07-18
+TECH-5115,Mastering Cloud Computing: Complete Beginner Guide,Artificial Intelligence,Beginner,Documentation,187657,62551,14448,111,801,25527,6788,8467,2026-05-23
+TECH-5116,Mastering Data Analytics: Complete Beginner Guide,React,Advanced,Documentation,221983,120376,40289,802,454,15211,5031,1927,2026-02-06
+TECH-5117,Mastering Artificial Intelligence: Complete Advanced Guide,Cloud Computing,Intermediate,GitHub Repo,206242,143979,48573,1291,897,26359,5570,9401,2026-01-22
+TECH-5118,Mastering Artificial Intelligence: Complete Beginner Guide,Cloud Computing,Intermediate,Article,43076,19143,3616,1862,81,3990,929,764,2026-04-03
+TECH-5119,Mastering Artificial Intelligence: Complete Advanced Guide,Artificial Intelligence,Advanced,Architecture Guide,47660,22389,6967,2312,556,4916,1181,936,2026-05-02
+TECH-5120,Mastering Data Analytics: Complete Intermediate Guide,Cloud Computing,Advanced,Article,205478,71915,44181,2440,294,24189,5123,7411,2026-03-23
+TECH-5121,Mastering Java: Complete Advanced Guide,Python,Intermediate,Article,58426,37170,10171,2479,268,5361,962,2122,2026-03-21
+TECH-5122,Mastering Java: Complete Beginner Guide,Cybersecurity,Beginner,Documentation,248939,181816,18092,565,445,35595,11699,8501,2026-06-04
+TECH-5123,Mastering Cloud Computing: Complete Advanced Guide,Data Analytics,Advanced,Documentation,114981,56883,21629,1002,783,6683,869,1692,2026-07-19
+TECH-5124,Mastering Data Analytics: Complete Advanced Guide,Artificial Intelligence,Advanced,GitHub Repo,247879,175224,28397,758,228,34030,6968,5363,2026-05-12
+TECH-5125,Mastering React: Complete Intermediate Guide,Data Analytics,Advanced,Documentation,60691,42133,8301,1828,371,7850,2649,1862,2026-08-06
+TECH-5126,Mastering React: Complete Advanced Guide,Cloud Computing,Advanced,Architecture Guide,164308,109054,20550,1726,768,22529,5595,5720,2026-07-05
+TECH-5127,Mastering Java: Complete Intermediate Guide,Java,Intermediate,Documentation,90884,56713,8320,519,483,12935,1735,3974,2026-01-05
+TECH-5128,Mastering Artificial Intelligence: Complete Intermediate Guide,Data Analytics,Advanced,Architecture Guide,146694,64834,32765,765,334,8997,1448,1625,2026-03-31
+TECH-5129,Mastering Python: Complete Intermediate Guide,Artificial Intelligence,Advanced,Video Tutorial,82322,37354,12741,630,671,10619,1078,3742,2026-05-08
+TECH-5130,Mastering Artificial Intelligence: Complete Advanced Guide,DevOps,Advanced,Documentation,227936,118555,29844,1578,386,15341,1834,4495,2026-05-13
+TECH-5131,Mastering Java: Complete Intermediate Guide,Data Analytics,Intermediate,Documentation,98330,41013,5954,1513,577,6491,2061,1854,2026-05-26
+TECH-5132,Mastering Cybersecurity: Complete Advanced Guide,Artificial Intelligence,Intermediate,Architecture Guide,105269,45191,24851,100,312,12674,3954,3331,2026-05-14
+TECH-5133,Mastering Data Analytics: Complete Intermediate Guide,DevOps,Intermediate,GitHub Repo,119341,78184,15469,2363,881,6945,2176,2492,2026-01-13
+TECH-5134,Mastering Cybersecurity: Complete Advanced Guide,Cloud Computing,Advanced,Documentation,247743,163814,27561,714,497,32850,10585,11405,2026-08-05
+TECH-5135,Mastering Data Analytics: Complete Beginner Guide,Java,Intermediate,Architecture Guide,201172,126356,15281,214,63,17125,2999,5617,2026-05-27
+TECH-5136,Mastering Java: Complete Beginner Guide,Cybersecurity,Advanced,Article,98503,67076,6559,1395,348,14441,2570,3287,2026-05-22
+TECH-5137,Mastering Data Analytics: Complete Advanced Guide,Java,Beginner,Video Tutorial,180499,112344,21265,2385,185,24118,5595,8157,2026-03-16
+TECH-5138,Mastering Java: Complete Beginner Guide,DevOps,Advanced,Video Tutorial,80249,42285,12587,869,505,4455,1263,992,2026-03-06
+TECH-5139,Mastering DevOps: Complete Intermediate Guide,React,Beginner,Article,26057,11148,3188,1501,500,3629,895,851,2026-02-05
+TECH-5140,Mastering Cybersecurity: Complete Advanced Guide,Cloud Computing,Beginner,Video Tutorial,127403,75451,11079,2144,237,10502,3494,2633,2026-02-27
+TECH-5141,Mastering Python: Complete Advanced Guide,React,Intermediate,Documentation,28337,17256,3899,1964,154,3586,788,993,2026-02-26
+TECH-5142,Mastering React: Complete Beginner Guide,DevOps,Intermediate,Architecture Guide,192473,141262,34726,1927,418,19527,3538,7002,2026-04-04
+TECH-5143,Mastering React: Complete Beginner Guide,Java,Advanced,Documentation,190282,114362,24927,2192,809,26070,8266,5706,2026-06-06
+TECH-5144,Mastering React: Complete Beginner Guide,Java,Intermediate,Article,124509,59178,18692,1729,664,11588,2867,4094,2026-02-22
+TECH-5145,Mastering DevOps: Complete Advanced Guide,Cybersecurity,Beginner,Architecture Guide,128674,78149,19976,1372,444,18713,2194,3330,2026-08-05
+TECH-5146,Mastering Cybersecurity: Complete Advanced Guide,Data Analytics,Intermediate,Architecture Guide,244645,104848,44903,370,592,9891,1599,3868,2026-01-05
+TECH-5147,Mastering Java: Complete Intermediate Guide,React,Beginner,GitHub Repo,85800,35429,11185,1682,378,12751,3713,3349,2026-06-16
+TECH-5148,Mastering Cloud Computing: Complete Advanced Guide,Cybersecurity,Intermediate,Architecture Guide,201845,139623,23818,348,545,15108,2162,5420,2026-01-17
+TECH-5149,Mastering Data Analytics: Complete Beginner Guide,Cybersecurity,Beginner,GitHub Repo,96620,69567,9952,2302,147,9549,1374,2932,2026-03-30
+TECH-5150,Mastering Cybersecurity: Complete Beginner Guide,Cybersecurity,Intermediate,Documentation,148535,62451,9799,1115,351,15833,1683,4730,2026-03-09
+TECH-5151,Mastering Cybersecurity: Complete Advanced Guide,Artificial Intelligence,Advanced,Architecture Guide,175062,85240,32905,1697,116,11176,2631,1869,2026-05-14
+TECH-5152,Mastering Data Analytics: Complete Beginner Guide,DevOps,Beginner,Article,65396,37901,4203,2215,441,3272,624,598,2026-02-28
+TECH-5153,Mastering Artificial Intelligence: Complete Beginner Guide,DevOps,Beginner,Video Tutorial,42272,13700,2191,1911,554,2806,876,1044,2026-05-12
+TECH-5154,Mastering Data Analytics: Complete Advanced Guide,Data Analytics,Advanced,GitHub Repo,170266,68595,10557,2079,520,17940,2693,3050,2026-06-29
+TECH-5155,Mastering Data Analytics: Complete Advanced Guide,React,Beginner,Architecture Guide,203288,101204,41380,1928,591,26009,8036,7405,2026-04-20
+TECH-5156,Mastering Python: Complete Intermediate Guide,Cloud Computing,Beginner,Documentation,130898,85063,6950,2456,216,15734,3829,3191,2026-07-08
+TECH-5157,Mastering Cybersecurity: Complete Beginner Guide,Data Analytics,Advanced,Article,165193,76202,9581,678,888,10551,3580,2377,2026-05-04
+TECH-5158,Mastering Cybersecurity: Complete Advanced Guide,Java,Advanced,Architecture Guide,43374,28376,7806,1351,695,5685,1739,1369,2026-06-27
+TECH-5159,Mastering Cybersecurity: Complete Advanced Guide,Data Analytics,Advanced,Video Tutorial,107989,65750,8703,871,529,5357,1473,1338,2026-01-17
+TECH-5160,Mastering DevOps: Complete Beginner Guide,Python,Intermediate,Video Tutorial,98944,55650,14852,1490,717,5892,1856,990,2026-06-03
+TECH-5161,Mastering Cybersecurity: Complete Beginner Guide,DevOps,Intermediate,Article,183872,58884,31635,367,463,21141,5728,7759,2026-02-02
+TECH-5162,Mastering Cloud Computing: Complete Intermediate Guide,Cloud Computing,Advanced,GitHub Repo,62222,24554,15383,2379,408,7636,1155,1713,2026-01-04
+TECH-5163,Mastering DevOps: Complete Intermediate Guide,Java,Beginner,GitHub Repo,177400,123786,23705,1171,219,8658,1508,3062,2026-04-20
+TECH-5164,Mastering Java: Complete Beginner Guide,Cloud Computing,Intermediate,Architecture Guide,23230,15515,2074,1893,527,2184,575,644,2026-05-08
+TECH-5165,Mastering Java: Complete Advanced Guide,Java,Intermediate,Article,16947,9341,3238,1469,734,1820,578,448,2026-03-14
+TECH-5166,Mastering Python: Complete Intermediate Guide,Cybersecurity,Intermediate,Video Tutorial,170223,103769,17544,2200,133,18699,2371,6305,2026-04-03
+TECH-5167,Mastering Java: Complete Intermediate Guide,Python,Advanced,Article,25272,11134,3943,1869,669,2906,594,709,2026-04-21
+TECH-5168,Mastering Python: Complete Advanced Guide,Data Analytics,Intermediate,Article,100577,33827,19609,289,603,13994,1936,3752,2026-02-07
+TECH-5169,Mastering Python: Complete Intermediate Guide,React,Advanced,Documentation,8167,4713,1707,2094,448,1188,353,412,2026-06-22
+TECH-5170,Mastering Artificial Intelligence: Complete Intermediate Guide,DevOps,Intermediate,Architecture Guide,139902,54261,11147,1793,653,7201,1533,927,2026-07-24
+TECH-5171,Mastering Data Analytics: Complete Advanced Guide,React,Beginner,Architecture Guide,101271,50300,24109,743,659,11440,3122,3695,2026-01-19
+TECH-5172,Mastering Cybersecurity: Complete Beginner Guide,Java,Beginner,Architecture Guide,60788,24432,5848,510,566,7803,873,2655,2026-02-13
+TECH-5173,Mastering Cybersecurity: Complete Beginner Guide,Data Analytics,Advanced,GitHub Repo,112793,44965,28097,1515,507,8202,2848,2910,2026-03-14
+TECH-5174,Mastering Data Analytics: Complete Beginner Guide,DevOps,Beginner,GitHub Repo,46453,26233,5694,1213,424,1885,505,442,2026-01-16
+TECH-5175,Mastering Artificial Intelligence: Complete Beginner Guide,DevOps,Intermediate,Architecture Guide,202614,105152,10480,639,305,14340,3927,5640,2026-01-29
+TECH-5176,Mastering DevOps: Complete Advanced Guide,Data Analytics,Beginner,Article,185547,111248,41710,770,128,11915,2776,3047,2026-04-28
+TECH-5177,Mastering Java: Complete Beginner Guide,DevOps,Beginner,Article,146421,103990,30471,1098,414,13410,4326,5313,2026-07-31
+TECH-5178,Mastering Artificial Intelligence: Complete Advanced Guide,DevOps,Beginner,GitHub Repo,152305,63823,26638,1833,195,20159,5602,2483,2026-02-06
+TECH-5179,Mastering Data Analytics: Complete Beginner Guide,Cybersecurity,Beginner,Architecture Guide,183339,92003,14722,1175,530,19454,4147,7542,2026-02-11
+TECH-5180,Mastering Java: Complete Beginner Guide,React,Beginner,Article,19723,13013,2645,574,844,1510,212,561,2026-05-02
+TECH-5181,Mastering Data Analytics: Complete Advanced Guide,Cybersecurity,Intermediate,GitHub Repo,117730,53088,25238,408,177,16158,4201,6158,2026-03-15
+TECH-5182,Mastering DevOps: Complete Intermediate Guide,Data Analytics,Intermediate,Architecture Guide,146724,70507,15219,910,735,10998,3093,4102,2026-02-23
+TECH-5183,Mastering React: Complete Intermediate Guide,Data Analytics,Intermediate,Video Tutorial,182944,95179,29130,1906,644,24816,4610,5765,2026-05-08
+TECH-5184,Mastering React: Complete Beginner Guide,Artificial Intelligence,Advanced,Architecture Guide,44200,13921,3977,1985,196,2217,733,654,2026-05-18
+TECH-5185,Mastering Cloud Computing: Complete Intermediate Guide,React,Intermediate,Video Tutorial,83706,49797,18740,517,529,7184,1029,1077,2026-06-02
+TECH-5186,Mastering DevOps: Complete Advanced Guide,Data Analytics,Advanced,Article,137181,84215,19723,313,168,6471,1446,849,2026-03-06
+TECH-5187,Mastering Cybersecurity: Complete Beginner Guide,Cloud Computing,Advanced,Video Tutorial,59793,40311,4440,567,259,8292,954,2327,2026-01-31
+TECH-5188,Mastering Cybersecurity: Complete Intermediate Guide,React,Beginner,Documentation,236366,108877,58045,2363,333,23103,3294,7724,2026-02-22
+TECH-5189,Mastering Artificial Intelligence: Complete Intermediate Guide,Python,Intermediate,GitHub Repo,142316,71107,20994,1925,81,11918,1337,1939,2026-02-01
+TECH-5190,Mastering DevOps: Complete Beginner Guide,DevOps,Intermediate,Architecture Guide,43812,27958,5828,2467,878,6112,1618,1803,2026-03-10
+TECH-5191,Mastering Artificial Intelligence: Complete Beginner Guide,React,Beginner,Article,226492,86348,21692,1942,551,15188,2160,4902,2026-04-06
+TECH-5192,Mastering Java: Complete Beginner Guide,Data Analytics,Beginner,Video Tutorial,10164,4301,2110,532,207,1218,129,315,2026-04-01
+TECH-5193,Mastering DevOps: Complete Intermediate Guide,React,Advanced,Video Tutorial,80297,32041,11819,1729,664,7714,888,2037,2026-02-23
+TECH-5194,Mastering Data Analytics: Complete Advanced Guide,Java,Beginner,GitHub Repo,97806,52603,18672,783,753,7572,2193,2096,2026-03-07
+TECH-5195,Mastering DevOps: Complete Beginner Guide,Python,Advanced,Article,234624,84608,21014,685,169,23591,7529,8087,2026-06-26
+TECH-5196,Mastering Cloud Computing: Complete Advanced Guide,Cybersecurity,Advanced,Architecture Guide,4894,2697,1067,1853,412,414,108,94,2026-03-13
+TECH-5197,Mastering Artificial Intelligence: Complete Beginner Guide,Cloud Computing,Intermediate,Video Tutorial,108360,46543,9018,2176,337,8117,1090,1236,2026-05-05
+TECH-5198,Mastering DevOps: Complete Intermediate Guide,Python,Beginner,Documentation,65229,31986,14638,1773,480,7472,2554,1638,2026-05-06
+TECH-5199,Mastering Java: Complete Advanced Guide,DevOps,Intermediate,Documentation,46672,18242,8159,2425,545,6682,1541,2272,2026-03-29
+TECH-5200,Mastering React: Complete Beginner Guide,Data Analytics,Intermediate,Documentation,231963,153931,14442,2491,864,28557,5440,8700,2026-01-07
+TECH-5201,Mastering React: Complete Intermediate Guide,Cybersecurity,Beginner,Architecture Guide,96578,36643,19794,872,631,7876,971,1416,2026-03-27
+TECH-5202,Mastering React: Complete Beginner Guide,Data Analytics,Beginner,Article,191524,117914,45063,592,725,12252,1576,3994,2026-02-20
+TECH-5203,Mastering Cloud Computing: Complete Beginner Guide,DevOps,Intermediate,Architecture Guide,94931,62023,21728,58,400,5371,1614,1848,2026-07-25
+TECH-5204,Mastering Java: Complete Beginner Guide,React,Advanced,GitHub Repo,126658,89531,6780,568,191,12666,2627,1646,2026-01-31
+TECH-5205,Mastering DevOps: Complete Beginner Guide,Cloud Computing,Intermediate,Architecture Guide,188079,87453,32202,451,328,15698,3108,2321,2026-08-05
+TECH-5206,Mastering Java: Complete Advanced Guide,Cybersecurity,Advanced,Architecture Guide,216583,137320,47112,1683,869,8941,3074,2984,2026-03-28
+TECH-5207,Mastering Artificial Intelligence: Complete Advanced Guide,Artificial Intelligence,Advanced,Article,108956,80282,19277,420,721,15180,4697,3373,2026-05-25
+TECH-5208,Mastering React: Complete Intermediate Guide,Data Analytics,Advanced,Documentation,35027,21742,6570,2422,838,2247,372,844,2026-06-24
+TECH-5209,Mastering Python: Complete Intermediate Guide,DevOps,Advanced,Documentation,231862,146712,12113,211,312,33012,9831,8407,2026-03-04
+TECH-5210,Mastering React: Complete Intermediate Guide,React,Advanced,GitHub Repo,202521,95013,16681,338,468,15727,3421,2349,2026-02-14
+TECH-5211,Mastering Cloud Computing: Complete Advanced Guide,Cloud Computing,Intermediate,Documentation,234478,137973,22080,1713,240,23620,5293,6794,2026-06-25
+TECH-5212,Mastering Data Analytics: Complete Advanced Guide,Artificial Intelligence,Beginner,Architecture Guide,198212,87542,35204,520,70,19649,2151,3658,2026-06-19
+TECH-5213,Mastering Cybersecurity: Complete Advanced Guide,Python,Advanced,GitHub Repo,92084,30487,8267,922,615,6687,1345,1762,2026-04-08
+TECH-5214,Mastering Artificial Intelligence: Complete Beginner Guide,React,Advanced,Article,228205,97213,16908,220,164,28311,7873,4805,2026-03-10
+TECH-5215,Mastering Python: Complete Advanced Guide,Cloud Computing,Advanced,Documentation,217325,100365,12455,1639,281,27171,4384,9092,2026-08-04
+TECH-5216,Mastering Data Analytics: Complete Advanced Guide,Artificial Intelligence,Beginner,Architecture Guide,5071,3112,847,2093,569,698,185,201,2026-02-10
+TECH-5217,Mastering Cybersecurity: Complete Beginner Guide,DevOps,Advanced,GitHub Repo,180986,98561,44965,1767,689,23749,3537,9117,2026-07-04
+TECH-5218,Mastering Artificial Intelligence: Complete Beginner Guide,React,Intermediate,Article,33257,18166,3290,1600,513,4610,1546,1606,2026-06-21
+TECH-5219,Mastering Artificial Intelligence: Complete Intermediate Guide,Cybersecurity,Advanced,Video Tutorial,28516,20066,5229,2261,824,1260,274,399,2026-07-21
+TECH-5220,Mastering Cybersecurity: Complete Intermediate Guide,Cloud Computing,Intermediate,GitHub Repo,34505,19711,2167,1107,494,1772,188,337,2026-07-17
+TECH-5221,Mastering Java: Complete Beginner Guide,Cloud Computing,Intermediate,GitHub Repo,115163,81416,25449,709,878,7339,2399,2176,2026-03-14
+TECH-5222,Mastering Cloud Computing: Complete Intermediate Guide,Artificial Intelligence,Beginner,Architecture Guide,128324,81408,23386,1515,835,9020,2252,2454,2026-03-24
+TECH-5223,Mastering Java: Complete Beginner Guide,Python,Beginner,Architecture Guide,55852,25371,8617,70,651,5649,692,1242,2026-05-31
+TECH-5224,Mastering React: Complete Intermediate Guide,DevOps,Intermediate,Video Tutorial,183387,137138,11973,2479,793,25583,7003,9582,2026-06-08
+TECH-5225,Mastering React: Complete Intermediate Guide,Data Analytics,Beginner,Video Tutorial,19174,13808,1074,27,676,2391,496,935,2026-08-08
+TECH-5226,Mastering Python: Complete Beginner Guide,Python,Advanced,GitHub Repo,155093,97219,26319,1638,197,21180,3706,6794,2026-05-18
+TECH-5227,Mastering React: Complete Advanced Guide,Java,Advanced,Architecture Guide,170856,52584,26483,808,701,16687,1927,5205,2026-01-06
+TECH-5228,Mastering Java: Complete Advanced Guide,Cybersecurity,Advanced,Architecture Guide,34898,12618,4095,1105,768,4648,1524,708,2026-01-23
+TECH-5229,Mastering Cloud Computing: Complete Beginner Guide,Cloud Computing,Beginner,Architecture Guide,183102,94167,40617,549,615,24920,5219,8924,2026-01-25
+TECH-5230,Mastering Cloud Computing: Complete Intermediate Guide,DevOps,Beginner,Documentation,209841,108684,44105,2061,683,14393,1655,2065,2026-04-04
+TECH-5231,Mastering Artificial Intelligence: Complete Intermediate Guide,DevOps,Advanced,Documentation,37323,13902,7756,530,267,2776,483,754,2026-04-10
+TECH-5232,Mastering Java: Complete Advanced Guide,Data Analytics,Advanced,Video Tutorial,14296,9002,1961,1945,600,1176,363,398,2026-06-06
+TECH-5233,Mastering Cloud Computing: Complete Advanced Guide,Cybersecurity,Advanced,Documentation,169656,114191,34292,1402,420,14829,4354,4706,2026-08-07
+TECH-5234,Mastering Cybersecurity: Complete Advanced Guide,React,Advanced,Article,132536,76699,28533,2314,523,19139,6512,4355,2026-05-21
+TECH-5235,Mastering Java: Complete Advanced Guide,Cybersecurity,Beginner,Architecture Guide,12551,7970,816,1091,210,1592,546,437,2026-06-18
+TECH-5236,Mastering DevOps: Complete Beginner Guide,React,Advanced,Architecture Guide,218041,96746,45524,1126,366,31835,7590,6123,2026-02-03
+TECH-5237,Mastering Java: Complete Beginner Guide,React,Intermediate,Documentation,194243,120375,12072,1436,624,15266,4913,2243,2026-06-26
+TECH-5238,Mastering DevOps: Complete Advanced Guide,React,Advanced,Documentation,4223,3133,801,2064,543,518,77,112,2026-06-30
+TECH-5239,Mastering Java: Complete Advanced Guide,React,Beginner,Article,137074,71170,20439,138,383,12308,3874,3262,2026-05-26
+TECH-5240,Mastering Cybersecurity: Complete Beginner Guide,Python,Beginner,Video Tutorial,171311,65067,23667,1387,636,17290,5876,5353,2026-07-30
+TECH-5241,Mastering Artificial Intelligence: Complete Advanced Guide,Artificial Intelligence,Beginner,GitHub Repo,171767,56268,18313,1659,854,15013,2978,1851,2026-04-22
+TECH-5242,Mastering Cloud Computing: Complete Beginner Guide,React,Intermediate,Architecture Guide,183987,80947,41506,2245,871,7572,1674,2893,2026-05-23
+TECH-5243,Mastering Data Analytics: Complete Beginner Guide,Artificial Intelligence,Advanced,GitHub Repo,212059,78011,43100,881,253,21112,3422,5935,2026-08-07
+TECH-5244,Mastering Cloud Computing: Complete Beginner Guide,Cloud Computing,Beginner,GitHub Repo,113075,64321,6888,1406,554,15653,2768,5243,2026-06-26
+TECH-5245,Mastering Cybersecurity: Complete Advanced Guide,React,Beginner,GitHub Repo,3289,2211,389,542,506,461,102,65,2026-06-13
+TECH-5246,Mastering Cloud Computing: Complete Beginner Guide,React,Beginner,Documentation,74320,32137,17961,1600,558,6832,967,1609,2026-02-04
+TECH-5247,Mastering Cybersecurity: Complete Advanced Guide,Artificial Intelligence,Beginner,Article,240928,89111,38920,498,113,29805,9788,11416,2026-05-01
+TECH-5248,Mastering Artificial Intelligence: Complete Advanced Guide,Cloud Computing,Intermediate,Documentation,186916,56987,24351,1587,125,11591,1685,4569,2026-04-21
+TECH-5249,Mastering Artificial Intelligence: Complete Beginner Guide,Cybersecurity,Beginner,Video Tutorial,97320,56066,5183,855,569,4880,1224,733,2026-08-09
+TECH-5250,Mastering Java: Complete Advanced Guide,DevOps,Advanced,Architecture Guide,28552,18370,5180,353,451,2553,770,796,2026-04-24
+TECH-5251,Mastering Artificial Intelligence: Complete Beginner Guide,Python,Beginner,Video Tutorial,127773,56333,12065,1065,147,15920,2129,6151,2026-07-08
+TECH-5252,Mastering React: Complete Beginner Guide,React,Intermediate,Video Tutorial,207598,71142,12325,658,325,22075,3269,8109,2026-01-02
+TECH-5253,Mastering Cloud Computing: Complete Advanced Guide,Artificial Intelligence,Advanced,GitHub Repo,216525,154553,24503,2431,581,20446,2862,6144,2026-08-13
+TECH-5254,Mastering Artificial Intelligence: Complete Intermediate Guide,React,Advanced,GitHub Repo,198778,111207,42371,2389,467,29682,5968,11431,2026-05-13
+TECH-5255,Mastering Artificial Intelligence: Complete Advanced Guide,Cybersecurity,Intermediate,GitHub Repo,73448,28355,7253,2069,660,7341,1388,2761,2026-02-10
+TECH-5256,Mastering Data Analytics: Complete Beginner Guide,Java,Advanced,GitHub Repo,91710,47202,20178,1528,576,9379,2331,1916,2026-06-22
+TECH-5257,Mastering Cybersecurity: Complete Beginner Guide,React,Intermediate,Article,23271,17267,5367,1906,557,2510,874,372,2026-02-06
+TECH-5258,Mastering Artificial Intelligence: Complete Intermediate Guide,Artificial Intelligence,Intermediate,Documentation,146059,46445,23142,250,436,15321,2443,3293,2026-06-25
+TECH-5259,Mastering DevOps: Complete Advanced Guide,Python,Beginner,Architecture Guide,232829,148239,44338,1021,94,20392,6280,7386,2026-04-03
+TECH-5260,Mastering Java: Complete Advanced Guide,Data Analytics,Intermediate,Article,165594,80458,20515,474,766,18929,3767,4098,2026-03-09
+TECH-5261,Mastering Cybersecurity: Complete Intermediate Guide,Cloud Computing,Advanced,Architecture Guide,193645,141926,33140,2425,93,27990,8152,5982,2026-07-10
+TECH-5262,Mastering React: Complete Beginner Guide,Cybersecurity,Advanced,Video Tutorial,34164,17086,2832,565,338,1840,620,728,2026-03-12
+TECH-5263,Mastering Python: Complete Beginner Guide,React,Advanced,Video Tutorial,197356,62501,30486,838,786,23510,3654,7917,2026-02-11
+TECH-5264,Mastering Data Analytics: Complete Advanced Guide,Cybersecurity,Intermediate,GitHub Repo,5920,4190,1435,1985,330,388,114,83,2026-07-01
+TECH-5265,Mastering Data Analytics: Complete Beginner Guide,Cloud Computing,Intermediate,Article,124044,41632,23258,689,675,16072,3194,5104,2026-01-24
+TECH-5266,Mastering Cloud Computing: Complete Intermediate Guide,Cloud Computing,Beginner,GitHub Repo,211075,72026,16925,92,652,26785,7356,3947,2026-05-26
+TECH-5267,Mastering Python: Complete Intermediate Guide,React,Beginner,GitHub Repo,158929,111440,36344,200,825,8904,2285,2005,2026-04-26
+TECH-5268,Mastering Data Analytics: Complete Intermediate Guide,Python,Intermediate,Video Tutorial,60474,42437,6616,848,475,5744,1138,1477,2026-05-06
+TECH-5269,Mastering DevOps: Complete Intermediate Guide,Python,Intermediate,Video Tutorial,184470,95171,43116,2465,762,8143,2405,2714,2026-04-14
+TECH-5270,Mastering DevOps: Complete Beginner Guide,Cybersecurity,Intermediate,Documentation,70985,30033,7295,1944,631,9633,1319,3824,2026-07-10
+TECH-5271,Mastering Cloud Computing: Complete Intermediate Guide,React,Advanced,Documentation,203262,121319,11500,924,767,14591,2295,4819,2026-07-01
+TECH-5272,Mastering Cybersecurity: Complete Advanced Guide,DevOps,Beginner,Video Tutorial,116012,83278,14538,777,779,17162,4446,4116,2026-07-02
+TECH-5273,Mastering React: Complete Beginner Guide,DevOps,Beginner,Article,64900,35000,14878,2372,641,9659,1378,1608,2026-05-15
+TECH-5274,Mastering Cybersecurity: Complete Intermediate Guide,Data Analytics,Intermediate,Architecture Guide,67539,48855,12022,47,517,2706,692,601,2026-07-04
+TECH-5275,Mastering DevOps: Complete Beginner Guide,Python,Intermediate,Documentation,209802,135404,34378,1132,634,27020,5120,7956,2026-07-18
+TECH-5276,Mastering Java: Complete Intermediate Guide,Cloud Computing,Advanced,GitHub Repo,117496,60687,11233,2433,609,15203,1760,4658,2026-04-26
+TECH-5277,Mastering DevOps: Complete Beginner Guide,Cybersecurity,Intermediate,GitHub Repo,101166,71982,20555,1152,165,5444,1197,1056,2026-07-06
+TECH-5278,Mastering Artificial Intelligence: Complete Advanced Guide,Python,Advanced,Architecture Guide,32261,17613,2943,1346,402,4684,1084,952,2026-07-23
+TECH-5279,Mastering React: Complete Beginner Guide,Java,Advanced,Video Tutorial,104112,32433,25242,1049,270,9312,2344,1278,2026-07-03
+TECH-5280,Mastering Python: Complete Intermediate Guide,Cloud Computing,Intermediate,Article,191215,131130,33484,2242,367,23570,5787,4188,2026-07-31
+TECH-5281,Mastering Data Analytics: Complete Beginner Guide,Java,Advanced,Article,90900,42610,7991,1141,636,7541,1361,2953,2026-05-21
+TECH-5282,Mastering Cybersecurity: Complete Beginner Guide,Cloud Computing,Beginner,Article,69310,43666,11258,522,414,7900,1866,2420,2026-04-16
+TECH-5283,Mastering Java: Complete Intermediate Guide,Cloud Computing,Intermediate,Video Tutorial,227469,126370,36063,2079,572,18960,4733,6014,2026-07-28
+TECH-5284,Mastering Cybersecurity: Complete Advanced Guide,Cloud Computing,Advanced,GitHub Repo,216174,97512,15277,902,140,18971,3146,4998,2026-06-14
+TECH-5285,Mastering React: Complete Advanced Guide,Artificial Intelligence,Beginner,Article,163825,112295,21405,2377,234,9781,2490,2630,2026-06-02
+TECH-5286,Mastering Java: Complete Intermediate Guide,React,Advanced,Video Tutorial,57016,30803,3850,311,612,6957,1868,1481,2026-08-03
+TECH-5287,Mastering DevOps: Complete Advanced Guide,React,Beginner,Video Tutorial,248080,128237,44849,2246,197,13878,3528,2964,2026-05-01
+TECH-5288,Mastering DevOps: Complete Intermediate Guide,Data Analytics,Advanced,Article,143814,47613,15245,1957,522,21001,4879,2712,2026-07-26
+TECH-5289,Mastering Cloud Computing: Complete Beginner Guide,Cybersecurity,Intermediate,Article,94677,51001,20392,2156,291,4348,994,700,2026-05-07
+TECH-5290,Mastering Python: Complete Intermediate Guide,Data Analytics,Beginner,Architecture Guide,124876,58408,22298,548,846,6483,2259,1416,2026-04-01
+TECH-5291,Mastering Artificial Intelligence: Complete Beginner Guide,DevOps,Intermediate,Documentation,3915,2390,973,2177,519,220,39,32,2026-07-18
+TECH-5292,Mastering Cloud Computing: Complete Advanced Guide,Cloud Computing,Beginner,Article,87722,49365,13101,527,508,5203,1656,789,2026-01-08
+TECH-5293,Mastering Data Analytics: Complete Intermediate Guide,Artificial Intelligence,Intermediate,Video Tutorial,60579,25741,7745,343,506,3586,401,1107,2026-07-26
+TECH-5294,Mastering DevOps: Complete Advanced Guide,React,Advanced,Architecture Guide,165887,80382,16489,2142,368,19200,3018,6263,2026-08-09
+TECH-5295,Mastering Java: Complete Beginner Guide,DevOps,Advanced,GitHub Repo,25832,9355,2673,2182,867,2336,567,669,2026-04-03
+TECH-5296,Mastering React: Complete Beginner Guide,Python,Intermediate,Video Tutorial,54295,18676,7063,264,219,3067,719,394,2026-06-04
+TECH-5297,Mastering DevOps: Complete Advanced Guide,Artificial Intelligence,Advanced,Architecture Guide,166530,116182,28722,203,375,16660,5170,3768,2026-08-04
+TECH-5298,Mastering Artificial Intelligence: Complete Intermediate Guide,React,Intermediate,Documentation,50665,30060,8047,2054,548,5113,1402,1216,2026-06-14
+TECH-5299,Mastering Cybersecurity: Complete Beginner Guide,Data Analytics,Advanced,GitHub Repo,75821,51964,9230,1027,491,9682,1937,3101,2026-03-25
+TECH-5300,Mastering Artificial Intelligence: Complete Intermediate Guide,Python,Advanced,GitHub Repo,72534,43256,14523,1953,94,4292,755,1077,2026-04-11
+TECH-5301,Mastering Cloud Computing: Complete Advanced Guide,React,Beginner,Article,201566,143520,16675,65,92,18983,6065,4552,2026-05-09
+TECH-5302,Mastering Artificial Intelligence: Complete Intermediate Guide,Java,Beginner,GitHub Repo,187670,104581,30430,712,485,27777,8475,8676,2026-01-28
+TECH-5303,Mastering React: Complete Beginner Guide,Cloud Computing,Advanced,GitHub Repo,208414,117810,50219,791,754,13972,4464,2285,2026-07-03
+TECH-5304,Mastering Data Analytics: Complete Beginner Guide,Python,Beginner,GitHub Repo,83208,50053,7870,1792,831,12056,1948,4553,2026-07-09
+TECH-5305,Mastering Python: Complete Advanced Guide,Python,Intermediate,Architecture Guide,230132,107423,39291,1565,639,25888,6859,8742,2026-04-25
+TECH-5306,Mastering Java: Complete Advanced Guide,React,Beginner,Documentation,98162,64741,14868,2451,260,11634,3268,2190,2026-01-23
+TECH-5307,Mastering Cloud Computing: Complete Intermediate Guide,DevOps,Beginner,GitHub Repo,193207,82471,41266,36,863,25350,7315,6983,2026-06-18
+TECH-5308,Mastering Java: Complete Advanced Guide,React,Beginner,Article,168111,120956,25012,2167,261,17186,5096,2534,2026-01-10
+TECH-5309,Mastering Artificial Intelligence: Complete Advanced Guide,Artificial Intelligence,Intermediate,Architecture Guide,51367,27026,9342,364,503,6919,1555,1592,2026-04-02
+TECH-5310,Mastering Data Analytics: Complete Intermediate Guide,Java,Advanced,GitHub Repo,90803,57386,22358,1858,327,9399,2107,3546,2026-08-06
+TECH-5311,Mastering Java: Complete Advanced Guide,Java,Beginner,Architecture Guide,3623,1612,563,1577,702,252,45,100,2026-03-13
+TECH-5312,Mastering React: Complete Intermediate Guide,Cybersecurity,Beginner,Documentation,77789,44805,16194,358,482,6174,677,2111,2026-01-28
+TECH-5313,Mastering Data Analytics: Complete Beginner Guide,Cloud Computing,Beginner,Video Tutorial,93588,41899,17691,1692,221,8835,1311,1961,2026-03-01
+TECH-5314,Mastering Python: Complete Intermediate Guide,React,Intermediate,Architecture Guide,213075,78483,36938,378,385,16199,3043,2460,2026-08-03
+TECH-5315,Mastering DevOps: Complete Intermediate Guide,Artificial Intelligence,Advanced,Documentation,224089,151326,13279,871,102,28951,7059,4457,2026-02-18
+TECH-5316,Mastering DevOps: Complete Advanced Guide,Python,Beginner,GitHub Repo,109513,70431,15444,2089,823,15050,2561,3905,2026-05-16
+TECH-5317,Mastering Data Analytics: Complete Intermediate Guide,DevOps,Beginner,Architecture Guide,66665,26391,3424,2434,293,6127,1875,1347,2026-06-08
+TECH-5318,Mastering Artificial Intelligence: Complete Advanced Guide,DevOps,Intermediate,GitHub Repo,151520,75495,32608,1645,705,9957,1109,2632,2026-05-12
+TECH-5319,Mastering Python: Complete Intermediate Guide,Java,Advanced,Article,59692,22522,10650,136,526,3724,1072,1448,2026-07-17
+TECH-5320,Mastering Cloud Computing: Complete Beginner Guide,React,Intermediate,Architecture Guide,200987,74809,31310,1449,386,18052,2003,3769,2026-03-11
+TECH-5321,Mastering Cloud Computing: Complete Advanced Guide,Data Analytics,Beginner,Article,168252,94065,38122,2063,390,10532,3440,2644,2026-01-01
+TECH-5322,Mastering Artificial Intelligence: Complete Beginner Guide,Cybersecurity,Beginner,GitHub Repo,116973,60914,23093,1737,93,16805,2353,6124,2026-05-23
+TECH-5323,Mastering DevOps: Complete Intermediate Guide,React,Beginner,Architecture Guide,89036,50526,18941,947,550,9581,3064,3604,2026-05-25
+TECH-5324,Mastering DevOps: Complete Beginner Guide,React,Advanced,GitHub Repo,169183,81681,35516,1349,713,17859,3411,3027,2026-02-09
+TECH-5325,Mastering Python: Complete Advanced Guide,Artificial Intelligence,Advanced,Documentation,148590,111166,22299,1142,391,9013,2383,1935,2026-02-26
+TECH-5326,Mastering DevOps: Complete Beginner Guide,Python,Intermediate,Architecture Guide,80144,49793,18119,135,661,10111,2986,2901,2026-01-01
+TECH-5327,Mastering Python: Complete Advanced Guide,Java,Beginner,Article,85401,38349,5005,2255,295,4264,1454,995,2026-02-16
+TECH-5328,Mastering Cloud Computing: Complete Intermediate Guide,Cloud Computing,Intermediate,GitHub Repo,23909,8883,3799,1564,858,2603,844,617,2026-02-10
+TECH-5329,Mastering React: Complete Advanced Guide,Python,Intermediate,Video Tutorial,109698,48588,12815,2127,206,13601,2779,2148,2026-07-23
+TECH-5330,Mastering Artificial Intelligence: Complete Advanced Guide,Artificial Intelligence,Advanced,Documentation,67756,31934,14369,2433,887,10117,1032,2024,2026-07-06
+TECH-5331,Mastering Cybersecurity: Complete Beginner Guide,Python,Intermediate,Architecture Guide,49478,21689,6018,1896,783,7238,1894,2478,2026-03-14
+TECH-5332,Mastering DevOps: Complete Intermediate Guide,Artificial Intelligence,Beginner,GitHub Repo,218554,84433,22928,726,290,24964,5527,7032,2026-04-05
+TECH-5333,Mastering Artificial Intelligence: Complete Advanced Guide,Java,Beginner,Article,177194,68783,9915,1242,594,11485,2518,4218,2026-02-04
+TECH-5334,Mastering Data Analytics: Complete Beginner Guide,React,Beginner,Documentation,249683,103553,19524,2333,225,13416,2551,2074,2026-07-17
+TECH-5335,Mastering DevOps: Complete Advanced Guide,React,Intermediate,Video Tutorial,155140,81245,11533,1277,721,9960,2522,1404,2026-04-27
+TECH-5336,Mastering Data Analytics: Complete Beginner Guide,Data Analytics,Advanced,GitHub Repo,211119,155088,37011,1660,295,16267,3950,5645,2026-04-01
+TECH-5337,Mastering Java: Complete Beginner Guide,Artificial Intelligence,Beginner,Article,116516,46987,14984,579,171,14139,2886,3074,2026-05-13
+TECH-5338,Mastering React: Complete Beginner Guide,React,Advanced,GitHub Repo,204736,99410,14034,1941,248,26786,5920,9398,2026-07-05
+TECH-5339,Mastering Cloud Computing: Complete Beginner Guide,Data Analytics,Intermediate,Architecture Guide,135741,71156,26682,1515,156,18493,5360,4778,2026-06-04
+TECH-5340,Mastering Cybersecurity: Complete Intermediate Guide,Java,Intermediate,Documentation,112181,41158,27965,1619,400,12990,2974,4667,2026-03-05
+TECH-5341,Mastering React: Complete Intermediate Guide,Cybersecurity,Beginner,GitHub Repo,47754,35182,10808,428,515,5887,1997,2210,2026-02-06
+TECH-5342,Mastering React: Complete Advanced Guide,Artificial Intelligence,Intermediate,Article,227407,99437,49912,1356,429,20648,7141,3976,2026-07-28
+TECH-5343,Mastering React: Complete Advanced Guide,DevOps,Intermediate,GitHub Repo,83047,34973,9408,1701,484,11274,1513,1680,2026-07-30
+TECH-5344,Mastering Python: Complete Intermediate Guide,Python,Intermediate,Article,193120,123077,32775,701,722,14919,1752,3546,2026-08-01
+TECH-5345,Mastering Python: Complete Intermediate Guide,Python,Advanced,Video Tutorial,150898,46828,25288,2140,472,12574,1802,4321,2026-03-27
+TECH-5346,Mastering Java: Complete Beginner Guide,Python,Intermediate,Video Tutorial,113867,67854,28051,653,713,12947,2505,4262,2026-07-30
+TECH-5347,Mastering DevOps: Complete Beginner Guide,Cloud Computing,Intermediate,Article,113308,38775,22315,759,810,11853,3328,4380,2026-01-22
+TECH-5348,Mastering React: Complete Intermediate Guide,React,Intermediate,Article,10174,3398,937,1270,106,1015,287,396,2026-05-14
+TECH-5349,Mastering Cybersecurity: Complete Beginner Guide,Data Analytics,Beginner,Architecture Guide,173937,105843,30095,2308,445,15470,2096,3534,2026-02-28
+TECH-5350,Mastering Java: Complete Advanced Guide,Cloud Computing,Advanced,Video Tutorial,103159,67873,14240,2142,532,15226,3467,4349,2026-06-28
+TECH-5351,Mastering Cybersecurity: Complete Intermediate Guide,Cloud Computing,Beginner,Video Tutorial,72637,30681,9753,1158,639,5494,1668,1865,2026-03-01
+TECH-5352,Mastering Artificial Intelligence: Complete Intermediate Guide,Cloud Computing,Advanced,Article,148372,97968,32789,797,130,13670,2812,3747,2026-01-28
+TECH-5353,Mastering Cybersecurity: Complete Beginner Guide,DevOps,Advanced,Documentation,137424,99329,20935,920,743,17888,4886,5297,2026-06-29
+TECH-5354,Mastering Data Analytics: Complete Advanced Guide,Python,Beginner,Architecture Guide,196592,132327,26897,2234,567,22818,6790,6734,2026-02-07
+TECH-5355,Mastering React: Complete Beginner Guide,Python,Advanced,Article,42802,30975,4026,1998,357,1900,224,578,2026-08-08
+TECH-5356,Mastering DevOps: Complete Advanced Guide,Data Analytics,Beginner,Documentation,191621,60354,19756,914,831,8726,2757,1452,2026-06-23
+TECH-5357,Mastering Java: Complete Beginner Guide,React,Advanced,GitHub Repo,226487,94120,28115,1514,520,25649,3426,8323,2026-05-16
+TECH-5358,Mastering Java: Complete Intermediate Guide,Java,Intermediate,Documentation,60836,32683,14707,1415,314,8390,2010,2324,2026-05-10
+TECH-5359,Mastering React: Complete Beginner Guide,Java,Advanced,GitHub Repo,22842,13297,3528,984,718,1019,130,407,2026-05-17
+TECH-5360,Mastering React: Complete Intermediate Guide,Cybersecurity,Intermediate,Article,137524,50451,17614,1474,713,7564,893,2651,2026-07-31
+TECH-5361,Mastering Data Analytics: Complete Advanced Guide,Java,Beginner,Video Tutorial,144437,100123,27731,1537,269,13510,1681,4058,2026-02-25
+TECH-5362,Mastering DevOps: Complete Beginner Guide,Artificial Intelligence,Intermediate,Article,93751,35888,5506,2176,867,10625,2418,3529,2026-07-18
+TECH-5363,Mastering Data Analytics: Complete Beginner Guide,Cloud Computing,Beginner,Video Tutorial,54815,38528,8823,167,289,7180,1521,1540,2026-08-11
+TECH-5364,Mastering DevOps: Complete Advanced Guide,Java,Beginner,GitHub Repo,30908,22428,4973,257,598,3781,1080,500,2026-01-02
+TECH-5365,Mastering Java: Complete Beginner Guide,Data Analytics,Intermediate,Video Tutorial,43807,29362,6828,1470,258,4695,986,755,2026-01-09
+TECH-5366,Mastering Java: Complete Beginner Guide,Java,Intermediate,Architecture Guide,87484,59879,11806,793,152,11753,3868,3111,2026-06-07
+TECH-5367,Mastering Java: Complete Intermediate Guide,Cloud Computing,Beginner,GitHub Repo,243431,110711,14733,1160,466,26542,7289,5862,2026-03-04
+TECH-5368,Mastering Cloud Computing: Complete Beginner Guide,DevOps,Advanced,GitHub Repo,31355,10593,2577,876,352,3748,1053,1440,2026-05-18
+TECH-5369,Mastering DevOps: Complete Advanced Guide,DevOps,Advanced,Architecture Guide,13261,6707,2844,920,249,1773,363,366,2026-05-25
+TECH-5370,Mastering Artificial Intelligence: Complete Advanced Guide,Python,Intermediate,Video Tutorial,197276,91698,26604,2446,665,27625,4446,8417,2026-05-07
+TECH-5371,Mastering Python: Complete Beginner Guide,DevOps,Beginner,Video Tutorial,128609,60450,21445,2111,240,12445,2189,3480,2026-04-15
+TECH-5372,Mastering DevOps: Complete Intermediate Guide,DevOps,Intermediate,Article,156033,115099,24983,2416,838,18775,3419,2791,2026-07-01
+TECH-5373,Mastering Cybersecurity: Complete Intermediate Guide,Python,Advanced,Documentation,205316,79316,49056,60,202,20730,3665,5528,2026-07-24
+TECH-5374,Mastering Data Analytics: Complete Advanced Guide,DevOps,Intermediate,GitHub Repo,67709,43101,4426,1589,691,2876,848,736,2026-05-30
+TECH-5375,Mastering Java: Complete Beginner Guide,Cloud Computing,Beginner,Documentation,3999,1806,568,1928,511,332,90,60,2026-06-30
+TECH-5376,Mastering DevOps: Complete Advanced Guide,Data Analytics,Beginner,Architecture Guide,92745,42376,12477,19,370,6461,779,1675,2026-06-09
+TECH-5377,Mastering Java: Complete Beginner Guide,Artificial Intelligence,Intermediate,Video Tutorial,238134,154556,31165,2451,97,27827,3074,9911,2026-04-11
+TECH-5378,Mastering DevOps: Complete Intermediate Guide,Cloud Computing,Advanced,Architecture Guide,96267,39147,14013,562,509,8645,2540,1536,2026-07-06
+TECH-5379,Mastering Java: Complete Intermediate Guide,DevOps,Advanced,GitHub Repo,246753,89305,37325,2145,644,12130,2940,4253,2026-01-06
+TECH-5380,Mastering Data Analytics: Complete Beginner Guide,DevOps,Advanced,Documentation,21333,11604,3378,1930,793,947,284,192,2026-07-20
+TECH-5381,Mastering Java: Complete Advanced Guide,Cybersecurity,Intermediate,Documentation,189605,115637,28260,558,571,8472,2559,2971,2026-03-01
+TECH-5382,Mastering Artificial Intelligence: Complete Advanced Guide,Java,Advanced,Architecture Guide,182984,88432,13514,46,247,18767,3469,7276,2026-03-17
+TECH-5383,Mastering Cloud Computing: Complete Advanced Guide,DevOps,Advanced,Video Tutorial,170940,69169,17045,1904,704,10680,1463,1871,2026-05-10
+TECH-5384,Mastering Cybersecurity: Complete Beginner Guide,Java,Beginner,Video Tutorial,167941,59213,18715,191,531,9764,1569,3775,2026-07-01
+TECH-5385,Mastering DevOps: Complete Beginner Guide,React,Advanced,Documentation,56692,34779,2977,211,263,4315,665,526,2026-06-18
+TECH-5386,Mastering DevOps: Complete Intermediate Guide,Cybersecurity,Intermediate,GitHub Repo,8593,3508,899,2239,415,785,115,195,2026-06-06
+TECH-5387,Mastering Python: Complete Beginner Guide,Artificial Intelligence,Beginner,Video Tutorial,80352,41416,7406,1657,419,6925,724,2467,2026-07-14
+TECH-5388,Mastering Artificial Intelligence: Complete Advanced Guide,Cloud Computing,Beginner,Article,67763,34335,4188,2112,868,6775,1767,2161,2026-07-30
+TECH-5389,Mastering Data Analytics: Complete Intermediate Guide,Data Analytics,Advanced,Video Tutorial,244980,75675,52138,1915,185,17680,4328,5484,2026-02-08
+TECH-5390,Mastering Cloud Computing: Complete Intermediate Guide,Python,Advanced,Documentation,226116,93626,39744,1718,337,22371,4747,5633,2026-07-12
+TECH-5391,Mastering React: Complete Beginner Guide,React,Beginner,Documentation,124751,84433,23293,373,896,7485,1643,1900,2026-04-20
+TECH-5392,Mastering Python: Complete Beginner Guide,Python,Advanced,Video Tutorial,221421,143694,16476,244,242,22493,7435,5751,2026-05-01
+TECH-5393,Mastering Artificial Intelligence: Complete Intermediate Guide,Cybersecurity,Beginner,Architecture Guide,112975,34082,23031,1218,98,14354,2035,2959,2026-07-27
+TECH-5394,Mastering React: Complete Beginner Guide,Artificial Intelligence,Advanced,Article,235334,104500,31795,2420,614,27579,9285,5885,2026-03-11
+TECH-5395,Mastering Python: Complete Beginner Guide,React,Beginner,Video Tutorial,124245,91896,20134,2296,471,9223,1616,2252,2026-06-22
+TECH-5396,Mastering Java: Complete Advanced Guide,Cloud Computing,Beginner,Documentation,208264,116781,33490,2222,807,13104,2671,2461,2026-07-14
+TECH-5397,Mastering Java: Complete Advanced Guide,Cybersecurity,Advanced,Article,160571,48268,37469,338,884,8840,2544,2897,2026-05-25
+TECH-5398,Mastering DevOps: Complete Advanced Guide,Data Analytics,Intermediate,GitHub Repo,202457,66954,46372,391,509,10032,1138,2389,2026-01-06
+TECH-5399,Mastering Cloud Computing: Complete Beginner Guide,React,Beginner,Documentation,84719,59003,6387,464,785,11108,3695,1364,2026-07-10
+TECH-5400,Mastering Data Analytics: Complete Intermediate Guide,React,Beginner,Article,39501,14138,2286,2029,128,2417,671,667,2026-08-03
+TECH-5401,Mastering Artificial Intelligence: Complete Beginner Guide,Java,Advanced,GitHub Repo,209134,148635,30660,256,841,10524,1961,2397,2026-05-23
+TECH-5402,Mastering Cybersecurity: Complete Intermediate Guide,React,Beginner,Video Tutorial,106574,77020,20391,2413,190,15326,4141,5702,2026-05-21
+TECH-5403,Mastering Cybersecurity: Complete Advanced Guide,DevOps,Advanced,Video Tutorial,217732,117754,43783,2408,717,20530,4680,6145,2026-01-02
+TECH-5404,Mastering Java: Complete Beginner Guide,React,Intermediate,Article,206776,104557,47968,525,680,24525,7314,2997,2026-01-10
+TECH-5405,Mastering Data Analytics: Complete Intermediate Guide,Data Analytics,Advanced,GitHub Repo,116588,55586,14927,1714,571,7659,1074,1592,2026-05-16
+TECH-5406,Mastering Java: Complete Intermediate Guide,Artificial Intelligence,Beginner,Architecture Guide,32678,21111,3998,1058,254,1768,213,703,2026-06-13
+TECH-5407,Mastering Python: Complete Intermediate Guide,Data Analytics,Advanced,Video Tutorial,117768,37287,7045,1147,669,13859,2323,2678,2026-02-05
+TECH-5408,Mastering Python: Complete Advanced Guide,React,Beginner,GitHub Repo,83332,47484,9870,239,392,8235,1296,3215,2026-03-14
+TECH-5409,Mastering Artificial Intelligence: Complete Advanced Guide,Python,Advanced,Documentation,246457,180726,15878,2031,225,15975,4680,3623,2026-04-14
+TECH-5410,Mastering Data Analytics: Complete Advanced Guide,React,Advanced,Documentation,151252,56393,36517,2101,416,20134,4443,7663,2026-02-13
+TECH-5411,Mastering Java: Complete Intermediate Guide,Artificial Intelligence,Beginner,GitHub Repo,207020,85726,18297,1999,879,20217,3554,7820,2026-01-17
+TECH-5412,Mastering DevOps: Complete Advanced Guide,Artificial Intelligence,Advanced,Documentation,90710,45600,21426,2129,603,6182,1220,774,2026-02-28
+TECH-5413,Mastering React: Complete Intermediate Guide,Data Analytics,Beginner,Architecture Guide,84539,56487,12003,2110,286,8748,2620,3227,2026-03-29
+TECH-5414,Mastering Java: Complete Advanced Guide,Cybersecurity,Intermediate,Article,207769,120208,32095,638,689,14284,2741,5315,2026-01-14
+TECH-5415,Mastering React: Complete Beginner Guide,Cloud Computing,Advanced,Documentation,141561,82884,33130,1005,384,17295,3956,4968,2026-01-15
+TECH-5416,Mastering Data Analytics: Complete Beginner Guide,Python,Advanced,Video Tutorial,90304,59653,11818,656,748,12838,2542,2747,2026-06-13
+TECH-5417,Mastering Cybersecurity: Complete Advanced Guide,Cybersecurity,Intermediate,Article,78445,48867,10932,1781,328,7565,1430,2466,2026-04-21
+TECH-5418,Mastering Data Analytics: Complete Advanced Guide,Java,Beginner,Architecture Guide,247765,85956,29403,738,505,21054,5770,7621,2026-07-16
+TECH-5419,Mastering Data Analytics: Complete Beginner Guide,DevOps,Beginner,Article,35202,26336,6827,1511,307,1685,291,358,2026-02-17
+TECH-5420,Mastering Cybersecurity: Complete Advanced Guide,Data Analytics,Advanced,Documentation,153947,81952,34205,1925,582,12289,2055,2433,2026-07-14
+TECH-5421,Mastering Cybersecurity: Complete Beginner Guide,Java,Beginner,Documentation,119937,62792,9257,839,231,14928,2778,3224,2026-01-12
+TECH-5422,Mastering Cybersecurity: Complete Advanced Guide,React,Intermediate,Documentation,29947,21675,5783,1755,642,3425,1109,1325,2026-06-09
+TECH-5423,Mastering React: Complete Advanced Guide,DevOps,Beginner,Article,37906,19869,6098,605,712,5111,881,701,2026-02-01
+TECH-5424,Mastering Cybersecurity: Complete Intermediate Guide,DevOps,Advanced,Article,171832,90496,9498,213,446,22504,2519,5703,2026-06-20
+TECH-5425,Mastering Artificial Intelligence: Complete Advanced Guide,Python,Intermediate,GitHub Repo,37405,17674,5947,484,290,2286,778,875,2026-03-30
+TECH-5426,Mastering Data Analytics: Complete Intermediate Guide,Java,Intermediate,Article,116570,63332,22728,1060,671,11814,1349,1694,2026-03-01
+TECH-5427,Mastering React: Complete Advanced Guide,Python,Advanced,Video Tutorial,229967,170388,28528,1197,481,18179,2826,4532,2026-01-31
+TECH-5428,Mastering DevOps: Complete Beginner Guide,Python,Intermediate,Video Tutorial,51973,32802,6984,1801,322,6099,1758,2306,2026-08-05
+TECH-5429,Mastering Cybersecurity: Complete Intermediate Guide,Cybersecurity,Advanced,Documentation,71501,21815,12878,703,876,3408,931,913,2026-05-30
+TECH-5430,Mastering Cloud Computing: Complete Intermediate Guide,Cybersecurity,Beginner,Video Tutorial,223009,116452,13317,1475,688,27613,7008,5270,2026-02-01
+TECH-5431,Mastering React: Complete Intermediate Guide,Artificial Intelligence,Advanced,Documentation,247924,118882,46571,222,842,15492,4026,2431,2026-02-20
+TECH-5432,Mastering Java: Complete Beginner Guide,Artificial Intelligence,Beginner,Architecture Guide,132488,72458,26395,984,98,18784,2792,3533,2026-04-10
+TECH-5433,Mastering Cybersecurity: Complete Beginner Guide,Cybersecurity,Intermediate,Video Tutorial,177389,66739,9824,2098,502,11062,2340,2635,2026-06-23
+TECH-5434,Mastering Java: Complete Advanced Guide,Data Analytics,Advanced,Article,98576,68848,17794,2344,361,7192,1656,1786,2026-02-15
+TECH-5435,Mastering React: Complete Intermediate Guide,Python,Intermediate,Documentation,150973,78231,33614,1793,766,11786,2514,3622,2026-03-18
+TECH-5436,Mastering DevOps: Complete Advanced Guide,Python,Advanced,Documentation,206900,63548,20604,1164,664,12644,3332,2049,2026-08-07
+TECH-5437,Mastering DevOps: Complete Advanced Guide,React,Beginner,Video Tutorial,112682,82023,23024,1133,199,16100,4944,4110,2026-05-25
+TECH-5438,Mastering Cloud Computing: Complete Intermediate Guide,Java,Beginner,Documentation,238359,177978,23269,843,392,32327,3558,8362,2026-02-17
+TECH-5439,Mastering Cybersecurity: Complete Advanced Guide,Data Analytics,Beginner,GitHub Repo,227276,89376,12856,764,320,16048,5441,5787,2026-05-01
+TECH-5440,Mastering DevOps: Complete Advanced Guide,Cloud Computing,Beginner,Video Tutorial,51471,21160,3733,778,60,5437,965,837,2026-08-15
+TECH-5441,Mastering Python: Complete Beginner Guide,Cybersecurity,Intermediate,GitHub Repo,27334,17845,4235,1847,850,3546,456,606,2026-05-25
+TECH-5442,Mastering Artificial Intelligence: Complete Beginner Guide,Data Analytics,Advanced,Video Tutorial,160954,107499,38821,954,367,19488,4906,7112,2026-03-13
+TECH-5443,Mastering Cybersecurity: Complete Advanced Guide,Cybersecurity,Advanced,Article,128814,73932,14125,1620,158,11097,1281,1509,2026-02-05
+TECH-5444,Mastering Cloud Computing: Complete Beginner Guide,DevOps,Beginner,Architecture Guide,232862,105053,40480,1606,142,11286,1210,3622,2026-02-13
+TECH-5445,Mastering Java: Complete Intermediate Guide,Data Analytics,Beginner,Video Tutorial,119378,37343,22092,353,856,13719,2564,3989,2026-06-07
+TECH-5446,Mastering DevOps: Complete Beginner Guide,Artificial Intelligence,Beginner,GitHub Repo,50858,31371,8761,2394,612,4769,1259,952,2026-01-09
+TECH-5447,Mastering Data Analytics: Complete Beginner Guide,React,Intermediate,Architecture Guide,71366,38969,16838,2040,796,9142,2394,2877,2026-05-18
+TECH-5448,Mastering Java: Complete Advanced Guide,DevOps,Intermediate,Documentation,133433,82461,18875,1453,510,16731,4497,4038,2026-01-17
+TECH-5449,Mastering Artificial Intelligence: Complete Beginner Guide,Data Analytics,Beginner,Video Tutorial,232723,121336,41010,717,795,11756,2379,2296,2026-06-19
+TECH-5450,Mastering Artificial Intelligence: Complete Intermediate Guide,Python,Advanced,Video Tutorial,126876,79520,21081,326,674,13062,3540,4226,2026-06-17
+TECH-5451,Mastering Python: Complete Intermediate Guide,Data Analytics,Beginner,Video Tutorial,163032,97518,25687,1166,166,12489,2595,2502,2026-04-20
+TECH-5452,Mastering DevOps: Complete Advanced Guide,Python,Advanced,Documentation,86369,58327,7495,2173,788,6077,1702,1926,2026-06-10
+TECH-5453,Mastering Cybersecurity: Complete Beginner Guide,Python,Advanced,GitHub Repo,23416,17051,3788,1247,529,1948,662,529,2026-06-01
+TECH-5454,Mastering Java: Complete Advanced Guide,Cloud Computing,Intermediate,Video Tutorial,97267,57740,22303,1000,161,13326,1500,5230,2026-06-07
+TECH-5455,Mastering DevOps: Complete Intermediate Guide,Cloud Computing,Advanced,Documentation,126795,51586,19220,753,749,7117,1668,1320,2026-05-17
+TECH-5456,Mastering Java: Complete Intermediate Guide,React,Beginner,Architecture Guide,100577,51986,5567,1773,312,12082,1666,2636,2026-02-09
+TECH-5457,Mastering DevOps: Complete Advanced Guide,Artificial Intelligence,Advanced,Documentation,35407,10823,2607,468,454,4501,1469,667,2026-03-22
+TECH-5458,Mastering React: Complete Beginner Guide,Java,Beginner,GitHub Repo,15082,8436,2967,669,331,2083,537,681,2026-07-20
+TECH-5459,Mastering DevOps: Complete Beginner Guide,Artificial Intelligence,Beginner,Article,34694,21886,7860,1541,172,3480,1087,709,2026-03-05
+TECH-5460,Mastering Python: Complete Beginner Guide,Cybersecurity,Intermediate,Article,98225,36914,22948,2347,95,4786,1613,1422,2026-01-25
+TECH-5461,Mastering Cybersecurity: Complete Intermediate Guide,Cybersecurity,Intermediate,Video Tutorial,72541,28588,16872,1364,378,6131,1405,1465,2026-08-05
+TECH-5462,Mastering Cloud Computing: Complete Beginner Guide,Artificial Intelligence,Intermediate,GitHub Repo,70471,44056,15360,353,809,6270,870,1571,2026-05-20
+TECH-5463,Mastering DevOps: Complete Beginner Guide,Data Analytics,Beginner,Documentation,149463,60057,10348,571,109,10967,1380,4345,2026-02-01
+TECH-5464,Mastering Data Analytics: Complete Intermediate Guide,Artificial Intelligence,Intermediate,Article,223846,163344,52815,2326,133,25110,2819,3034,2026-06-16
+TECH-5465,Mastering DevOps: Complete Beginner Guide,DevOps,Beginner,Article,166668,80205,41629,2342,683,16612,1705,2354,2026-01-13
+TECH-5466,Mastering Cloud Computing: Complete Advanced Guide,Cloud Computing,Beginner,GitHub Repo,33886,18269,7336,1697,261,5071,724,1346,2026-04-12
+TECH-5467,Mastering DevOps: Complete Beginner Guide,Data Analytics,Beginner,Article,203199,136552,31233,1921,107,16549,5509,2623,2026-04-30
+TECH-5468,Mastering Cloud Computing: Complete Advanced Guide,Java,Intermediate,Documentation,45682,19297,10206,935,374,5202,1629,1368,2026-06-20
+TECH-5469,Mastering Cloud Computing: Complete Beginner Guide,Cloud Computing,Advanced,Architecture Guide,211503,107628,12997,1559,305,14375,1991,4761,2026-06-08
+TECH-5470,Mastering React: Complete Advanced Guide,Cybersecurity,Intermediate,Documentation,246054,181033,51494,465,96,34241,5791,7733,2026-05-25
+TECH-5471,Mastering React: Complete Beginner Guide,Cybersecurity,Beginner,Article,27738,11567,3136,516,144,3516,1066,552,2026-08-12
+TECH-5472,Mastering Cybersecurity: Complete Advanced Guide,Cloud Computing,Advanced,Video Tutorial,26586,17598,2732,775,70,3762,929,974,2026-06-01
+TECH-5473,Mastering DevOps: Complete Advanced Guide,Java,Intermediate,Documentation,45920,14277,2835,176,396,5721,1995,1193,2026-03-24
+TECH-5474,Mastering Java: Complete Advanced Guide,Cloud Computing,Advanced,GitHub Repo,18735,13215,1860,1702,503,1617,491,356,2026-03-09
+TECH-5475,Mastering Data Analytics: Complete Beginner Guide,DevOps,Intermediate,GitHub Repo,148519,78468,14427,1247,887,21880,3628,5880,2026-03-14
+TECH-5476,Mastering Python: Complete Beginner Guide,Data Analytics,Beginner,Documentation,118903,71640,28550,2389,397,10336,1163,2665,2026-05-09
+TECH-5477,Mastering Java: Complete Beginner Guide,Cloud Computing,Advanced,Documentation,63981,46085,6310,274,279,6619,1964,1700,2026-05-28
+TECH-5478,Mastering React: Complete Intermediate Guide,Data Analytics,Intermediate,Documentation,19950,8669,1344,2491,454,1508,223,555,2026-05-18
+TECH-5479,Mastering DevOps: Complete Advanced Guide,Python,Intermediate,GitHub Repo,95470,53214,9895,1460,378,4065,1008,1597,2026-03-26
+TECH-5480,Mastering DevOps: Complete Advanced Guide,Data Analytics,Advanced,Documentation,220106,119478,38166,1028,495,21936,2722,7484,2026-04-03
+TECH-5481,Mastering Cloud Computing: Complete Advanced Guide,React,Advanced,Article,193205,133540,37270,2041,351,28979,7878,9132,2026-07-27
+TECH-5482,Mastering Artificial Intelligence: Complete Beginner Guide,Data Analytics,Advanced,GitHub Repo,107736,76093,15146,956,514,16060,2764,3171,2026-08-06
+TECH-5483,Mastering Artificial Intelligence: Complete Beginner Guide,Python,Advanced,GitHub Repo,53195,29131,13121,44,235,5844,649,1647,2026-07-21
+TECH-5484,Mastering Cybersecurity: Complete Beginner Guide,Python,Advanced,Architecture Guide,146834,71194,7347,1248,204,6776,1440,1730,2026-06-08
+TECH-5485,Mastering Java: Complete Intermediate Guide,React,Beginner,Article,108850,66242,12165,1130,218,15502,5278,4431,2026-07-26
+TECH-5486,Mastering Artificial Intelligence: Complete Intermediate Guide,DevOps,Advanced,Article,97726,72593,5770,1597,414,11065,1784,2827,2026-08-11
+TECH-5487,Mastering Java: Complete Beginner Guide,Data Analytics,Beginner,Article,115510,48431,24497,1928,605,16173,3724,5020,2026-04-26
+TECH-5488,Mastering DevOps: Complete Intermediate Guide,Artificial Intelligence,Beginner,GitHub Repo,230590,162715,23465,206,116,29668,4445,6220,2026-06-23
+TECH-5489,Mastering Python: Complete Beginner Guide,Data Analytics,Beginner,Architecture Guide,100564,56141,12432,2333,166,10622,3593,3300,2026-05-14
+TECH-5490,Mastering Java: Complete Intermediate Guide,DevOps,Intermediate,Architecture Guide,220001,85888,31657,2312,192,10043,2702,1573,2026-07-27
+TECH-5491,Mastering Python: Complete Advanced Guide,Java,Advanced,Architecture Guide,91280,44493,8283,93,614,7957,1050,1590,2026-06-07
+TECH-5492,Mastering React: Complete Advanced Guide,Cybersecurity,Beginner,Documentation,224360,106638,21270,2370,215,13751,2727,2918,2026-07-16
+TECH-5493,Mastering Cybersecurity: Complete Advanced Guide,DevOps,Beginner,Architecture Guide,10389,7471,1563,73,145,644,99,236,2026-02-27
+TECH-5494,Mastering Data Analytics: Complete Beginner Guide,Java,Advanced,GitHub Repo,55002,38345,12419,2285,632,3900,993,1228,2026-02-17
+TECH-5495,Mastering Cloud Computing: Complete Beginner Guide,Cloud Computing,Beginner,Documentation,129191,78048,14578,2055,768,6201,1887,1582,2026-04-26
+TECH-5496,Mastering Cybersecurity: Complete Advanced Guide,DevOps,Intermediate,Article,50565,29982,9922,1622,618,4883,958,738,2026-08-12
+TECH-5497,Mastering Python: Complete Beginner Guide,Java,Intermediate,Article,79988,49040,8176,42,842,7251,1237,2504,2026-04-14
+TECH-5498,Mastering Artificial Intelligence: Complete Intermediate Guide,Data Analytics,Advanced,Architecture Guide,120782,51959,22981,334,596,7933,2420,1205,2026-05-01
+TECH-5499,Mastering DevOps: Complete Advanced Guide,Cybersecurity,Beginner,Article,53010,30394,4575,1847,218,4135,532,941,2026-07-16
+TECH-5500,Mastering Cloud Computing: Complete Advanced Guide,Cybersecurity,Beginner,Documentation,109363,48367,22807,2311,225,11074,1261,3070,2026-06-01
+TECH-5501,Mastering Java: Complete Beginner Guide,Artificial Intelligence,Advanced,Article,26143,8110,5664,723,387,3852,1132,829,2026-07-26
+TECH-5502,Mastering Python: Complete Beginner Guide,Python,Beginner,GitHub Repo,222084,85575,11411,1929,677,9671,3360,2535,2026-06-13
+TECH-5503,Mastering DevOps: Complete Advanced Guide,Java,Beginner,Article,140345,102523,22151,2127,706,7368,1072,2563,2026-01-28
+TECH-5504,Mastering Cloud Computing: Complete Advanced Guide,Java,Advanced,Architecture Guide,48421,22565,3914,1453,181,6268,1533,1244,2026-01-14
+TECH-5505,Mastering Java: Complete Beginner Guide,React,Beginner,Video Tutorial,172428,105373,34594,1966,438,7757,2204,1195,2026-05-28
+TECH-5506,Mastering Cybersecurity: Complete Advanced Guide,Java,Advanced,Documentation,102692,44282,17538,1001,721,9396,1645,2817,2026-01-15
+TECH-5507,Mastering Python: Complete Advanced Guide,React,Advanced,Architecture Guide,46743,14386,7683,671,326,5418,1216,1787,2026-01-18
+TECH-5508,Mastering Python: Complete Advanced Guide,Java,Advanced,Article,217891,138525,17338,1231,246,15469,4352,3221,2026-01-12
+TECH-5509,Mastering Python: Complete Beginner Guide,Artificial Intelligence,Advanced,Video Tutorial,37247,13533,7568,1493,505,3689,1081,772,2026-05-07
+TECH-5510,Mastering DevOps: Complete Intermediate Guide,Python,Beginner,Documentation,10903,6179,574,1051,143,1609,332,243,2026-02-23
+TECH-5511,Mastering Python: Complete Advanced Guide,Cybersecurity,Advanced,Article,229400,139711,45219,324,869,12987,1937,1621,2026-01-06
+TECH-5512,Mastering Cybersecurity: Complete Beginner Guide,Cloud Computing,Advanced,Architecture Guide,68934,49266,13801,391,873,3534,1102,1306,2026-01-27
+TECH-5513,Mastering DevOps: Complete Intermediate Guide,React,Beginner,Video Tutorial,152668,92226,29490,489,716,14291,3415,2562,2026-06-04
+TECH-5514,Mastering React: Complete Beginner Guide,Cybersecurity,Beginner,Documentation,121058,59534,8081,1991,167,16853,3206,5062,2026-03-03
+TECH-5515,Mastering Data Analytics: Complete Intermediate Guide,Python,Advanced,Documentation,90462,42613,15529,1025,783,13333,2898,5308,2026-04-28
+TECH-5516,Mastering DevOps: Complete Advanced Guide,React,Intermediate,Architecture Guide,245044,106775,13164,625,885,32691,8816,5632,2026-07-13
+TECH-5517,Mastering Cybersecurity: Complete Advanced Guide,Data Analytics,Intermediate,Documentation,98246,38489,8579,1201,408,13102,2420,2894,2026-01-10
+TECH-5518,Mastering Java: Complete Advanced Guide,Artificial Intelligence,Beginner,Documentation,133487,77993,7576,1355,777,15936,3004,5165,2026-07-04
+TECH-5519,Mastering React: Complete Advanced Guide,React,Intermediate,Article,82982,59553,17499,916,216,6729,1463,2195,2026-01-12
+TECH-5520,Mastering Java: Complete Intermediate Guide,Cybersecurity,Advanced,Video Tutorial,202274,92011,46308,1961,309,24845,4819,2983,2026-08-07
+TECH-5521,Mastering React: Complete Intermediate Guide,Artificial Intelligence,Advanced,Video Tutorial,215518,152718,30388,2150,708,27000,3624,4264,2026-03-02
+TECH-5522,Mastering DevOps: Complete Intermediate Guide,Cybersecurity,Beginner,Architecture Guide,184273,137723,27247,370,771,22324,3494,7511,2026-05-30
+TECH-5523,Mastering React: Complete Beginner Guide,Python,Intermediate,Architecture Guide,226845,155705,12798,1058,401,32607,7791,11435,2026-03-30
+TECH-5524,Mastering Artificial Intelligence: Complete Intermediate Guide,Cloud Computing,Intermediate,Article,149184,50180,8314,797,223,19195,5708,5894,2026-01-29
+TECH-5525,Mastering Artificial Intelligence: Complete Beginner Guide,React,Intermediate,Architecture Guide,12127,7134,733,1466,205,1498,436,254,2026-04-28
+TECH-5526,Mastering React: Complete Advanced Guide,Data Analytics,Intermediate,Article,141913,96849,13524,1837,498,18418,5979,6362,2026-02-07
+TECH-5527,Mastering Data Analytics: Complete Beginner Guide,Java,Intermediate,Documentation,144962,93677,30464,435,895,16791,4096,3725,2026-05-12
+TECH-5528,Mastering Python: Complete Intermediate Guide,Java,Beginner,Video Tutorial,108374,55342,16396,942,228,7184,1270,1862,2026-04-13
+TECH-5529,Mastering Java: Complete Beginner Guide,Java,Advanced,Architecture Guide,144617,58611,12577,1019,628,13877,1548,4152,2026-01-05
+TECH-5530,Mastering Data Analytics: Complete Intermediate Guide,Artificial Intelligence,Advanced,Architecture Guide,193634,88486,10449,827,215,9580,1022,2915,2026-02-24
+TECH-5531,Mastering Cloud Computing: Complete Advanced Guide,Cloud Computing,Advanced,Architecture Guide,212610,105052,13514,1402,222,26631,8618,8196,2026-01-20
+TECH-5532,Mastering Java: Complete Advanced Guide,React,Advanced,GitHub Repo,124082,63907,26954,677,809,5861,752,2039,2026-04-13
+TECH-5533,Mastering Artificial Intelligence: Complete Intermediate Guide,React,Beginner,Architecture Guide,248730,170246,56067,1678,732,24800,6002,3319,2026-01-21
+TECH-5534,Mastering Cloud Computing: Complete Intermediate Guide,DevOps,Beginner,Article,42265,26586,9895,2114,821,4271,1371,1005,2026-02-25
+TECH-5535,Mastering Python: Complete Intermediate Guide,React,Advanced,Article,31802,10340,5685,1005,757,2845,636,592,2026-03-11
+TECH-5536,Mastering Cybersecurity: Complete Intermediate Guide,Data Analytics,Advanced,Architecture Guide,146578,72479,18462,877,670,14360,1594,4880,2026-07-12
+TECH-5537,Mastering Python: Complete Intermediate Guide,Artificial Intelligence,Intermediate,Documentation,206356,63237,41814,114,392,24940,5072,7336,2026-02-02
+TECH-5538,Mastering Data Analytics: Complete Intermediate Guide,Python,Intermediate,Documentation,81853,51243,15425,2110,809,9933,1109,1330,2026-01-09
+TECH-5539,Mastering Python: Complete Advanced Guide,Python,Beginner,Documentation,154901,52771,20935,2149,329,19884,2915,6046,2026-03-18
+TECH-5540,Mastering React: Complete Advanced Guide,Java,Advanced,Documentation,66988,32213,14036,1092,882,3643,864,1197,2026-01-24
+TECH-5541,Mastering Java: Complete Beginner Guide,Cybersecurity,Beginner,Documentation,133062,99115,29388,402,322,12552,3954,2339,2026-04-21
+TECH-5542,Mastering Cybersecurity: Complete Advanced Guide,React,Intermediate,Documentation,203658,114455,35481,1179,677,19842,6939,4812,2026-03-11
+TECH-5543,Mastering Cybersecurity: Complete Advanced Guide,Cybersecurity,Intermediate,Documentation,208162,141815,19329,2294,679,29188,6693,11393,2026-02-26
+TECH-5544,Mastering Python: Complete Advanced Guide,Python,Beginner,Architecture Guide,111171,39354,22568,2335,605,14837,4700,5160,2026-07-11
+TECH-5545,Mastering React: Complete Beginner Guide,React,Advanced,Documentation,84823,53023,20886,946,109,11521,2729,2934,2026-07-05
+TECH-5546,Mastering Data Analytics: Complete Beginner Guide,Cybersecurity,Beginner,Video Tutorial,137122,73569,17793,379,413,7516,2471,2920,2026-01-10
+TECH-5547,Mastering Cloud Computing: Complete Beginner Guide,DevOps,Beginner,Documentation,7809,5297,1813,2078,898,396,52,147,2026-01-07
+TECH-5548,Mastering Artificial Intelligence: Complete Beginner Guide,DevOps,Intermediate,Architecture Guide,15504,6401,1909,1969,143,2250,339,823,2026-03-07
+TECH-5549,Mastering DevOps: Complete Advanced Guide,Cybersecurity,Beginner,Video Tutorial,52266,18683,11691,1438,146,5977,1792,940,2026-02-17
+TECH-5550,Mastering Cybersecurity: Complete Beginner Guide,DevOps,Intermediate,Architecture Guide,38249,27489,2359,878,610,5430,1779,1893,2026-04-14
+TECH-5551,Mastering Java: Complete Advanced Guide,Cloud Computing,Advanced,Article,146385,48588,31352,857,184,8103,1180,2902,2026-04-06
+TECH-5552,Mastering Cybersecurity: Complete Advanced Guide,Cybersecurity,Beginner,Article,48988,30959,11706,1193,465,6284,752,2128,2026-02-07
+TECH-5553,Mastering Cloud Computing: Complete Advanced Guide,Java,Advanced,GitHub Repo,55001,40298,3965,937,763,5443,638,1174,2026-01-10
+TECH-5554,Mastering Artificial Intelligence: Complete Beginner Guide,Cloud Computing,Beginner,Architecture Guide,85147,39561,7803,1299,321,8104,2567,1563,2026-06-22
+TECH-5555,Mastering React: Complete Advanced Guide,React,Intermediate,Article,205901,103299,23564,1016,495,23959,6779,4638,2026-07-31
+TECH-5556,Mastering React: Complete Advanced Guide,Java,Intermediate,Video Tutorial,239193,95396,46632,704,352,20404,2161,2735,2026-06-01
+TECH-5557,Mastering React: Complete Beginner Guide,Artificial Intelligence,Advanced,Article,154723,83886,23850,811,162,13592,1419,3251,2026-03-26
+TECH-5558,Mastering Cybersecurity: Complete Intermediate Guide,Java,Intermediate,Architecture Guide,206233,122350,19100,1729,499,28524,6902,8606,2026-06-10
+TECH-5559,Mastering Java: Complete Intermediate Guide,Cloud Computing,Beginner,Article,152708,67753,30483,681,231,19661,2678,4217,2026-01-07
+TECH-5560,Mastering Data Analytics: Complete Advanced Guide,Cloud Computing,Beginner,GitHub Repo,92457,28031,8051,98,713,12187,2798,4239,2026-05-17
+TECH-5561,Mastering Cybersecurity: Complete Intermediate Guide,React,Beginner,Documentation,23772,14511,1418,2035,825,3391,602,1146,2026-05-22
+TECH-5562,Mastering Cloud Computing: Complete Advanced Guide,Data Analytics,Advanced,Article,4321,2170,1035,158,158,258,84,79,2026-07-12
+TECH-5563,Mastering Python: Complete Intermediate Guide,Cloud Computing,Beginner,Documentation,235698,95802,47093,659,196,28038,9217,6547,2026-03-20
+TECH-5564,Mastering Python: Complete Advanced Guide,React,Intermediate,Video Tutorial,91607,53610,15638,23,713,9945,1415,1515,2026-01-14
+TECH-5565,Mastering Python: Complete Beginner Guide,Cybersecurity,Intermediate,Documentation,50033,30074,4611,994,707,3739,1255,1354,2026-01-07
+TECH-5566,Mastering Data Analytics: Complete Beginner Guide,React,Advanced,Article,201849,88317,15208,1848,888,13923,3512,3764,2026-05-26
+TECH-5567,Mastering Artificial Intelligence: Complete Intermediate Guide,Artificial Intelligence,Intermediate,GitHub Repo,205999,120617,39186,683,662,19964,4306,5197,2026-04-20
+TECH-5568,Mastering Data Analytics: Complete Beginner Guide,Python,Advanced,Article,187564,63640,34298,2399,426,26005,8790,8467,2026-08-15
+TECH-5569,Mastering Data Analytics: Complete Intermediate Guide,Artificial Intelligence,Advanced,Architecture Guide,79536,28801,7167,1616,475,4255,1476,541,2026-07-08
+TECH-5570,Mastering React: Complete Intermediate Guide,Cloud Computing,Beginner,Documentation,143844,49970,23713,728,67,19053,5921,4583,2026-06-10
+TECH-5571,Mastering Cybersecurity: Complete Advanced Guide,DevOps,Beginner,Architecture Guide,37461,25447,5958,1015,119,4964,1304,1168,2026-04-14
+TECH-5572,Mastering Data Analytics: Complete Intermediate Guide,Cybersecurity,Advanced,GitHub Repo,147107,83601,8491,1495,888,15069,4818,3073,2026-05-05
+TECH-5573,Mastering Cybersecurity: Complete Intermediate Guide,Artificial Intelligence,Advanced,GitHub Repo,223912,163221,32597,1764,291,17522,3058,5576,2026-04-24
+TECH-5574,Mastering Cybersecurity: Complete Advanced Guide,DevOps,Beginner,Article,207434,100775,11928,1649,673,29709,10103,7677,2026-04-13
+TECH-5575,Mastering Cybersecurity: Complete Intermediate Guide,DevOps,Advanced,GitHub Repo,151398,54771,30366,1438,371,12074,1982,3333,2026-05-19
+TECH-5576,Mastering DevOps: Complete Beginner Guide,Python,Advanced,Article,69822,39021,8512,1428,302,7588,2152,1870,2026-06-14
+TECH-5577,Mastering Python: Complete Advanced Guide,Cloud Computing,Beginner,Article,172880,71504,38388,1991,822,25532,7059,5385,2026-03-11
+TECH-5578,Mastering Artificial Intelligence: Complete Advanced Guide,DevOps,Intermediate,Video Tutorial,108506,46898,13998,1429,456,13631,1739,4076,2026-04-14
+TECH-5579,Mastering DevOps: Complete Advanced Guide,DevOps,Intermediate,GitHub Repo,248514,86602,46037,149,579,14268,2778,4885,2026-07-18
+TECH-5580,Mastering Artificial Intelligence: Complete Beginner Guide,Python,Advanced,Architecture Guide,146004,75366,30521,2475,708,6316,2198,849,2026-05-28
+TECH-5581,Mastering Java: Complete Intermediate Guide,Cybersecurity,Intermediate,Architecture Guide,38221,21902,9527,1489,515,2973,341,845,2026-03-13
+TECH-5582,Mastering Java: Complete Intermediate Guide,DevOps,Beginner,GitHub Repo,65628,22557,15270,665,561,3071,1040,1046,2026-07-31
+TECH-5583,Mastering Data Analytics: Complete Beginner Guide,React,Intermediate,Video Tutorial,104725,61115,14970,436,126,11194,3781,2171,2026-04-21
+TECH-5584,Mastering Cloud Computing: Complete Beginner Guide,Java,Advanced,Architecture Guide,26063,12150,5586,1377,340,2303,571,775,2026-05-29
+TECH-5585,Mastering Cloud Computing: Complete Advanced Guide,Cybersecurity,Intermediate,Video Tutorial,208861,92269,40230,670,511,29286,9211,11621,2026-02-26
+TECH-5586,Mastering Data Analytics: Complete Advanced Guide,Cloud Computing,Advanced,Architecture Guide,136271,89293,12185,1993,749,17664,3939,5408,2026-06-26
+TECH-5587,Mastering React: Complete Intermediate Guide,Python,Beginner,Architecture Guide,167948,98762,40008,257,646,23681,5807,3263,2026-01-17
+TECH-5588,Mastering Data Analytics: Complete Advanced Guide,React,Beginner,GitHub Repo,237164,117898,54421,1623,288,29668,6259,4480,2026-04-20
+TECH-5589,Mastering Cloud Computing: Complete Advanced Guide,Data Analytics,Beginner,Architecture Guide,191600,64404,16020,2205,111,26668,7260,8955,2026-03-30
+TECH-5590,Mastering React: Complete Beginner Guide,Python,Intermediate,Architecture Guide,203671,151537,14946,272,850,24711,2992,5588,2026-02-18
+TECH-5591,Mastering Java: Complete Advanced Guide,Cybersecurity,Intermediate,Documentation,40180,20955,9030,884,102,4592,543,1069,2026-02-15
+TECH-5592,Mastering Python: Complete Intermediate Guide,Cloud Computing,Advanced,Article,68601,27373,9243,2456,89,7142,1464,2338,2026-05-01
+TECH-5593,Mastering Artificial Intelligence: Complete Advanced Guide,React,Advanced,Architecture Guide,65703,32084,7781,2103,688,4580,1412,1367,2026-04-30
+TECH-5594,Mastering Cybersecurity: Complete Advanced Guide,React,Intermediate,Video Tutorial,62605,45511,13401,557,364,5648,1565,1620,2026-01-05
+TECH-5595,Mastering React: Complete Intermediate Guide,React,Advanced,GitHub Repo,248774,183444,49674,2277,862,24360,4662,6747,2026-01-05
+TECH-5596,Mastering Cybersecurity: Complete Advanced Guide,Artificial Intelligence,Intermediate,GitHub Repo,196564,72154,46207,1479,496,24317,3427,3792,2026-01-09
+TECH-5597,Mastering DevOps: Complete Intermediate Guide,Cybersecurity,Beginner,GitHub Repo,109777,46108,21251,2373,410,12349,1679,3088,2026-04-07
+TECH-5598,Mastering React: Complete Advanced Guide,Cloud Computing,Intermediate,GitHub Repo,222482,164846,26701,568,317,30230,5936,7007,2026-08-04
+TECH-5599,Mastering DevOps: Complete Beginner Guide,Artificial Intelligence,Beginner,GitHub Repo,62703,23392,6471,145,659,7072,2153,1704,2026-07-28
+TECH-5600,Mastering Data Analytics: Complete Beginner Guide,DevOps,Advanced,Documentation,113232,74150,24651,1473,682,13983,4359,2019,2026-04-19
+TECH-5601,Mastering Data Analytics: Complete Advanced Guide,Artificial Intelligence,Advanced,Documentation,29618,19829,4969,165,304,1954,528,632,2026-05-29
+TECH-5602,Mastering Cloud Computing: Complete Beginner Guide,Cloud Computing,Intermediate,Documentation,132844,53859,31676,2291,636,8513,2758,1039,2026-04-28
+TECH-5603,Mastering Python: Complete Beginner Guide,Cloud Computing,Intermediate,GitHub Repo,44551,25274,7277,595,378,3790,561,981,2026-04-04
+TECH-5604,Mastering DevOps: Complete Beginner Guide,Cloud Computing,Advanced,Video Tutorial,78283,54407,15951,2240,645,8497,940,1975,2026-02-12
+TECH-5605,Mastering DevOps: Complete Advanced Guide,Cloud Computing,Beginner,Article,11358,7291,959,1992,727,1240,226,472,2026-01-14
+TECH-5606,Mastering Python: Complete Beginner Guide,DevOps,Advanced,GitHub Repo,91464,31597,13803,2114,728,5819,1565,1563,2026-04-16
+TECH-5607,Mastering Java: Complete Intermediate Guide,DevOps,Advanced,Architecture Guide,143004,45349,16227,449,171,14520,3618,2874,2026-07-25
+TECH-5608,Mastering Cloud Computing: Complete Intermediate Guide,React,Advanced,GitHub Repo,84123,55039,9120,1393,189,12165,2568,3381,2026-07-26
+TECH-5609,Mastering Cloud Computing: Complete Intermediate Guide,Python,Intermediate,Video Tutorial,66195,30892,4827,562,540,9590,1254,3769,2026-05-22
+TECH-5610,Mastering DevOps: Complete Beginner Guide,Cloud Computing,Advanced,Video Tutorial,23676,15575,5059,1496,874,1492,481,195,2026-04-24
+TECH-5611,Mastering Cloud Computing: Complete Beginner Guide,Cloud Computing,Intermediate,Architecture Guide,210938,71756,49266,1262,628,12514,1713,1739,2026-01-20
+TECH-5612,Mastering Cloud Computing: Complete Beginner Guide,Cloud Computing,Beginner,Architecture Guide,116897,53641,25997,149,180,9771,1984,3384,2026-01-24
+TECH-5613,Mastering Artificial Intelligence: Complete Intermediate Guide,Java,Advanced,GitHub Repo,142990,85456,16702,466,344,18823,1907,6308,2026-08-04
+TECH-5614,Mastering Python: Complete Advanced Guide,DevOps,Intermediate,Article,227672,166616,51746,99,758,19195,3733,6102,2026-05-07
+TECH-5615,Mastering Cybersecurity: Complete Intermediate Guide,Python,Beginner,Article,102333,31226,11716,1757,395,13048,1610,2656,2026-06-18
+TECH-5616,Mastering DevOps: Complete Advanced Guide,Data Analytics,Beginner,Documentation,182741,90407,39209,1865,785,16813,2000,2346,2026-06-20
+TECH-5617,Mastering Cybersecurity: Complete Advanced Guide,Cybersecurity,Advanced,Article,88800,52275,12736,2220,312,9626,1040,3532,2026-08-05
+TECH-5618,Mastering React: Complete Beginner Guide,Artificial Intelligence,Advanced,Architecture Guide,83035,48700,14230,324,584,11641,2489,3024,2026-08-06
+TECH-5619,Mastering Cybersecurity: Complete Beginner Guide,DevOps,Intermediate,Architecture Guide,179997,77804,21498,949,627,9085,2366,1660,2026-07-13
+TECH-5620,Mastering DevOps: Complete Intermediate Guide,Artificial Intelligence,Beginner,Documentation,53286,22409,7255,1557,435,2381,592,589,2026-03-05
+TECH-5621,Mastering Cybersecurity: Complete Beginner Guide,Cybersecurity,Intermediate,Article,210695,84345,12829,682,867,21619,6762,5744,2026-02-04
+TECH-5622,Mastering Cloud Computing: Complete Intermediate Guide,Data Analytics,Advanced,GitHub Repo,154599,90301,7987,1656,864,11873,3168,2260,2026-03-27
+TECH-5623,Mastering Cloud Computing: Complete Beginner Guide,Cybersecurity,Advanced,Architecture Guide,217904,71826,14618,684,879,11247,1943,2083,2026-02-26
+TECH-5624,Mastering React: Complete Advanced Guide,DevOps,Advanced,GitHub Repo,43035,23703,9744,1138,535,3800,501,709,2026-01-01
+TECH-5625,Mastering Python: Complete Advanced Guide,DevOps,Advanced,Video Tutorial,210049,132484,11404,1182,171,19859,3170,7173,2026-04-17
+TECH-5626,Mastering Python: Complete Advanced Guide,Cloud Computing,Beginner,Documentation,126639,59905,21195,1201,266,13499,2149,2910,2026-07-28
+TECH-5627,Mastering Data Analytics: Complete Advanced Guide,React,Advanced,Article,206675,109748,25291,976,76,29079,8011,8192,2026-01-28
+TECH-5628,Mastering Artificial Intelligence: Complete Advanced Guide,Cloud Computing,Intermediate,Architecture Guide,156361,91251,28989,1240,774,8951,1896,2651,2026-02-24
+TECH-5629,Mastering DevOps: Complete Advanced Guide,Java,Intermediate,Architecture Guide,80065,51878,12036,1083,319,8844,1759,2387,2026-01-28
+TECH-5630,Mastering Artificial Intelligence: Complete Beginner Guide,Python,Advanced,Documentation,79507,28090,12682,59,619,4570,943,881,2026-02-01
+TECH-5631,Mastering Cybersecurity: Complete Advanced Guide,Java,Beginner,Documentation,85913,26422,5244,2173,525,3818,767,586,2026-05-18
+TECH-5632,Mastering React: Complete Beginner Guide,Data Analytics,Advanced,Video Tutorial,190107,141091,33595,1114,493,7664,2585,2979,2026-06-11
+TECH-5633,Mastering React: Complete Beginner Guide,Artificial Intelligence,Advanced,Architecture Guide,236349,161024,26131,1111,721,21903,2237,6086,2026-02-05
+TECH-5634,Mastering Python: Complete Beginner Guide,Artificial Intelligence,Advanced,Article,153501,94317,21896,1889,890,21977,7482,8440,2026-01-09
+TECH-5635,Mastering Python: Complete Advanced Guide,DevOps,Advanced,Architecture Guide,149294,70040,26781,89,66,17363,5069,5392,2026-07-12
+TECH-5636,Mastering Java: Complete Beginner Guide,Python,Advanced,Architecture Guide,108196,35579,13367,1788,513,15066,2156,4154,2026-03-06
+TECH-5637,Mastering Java: Complete Advanced Guide,Data Analytics,Intermediate,Documentation,146579,100415,11461,2486,90,19997,5859,6294,2026-05-13
+TECH-5638,Mastering Cybersecurity: Complete Intermediate Guide,DevOps,Beginner,Article,77170,53528,4318,1695,767,5897,2028,1133,2026-05-11
+TECH-5639,Mastering Cloud Computing: Complete Beginner Guide,Java,Advanced,Article,140630,73865,34595,341,155,20869,6407,3173,2026-02-07
+TECH-5640,Mastering Data Analytics: Complete Advanced Guide,Data Analytics,Intermediate,Architecture Guide,209589,145224,33366,217,434,22656,5513,6781,2026-07-03
+TECH-5641,Mastering Cybersecurity: Complete Advanced Guide,DevOps,Beginner,Video Tutorial,52406,17992,8114,716,135,7082,1088,1216,2026-02-10
+TECH-5642,Mastering Cloud Computing: Complete Beginner Guide,Data Analytics,Intermediate,GitHub Repo,73546,38730,11681,220,381,6920,1919,911,2026-03-15
+TECH-5643,Mastering Cloud Computing: Complete Beginner Guide,Python,Beginner,Video Tutorial,122843,76224,27615,251,318,5844,1532,1899,2026-05-07
+TECH-5644,Mastering Python: Complete Intermediate Guide,Cybersecurity,Intermediate,Video Tutorial,113673,56410,9732,2394,344,15831,5047,1967,2026-07-29
+TECH-5645,Mastering Python: Complete Beginner Guide,Data Analytics,Intermediate,Documentation,153765,62524,7756,277,804,6988,2058,2012,2026-05-03
+TECH-5646,Mastering Data Analytics: Complete Advanced Guide,DevOps,Advanced,Video Tutorial,190279,84389,18963,2404,353,25919,3220,4386,2026-02-20
+TECH-5647,Mastering Python: Complete Beginner Guide,Data Analytics,Intermediate,Architecture Guide,134573,61681,11758,2312,690,10679,2373,2782,2026-07-15
+TECH-5648,Mastering Python: Complete Intermediate Guide,Java,Intermediate,Documentation,242960,83449,21576,1699,598,17173,4732,4757,2026-08-10
+TECH-5649,Mastering Artificial Intelligence: Complete Beginner Guide,React,Advanced,Architecture Guide,237997,173848,34594,125,821,12459,3632,1780,2026-05-24
+TECH-5650,Mastering Python: Complete Beginner Guide,Data Analytics,Beginner,Article,77931,41879,12744,1168,509,9973,2908,3140,2026-03-11
+TECH-5651,Mastering DevOps: Complete Advanced Guide,Data Analytics,Advanced,Architecture Guide,53461,32322,3888,330,617,6568,1616,2215,2026-08-07
+TECH-5652,Mastering React: Complete Advanced Guide,Cybersecurity,Intermediate,Documentation,13766,8427,1044,1385,651,1646,237,328,2026-06-02
+TECH-5653,Mastering Python: Complete Advanced Guide,React,Intermediate,GitHub Repo,3266,2259,497,1544,349,200,57,24,2026-02-27
+TECH-5654,Mastering Java: Complete Intermediate Guide,Artificial Intelligence,Beginner,Documentation,146474,49835,17950,224,326,10341,2791,4008,2026-06-29
+TECH-5655,Mastering Artificial Intelligence: Complete Advanced Guide,Artificial Intelligence,Intermediate,Documentation,207185,97750,40045,2440,248,21246,4255,4518,2026-04-13
+TECH-5656,Mastering Artificial Intelligence: Complete Advanced Guide,React,Advanced,GitHub Repo,112629,82681,12466,40,283,13751,3892,4413,2026-04-14
+TECH-5657,Mastering Java: Complete Intermediate Guide,React,Beginner,Video Tutorial,73032,22494,14257,1707,64,10738,1078,1956,2026-06-26
+TECH-5658,Mastering Data Analytics: Complete Advanced Guide,Java,Intermediate,Article,7039,2816,1092,2174,878,562,125,158,2026-05-28
+TECH-5659,Mastering Cloud Computing: Complete Beginner Guide,Artificial Intelligence,Advanced,GitHub Repo,177047,75031,40940,2323,221,18520,2397,5906,2026-04-30
+TECH-5660,Mastering Data Analytics: Complete Advanced Guide,Data Analytics,Intermediate,Architecture Guide,113588,60051,21312,1014,348,12605,2719,4066,2026-06-20
+TECH-5661,Mastering Artificial Intelligence: Complete Intermediate Guide,Data Analytics,Advanced,GitHub Repo,194376,140668,11762,538,861,19207,2305,3791,2026-02-07
+TECH-5662,Mastering Python: Complete Beginner Guide,Java,Intermediate,GitHub Repo,208681,137864,15306,837,572,30752,3879,12124,2026-04-26
+TECH-5663,Mastering Data Analytics: Complete Intermediate Guide,DevOps,Beginner,Architecture Guide,115706,64014,24459,1381,97,13854,2018,4258,2026-05-29
+TECH-5664,Mastering Python: Complete Intermediate Guide,Python,Beginner,Article,236407,147081,51332,58,79,29237,7845,3656,2026-07-19
+TECH-5665,Mastering Cybersecurity: Complete Beginner Guide,Java,Beginner,Architecture Guide,113958,48050,18119,66,506,12635,1739,4524,2026-07-14
+TECH-5666,Mastering Java: Complete Advanced Guide,Artificial Intelligence,Intermediate,Documentation,115295,50840,25744,512,549,7361,1268,974,2026-07-20
+TECH-5667,Mastering Cloud Computing: Complete Advanced Guide,Cloud Computing,Beginner,GitHub Repo,20296,6504,2240,567,255,1360,428,352,2026-05-02
+TECH-5668,Mastering Python: Complete Advanced Guide,Python,Beginner,Architecture Guide,29374,14675,6950,680,655,3901,468,508,2026-08-07
+TECH-5669,Mastering Artificial Intelligence: Complete Advanced Guide,Cybersecurity,Intermediate,Video Tutorial,40134,18485,2706,920,807,5746,2009,1608,2026-03-20
+TECH-5670,Mastering DevOps: Complete Advanced Guide,Data Analytics,Intermediate,GitHub Repo,111719,64718,23297,1761,303,9850,1233,3847,2026-07-26
+TECH-5671,Mastering Cybersecurity: Complete Advanced Guide,Python,Intermediate,Article,137893,87712,15334,173,102,17716,2640,5505,2026-07-09
+TECH-5672,Mastering Java: Complete Intermediate Guide,React,Intermediate,Video Tutorial,169725,68708,8711,1077,449,13754,1851,4895,2026-01-05
+TECH-5673,Mastering Java: Complete Advanced Guide,Cloud Computing,Intermediate,Documentation,241703,165248,17607,2357,713,14499,3227,4432,2026-04-13
+TECH-5674,Mastering Cloud Computing: Complete Intermediate Guide,Java,Advanced,Architecture Guide,176223,75936,26590,605,814,10073,1793,3391,2026-04-29
+TECH-5675,Mastering Java: Complete Advanced Guide,React,Intermediate,Architecture Guide,54510,38679,2872,1756,611,5667,1382,1942,2026-01-10
+TECH-5676,Mastering Cybersecurity: Complete Advanced Guide,Python,Beginner,Article,50056,20487,10128,1899,100,3642,1172,635,2026-05-14
+TECH-5677,Mastering Data Analytics: Complete Intermediate Guide,Data Analytics,Intermediate,Article,221198,96336,45987,239,299,27659,7779,4623,2026-06-24
+TECH-5678,Mastering React: Complete Beginner Guide,Data Analytics,Advanced,Article,156088,55170,27906,1778,456,13798,4587,4491,2026-02-23
+TECH-5679,Mastering Artificial Intelligence: Complete Beginner Guide,Java,Intermediate,Video Tutorial,149733,76166,10815,1469,495,20670,5789,3696,2026-06-19
+TECH-5680,Mastering React: Complete Beginner Guide,Cloud Computing,Beginner,Article,81617,55237,10662,849,275,9887,3454,2088,2026-03-09
+TECH-5681,Mastering Python: Complete Intermediate Guide,Cloud Computing,Beginner,GitHub Repo,78253,57790,12910,1108,147,7094,2353,2317,2026-01-22
+TECH-5682,Mastering Data Analytics: Complete Intermediate Guide,Artificial Intelligence,Beginner,Video Tutorial,63012,40344,8246,16,843,8830,940,3460,2026-02-12
+TECH-5683,Mastering Java: Complete Beginner Guide,Cloud Computing,Advanced,Article,115268,76351,11864,2069,232,4818,835,1774,2026-05-11
+TECH-5684,Mastering Data Analytics: Complete Advanced Guide,Python,Beginner,GitHub Repo,205188,122967,45795,1879,470,13541,4545,2409,2026-05-13
+TECH-5685,Mastering Data Analytics: Complete Beginner Guide,React,Intermediate,Architecture Guide,107962,44020,11046,2168,640,5009,1317,1385,2026-02-27
+TECH-5686,Mastering DevOps: Complete Beginner Guide,Data Analytics,Advanced,Documentation,165766,67252,36812,107,550,18570,5980,6076,2026-06-12
+TECH-5687,Mastering React: Complete Advanced Guide,Data Analytics,Advanced,GitHub Repo,91580,40863,4746,649,602,3751,1209,536,2026-01-04
+TECH-5688,Mastering Cybersecurity: Complete Intermediate Guide,React,Advanced,GitHub Repo,127432,92355,27021,1468,605,11847,2531,3963,2026-07-10
+TECH-5689,Mastering Python: Complete Beginner Guide,Artificial Intelligence,Intermediate,Article,63358,35874,13284,1120,442,4075,526,510,2026-05-18
+TECH-5690,Mastering Artificial Intelligence: Complete Intermediate Guide,React,Advanced,Architecture Guide,5852,3825,698,568,588,404,137,104,2026-03-19
+TECH-5691,Mastering Cybersecurity: Complete Beginner Guide,Data Analytics,Intermediate,Article,197085,98434,38559,1366,74,11903,4106,2654,2026-03-16
+TECH-5692,Mastering Cloud Computing: Complete Advanced Guide,Python,Advanced,Article,125669,37993,10871,352,863,16740,5723,3037,2026-08-14
+TECH-5693,Mastering Python: Complete Beginner Guide,DevOps,Advanced,Architecture Guide,200607,78705,10241,634,161,23746,8208,4069,2026-08-05
+TECH-5694,Mastering Cloud Computing: Complete Advanced Guide,Data Analytics,Beginner,Article,80513,40652,18979,1859,629,4416,1253,1415,2026-02-27
+TECH-5695,Mastering Python: Complete Beginner Guide,Python,Intermediate,Video Tutorial,226095,82552,18118,401,244,18962,2160,2483,2026-03-27
+TECH-5696,Mastering Cloud Computing: Complete Intermediate Guide,React,Intermediate,Article,218333,134395,25766,2320,358,17380,2076,5361,2026-05-24
+TECH-5697,Mastering Cloud Computing: Complete Advanced Guide,Cybersecurity,Advanced,Article,202207,128430,17331,753,534,18661,4364,2544,2026-08-07
+TECH-5698,Mastering React: Complete Advanced Guide,DevOps,Intermediate,Article,78145,40151,6554,807,601,10161,1879,1524,2026-02-14
+TECH-5699,Mastering DevOps: Complete Intermediate Guide,Cloud Computing,Beginner,Documentation,159962,52240,27330,240,793,7256,2168,1400,2026-05-20
+TECH-5700,Mastering Data Analytics: Complete Beginner Guide,Java,Intermediate,Article,103404,63587,5971,1229,410,8004,1376,1764,2026-05-12
+TECH-5701,Mastering Data Analytics: Complete Beginner Guide,Java,Beginner,Article,158846,68194,10397,347,369,14344,2673,1815,2026-03-19
+TECH-5702,Mastering DevOps: Complete Advanced Guide,Artificial Intelligence,Intermediate,Video Tutorial,88206,34198,6426,2385,714,7021,2305,2008,2026-03-12
+TECH-5703,Mastering Cybersecurity: Complete Intermediate Guide,React,Beginner,Article,234725,145608,48308,684,725,22593,5490,3660,2026-04-18
+TECH-5704,Mastering Java: Complete Advanced Guide,Cloud Computing,Intermediate,Architecture Guide,44951,27413,10983,957,728,5187,1268,1928,2026-08-01
+TECH-5705,Mastering Artificial Intelligence: Complete Intermediate Guide,Python,Intermediate,GitHub Repo,230815,116588,12683,1748,650,13184,2331,2154,2026-02-13
+TECH-5706,Mastering Cybersecurity: Complete Intermediate Guide,Cloud Computing,Beginner,Architecture Guide,232293,91600,15387,687,118,21936,4264,3142,2026-03-25
+TECH-5707,Mastering Cloud Computing: Complete Intermediate Guide,React,Advanced,Documentation,159339,55066,13751,991,533,23798,8207,6847,2026-02-10
+TECH-5708,Mastering Java: Complete Beginner Guide,DevOps,Intermediate,GitHub Repo,25239,14304,4496,1002,476,3749,771,1190,2026-03-30
+TECH-5709,Mastering Data Analytics: Complete Advanced Guide,Cloud Computing,Advanced,Architecture Guide,194646,65018,35542,294,201,8502,2079,2163,2026-06-21
+TECH-5710,Mastering Cybersecurity: Complete Intermediate Guide,Java,Beginner,GitHub Repo,23525,10506,3978,660,252,2529,465,305,2026-06-28
+TECH-5711,Mastering DevOps: Complete Beginner Guide,DevOps,Intermediate,Architecture Guide,16313,11057,2254,2192,684,1450,210,361,2026-06-30
+TECH-5712,Mastering Cloud Computing: Complete Advanced Guide,Cybersecurity,Intermediate,GitHub Repo,68161,26683,11686,657,545,4625,1281,686,2026-06-12
+TECH-5713,Mastering React: Complete Advanced Guide,Cybersecurity,Intermediate,Documentation,65013,23456,14495,1413,326,5922,1780,963,2026-03-16
+TECH-5714,Mastering Cybersecurity: Complete Beginner Guide,Cybersecurity,Beginner,Video Tutorial,172027,71050,29252,626,431,12768,4347,4183,2026-03-24
+TECH-5715,Mastering React: Complete Beginner Guide,Data Analytics,Intermediate,Video Tutorial,43792,17645,4549,1957,684,3999,675,1184,2026-07-23
+TECH-5716,Mastering Data Analytics: Complete Intermediate Guide,React,Advanced,Architecture Guide,124632,85873,24834,35,604,9235,1615,3315,2026-03-12
+TECH-5717,Mastering Artificial Intelligence: Complete Beginner Guide,Data Analytics,Advanced,Documentation,229301,124880,27259,1449,69,12794,2882,5048,2026-05-18
+TECH-5718,Mastering DevOps: Complete Intermediate Guide,Data Analytics,Intermediate,Article,237380,100302,31503,250,83,22470,7363,4339,2026-02-14
+TECH-5719,Mastering Data Analytics: Complete Advanced Guide,Cybersecurity,Advanced,Article,55499,37146,11723,872,738,6374,1917,2542,2026-08-02
+TECH-5720,Mastering Cloud Computing: Complete Intermediate Guide,Java,Advanced,Documentation,182033,84176,11191,955,363,19247,2001,5582,2026-08-01
+TECH-5721,Mastering Java: Complete Beginner Guide,React,Intermediate,Architecture Guide,56755,26994,2842,2466,807,7099,2214,1224,2026-05-26
+TECH-5722,Mastering Java: Complete Intermediate Guide,Data Analytics,Advanced,Architecture Guide,120699,49708,29242,717,525,15931,5347,4221,2026-08-04
+TECH-5723,Mastering DevOps: Complete Advanced Guide,Artificial Intelligence,Beginner,GitHub Repo,47627,18306,5100,1823,794,2754,585,531,2026-05-05
+TECH-5724,Mastering Data Analytics: Complete Intermediate Guide,React,Intermediate,Video Tutorial,144890,55869,21704,2349,852,14215,4346,5248,2026-06-26
+TECH-5725,Mastering Java: Complete Intermediate Guide,Cloud Computing,Beginner,GitHub Repo,56623,31155,4630,23,169,5533,1233,670,2026-05-01
+TECH-5726,Mastering Cybersecurity: Complete Advanced Guide,React,Advanced,Architecture Guide,126806,78190,15419,153,797,16120,1803,2082,2026-03-15
+TECH-5727,Mastering Artificial Intelligence: Complete Intermediate Guide,Data Analytics,Beginner,Architecture Guide,49267,19443,11368,1657,587,2659,744,807,2026-08-11
+TECH-5728,Mastering Cloud Computing: Complete Beginner Guide,Artificial Intelligence,Advanced,Video Tutorial,102719,34122,6971,1245,162,14645,2265,5088,2026-06-16
+TECH-5729,Mastering Cloud Computing: Complete Beginner Guide,Cybersecurity,Beginner,Video Tutorial,42146,23828,6438,1829,209,4200,615,715,2026-04-29
+TECH-5730,Mastering React: Complete Intermediate Guide,Data Analytics,Intermediate,Documentation,242122,82633,56939,623,642,27384,5396,6230,2026-05-16
+TECH-5731,Mastering Cloud Computing: Complete Advanced Guide,Artificial Intelligence,Advanced,Article,25600,13686,4547,1335,391,2193,288,323,2026-05-05
+TECH-5732,Mastering Cybersecurity: Complete Intermediate Guide,Python,Intermediate,GitHub Repo,137591,57290,16196,484,833,13872,3914,5501,2026-06-03
+TECH-5733,Mastering Cloud Computing: Complete Intermediate Guide,React,Intermediate,Documentation,58603,33760,4468,1564,877,4664,956,567,2026-05-29
+TECH-5734,Mastering Cybersecurity: Complete Intermediate Guide,DevOps,Advanced,Video Tutorial,76757,57199,14987,2238,503,11345,2264,3243,2026-05-25
+TECH-5735,Mastering Artificial Intelligence: Complete Intermediate Guide,Data Analytics,Advanced,Article,33748,11927,5668,2397,457,2283,271,831,2026-06-04
+TECH-5736,Mastering Cloud Computing: Complete Advanced Guide,DevOps,Advanced,GitHub Repo,147731,59584,21055,1911,353,19347,5049,2445,2026-03-10
+TECH-5737,Mastering Cloud Computing: Complete Beginner Guide,Artificial Intelligence,Intermediate,Video Tutorial,248573,94905,33579,1291,369,21903,6403,2666,2026-01-15
+TECH-5738,Mastering Artificial Intelligence: Complete Beginner Guide,React,Advanced,Documentation,124396,46708,10285,2324,574,9041,1655,1933,2026-07-02
+TECH-5739,Mastering Java: Complete Intermediate Guide,React,Intermediate,Architecture Guide,220279,148475,29660,19,304,28850,4558,3855,2026-04-17
+TECH-5740,Mastering React: Complete Intermediate Guide,Data Analytics,Intermediate,Article,38167,16464,4561,2081,715,5181,1431,1154,2026-03-30
+TECH-5741,Mastering Python: Complete Advanced Guide,Artificial Intelligence,Beginner,Video Tutorial,148198,59613,35479,524,147,16034,4722,3249,2026-01-02
+TECH-5742,Mastering Python: Complete Advanced Guide,Python,Advanced,Architecture Guide,156300,64560,30766,1256,158,20785,4573,8067,2026-07-15
+TECH-5743,Mastering Artificial Intelligence: Complete Advanced Guide,Java,Advanced,Documentation,199785,73345,15413,610,176,29333,4203,9050,2026-03-21
+TECH-5744,Mastering Cloud Computing: Complete Intermediate Guide,Cloud Computing,Intermediate,Architecture Guide,104552,74195,7934,1623,723,11911,2066,4387,2026-03-06
+TECH-5745,Mastering DevOps: Complete Beginner Guide,DevOps,Advanced,Architecture Guide,37109,14236,3590,2119,151,2371,379,769,2026-04-23
+TECH-5746,Mastering Python: Complete Beginner Guide,Cybersecurity,Beginner,GitHub Repo,248046,101911,61900,2256,514,13832,4688,3377,2026-03-11
+TECH-5747,Mastering Cybersecurity: Complete Advanced Guide,React,Advanced,Documentation,171013,127612,23580,1382,743,21195,4635,3435,2026-07-09
+TECH-5748,Mastering Data Analytics: Complete Advanced Guide,Data Analytics,Advanced,Video Tutorial,157604,81388,33186,1603,595,17517,1880,6693,2026-02-08
+TECH-5749,Mastering Java: Complete Beginner Guide,DevOps,Beginner,GitHub Repo,242788,75594,44945,1754,663,17425,3668,5679,2026-02-21
+TECH-5750,Mastering Python: Complete Advanced Guide,Data Analytics,Beginner,Article,34550,14916,6380,1746,333,4766,829,1786,2026-01-01
+TECH-5751,Mastering Artificial Intelligence: Complete Advanced Guide,Data Analytics,Beginner,Documentation,91803,55209,16620,1443,403,9004,1190,3164,2026-06-30
+TECH-5752,Mastering React: Complete Intermediate Guide,Data Analytics,Beginner,Architecture Guide,77785,26625,13741,847,623,6400,1846,1799,2026-02-09
+TECH-5753,Mastering Java: Complete Beginner Guide,Python,Intermediate,Architecture Guide,105197,38366,19552,354,773,11657,1366,2070,2026-06-15
+TECH-5754,Mastering React: Complete Intermediate Guide,React,Intermediate,Documentation,48520,17642,7547,378,456,5052,1590,1944,2026-05-27
+TECH-5755,Mastering Python: Complete Beginner Guide,Cybersecurity,Advanced,Architecture Guide,195389,125030,43256,186,725,15187,2156,4144,2026-03-06
+TECH-5756,Mastering Cloud Computing: Complete Advanced Guide,Python,Intermediate,Documentation,22453,14742,2521,2261,620,1839,283,713,2026-06-30
+TECH-5757,Mastering Data Analytics: Complete Beginner Guide,Artificial Intelligence,Beginner,Architecture Guide,106468,69406,19266,1608,207,10471,3266,2250,2026-03-29
+TECH-5758,Mastering Cloud Computing: Complete Intermediate Guide,Cloud Computing,Beginner,Article,240521,87907,39927,758,260,14611,3648,3637,2026-06-16
+TECH-5759,Mastering Cybersecurity: Complete Intermediate Guide,DevOps,Beginner,Documentation,238893,152506,32400,509,66,10201,2538,3959,2026-04-23
+TECH-5760,Mastering DevOps: Complete Intermediate Guide,React,Advanced,Architecture Guide,84235,26724,19713,438,264,7212,2494,1089,2026-01-19
+TECH-5761,Mastering Cybersecurity: Complete Advanced Guide,Python,Intermediate,Article,86296,31692,14016,2266,638,5773,1935,1347,2026-03-27
+TECH-5762,Mastering Cloud Computing: Complete Beginner Guide,React,Advanced,Architecture Guide,109067,52492,15708,80,847,10139,2060,2776,2026-02-08
+TECH-5763,Mastering Cybersecurity: Complete Beginner Guide,Cloud Computing,Advanced,Article,17504,11909,2722,776,243,1492,247,452,2026-04-22
+TECH-5764,Mastering DevOps: Complete Beginner Guide,Java,Advanced,Architecture Guide,41664,12932,9250,1805,573,5477,1189,774,2026-04-09
+TECH-5765,Mastering Data Analytics: Complete Advanced Guide,Python,Beginner,Documentation,98548,36988,14820,454,711,8279,2872,2609,2026-05-18
+TECH-5766,Mastering DevOps: Complete Intermediate Guide,Java,Beginner,GitHub Repo,41020,20778,7767,1624,112,1933,471,687,2026-02-03
+TECH-5767,Mastering Cybersecurity: Complete Beginner Guide,Cybersecurity,Intermediate,Video Tutorial,5585,2130,326,189,596,745,161,176,2026-01-04
+TECH-5768,Mastering Java: Complete Advanced Guide,DevOps,Intermediate,Documentation,212599,128141,43336,1530,239,29524,6812,6282,2026-08-01
+TECH-5769,Mastering React: Complete Intermediate Guide,Artificial Intelligence,Beginner,Documentation,53671,20890,11644,1373,659,2827,614,549,2026-05-19
+TECH-5770,Mastering Python: Complete Beginner Guide,Cloud Computing,Beginner,GitHub Repo,234711,121812,34700,1779,455,26518,4498,10082,2026-04-18
+TECH-5771,Mastering Java: Complete Advanced Guide,Data Analytics,Beginner,GitHub Repo,13441,9687,1300,1824,845,1943,511,459,2026-08-08
+TECH-5772,Mastering React: Complete Beginner Guide,Python,Intermediate,Documentation,80725,49446,19757,1059,896,11381,1622,2802,2026-02-04
+TECH-5773,Mastering Artificial Intelligence: Complete Advanced Guide,Python,Advanced,Documentation,91149,59392,20049,528,183,5764,1304,889,2026-07-07
+TECH-5774,Mastering Cloud Computing: Complete Advanced Guide,Data Analytics,Intermediate,Article,221684,159292,30720,2472,299,19220,4152,4300,2026-05-07
+TECH-5775,Mastering Java: Complete Intermediate Guide,Cloud Computing,Intermediate,Architecture Guide,71159,51962,16222,2424,760,4778,1635,1242,2026-07-30
+TECH-5776,Mastering Data Analytics: Complete Beginner Guide,Cybersecurity,Intermediate,Architecture Guide,122632,39511,22296,1685,520,6225,1376,992,2026-03-18
+TECH-5777,Mastering Cloud Computing: Complete Intermediate Guide,Cybersecurity,Intermediate,GitHub Repo,208139,145158,21080,538,780,29399,7088,11173,2026-02-28
+TECH-5778,Mastering Data Analytics: Complete Beginner Guide,Data Analytics,Beginner,Article,35733,13784,2861,2422,226,2126,355,778,2026-04-13
+TECH-5779,Mastering Cloud Computing: Complete Beginner Guide,Java,Intermediate,Video Tutorial,197250,71717,33445,1604,507,19838,2781,4799,2026-05-02
+TECH-5780,Mastering Artificial Intelligence: Complete Advanced Guide,Python,Intermediate,Article,126646,41550,22756,2246,876,15224,4021,5578,2026-01-26
+TECH-5781,Mastering React: Complete Advanced Guide,Data Analytics,Intermediate,Video Tutorial,214745,106106,12144,521,372,28872,4390,11391,2026-07-01
+TECH-5782,Mastering Artificial Intelligence: Complete Beginner Guide,DevOps,Intermediate,Video Tutorial,213560,149509,35171,463,324,31692,5231,6673,2026-04-19
+TECH-5783,Mastering DevOps: Complete Intermediate Guide,React,Intermediate,Video Tutorial,71776,33942,17904,1178,382,3905,1181,943,2026-04-04
+TECH-5784,Mastering Cloud Computing: Complete Beginner Guide,Artificial Intelligence,Advanced,Article,218546,117420,38687,2245,345,11845,1717,4582,2026-06-01
+TECH-5785,Mastering DevOps: Complete Intermediate Guide,DevOps,Advanced,Documentation,31152,14357,7760,579,767,1398,252,478,2026-06-16
+TECH-5786,Mastering Cloud Computing: Complete Advanced Guide,Data Analytics,Intermediate,GitHub Repo,145406,101836,15480,514,281,13061,4535,5075,2026-03-26
+TECH-5787,Mastering Cybersecurity: Complete Advanced Guide,Cloud Computing,Beginner,Video Tutorial,223228,162715,42419,2170,712,19401,4217,3373,2026-07-11
+TECH-5788,Mastering Cloud Computing: Complete Advanced Guide,Data Analytics,Intermediate,GitHub Repo,51550,18147,9494,532,478,3166,842,784,2026-05-31
+TECH-5789,Mastering Java: Complete Advanced Guide,Python,Beginner,GitHub Repo,65599,25609,5466,444,448,8179,1100,2954,2026-03-16
+TECH-5790,Mastering Cloud Computing: Complete Intermediate Guide,Python,Intermediate,Article,133544,70194,17180,1164,386,15745,3359,3183,2026-07-17
+TECH-5791,Mastering Artificial Intelligence: Complete Beginner Guide,Cloud Computing,Beginner,Video Tutorial,141660,86910,26151,2052,339,9183,2869,1745,2026-01-31
+TECH-5792,Mastering Cybersecurity: Complete Beginner Guide,Python,Advanced,Article,236345,107880,42773,1321,150,18503,2297,4184,2026-08-04
+TECH-5793,Mastering Cloud Computing: Complete Beginner Guide,Artificial Intelligence,Beginner,GitHub Repo,153814,62061,16853,1707,547,17867,2123,6984,2026-01-16
+TECH-5794,Mastering Artificial Intelligence: Complete Advanced Guide,DevOps,Advanced,Documentation,46781,18775,7711,1054,730,6121,1874,1221,2026-05-11
+TECH-5795,Mastering Data Analytics: Complete Beginner Guide,Data Analytics,Beginner,Documentation,226103,150747,17556,408,891,20044,2140,3157,2026-04-20
+TECH-5796,Mastering Java: Complete Advanced Guide,Data Analytics,Intermediate,Video Tutorial,89104,49887,16234,354,823,9353,2027,2736,2026-07-28
+TECH-5797,Mastering React: Complete Advanced Guide,React,Advanced,Documentation,191974,103704,20372,77,743,27161,6245,7701,2026-07-23
+TECH-5798,Mastering Python: Complete Beginner Guide,React,Advanced,Documentation,101367,64012,16378,1093,680,14088,3968,4133,2026-02-21
+TECH-5799,Mastering Python: Complete Intermediate Guide,Artificial Intelligence,Beginner,Documentation,123307,84187,29497,1058,159,5169,1791,1059,2026-06-19
+TECH-5800,Mastering Cloud Computing: Complete Beginner Guide,Artificial Intelligence,Beginner,Documentation,145883,100910,9319,696,526,6666,1956,2642,2026-05-14
+TECH-5801,Mastering Artificial Intelligence: Complete Intermediate Guide,Python,Beginner,Article,132739,68678,31601,637,177,19628,4365,2522,2026-04-08
+TECH-5802,Mastering Java: Complete Advanced Guide,Python,Intermediate,Documentation,212165,108142,33612,2002,566,28835,4089,8549,2026-07-23
+TECH-5803,Mastering React: Complete Advanced Guide,DevOps,Advanced,Video Tutorial,136100,95642,32011,424,424,11793,3208,3116,2026-06-14
+TECH-5804,Mastering React: Complete Beginner Guide,Cybersecurity,Intermediate,GitHub Repo,137476,91214,17739,1707,681,11425,3664,2176,2026-07-08
+TECH-5805,Mastering Artificial Intelligence: Complete Advanced Guide,DevOps,Intermediate,GitHub Repo,234183,101450,37475,836,709,19389,4774,6625,2026-08-15
+TECH-5806,Mastering Python: Complete Intermediate Guide,Artificial Intelligence,Intermediate,Article,10111,5947,1265,2111,298,1303,280,391,2026-04-23
+TECH-5807,Mastering Cloud Computing: Complete Advanced Guide,Artificial Intelligence,Beginner,Documentation,103437,74013,9070,839,119,12853,1438,2162,2026-05-01
+TECH-5808,Mastering Data Analytics: Complete Intermediate Guide,DevOps,Beginner,Documentation,138286,83648,19689,371,756,19032,6000,6461,2026-03-17
+TECH-5809,Mastering React: Complete Intermediate Guide,Data Analytics,Intermediate,Video Tutorial,193840,110341,29149,2454,456,14683,4131,4252,2026-01-17
+TECH-5810,Mastering DevOps: Complete Intermediate Guide,Artificial Intelligence,Intermediate,Documentation,77526,42375,12945,1182,86,10578,1284,3108,2026-07-03
+TECH-5811,Mastering Python: Complete Advanced Guide,DevOps,Intermediate,Article,24892,16681,4038,1692,769,2036,444,269,2026-03-06
+TECH-5812,Mastering Python: Complete Advanced Guide,Cybersecurity,Intermediate,GitHub Repo,34942,13381,8327,1587,558,2823,942,576,2026-07-17
+TECH-5813,Mastering Data Analytics: Complete Intermediate Guide,React,Beginner,GitHub Repo,127180,39287,22082,1072,725,7078,2249,938,2026-03-27
+TECH-5814,Mastering React: Complete Advanced Guide,Artificial Intelligence,Intermediate,Article,122509,49205,23275,480,498,5788,818,1048,2026-06-28
+TECH-5815,Mastering Python: Complete Beginner Guide,React,Advanced,Video Tutorial,22966,13589,4399,1769,397,1967,677,289,2026-01-02
+TECH-5816,Mastering Java: Complete Advanced Guide,Python,Intermediate,Documentation,154689,84775,18352,1584,295,21676,2423,5209,2026-04-14
+TECH-5817,Mastering Java: Complete Beginner Guide,Data Analytics,Intermediate,Architecture Guide,46222,24926,8178,939,359,5349,1199,2062,2026-07-05
+TECH-5818,Mastering Python: Complete Advanced Guide,Data Analytics,Advanced,Article,49820,31074,11470,2061,604,7352,2111,2359,2026-01-16
+TECH-5819,Mastering Python: Complete Intermediate Guide,DevOps,Advanced,Architecture Guide,15365,8666,3222,1910,500,1131,352,156,2026-03-31
+TECH-5820,Mastering Cybersecurity: Complete Intermediate Guide,Python,Advanced,Article,163509,96759,34424,644,401,15521,4344,4850,2026-05-05
+TECH-5821,Mastering Python: Complete Advanced Guide,Cybersecurity,Beginner,GitHub Repo,79533,57385,11722,16,331,5108,1659,1638,2026-06-22
+TECH-5822,Mastering Cloud Computing: Complete Beginner Guide,Cybersecurity,Intermediate,Documentation,67099,32463,14691,2223,613,9376,2669,3009,2026-06-01
+TECH-5823,Mastering Cloud Computing: Complete Beginner Guide,DevOps,Beginner,Documentation,64720,29404,6675,1769,205,2750,736,522,2026-02-03
+TECH-5824,Mastering Artificial Intelligence: Complete Intermediate Guide,Python,Intermediate,Article,57960,19674,3884,945,420,5163,543,1613,2026-02-07
+TECH-5825,Mastering React: Complete Intermediate Guide,Artificial Intelligence,Beginner,Article,228181,92865,50152,1169,280,28586,9041,8036,2026-02-14
+TECH-5826,Mastering DevOps: Complete Intermediate Guide,DevOps,Advanced,Architecture Guide,69919,38621,15422,190,429,7632,2456,2698,2026-05-11
+TECH-5827,Mastering Cloud Computing: Complete Intermediate Guide,Cloud Computing,Beginner,GitHub Repo,56319,37999,6519,485,517,2862,975,427,2026-06-17
+TECH-5828,Mastering React: Complete Intermediate Guide,Artificial Intelligence,Beginner,Video Tutorial,131669,64842,14051,972,199,10930,2767,3653,2026-03-02
+TECH-5829,Mastering Python: Complete Intermediate Guide,Artificial Intelligence,Advanced,Architecture Guide,110776,36671,16901,1590,886,13661,2787,4801,2026-04-26
+TECH-5830,Mastering Artificial Intelligence: Complete Intermediate Guide,DevOps,Beginner,GitHub Repo,150214,47982,16688,1404,503,19080,4922,2930,2026-08-01
+TECH-5831,Mastering React: Complete Intermediate Guide,DevOps,Intermediate,Article,98436,72803,14330,824,789,8868,1925,3030,2026-05-21
+TECH-5832,Mastering DevOps: Complete Advanced Guide,Cybersecurity,Intermediate,Article,150036,77832,11602,481,421,6317,748,822,2026-07-04
+TECH-5833,Mastering Artificial Intelligence: Complete Advanced Guide,Python,Advanced,GitHub Repo,118330,49385,7620,229,326,13026,2994,1757,2026-05-04
+TECH-5834,Mastering Python: Complete Beginner Guide,React,Beginner,Architecture Guide,44953,31532,6771,666,110,4804,677,790,2026-05-17
+TECH-5835,Mastering Data Analytics: Complete Beginner Guide,Java,Intermediate,Article,4867,2670,527,2018,657,678,70,158,2026-03-19
+TECH-5836,Mastering Artificial Intelligence: Complete Intermediate Guide,Data Analytics,Beginner,Architecture Guide,34469,14994,6369,36,403,2259,491,523,2026-08-12
+TECH-5837,Mastering Python: Complete Intermediate Guide,Cybersecurity,Beginner,GitHub Repo,212916,114703,14344,2117,78,16433,2608,3130,2026-07-12
+TECH-5838,Mastering Cloud Computing: Complete Advanced Guide,Data Analytics,Intermediate,Video Tutorial,74168,27005,9465,713,676,11105,3840,4432,2026-07-01
+TECH-5839,Mastering Java: Complete Advanced Guide,Python,Advanced,Documentation,209833,151247,22219,1055,469,10757,3181,1571,2026-03-01
+TECH-5840,Mastering Cloud Computing: Complete Advanced Guide,React,Beginner,Video Tutorial,159416,76823,15017,1619,198,23367,6766,8606,2026-06-08
+TECH-5841,Mastering Artificial Intelligence: Complete Beginner Guide,Data Analytics,Advanced,Video Tutorial,91979,64737,22526,2374,645,12645,4217,2794,2026-03-12
+TECH-5842,Mastering Data Analytics: Complete Beginner Guide,React,Advanced,Article,144655,78925,30130,429,117,16285,1730,4071,2026-04-25
+TECH-5843,Mastering Data Analytics: Complete Advanced Guide,DevOps,Beginner,Architecture Guide,96656,66985,9859,922,883,9587,3198,1785,2026-08-07
+TECH-5844,Mastering Java: Complete Advanced Guide,Java,Advanced,Documentation,241504,103105,55621,564,155,30498,7734,5289,2026-06-14
+TECH-5845,Mastering Data Analytics: Complete Intermediate Guide,DevOps,Beginner,Article,232868,137371,33321,1959,312,29205,8482,3533,2026-02-23
+TECH-5846,Mastering React: Complete Intermediate Guide,Java,Intermediate,Architecture Guide,197863,123242,47521,676,179,24913,4402,4916,2026-03-15
+TECH-5847,Mastering Java: Complete Beginner Guide,Cloud Computing,Advanced,Architecture Guide,249444,140940,39619,560,324,12534,4231,1660,2026-01-13
+TECH-5848,Mastering Cloud Computing: Complete Beginner Guide,Cloud Computing,Beginner,Documentation,91383,45062,19005,1363,141,7052,2251,1516,2026-05-15
+TECH-5849,Mastering Python: Complete Beginner Guide,React,Beginner,Architecture Guide,64373,37645,13255,669,711,3482,437,1201,2026-03-19
+TECH-5850,Mastering Cloud Computing: Complete Advanced Guide,Cloud Computing,Beginner,Architecture Guide,18086,9928,1390,1615,152,2564,824,592,2026-02-15
+TECH-5851,Mastering Python: Complete Advanced Guide,Artificial Intelligence,Advanced,Article,170833,125986,34283,275,599,8170,923,2771,2026-02-27
+TECH-5852,Mastering Java: Complete Beginner Guide,DevOps,Advanced,Documentation,193164,88037,20138,2350,520,15327,3938,4542,2026-08-09
+TECH-5853,Mastering Python: Complete Beginner Guide,DevOps,Advanced,Article,182584,62403,34826,1842,851,18469,4874,4774,2026-03-20
+TECH-5854,Mastering Data Analytics: Complete Beginner Guide,Cybersecurity,Beginner,Video Tutorial,148977,59206,36434,1824,699,19078,5587,4364,2026-07-24
+TECH-5855,Mastering React: Complete Beginner Guide,Java,Beginner,Video Tutorial,66357,45965,10606,624,862,6575,1658,1968,2026-02-27
+TECH-5856,Mastering Python: Complete Advanced Guide,Java,Advanced,Architecture Guide,224063,162610,51575,671,857,16034,2969,2250,2026-01-03
+TECH-5857,Mastering Artificial Intelligence: Complete Advanced Guide,Cloud Computing,Beginner,Video Tutorial,180034,108874,13595,1426,346,22950,4824,9144,2026-03-13
+TECH-5858,Mastering Cloud Computing: Complete Intermediate Guide,DevOps,Intermediate,Article,117474,83200,21346,968,270,14477,2394,4237,2026-06-11
+TECH-5859,Mastering Cybersecurity: Complete Beginner Guide,DevOps,Advanced,Documentation,82526,31876,14308,1386,678,7208,1720,1384,2026-03-28
+TECH-5860,Mastering Cloud Computing: Complete Advanced Guide,DevOps,Advanced,Article,231627,99157,54244,1563,604,25180,5514,5810,2026-01-12
+TECH-5861,Mastering Python: Complete Advanced Guide,Data Analytics,Beginner,GitHub Repo,249131,145667,50540,2064,818,14062,1801,3172,2026-07-24
+TECH-5862,Mastering React: Complete Beginner Guide,Cybersecurity,Beginner,GitHub Repo,151149,104994,31248,1887,847,18539,5135,3567,2026-07-06
+TECH-5863,Mastering DevOps: Complete Beginner Guide,Cybersecurity,Beginner,GitHub Repo,110231,80170,23902,2411,880,14285,3214,5503,2026-05-03
+TECH-5864,Mastering React: Complete Intermediate Guide,Cloud Computing,Advanced,GitHub Repo,133275,62701,14671,1655,716,6032,1296,1059,2026-03-05
+TECH-5865,Mastering Java: Complete Advanced Guide,React,Intermediate,Documentation,74931,41329,11424,348,224,6897,1678,1011,2026-02-25
+TECH-5866,Mastering React: Complete Intermediate Guide,React,Advanced,Article,245844,153095,57178,1530,107,28468,5836,9205,2026-01-05
+TECH-5867,Mastering Python: Complete Beginner Guide,React,Intermediate,Architecture Guide,101561,48389,21883,447,423,14178,2664,2016,2026-02-27
+TECH-5868,Mastering Cloud Computing: Complete Beginner Guide,Python,Beginner,Documentation,182159,67257,11172,1528,283,7959,1903,2472,2026-07-15
+TECH-5869,Mastering Python: Complete Beginner Guide,React,Beginner,Video Tutorial,165198,97059,15361,161,278,15679,2318,3803,2026-04-08
+TECH-5870,Mastering Artificial Intelligence: Complete Intermediate Guide,DevOps,Intermediate,Video Tutorial,124525,43646,25899,424,803,8066,1827,2840,2026-08-05
+TECH-5871,Mastering React: Complete Beginner Guide,Python,Beginner,GitHub Repo,5543,3217,374,1384,535,261,52,55,2026-04-22
+TECH-5872,Mastering Java: Complete Intermediate Guide,Data Analytics,Advanced,Video Tutorial,197134,137038,42674,2267,408,26536,5617,8751,2026-06-18
+TECH-5873,Mastering Java: Complete Intermediate Guide,DevOps,Beginner,Article,217453,132064,36502,427,676,9209,1091,3585,2026-07-07
+TECH-5874,Mastering Python: Complete Advanced Guide,Cybersecurity,Intermediate,Documentation,18998,12030,3846,1776,816,1886,203,654,2026-04-01
+TECH-5875,Mastering Python: Complete Advanced Guide,DevOps,Intermediate,GitHub Repo,49844,26042,4744,84,76,2689,555,909,2026-04-14
+TECH-5876,Mastering Java: Complete Intermediate Guide,Artificial Intelligence,Advanced,Architecture Guide,181313,65504,41931,2393,768,19204,4414,7125,2026-01-02
+TECH-5877,Mastering Python: Complete Beginner Guide,Cloud Computing,Intermediate,Documentation,210221,119079,46146,108,388,27730,5264,6931,2026-08-06
+TECH-5878,Mastering Artificial Intelligence: Complete Beginner Guide,Cybersecurity,Advanced,Video Tutorial,43129,24613,4172,2098,345,1874,622,406,2026-04-04
+TECH-5879,Mastering Data Analytics: Complete Beginner Guide,Data Analytics,Intermediate,Architecture Guide,227260,168587,38753,881,733,22509,3945,5450,2026-02-25
+TECH-5880,Mastering Cloud Computing: Complete Intermediate Guide,DevOps,Advanced,GitHub Repo,71702,44875,8673,2478,407,5482,887,1519,2026-05-10
+TECH-5881,Mastering Cybersecurity: Complete Beginner Guide,Artificial Intelligence,Advanced,Documentation,71271,35177,11191,1541,794,6048,819,2015,2026-06-21
+TECH-5882,Mastering Artificial Intelligence: Complete Intermediate Guide,Cloud Computing,Advanced,Article,110854,77286,23146,1853,477,12595,3563,2969,2026-05-09
+TECH-5883,Mastering DevOps: Complete Advanced Guide,DevOps,Beginner,Architecture Guide,170257,81002,28580,1583,745,8339,1859,2164,2026-02-17
+TECH-5884,Mastering Java: Complete Beginner Guide,Cloud Computing,Advanced,Video Tutorial,94731,33925,14521,745,560,7954,1511,2510,2026-05-08
+TECH-5885,Mastering DevOps: Complete Intermediate Guide,Artificial Intelligence,Advanced,Architecture Guide,95857,32024,12385,1134,436,13222,1729,2728,2026-03-05
+TECH-5886,Mastering Artificial Intelligence: Complete Advanced Guide,Cybersecurity,Intermediate,Architecture Guide,83983,53672,12036,123,573,8999,1206,1204,2026-02-03
+TECH-5887,Mastering Cloud Computing: Complete Beginner Guide,Artificial Intelligence,Intermediate,Architecture Guide,60298,40897,7064,946,539,8057,2440,1961,2026-07-24
+TECH-5888,Mastering Cybersecurity: Complete Advanced Guide,Cloud Computing,Intermediate,GitHub Repo,70915,23521,7868,1961,451,6171,2026,2404,2026-01-08
+TECH-5889,Mastering Cloud Computing: Complete Advanced Guide,Python,Intermediate,Architecture Guide,74970,53547,8264,1017,288,9402,1427,2802,2026-08-13
+TECH-5890,Mastering DevOps: Complete Advanced Guide,Data Analytics,Advanced,Documentation,148756,54971,22927,668,71,13197,4343,4255,2026-03-23
+TECH-5891,Mastering Cybersecurity: Complete Intermediate Guide,Python,Beginner,Architecture Guide,114065,34936,10032,69,252,12806,4459,4683,2026-03-09
+TECH-5892,Mastering React: Complete Intermediate Guide,Python,Beginner,GitHub Repo,28360,18050,2252,960,302,2305,654,498,2026-08-02
+TECH-5893,Mastering Java: Complete Intermediate Guide,React,Advanced,GitHub Repo,72406,25515,10665,648,812,8924,2092,2490,2026-04-26
+TECH-5894,Mastering DevOps: Complete Beginner Guide,Python,Intermediate,Documentation,108781,34732,8019,1148,239,12039,2050,1906,2026-05-08
+TECH-5895,Mastering DevOps: Complete Beginner Guide,Cybersecurity,Beginner,Documentation,179695,72948,24964,1544,808,7376,854,2830,2026-08-08
+TECH-5896,Mastering Data Analytics: Complete Beginner Guide,Cybersecurity,Advanced,Architecture Guide,69653,36552,13414,838,172,4050,1008,1047,2026-02-09
+TECH-5897,Mastering Python: Complete Beginner Guide,Java,Beginner,Video Tutorial,171149,71811,37912,1254,731,10257,2534,3725,2026-07-21
+TECH-5898,Mastering Python: Complete Beginner Guide,React,Intermediate,Documentation,185426,88872,13198,469,320,16730,4017,5716,2026-04-18
+TECH-5899,Mastering React: Complete Intermediate Guide,Data Analytics,Advanced,Article,155126,65082,22854,761,825,13981,3835,5284,2026-07-21
+TECH-5900,Mastering Java: Complete Advanced Guide,Data Analytics,Beginner,GitHub Repo,42651,13533,8758,604,779,4871,1048,1822,2026-01-25
+TECH-5901,Mastering Python: Complete Beginner Guide,Data Analytics,Intermediate,Video Tutorial,238899,168974,21530,421,736,11314,1330,3883,2026-01-23
+TECH-5902,Mastering Artificial Intelligence: Complete Intermediate Guide,Artificial Intelligence,Beginner,Article,107800,34443,8362,612,490,14085,4741,5395,2026-03-09
+TECH-5903,Mastering Cybersecurity: Complete Beginner Guide,Cloud Computing,Beginner,GitHub Repo,239186,176624,21684,224,455,24838,6288,3042,2026-05-20
+TECH-5904,Mastering Java: Complete Advanced Guide,Cybersecurity,Intermediate,Documentation,152375,86731,8196,735,848,17286,3733,3696,2026-07-28
+TECH-5905,Mastering Python: Complete Advanced Guide,Java,Advanced,GitHub Repo,116396,54085,20985,394,836,8612,2866,2769,2026-02-18
+TECH-5906,Mastering Artificial Intelligence: Complete Beginner Guide,Java,Intermediate,Article,4182,2419,222,89,105,358,78,127,2026-04-19
+TECH-5907,Mastering DevOps: Complete Intermediate Guide,DevOps,Beginner,Architecture Guide,67522,26726,10222,853,493,7042,1227,1510,2026-02-11
+TECH-5908,Mastering Data Analytics: Complete Intermediate Guide,Python,Beginner,Documentation,42212,22985,9242,1305,152,2750,764,931,2026-07-04
+TECH-5909,Mastering React: Complete Advanced Guide,Artificial Intelligence,Advanced,Video Tutorial,30694,19174,3519,2027,425,2430,467,703,2026-08-02
+TECH-5910,Mastering Cybersecurity: Complete Intermediate Guide,Python,Beginner,Article,97959,65757,12987,2073,648,8212,2385,1644,2026-01-22
+TECH-5911,Mastering React: Complete Advanced Guide,Cloud Computing,Advanced,Video Tutorial,249568,108194,52908,1945,414,27211,5367,4923,2026-06-02
+TECH-5912,Mastering Python: Complete Advanced Guide,Cloud Computing,Advanced,GitHub Repo,118668,63900,22463,2240,506,9220,2519,3250,2026-05-18
+TECH-5913,Mastering DevOps: Complete Intermediate Guide,Cloud Computing,Intermediate,Video Tutorial,175503,70227,30140,1514,656,23238,6242,3361,2026-06-06
+TECH-5914,Mastering DevOps: Complete Beginner Guide,Java,Intermediate,GitHub Repo,40831,23800,2925,1717,635,4294,526,1496,2026-08-06
+TECH-5915,Mastering Data Analytics: Complete Intermediate Guide,Cloud Computing,Beginner,Video Tutorial,152764,80069,27244,2380,251,21534,5936,4891,2026-04-22
+TECH-5916,Mastering Python: Complete Advanced Guide,Artificial Intelligence,Intermediate,Architecture Guide,51560,34911,5079,292,460,2215,506,716,2026-07-07
+TECH-5917,Mastering Artificial Intelligence: Complete Advanced Guide,React,Beginner,Documentation,14046,7988,1533,43,533,1743,586,291,2026-07-10
+TECH-5918,Mastering Data Analytics: Complete Beginner Guide,Cloud Computing,Advanced,Video Tutorial,158350,59639,13650,2004,622,7836,1905,1979,2026-08-11
+TECH-5919,Mastering Python: Complete Advanced Guide,Data Analytics,Beginner,Video Tutorial,55663,35006,5703,890,858,6363,1826,994,2026-06-22
+TECH-5920,Mastering Data Analytics: Complete Intermediate Guide,Java,Advanced,Video Tutorial,17822,7879,3845,716,557,2595,853,647,2026-07-01
+TECH-5921,Mastering Data Analytics: Complete Intermediate Guide,React,Advanced,Documentation,66521,48479,10123,792,510,6080,613,2386,2026-06-20
+TECH-5922,Mastering Python: Complete Beginner Guide,Cloud Computing,Beginner,Article,22755,13098,2157,1089,493,1857,412,677,2026-07-27
+TECH-5923,Mastering Artificial Intelligence: Complete Intermediate Guide,Cybersecurity,Beginner,Article,154775,76377,10911,1160,260,14092,3088,3270,2026-07-13
+TECH-5924,Mastering React: Complete Beginner Guide,Python,Beginner,Video Tutorial,197669,144438,43406,287,547,23689,2727,6295,2026-06-20
+TECH-5925,Mastering Cybersecurity: Complete Advanced Guide,DevOps,Advanced,Article,63347,34100,12822,2376,896,6914,2035,1120,2026-07-23
+TECH-5926,Mastering Java: Complete Advanced Guide,Cybersecurity,Beginner,Documentation,104960,57627,20922,1267,319,10041,2747,2514,2026-05-25
+TECH-5927,Mastering Cloud Computing: Complete Intermediate Guide,Java,Intermediate,Video Tutorial,167310,53605,34196,76,589,8637,1624,3371,2026-04-29
+TECH-5928,Mastering Cybersecurity: Complete Intermediate Guide,Cloud Computing,Beginner,Article,151524,96837,31006,1016,555,18136,5632,6933,2026-05-07
+TECH-5929,Mastering React: Complete Intermediate Guide,Artificial Intelligence,Intermediate,GitHub Repo,129747,82033,22316,38,629,13309,4528,3678,2026-08-15
+TECH-5930,Mastering Artificial Intelligence: Complete Advanced Guide,Data Analytics,Intermediate,Video Tutorial,11109,5778,755,30,771,934,143,133,2026-01-31
+TECH-5931,Mastering Java: Complete Beginner Guide,Cloud Computing,Advanced,Article,55460,32154,3787,2357,169,2743,738,793,2026-02-21
+TECH-5932,Mastering Python: Complete Advanced Guide,DevOps,Beginner,Article,44973,26287,5879,126,852,5609,1671,2084,2026-01-23
+TECH-5933,Mastering Java: Complete Advanced Guide,Cybersecurity,Beginner,Architecture Guide,221904,122337,27433,222,683,25407,5357,8255,2026-05-03
+TECH-5934,Mastering Python: Complete Beginner Guide,DevOps,Beginner,Video Tutorial,211134,99239,17163,224,194,18201,2351,6854,2026-03-09
+TECH-5935,Mastering Python: Complete Beginner Guide,Artificial Intelligence,Advanced,Video Tutorial,137834,62361,20850,2418,625,9553,1783,3465,2026-07-15
+TECH-5936,Mastering Artificial Intelligence: Complete Advanced Guide,Cybersecurity,Intermediate,Architecture Guide,149500,62577,26917,1878,83,9548,2721,1951,2026-08-10
+TECH-5937,Mastering React: Complete Advanced Guide,Cloud Computing,Beginner,Video Tutorial,24238,16312,5854,1398,509,3552,1228,1155,2026-04-24
+TECH-5938,Mastering Python: Complete Advanced Guide,Data Analytics,Advanced,GitHub Repo,68143,41113,9946,212,632,8270,858,1635,2026-01-20
+TECH-5939,Mastering Data Analytics: Complete Intermediate Guide,Python,Intermediate,Documentation,193288,107504,37913,2067,260,7817,1522,2641,2026-01-09
+TECH-5940,Mastering React: Complete Intermediate Guide,Cloud Computing,Beginner,GitHub Repo,138301,87403,31239,908,809,11863,4150,3502,2026-01-01
+TECH-5941,Mastering Cloud Computing: Complete Intermediate Guide,Artificial Intelligence,Beginner,Architecture Guide,54726,17637,5686,2189,236,5034,1438,1661,2026-02-09
+TECH-5942,Mastering DevOps: Complete Advanced Guide,DevOps,Intermediate,Article,208497,131101,27607,262,385,16415,3633,2477,2026-07-18
+TECH-5943,Mastering DevOps: Complete Advanced Guide,Artificial Intelligence,Intermediate,Video Tutorial,66918,47153,12147,236,305,9274,2364,1768,2026-02-05
+TECH-5944,Mastering Data Analytics: Complete Intermediate Guide,DevOps,Advanced,Video Tutorial,173501,63827,11073,1580,375,12353,3160,2790,2026-07-30
+TECH-5945,Mastering Python: Complete Beginner Guide,Python,Advanced,GitHub Repo,142652,67665,18935,459,72,13073,2486,3660,2026-01-20
+TECH-5946,Mastering Python: Complete Intermediate Guide,React,Beginner,Documentation,192695,121670,37659,363,630,15855,2084,5681,2026-06-18
+TECH-5947,Mastering Cloud Computing: Complete Advanced Guide,Java,Beginner,Article,182356,68810,45249,2408,419,26044,2964,3791,2026-05-09
+TECH-5948,Mastering Java: Complete Intermediate Guide,DevOps,Advanced,GitHub Repo,217734,143727,20086,2131,140,27579,3919,3772,2026-01-16
+TECH-5949,Mastering Data Analytics: Complete Advanced Guide,Cloud Computing,Beginner,Video Tutorial,210097,132195,15767,1764,726,15156,1691,5051,2026-03-16
+TECH-5950,Mastering Data Analytics: Complete Beginner Guide,Python,Advanced,Article,74069,36540,17968,2052,247,6806,917,1991,2026-05-07
+TECH-5951,Mastering Data Analytics: Complete Beginner Guide,Cybersecurity,Advanced,Architecture Guide,160134,78291,38423,2481,497,18875,4866,3324,2026-08-15
+TECH-5952,Mastering Java: Complete Beginner Guide,DevOps,Beginner,Article,232627,131558,51408,1806,540,11874,2734,1606,2026-02-15
+TECH-5953,Mastering Cloud Computing: Complete Intermediate Guide,Cloud Computing,Advanced,Video Tutorial,111349,74064,23814,438,73,14048,3856,2647,2026-01-19
+TECH-5954,Mastering DevOps: Complete Advanced Guide,Java,Beginner,Documentation,40064,18754,6954,1775,223,3960,1261,1062,2026-02-27
+TECH-5955,Mastering Python: Complete Beginner Guide,Artificial Intelligence,Advanced,Architecture Guide,247682,104143,58265,982,598,37027,8386,8093,2026-02-27
+TECH-5956,Mastering Cybersecurity: Complete Beginner Guide,React,Beginner,Video Tutorial,227982,121151,29874,2185,632,25334,5806,5668,2026-02-25
+TECH-5957,Mastering Data Analytics: Complete Advanced Guide,Cloud Computing,Beginner,Architecture Guide,79604,51503,14699,146,383,10843,3129,4083,2026-05-04
+TECH-5958,Mastering Python: Complete Beginner Guide,Cybersecurity,Intermediate,Documentation,28550,20999,6231,1717,775,1766,553,590,2026-02-01
+TECH-5959,Mastering DevOps: Complete Advanced Guide,Java,Advanced,Video Tutorial,208590,152929,28891,500,565,16893,2886,2989,2026-07-18
+TECH-5960,Mastering DevOps: Complete Advanced Guide,Data Analytics,Beginner,Architecture Guide,81476,51840,15869,1136,260,11621,1335,1830,2026-07-08
+TECH-5961,Mastering Artificial Intelligence: Complete Advanced Guide,Data Analytics,Beginner,Documentation,160557,105567,27981,2023,793,11853,1747,4191,2026-02-02
+TECH-5962,Mastering Artificial Intelligence: Complete Beginner Guide,Data Analytics,Advanced,Documentation,206700,90278,33308,2246,321,13323,2598,1830,2026-07-12
+TECH-5963,Mastering Cybersecurity: Complete Advanced Guide,Python,Intermediate,GitHub Repo,248859,128719,27268,785,415,12981,3158,5092,2026-05-08
+TECH-5964,Mastering Python: Complete Advanced Guide,Cloud Computing,Advanced,GitHub Repo,194070,135321,28761,1799,729,24297,3779,7453,2026-06-02
+TECH-5965,Mastering Cybersecurity: Complete Beginner Guide,Artificial Intelligence,Intermediate,Video Tutorial,31016,12251,1729,2271,623,4064,735,782,2026-05-03
+TECH-5966,Mastering Artificial Intelligence: Complete Intermediate Guide,Artificial Intelligence,Advanced,Video Tutorial,40545,16107,6952,1633,829,4413,1266,579,2026-05-23
+TECH-5967,Mastering Cloud Computing: Complete Advanced Guide,Data Analytics,Advanced,GitHub Repo,216275,94758,11246,289,754,26301,4702,9929,2026-05-10
+TECH-5968,Mastering React: Complete Intermediate Guide,Python,Intermediate,GitHub Repo,20561,11178,2344,1189,646,859,135,254,2026-01-04
+TECH-5969,Mastering Cloud Computing: Complete Beginner Guide,Python,Advanced,Documentation,83557,51642,12869,703,204,4399,1206,917,2026-01-09
+TECH-5970,Mastering React: Complete Intermediate Guide,Cybersecurity,Intermediate,Article,125360,64297,23336,905,545,8728,2359,2885,2026-01-02
+TECH-5971,Mastering React: Complete Advanced Guide,Artificial Intelligence,Intermediate,Article,139243,56714,28832,1573,543,11110,1881,1412,2026-02-27
+TECH-5972,Mastering Cloud Computing: Complete Advanced Guide,Python,Intermediate,Architecture Guide,66793,38031,11670,1878,779,3503,1080,734,2026-05-09
+TECH-5973,Mastering Cybersecurity: Complete Advanced Guide,React,Advanced,Architecture Guide,169062,87300,34393,2433,710,18642,2600,3975,2026-07-11
+TECH-5974,Mastering React: Complete Beginner Guide,DevOps,Beginner,Video Tutorial,84356,44425,10999,1865,314,6952,1810,1836,2026-07-12
+TECH-5975,Mastering Java: Complete Beginner Guide,Java,Advanced,Video Tutorial,172207,79202,9734,2448,554,14807,2320,2680,2026-03-05
+TECH-5976,Mastering Cybersecurity: Complete Beginner Guide,Python,Beginner,Documentation,191468,125935,31212,1002,76,9758,2150,2783,2026-01-21
+TECH-5977,Mastering DevOps: Complete Intermediate Guide,React,Beginner,Video Tutorial,23875,14605,4448,1430,164,2239,554,493,2026-01-20
+TECH-5978,Mastering DevOps: Complete Intermediate Guide,DevOps,Intermediate,Video Tutorial,169242,120525,38826,389,849,12828,3446,3205,2026-04-24
+TECH-5979,Mastering Data Analytics: Complete Advanced Guide,Python,Advanced,Documentation,170381,72441,28214,1649,758,22637,6589,6050,2026-05-25
+TECH-5980,Mastering Cloud Computing: Complete Advanced Guide,Artificial Intelligence,Intermediate,GitHub Repo,32786,16835,7858,2415,79,2651,804,1033,2026-04-01
+TECH-5981,Mastering Python: Complete Advanced Guide,React,Beginner,Documentation,87465,36143,21719,402,238,6528,2213,1046,2026-01-02
+TECH-5982,Mastering Cybersecurity: Complete Advanced Guide,Data Analytics,Beginner,GitHub Repo,202224,104440,41699,1862,611,26854,6068,3958,2026-01-07
+TECH-5983,Mastering React: Complete Intermediate Guide,Cybersecurity,Intermediate,Documentation,58204,36537,12307,577,859,6211,1618,1054,2026-07-06
+TECH-5984,Mastering React: Complete Advanced Guide,Artificial Intelligence,Beginner,Architecture Guide,106532,63070,25378,986,801,5342,1659,1908,2026-07-10
+TECH-5985,Mastering Data Analytics: Complete Intermediate Guide,Cloud Computing,Intermediate,Video Tutorial,132115,42970,8741,217,470,19791,6173,3727,2026-03-15
+TECH-5986,Mastering Cybersecurity: Complete Intermediate Guide,Python,Intermediate,Architecture Guide,121651,52722,19491,676,720,16113,1978,4305,2026-03-22
+TECH-5987,Mastering React: Complete Advanced Guide,DevOps,Beginner,Article,172231,115556,36039,168,849,18694,3000,5133,2026-03-10
+TECH-5988,Mastering DevOps: Complete Intermediate Guide,Python,Beginner,Architecture Guide,178560,89324,10298,285,450,14097,4339,5221,2026-04-07
+TECH-5989,Mastering Java: Complete Advanced Guide,Artificial Intelligence,Beginner,Video Tutorial,122158,62025,22019,1412,682,6682,1006,1068,2026-06-08
+TECH-5990,Mastering Python: Complete Intermediate Guide,Java,Intermediate,GitHub Repo,18639,7646,2974,2005,498,1552,518,334,2026-01-26
+TECH-5991,Mastering Java: Complete Advanced Guide,Cybersecurity,Advanced,Video Tutorial,37836,26986,2062,1450,101,4289,600,1620,2026-05-17
+TECH-5992,Mastering Artificial Intelligence: Complete Advanced Guide,DevOps,Beginner,Article,142309,73409,30052,1313,787,15261,3275,5707,2026-06-27
+TECH-5993,Mastering Cybersecurity: Complete Intermediate Guide,React,Intermediate,Architecture Guide,64223,19416,13727,691,487,8920,2431,1137,2026-06-06
+TECH-5994,Mastering Cybersecurity: Complete Beginner Guide,Cybersecurity,Advanced,Article,133770,65714,18586,1186,232,8067,1935,1196,2026-01-31
+TECH-5995,Mastering Python: Complete Beginner Guide,Cloud Computing,Beginner,GitHub Repo,92524,43585,13867,1341,641,9126,1345,1507,2026-02-20
+TECH-5996,Mastering Data Analytics: Complete Advanced Guide,Cloud Computing,Beginner,GitHub Repo,66279,23400,16123,2018,766,7594,991,1219,2026-05-16
+TECH-5997,Mastering Artificial Intelligence: Complete Beginner Guide,Data Analytics,Intermediate,Video Tutorial,227310,165306,12892,938,435,32965,6212,11365,2026-06-24
+TECH-5998,Mastering Data Analytics: Complete Advanced Guide,Cybersecurity,Intermediate,Video Tutorial,108311,64352,19295,1158,896,16223,3674,4327,2026-03-03
+TECH-5999,Mastering Python: Complete Advanced Guide,Java,Beginner,Video Tutorial,93367,54626,20965,213,701,13625,4284,3989,2026-05-03
+TECH-6000,Mastering Python: Complete Advanced Guide,Data Analytics,Advanced,Video Tutorial,133550,97118,28277,1350,391,13380,3713,5104,2026-06-19
